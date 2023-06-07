@@ -18,8 +18,7 @@ sections:
           description: ""
           url: https://gmail.com
   - infobar:
-      title: Infobar title
-      subtitle: The video from overview
+      title: The Video From Overview
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
