@@ -2,9 +2,9 @@ collections:
   about-alps:
     output: true
     order:
-      - Our Corporate Identity.md
-      - Leadership.md
+      - Overview.md
+      - Vision, Mission, Value.md
       - Our Objectives.md
       - Our Motivations.md
-      - Vision, Mission, Value.md
-      - Overview.md
+      - Leadership.md
+      - Our Corporate Identity.md
