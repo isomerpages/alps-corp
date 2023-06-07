@@ -1,0 +1,4 @@
+collections:
+  about-alps:
+    output: true
+    order: []
