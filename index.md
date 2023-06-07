@@ -29,7 +29,13 @@ sections:
       url: /faq/
   - infopic:
       title: Infopic Title
-      subtitle: Infopic Subtitle
+      subtitle: Overview
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Vision, Mission, Values
       description: Infopic description
       button: Button Text
       alt: Image alt text
