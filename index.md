@@ -28,20 +28,17 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Overview
+      title: Overview
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Vision, Mission, Values
+      title: Vision, Mission, Values
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Doing Business With ALPS
       description: Infopic description
       button: Button Text
       alt: Image alt text
