@@ -2,5 +2,6 @@ collections:
   information-for-vendors:
     output: true
     order:
+      - National Sourcing Events.md
       - Our Code of Conduct.md
       - CEO's Welcome Letter.md
