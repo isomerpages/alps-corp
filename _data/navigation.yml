@@ -2,12 +2,16 @@ logo: /images/alps, tagline, black, transparent, 1000x921.png
 links:
   - title: About ALPS
     collection: about-alps
-  - title: Information for vendors
+  - title: National Sourcing Events
     collection: information-for-vendors
+  - title: National Logistics
+    url: /permalink
   - title: GREEN PROCUREMENT
     collection: green-procurement
   - title: Whistleblowing
     collection: whistleblowing
+  - title: PDPA
+    url: /permalink
   - title: Career With ALPS
     collection: careers-with-alps
   - title: Resources
