@@ -2,6 +2,7 @@ collections:
   information-for-vendors:
     output: true
     order:
+      - ALPS Contract Template.md
       - Pharma RFQs & Invitation Notices.md
       - National Sourcing Events.md
       - Our Code of Conduct.md
