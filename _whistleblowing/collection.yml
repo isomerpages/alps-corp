@@ -2,7 +2,7 @@ collections:
   whistleblowing:
     output: true
     order:
-      - FAQs.md
-      - Fight Workplace Misconduct.md
-      - Whistlingblowing ePoster.md
       - CEO's Foreword.md
+      - Whistlingblowing ePoster.md
+      - Fight Workplace Misconduct.md
+      - FAQs.md
