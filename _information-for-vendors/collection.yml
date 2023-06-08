@@ -1,4 +1,5 @@
 collections:
   information-for-vendors:
     output: true
-    order: []
+    order:
+      - CEO's Welcome Letter.md
