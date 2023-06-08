@@ -2,4 +2,5 @@ collections:
   careers-with-alps:
     output: true
     order:
+      - Career Opportunities.md
       - Why Join Us?.md
