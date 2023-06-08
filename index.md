@@ -8,15 +8,14 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/hero-banner.png
-      button: "123"
       url: /contact-us/
       key_highlights:
         - title: National Sourcing Events
           description: ""
-          url: https://google.com
+          url: /nationalsourcingevents/
         - title: Pharmaceutical Sourcing Events
           description: ""
-          url: https://gmail.com
+          url: /pharmaceuticalsourcingevents/
   - infobar:
       title: The Video From Overview
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
@@ -28,17 +27,23 @@ sections:
       url: /faq/
   - infopic:
       title: Overview
-      description: Infopic description
-      button: Button Text
+      description: Supreme
+      button: Find out more
       alt: Image alt text
+      url: /Overview/
+      image: /images/alps, tagline, black, transparent, 1000x921.png
   - infopic:
       title: Vision, Mission, Values
-      description: Infopic description
-      button: Button Text
+      description: Very Tok Gong
+      button: Find out more
       alt: Image alt text
+      url: /visionmissionvalues/
+      image: /images/this is a test image.PNG
   - infopic:
       title: Doing Business With ALPS
-      description: Infopic description
-      button: Button Text
+      description: Ai Mai
+      button: Make more money?
       alt: Image alt text
+      url: /informationforvendors/
+      image: /images/business.jpg
 ---
