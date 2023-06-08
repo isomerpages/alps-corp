@@ -1,13 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: External Links
-    url: https://www.google.com
-    sublinks:
-      - title: Whistleblowing
-        url: /whistleblowing/
-  - title: Menu Title
-    url: /permalink
-  - title: Menu Title
-    collection: about-alps
   - title: About ALPS
     collection: about-alps
+  - title: Information for vendors
+    collection: information-for-vendors
+  - title: GREEN PROCUREMENT
+    collection: green-procurement
+  - title: Whistleblowing
+    collection: whistleblowing
+  - title: Career With ALPS
+    collection: careers-with-alps
