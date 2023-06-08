@@ -1,4 +1,5 @@
 collections:
   whistleblowing:
     output: true
-    order: []
+    order:
+      - CEO's Foreword.md
