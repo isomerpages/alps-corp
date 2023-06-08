@@ -2,4 +2,5 @@ collections:
   information-for-vendors:
     output: true
     order:
+      - Our Code of Conduct.md
       - CEO's Welcome Letter.md
