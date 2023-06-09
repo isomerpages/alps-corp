@@ -3,7 +3,6 @@ title: National Sourcing Events
 permalink: /nationalsourcingevents/
 description: ""
 ---
-
 ![](/images/this%20is%20a%20test%20image.PNG)
 
 
