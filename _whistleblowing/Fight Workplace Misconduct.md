@@ -34,5 +34,5 @@ All reports made are kept completely confidential and you are not required to re
 
 Don’t turn a blind eye. Help protect ALPS from any workplace misconduct by reporting it via the following methods:
 
-Telephone : 800-852-8042
-Email  : 
+* Telephone : 800-852-8042
+* Email  : [alps@tipoffs.com.sg](mailto:alps@tipoffs.com.sg) 
