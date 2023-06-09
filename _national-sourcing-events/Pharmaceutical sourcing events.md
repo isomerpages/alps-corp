@@ -3,8 +3,6 @@ title: Pharmaceutical sourcing events
 permalink: /pharmaceuticalsourcingevents/
 description: ""
 ---
-
-
 ##### **TERMS AND CONDITIONS**
 ___________________________________________________
 * All RFP proposals must be submitted through the [**Ariba eProcurement System**](https://www.ariba.com/) sourcing tool.
