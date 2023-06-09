@@ -37,13 +37,13 @@ sections:
       description: Very Tok Gong
       button: Find out more
       alt: Image alt text
-      url: /visionmissionvalues/
+      url: /visionmissionvalue/
       image: /images/vision mission values.png
   - infopic:
       title: Green Procurement
       description: Ai Mai
       button: Make more money?
       alt: Image alt text
-      url: /nationalsourcingevents/
+      url: /ourcommitment/
       image: /images/green logo.png
 ---
