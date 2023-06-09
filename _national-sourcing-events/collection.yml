@@ -1,5 +1,5 @@
 collections:
-  information-for-vendors:
+  national-sourcing-events:
     output: true
     order:
       - CEO's Welcome Letter.md
