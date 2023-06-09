@@ -2,6 +2,7 @@ collections:
   national-sourcing-events:
     output: true
     order:
+      - JUN 2023/.keep
       - CEO's Welcome Letter.md
       - National Sourcing Events.md
       - Pharmaceutical sourcing events.md
