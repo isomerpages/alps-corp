@@ -1,5 +1,4 @@
 collections:
   national-logistics:
     output: true
-    order:
-      - National logistics.md
+    order: []
