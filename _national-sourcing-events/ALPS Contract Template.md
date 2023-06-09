@@ -34,3 +34,4 @@ description: ""
 * Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 * ALPS will retain the final sourcing decisions and approvals for contractual commitments binding ALPS and vendors.
 * Please continue to supply the product(s) and/or service(s) in accordance with existing contractual and business arrangements with ALPS.
+* Click [here]() for ALPS' Standard Terms & Conditions.
