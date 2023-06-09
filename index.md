@@ -30,7 +30,7 @@ sections:
       description: Supreme
       button: Find out more
       alt: Image alt text
-      url: /Overview/
+      url: /overview/
       image: /images/alps, tagline, black, transparent, 1000x921.png
   - infopic:
       title: Vision, Mission, Values
