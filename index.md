@@ -15,6 +15,7 @@ sections:
         - title: Pharmaceutical Sourcing Events
           description: ""
           url: /pharmaceuticalsourcingevents/
+      background: /images/pan view.JPG
   - infobar:
       title: The Video From Overview
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
