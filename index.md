@@ -7,7 +7,6 @@ permalink: /
 notification: HELP
 sections:
   - hero:
-      background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
         - title: National Sourcing Events
