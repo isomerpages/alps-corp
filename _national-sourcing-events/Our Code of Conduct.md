@@ -3,8 +3,8 @@ title: Our Code of Conduct
 permalink: /ourcodeofconduct/
 description: ""
 ---
-### WHAT WE EXPECT FROM OUR SUPPLIERS
-### 
+##### WHAT WE EXPECT FROM OUR SUPPLIERS
+
 ALPS serves Singapore’s Public Healthcare. We believe in driving sustainability in our business relationships and that fair competition will motivate our partners/suppliers to invest in bringing the right solutions to bring about the best in healthcare outcomes.
 
 The following are some of the critical business conducts that ALPS upholds and sees as critical to a sustainable business relationship with suppliers.
