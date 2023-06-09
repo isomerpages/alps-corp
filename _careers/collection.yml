@@ -1,5 +1,5 @@
 collections:
-  careers-with-alps:
+  careers:
     output: true
     order:
       - Career Opportunities.md
