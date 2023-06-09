@@ -4,7 +4,7 @@ title: ALPS Healthcare
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: HELP
+notification: ""
 sections:
   - hero:
       url: /contact-us/
@@ -38,12 +38,12 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /visionmissionvalues/
-      image: /images/this is a test image.PNG
+      image: /images/vision mission values.png
   - infopic:
-      title: Doing Business With ALPS
+      title: Green Procurement
       description: Ai Mai
       button: Make more money?
       alt: Image alt text
-      url: /informationforvendors/
-      image: /images/business.jpg
+      url: /nationalsourcingevents/
+      image: /images/green logo.png
 ---
