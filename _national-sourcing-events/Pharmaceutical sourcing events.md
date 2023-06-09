@@ -3,7 +3,7 @@ title: Pharmaceutical sourcing events
 permalink: /pharmaceuticalsourcingevents/
 description: ""
 ---
-![](/images/NATIONAL%20SOURCING%20EVENTS/pharma%20sourcing%20events.png)
+
 
 ##### **TERMS AND CONDITIONS**
 ___________________________________________________
