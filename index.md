@@ -15,7 +15,7 @@ sections:
         - title: Pharmaceutical Sourcing Events
           description: ""
           url: /pharmaceuticalsourcingevents/
-      background: /images/best v3.gif
+      background: /images/gif-2023-06-09-08-42-35.gif
   - infobar:
       title: The Video From Overview
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
@@ -41,8 +41,7 @@ sections:
       image: /images/vision mission values.png
   - infopic:
       title: Green Procurement
-      description: Ai Mai
-      button: Make more money?
+      button: Find out more
       alt: Image alt text
       url: /ourcommitment/
       image: /images/green logo.png
