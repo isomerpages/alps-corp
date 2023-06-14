@@ -10,9 +10,9 @@ Interested vendors and suppliers are to register in [**Ariba eProcurement Syste
 
 You may also click on the links below for an overview of the sourcing events for the respective months.
 
-* [JUNE 2023 SOURCING EVENTS]()
+* [JUNE 2023 SOURCING EVENTS](/files/SOURCING%20EVENTS/june%202023.pdf)
 * 
-[JULY 2023 SOURCING EVENTS]()
+[JULY 2023 SOURCING EVENTS](/files/SOURCING%20EVENTS/july%202023.pdf)
 * 
 [AUGUST 2023 SOURCING EVENTS](/files/SOURCING%20EVENTS/aug%202023.pdf)
 
