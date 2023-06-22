@@ -27,7 +27,9 @@ sections:
       url: /faq/
   - infopic:
       title: Overview
-      description: Supreme
+      description: ALPS’ Vision, Mission and Value statements challenge us to put the
+        needs and well-being of all customers and stakeholders, and during our
+        daily work activities.
       button: Find out more
       alt: Image alt text
       url: /overview/
