@@ -21,8 +21,8 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/FmArzB3coM" height="415"
-        width="100%"></iframe>
+        src="https://www.youtube.com/embed/-FmArzB3coM" height="315"
+        width="560"></iframe>
       button: Button text
       url: /faq/
   - infopic:
@@ -36,7 +36,6 @@ sections:
       image: /images/alps, tagline, black, transparent, 1000x921.png
   - infopic:
       title: Vision, Mission, Values
-      description: Very Tok Gong
       button: Find out more
       alt: Image alt text
       url: /visionmissionvalue/
