@@ -21,8 +21,7 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/SodI8fo4uYQ" height="415"
-        width="100%"></iframe>
+        src="https://youtu.be/-FmArzB3coM" height="415" width="100%"></iframe>
       button: Button text
       url: /faq/
   - infopic:
