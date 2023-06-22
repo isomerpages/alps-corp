@@ -14,7 +14,7 @@ You may also click on the links below for an overview of the sourcing events for
 |-----------|---|--
 | January     | February     | March     |
 | April     | May     | [June]()     |
-|  [July]()    | [August](/files/SOURCING%20EVENTS/aug%202023.pdf)     | September     |
+|  [July]()    | [August]()     | September     |
 | October     | November     | December     |
 
 Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access [**Ariba eProcurement System**](https://www.ariba.com/) for final updates.
