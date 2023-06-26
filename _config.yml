@@ -2,8 +2,8 @@ title: ALPS Healthcare
 url: https://www.alpshealthcare.com.sg
 favicon: /images/alps, tagline, black, transparent, 1000x921.png
 colors:
-  primary-color: "#f5a623"
-  secondary-color: "#f2c331"
+  primary-color: "#d0021b"
+  secondary-color: "#bd10e0"
   media-colors:
     - title: media-color-one
       color: "#f8e71c"
