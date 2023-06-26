@@ -2,6 +2,7 @@ collections:
   about-alps:
     output: true
     order:
+      - Example Title.md
       - Overview.md
       - Vision, Mission, Value.md
       - Our Motivations.md
