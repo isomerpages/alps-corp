@@ -4,36 +4,36 @@ permalink: /terms-of-use/
 ---
 **WELCOME**
 
-**PLEASE READ THESE TERMS AND CONDITIONS (INCLUDING OUR DATA PROTECTION POLICY** [**https://www.alpshealthcare.com.sg/pdpa**](https://www.alpshealthcare.com.sg/pdpa)**) CAREFULLY BEFORE USING THIS WEBSITE AND/OR THE SERVICES OR FUNCTIONS OF THE WEBSITE SO THAT YOU ARE AWARE OF YOUR LEGAL RIGHTS AND OBLIGATIONS WITH RESPECT TO -ALPS PTE LTD AND/OR ITS RELATED CORPORATIONS (INDIVIDUALLY AND COLLECTIVELY, “ALPS”, “WE”, “US”, AS THE CASE MAY BE).**
+**PLEASE READ THESE TERMS AND CONDITIONS (INCLUDING OUR DATA PROTECTION POLICY**&nbsp;[**https://www.alpshealthcare.com.sg/pdpa**](https://www.alpshealthcare.com.sg/pdpa)**) CAREFULLY BEFORE USING THIS WEBSITE AND/OR THE SERVICES OR FUNCTIONS OF THE WEBSITE SO THAT YOU ARE AWARE OF YOUR LEGAL RIGHTS AND OBLIGATIONS WITH RESPECT TO -ALPS PTE LTD AND/OR ITS RELATED CORPORATIONS (INDIVIDUALLY AND COLLECTIVELY, “ALPS”, “WE”, “US”, AS THE CASE MAY BE).**
 
-These Terms and Conditions (together with the documents referred to in it which are hereby incorporated by reference) (collectively, “**Website T&Cs**”) informs you of the terms on which you may use our website (“**Website**”), whether as a guest or a registered user. Use of the Website includes accessing, browsing, or registering to use the Website and the functions and services offered on or made available through the Website (collectively “**Website Functions**”).
+These Terms and Conditions (together with the documents referred to in it which are hereby incorporated by reference) (collectively, “**Website T&amp;Cs**”) informs you of the terms on which you may use our website (“**Website**”), whether as a guest or a registered user. Use of the Website includes accessing, browsing, or registering to use the Website and the functions and services offered on or made available through the Website (collectively “**Website Functions**”).
 
-By accessing and using the Website and/or the Website Functions, you hereby agree to be legally bound by these Website T&Cs and you agree to comply with them.
+By accessing and using the Website and/or the Website Functions, you hereby agree to be legally bound by these Website T&amp;Cs and you agree to comply with them.
 
-If you do not agree to these Website T&Cs, please leave the Website and cease use of the Website and/or the Website Functions immediately.
+If you do not agree to these Website T&amp;Cs, please leave the Website and cease use of the Website and/or the Website Functions immediately.
 
 We reserve the right to change, modify, suspend or discontinue the whole or any portion of the Website Functions or the Website at any time. We may also impose limits on Website Functions or restrict your access to parts of or the entire Website Functions, or the Website without notice or liability.
 
-We may from time to time modify, vary or amend these Website T&Cs at any time by posting the amended Website T&Cs at this Website. Such modification shall be effective immediately upon posting on the Website. Any use of the Website Functions or the Website after the amendment of these Website T&Cs shall be deemed to be acceptance of the amended Website T&Cs by you. If you do not agree to the amended Website T&Cs, you have the right to cease your use of the Website Functions.
+We may from time to time modify, vary or amend these Website T&amp;Cs at any time by posting the amended Website T&amp;Cs at this Website. Such modification shall be effective immediately upon posting on the Website. Any use of the Website Functions or the Website after the amendment of these Website T&amp;Cs shall be deemed to be acceptance of the amended Website T&amp;Cs by you. If you do not agree to the amended Website T&amp;Cs, you have the right to cease your use of the Website Functions.
 
-**1.**              **Agreement**
+**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Agreement**
 
-1.1. These Website T&Cs govern your use of our Website and the Website Functions which are made available through the Website.
+1.1. These Website T&amp;Cs govern your use of our Website and the Website Functions which are made available through the Website.
 
 1.2. By accessing the Website, you represent and warrant to us that:
 
-a. You have read and agreed to the Website T&Cs; and
+a. You have read and agreed to the Website T&amp;Cs; and
 
-b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&Cs.
+b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&amp;Cs.
 
-2.         **Use of Website and Website Functions**
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Use of Website and Website Functions**
 
 2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
 
 * not to use this Website in any manner which breaches any applicable law or regulation or causes or which may cause an infringement of any third party rights;
 * not to post, transmit or disseminate any information on or via this Web Site which may be harmful, obscene, defamatory or illegal or create liability on ALPS’ part;
 * not to interfere or attempt to interfere with the operation or functionality of this Web Site; and
-*  not to obtain or attempt to obtain unauthorised access, via whatever means, to any of ALPS’ systems.
+*  not to obtain or attempt to obtain&nbsp;unauthorised&nbsp;access, via whatever means, to any of ALPS’ systems.
 
 If ALPS, in its sole discretion, believes that you are in breach, or will be in breach of any of these Terms of Use, ALPS reserves its rights to deny you access to this Web Site without giving you a reason and/or without further reference to you.
 
@@ -41,7 +41,7 @@ If ALPS, in its sole discretion, believes that you are in breach, or will be in 
 
 3.1. The intellectual property rights in and to the Website, Website Functions and all the content of the Website, including the designs, text, information, news, listings, graphics, images, videos, logos and button icons, editorial content, notices, applications, software (including HTML-based computer programs), music, sound and other files and their selection and arrangement (“**Content**”) are either owned by us or are licensed to us.
 
-3.2. The trademarks, logos and service marks ("**Marks**") displayed on the Website are the property of ALPS or other third parties, and all rights to the Marks are expressly reserved by ALPS or relevant third parties. You are not permitted to use any Marks without the prior written consent of  ALPS or such third party. The name of ALPS or any other Marks may not be used in any way, including in any advertising or publicity, or as a hyperlink without the prior written permission of ALPS.
+3.2. The trademarks, logos and service marks ("**Marks**") displayed on the Website are the property of ALPS or other third parties, and all rights to the Marks are expressly reserved by ALPS or relevant third parties. You are not permitted to use any Marks without the prior written consent of&nbsp; ALPS or such third party. The name of ALPS or any other Marks may not be used in any way, including in any advertising or publicity, or as a hyperlink without the prior written permission of ALPS.
 
 3.3. The domain name on which the Website is hosted on is the sole property of ALPS and you may not use or otherwise adopt a similar name for your own use.
 
@@ -53,9 +53,9 @@ a.  the Website;
 
 b. any of the Website Functions;
 
-c. any Content, except to the extent expressly permitted in these Website T&Cs; or
+c. any Content, except to the extent expressly permitted in these Website T&amp;Cs; or
 
-d.  any other content submitted, distributed or otherwise reproduced by any person accessing or using the Website or the Website Functions (“**Third Party Content**”) except with the prior written consent of  ALPSand the owner of such Third Party Content.
+d.  any other content submitted, distributed or otherwise reproduced by any person accessing or using the Website or the Website Functions (“**Third Party Content**”) except with the prior written consent of &nbsp;ALPSand the owner of such Third Party Content.
 
   
   
@@ -64,7 +64,7 @@ d.  any other content submitted, distributed or otherwise reproduced by any pers
 
 4.3. You may, provided you have kept all copyright and other proprietary notices intact, download or print one copy of the information available on the Website for your personal, internal and non-commercial use only. Permission to reprint or electronically reproduce any part of the Website, Website Functions, Content or Third Party Content whether in whole or in part for any other purpose is expressly prohibited without ALPS’ prior written consent, and the written consent of the owners of Third Party Content.
 
-4.4. You may not decompile, reverse engineer or otherwise attempt to discover the source code of any  ALPS Content available on the Website or provided through a Website Function except under the specific circumstances expressly permitted by law or ALPS in writing.
+4.4. You may not decompile, reverse engineer or otherwise attempt to discover the source code of any &nbsp;ALPS Content available on the Website or provided through a Website Function except under the specific circumstances expressly permitted by law or ALPS in writing.
 
 4.5. Without prejudice to the rights and remedies which are available to us at law, we reserve the right to terminate the privileges of any member or user who repeatedly breaches paragraphs 3 and 4.
 
@@ -85,7 +85,7 @@ ii.  consist of or contain software viruses, commercial solicitation, chain lett
 
 iii.  contain content or statements contrary to public interest, public morality, public order, public security, national harmony, or otherwise be prohibited by applicable Singapore laws or regulations;
 
-b.  to comply with these Website T&Cs, and such other notices or guidelines that may be posted on the Website by ALPSfrom time to time (which are hereby incorporated by reference into these Website T&Cs);
+b.  to comply with these Website T&amp;Cs, and such other notices or guidelines that may be posted on the Website by ALPSfrom time to time (which are hereby incorporated by reference into these Website T&amp;Cs);
 
 c.  not to use any Website Function or Content for any unlawful purpose, and to comply with all applicable laws and regulations, including without limitation, copyright law;
 
@@ -100,7 +100,7 @@ g.  not engage in advertising to, or solicitation of, any user of the Website to
   
   
 
-5.3 You understand and agree that ALPS may review and edit or delete (but has no obligation to do so) any content, messages, photos or profiles that in the sole judgment of  ALPS violates these Website T&Cs or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any Website users.
+5.3 You understand and agree that ALPS may review and edit or delete (but has no obligation to do so) any content, messages, photos or profiles that in the sole judgment of &nbsp;ALPS violates these Website T&amp;Cs or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any Website users.
 
 5.4 The following are some examples of the types of content and activities which are illegal or prohibited on the Website:
 
@@ -138,9 +138,9 @@ w.  submitting content that infringes, misappropriates or violates the intellect
 
 x.  transmitting any viruses, worms, defects, Trojan horses or other harmful elements;
 
-5.5.  ALPS has the right (but is not obliged) to investigate and take appropriate action in its sole discretion against any person who posts such content on the Website or partakes in any such activities including without limitation, removing the offending content from the Website and/or terminating the account of any users which breach these Website T&Cs.
+5.5. &nbsp;ALPS has the right (but is not obliged) to investigate and take appropriate action in its sole discretion against any person who posts such content on the Website or partakes in any such activities including without limitation, removing the offending content from the Website and/or terminating the account of any users which breach these Website T&amp;Cs.
 
-5.6. ALPS has the right (but is not obliged) to, remove or disable access to any materials (including content submitted by Website users / members and Third Party Content) that we determine in our sole discretion to be unlawful, fraudulent, threatening, libelous, defamatory, obscene or otherwise objectionable, or infringes or violates any party's intellectual property, other proprietary rights, these Website T&Cs or for any other reason whatsoever. Any such editing or removal of any such content shall be without prejudice to our other rights and remedies available at law.
+5.6. ALPS has the right (but is not obliged) to, remove or disable access to any materials (including content submitted by Website users / members and Third Party Content) that we determine in our sole discretion to be unlawful, fraudulent, threatening, libelous, defamatory, obscene or otherwise objectionable, or infringes or violates any party's intellectual property, other proprietary rights, these Website T&amp;Cs or for any other reason whatsoever. Any such editing or removal of any such content shall be without prejudice to our other rights and remedies available at law.
 
 5.7. You acknowledge and agree that we cannot be responsible or liable for any content submitted onto the Website by any Website users / members or any Third Party Content, and you agree to exercise access and use such only at your own risk and with care and discretion.
 
@@ -212,16 +212,16 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 
 8.2 You expressly acknowledge and agree that, to the maximum extent permitted by applicable law, use of the Website and any Website Functions and performed by or accessed through the Website is at your sole risk and that the entire risk as to satisfactory quality, performance, accuracy and effort is with you.
 
-7.3 Further, nothing in this Website T&Cs constitutes any representation or warranty by us as to your rights (if any) to use any content submitted by any third parties, including Third Party Content, all of which representations and warranties are expressly disclaimed.
+7.3 Further, nothing in this Website T&amp;Cs constitutes any representation or warranty by us as to your rights (if any) to use any content submitted by any third parties, including Third Party Content, all of which representations and warranties are expressly disclaimed.
 
 8.  **Indemnity**  
       
       
     
 
-8.1 You agree to indemnify, defend and hold harmlessALPS, its officers, directors, employees and agents from and against all claims, demands, losses, expenses, damages, costs and liability, including reasonable attorneys' fees, arising out of or in connection with any breach of these Website T&Cs, any breach of any applicable law by you, your breach of any third party’s rights, your use of the Website or the Website Functions or any activity related to your use of the Website (including but not limited to infringement of third parties' worldwide intellectual property rights or negligent or wrongful conduct) or any other person accessing the Website using your user name and password.
+8.1 You agree to indemnify, defend and hold harmlessALPS, its officers, directors, employees and agents from and against all claims, demands, losses, expenses, damages, costs and liability, including reasonable attorneys' fees, arising out of or in connection with any breach of these Website T&amp;Cs, any breach of any applicable law by you, your breach of any third party’s rights, your use of the Website or the Website Functions or any activity related to your use of the Website (including but not limited to infringement of third parties' worldwide intellectual property rights or negligent or wrongful conduct) or any other person accessing the Website using your user name and password.
 
-8.2 This clause shall survive the termination or expiration of these Website T&Cs (howsoever caused).
+8.2 This clause shall survive the termination or expiration of these Website T&amp;Cs (howsoever caused).
 
 9.  **Limitation of Liability**  
       
@@ -230,12 +230,12 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 
 9.1 To the maximum extent permitted under applicable law:
 
-a.  ALPS, our officers, directors, employees and agents shall not be liable for any claim, damage or loss of any kind of any nature whatsoever caused and howsoever arising as a result (whether direct or indirect) of or otherwise in connection with your use of or reliance on the Website or Website Functions, including but not limited to any claim, damage or loss  suffered (whether incidental, special, indirect or consequential) as a result of or in connection with any reliance on any Content or Third Party Content or other content or any other information made available or accessed on or through the Website or contained in or available from the Website or your use or reliance on any products or services on, available or accessed via the Website and / or the Website Functions or any infringement of any rights arising in connection therewith, including without limitation any loss of data, profits, goodwill, anticipated savings, reputation, business or business opportunity, regardless of the cause thereof and even if we have been advised of the possibility thereof.
+a.  ALPS, our officers, directors, employees and agents shall not be liable for any claim, damage or loss of any kind of any nature whatsoever caused and howsoever arising as a result (whether direct or indirect) of or otherwise in connection with your use of or reliance on the Website or Website Functions, including but not limited to any claim, damage or loss&nbsp; suffered (whether incidental, special, indirect or consequential) as a result of or in connection with any reliance on any Content or Third Party Content or other content or any other information made available or accessed on or through the Website or contained in or available from the Website or your use or reliance on any products or services on, available or accessed via the Website and / or the Website Functions or any infringement of any rights arising in connection therewith, including without limitation any loss of data, profits, goodwill, anticipated savings, reputation, business or business opportunity, regardless of the cause thereof and even if we have been advised of the possibility thereof.
 
 10.  **Termination**  
       
 
-10.1. We reserve the right to terminate or suspend your use of the Website without prior notice to you, at any time and for any or no reason including inappropriate behaviour on the Website. Without limiting the foregoing, if you breach these Website T&Cs or conduct yourself in a manner that we deem to be detrimental to the integrity, security and operation of the Website, the Website Functions or any information systems connected or in operation with the same, we reserve the right to suspend or permanently terminate your access to the Website and the Website Functions for any reason in our sole and absolute discretion.
+10.1. We reserve the right to terminate or suspend your use of the Website without prior notice to you, at any time and for any or no reason including inappropriate behaviour on the Website. Without limiting the foregoing, if you breach these Website T&amp;Cs or conduct yourself in a manner that we deem to be detrimental to the integrity, security and operation of the Website, the Website Functions or any information systems connected or in operation with the same, we reserve the right to suspend or permanently terminate your access to the Website and the Website Functions for any reason in our sole and absolute discretion.
 
 10.2. You agree and acknowledge that any suspension or termination of your access to the Website may be effected without prior notice, and agree that the Website may immediately deactivate. Further, you agree and acknowledge that to the maximum extent permitted under applicable law, we shall not be liable for the discontinuation or termination of your access to the Website.
 
@@ -244,7 +244,7 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
       
     
 
-11.1. Our collection, use and disclosure of your Personal Data is governed by our Data Protection Policy, the terms of which are also incorporated into these Website T&Cs by reference and apply your use of our Website.
+11.1. Our collection, use and disclosure of your Personal Data is governed by our&nbsp;Data Protection Policy, the terms of which are also incorporated into these Website T&amp;Cs by reference and apply your use of our Website.
 
 11.2. It is a continuing condition of your use of the Website that you agree to the terms of our Data Protection Policy as amended from time to time.
 
@@ -253,7 +253,7 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
       
     
 
-12.1 While ALPS welcomes links to our Website from other websites, we, in no way, operate, control or endorse linking sites and reserve the right to disallow any such link at any time in our sole discretion. Should you wish to link to our Website, you must link to our home page at [https://www.alpshealthcare.com.sg/](https://www.alpshealthcare.com.sg/), and even then only with our written consent.
+12.1 While ALPS welcomes links to our Website from other websites, we, in no way, operate, control or endorse linking sites and reserve the right to disallow any such link at any time in our sole discretion. Should you wish to link to our Website, you must link to our home page at&nbsp;[https://www.alpshealthcare.com.sg/](https://www.alpshealthcare.com.sg/), and even then only with our written consent.
 
 13.  **Third Party Sites and Links**  
       
@@ -271,32 +271,33 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
       
     
 
-14.1. You may not transfer any rights or obligations you may have under these Website T&Cs. We reserve the right to transfer or to subcontract any right or obligation under these T&Cs at our sole discretion without your consent.
+14.1. You may not transfer any rights or obligations you may have under these Website T&amp;Cs. We reserve the right to transfer or to subcontract any right or obligation under these T&amp;Cs at our sole discretion without your consent.
 
-14.2. If any term or provision of these Website T&Cs is found by a court of competent jurisdiction to be illegal, invalid or otherwise unenforceable, such term or provision shall not affect these Website T&Cs’ other terms or provisions, or the whole of these Website T&Cs, but such term or provision shall be deemed modified to the extent deemed necessary to render such term or provision enforceable, and the rights and obligations of the parties shall be construed and enforced accordingly, preserving to the fullest permissible extent the intent of the parties and these Website T&Cs’ purposes.
+14.2. If any term or provision of these Website T&amp;Cs is found by a court of competent jurisdiction to be illegal, invalid or otherwise unenforceable, such term or provision shall not affect these Website T&amp;Cs’ other terms or provisions, or the whole of these Website T&amp;Cs, but such term or provision shall be deemed modified to the extent deemed necessary to render such term or provision enforceable, and the rights and obligations of the parties shall be construed and enforced accordingly, preserving to the fullest permissible extent the intent of the parties and these Website T&amp;Cs’ purposes.
 
-14.3. Nothing in these Website T&Cs shall constitute or be deemed to constitute an agency, partnership or joint venture between ALPSand you and neither party shall have any authority to bind the other in any way.
+14.3. Nothing in these Website T&amp;Cs shall constitute or be deemed to constitute an agency, partnership or joint venture between ALPSand you and neither party shall have any authority to bind the other in any way.
 
-14.4. A person who is not a party to these Website T&Cs has no right to enforce or enjoy the benefit of any term of these Website T&Cs under the Contracts (Rights of Third Parties) Act (Chapter 53B).
+14.4. A person who is not a party to these Website T&amp;Cs has no right to enforce or enjoy the benefit of any term of these Website T&amp;Cs under the Contracts (Rights of Third Parties) Act (Chapter 53B).
 
 15.  **Governing Law**  
       
       
     
 
-15.1 These Website T&Cs shall be governed and construed in accordance with the laws of Singapore.
+15.1 These Website T&amp;Cs shall be governed and construed in accordance with the laws of Singapore.
 
 16.  **Arbitration**  
       
       
     
 
-16.1. By accessing this Website, you agree that final and binding arbitration shall be the sole and exclusive forum and remedy for any and all disputes and claims relating in any way to or arising out of these Website T&Cs, the Website (including your visit to or use of the Website) or the Website Functions, except to the extent that either you or ALPS have in any manner infringed upon or violated or threatened to infringe upon or violate the other party's patent, copyright, trademark or trade secret rights, then the parties acknowledge that arbitration is not an adequate remedy at law and that injunctive or other appropriate relief may be sought.
+16.1. By accessing this Website, you agree that final and binding arbitration shall be the sole and exclusive forum and remedy for any and all disputes and claims relating in any way to or arising out of these Website T&amp;Cs, the Website (including your visit to or use of the Website) or the Website Functions, except to the extent that either you or ALPS have in any manner infringed upon or violated or threatened to infringe upon or violate the other party's patent, copyright, trademark or trade secret rights, then the parties acknowledge that arbitration is not an adequate remedy at law and that injunctive or other appropriate relief may be sought.
 
-16.2. The reference to arbitration in these Website T&Cs shall be a submission to arbitration within the meaning of the Arbitration Act (Cap. 10) for the time being in force in Singapore. Such arbitration shall be conducted in the English language in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference into this Clause, except in so far as such Rules conflict with the express provisions of this Clause, in which event the provisions of this Clause will prevail.
+16.2. The reference to arbitration in these Website T&amp;Cs shall be a submission to arbitration within the meaning of the Arbitration Act (Cap. 10) for the time being in force in Singapore. Such arbitration shall be conducted in the English language in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference into this Clause, except in so far as such Rules conflict with the express provisions of this Clause, in which event the provisions of this Clause will prevail.
 
 16.3. The seat of the arbitration shall be Singapore. The arbitral tribunal shall consist of one (1) arbitrator to be appointed by mutual agreement between you and ALPS. Any party may propose to the other(s) the name or names of one (1) or more persons, one (1) of whom would serve as the arbitrator. If no agreement is reached within thirty (30) days after receipt by one (1) party of such a proposal from the other, the arbitrator shall be appointed by the President of SIAC. The arbitrator must not be a present or former employee or agent of, or consultant or counsel to, any party or any related corporation as defined in Section 6 of the Companies Act (Cap 50) of any party.
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
+<pre>16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</pre>
+
