@@ -22,9 +22,9 @@ We may from time to time modify, vary or amend these Website T&Cs at any time by
 
 1.2. By accessing the Website, you represent and warrant to us that:
 
-a. You have read and agreed to the Website T&Cs; and
+	a. You have read and agreed to the Website T&Cs; and
 
-b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&Cs.
+	b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&Cs.
 
 2.         **Use of Website and Website Functions**
 
