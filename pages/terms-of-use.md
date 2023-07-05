@@ -18,7 +18,7 @@ We may from time to time modify, vary or amend these Website T&Cs at any time by
 
 **1.**              **Agreement**
 
-1.1\. These Website T&Cs govern your use of our Website and the Website Functions which are made available through the Website.
+1.1. These Website T&Cs govern your use of our Website and the Website Functions which are made available through the Website.
 
 1.2. By accessing the Website, you represent and warrant to us that:
 
