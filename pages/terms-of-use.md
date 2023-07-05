@@ -298,6 +298,5 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 16.3. The seat of the arbitration shall be Singapore. The arbitral tribunal shall consist of one (1) arbitrator to be appointed by mutual agreement between you and ALPS. Any party may propose to the other(s) the name or names of one (1) or more persons, one (1) of whom would serve as the arbitrator. If no agreement is reached within thirty (30) days after receipt by one (1) party of such a proposal from the other, the arbitrator shall be appointed by the President of SIAC. The arbitrator must not be a present or former employee or agent of, or consultant or counsel to, any party or any related corporation as defined in Section 6 of the Companies Act (Cap 50) of any party.
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
-<ol>
-<li>16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</li><li>
-	</li></ol>
+
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
