@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-**WELCOME TO OUR WEBSITE.**
+**WELCOME**
 
 **PLEASE READ THESE TERMS AND CONDITIONS (INCLUDING OUR DATA PROTECTION POLICY** [**https://www.alpshealthcare.com.sg/pdpa**](https://www.alpshealthcare.com.sg/pdpa)**) CAREFULLY BEFORE USING THIS WEBSITE AND/OR THE SERVICES OR FUNCTIONS OF THE WEBSITE SO THAT YOU ARE AWARE OF YOUR LEGAL RIGHTS AND OBLIGATIONS WITH RESPECT TO -ALPS PTE LTD AND/OR ITS RELATED CORPORATIONS (INDIVIDUALLY AND COLLECTIVELY, “ALPS”, “WE”, “US”, AS THE CASE MAY BE).**
 
@@ -18,7 +18,7 @@ We may from time to time modify, vary or amend these Website T&Cs at any time by
 
 **1.**              **Agreement**
 
-1.1. These Website T&Cs govern your use of our Website and the Website Functions which are made available through the Website.
+1.1\. These Website T&Cs govern your use of our Website and the Website Functions which are made available through the Website.
 
 1.2. By accessing the Website, you represent and warrant to us that:
 
@@ -299,4 +299,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5. You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
