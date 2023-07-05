@@ -22,13 +22,13 @@ We may from time to time modify, vary or amend these Website T&Cs at any time by
 
 1.2. By accessing the Website, you represent and warrant to us that:
 
-	a. You have read and agreed to the Website T&Cs; and
+a. You have read and agreed to the Website T&Cs; and
 
-	b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&Cs.
+b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&Cs.
 
 2.         **Use of Website and Website Functions**
 
-	2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
+2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
 
 * not to use this Website in any manner which breaches any applicable law or regulation or causes or which may cause an infringement of any third party rights;
 * not to post, transmit or disseminate any information on or via this Web Site which may be harmful, obscene, defamatory or illegal or create liability on ALPS’ part;
