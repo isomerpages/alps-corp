@@ -28,7 +28,7 @@ b. You are at least 18 years old and have the necessary legal capacity, right, p
 
 2.         **Use of Website and Website Functions**
 
-2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
+	2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
 
 * not to use this Website in any manner which breaches any applicable law or regulation or causes or which may cause an infringement of any third party rights;
 * not to post, transmit or disseminate any information on or via this Web Site which may be harmful, obscene, defamatory or illegal or create liability on ALPS’ part;
