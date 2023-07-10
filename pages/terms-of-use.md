@@ -302,28 +302,30 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 **10.**&nbsp;&nbsp;&nbsp;&nbsp;  **Termination**  
       
-
+<ul>
 10.1. We reserve the right to terminate or suspend your use of the Website without prior notice to you, at any time and for any or no reason including inappropriate behaviour on the Website. Without limiting the foregoing, if you breach these Website T&amp;Cs or conduct yourself in a manner that we deem to be detrimental to the integrity, security and operation of the Website, the Website Functions or any information systems connected or in operation with the same, we reserve the right to suspend or permanently terminate your access to the Website and the Website Functions for any reason in our sole and absolute discretion.
-
+</ul>	
+<ul><ul>	
 10.2. You agree and acknowledge that any suspension or termination of your access to the Website may be effected without prior notice, and agree that the Website may immediately deactivate. Further, you agree and acknowledge that to the maximum extent permitted under applicable law, we shall not be liable for the discontinuation or termination of your access to the Website.
+</ul></ul>	
+<ul><ul>	
 
-**11.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Personal Data**  
-      
-      
-    
+**11.**&nbsp;&nbsp;&nbsp;&nbsp;  **Personal Data**  
 
+<ul>
 11.1. Our collection, use and disclosure of your Personal Data is governed by our&nbsp;Data Protection Policy, the terms of which are also incorporated into these Website T&amp;Cs by reference and apply your use of our Website.
-
+</ul>	
+<ul>
 11.2. It is a continuing condition of your use of the Website that you agree to the terms of our Data Protection Policy as amended from time to time.
+</ul>
+	
+**12.**&nbsp;&nbsp;&nbsp;&nbsp;  **Links**  
 
-**12.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Links**  
-      
-      
-    
-
+<ul>
 12.1 While ALPS welcomes links to our Website from other websites, we, in no way, operate, control or endorse linking sites and reserve the right to disallow any such link at any time in our sole discretion. Should you wish to link to our Website, you must link to our home page at&nbsp;[https://www.alpshealthcare.com.sg/](https://www.alpshealthcare.com.sg/), and even then only with our written consent.
-
-**13.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Third Party Sites and Links**  
+	</ul>
+	
+**13.**&nbsp;&nbsp;&nbsp;&nbsp; **Third Party Sites and Links**  
       
       
     
@@ -367,4 +369,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul>
