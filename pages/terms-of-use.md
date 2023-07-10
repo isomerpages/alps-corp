@@ -355,22 +355,26 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 **15.**&nbsp;&nbsp;&nbsp;&nbsp;  **Governing Law**  
       
-      
-    
 
+    
+<ul>
 15.1 These Website T&amp;Cs shall be governed and construed in accordance with the laws of Singapore.
+</ul>
 
 **16.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Arbitration**  
       
-      
-    
+<ul>	
 
 16.1. By accessing this Website, you agree that final and binding arbitration shall be the sole and exclusive forum and remedy for any and all disputes and claims relating in any way to or arising out of these Website T&amp;Cs, the Website (including your visit to or use of the Website) or the Website Functions, except to the extent that either you or ALPS have in any manner infringed upon or violated or threatened to infringe upon or violate the other party's patent, copyright, trademark or trade secret rights, then the parties acknowledge that arbitration is not an adequate remedy at law and that injunctive or other appropriate relief may be sought.
-
+</ul>
+<ul>	
 16.2. The reference to arbitration in these Website T&amp;Cs shall be a submission to arbitration within the meaning of the Arbitration Act (Cap. 10) for the time being in force in Singapore. Such arbitration shall be conducted in the English language in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference into this Clause, except in so far as such Rules conflict with the express provisions of this Clause, in which event the provisions of this Clause will prevail.
-
+</ul>
+<ul>	
 16.3. The seat of the arbitration shall be Singapore. The arbitral tribunal shall consist of one (1) arbitrator to be appointed by mutual agreement between you and ALPS. Any party may propose to the other(s) the name or names of one (1) or more persons, one (1) of whom would serve as the arbitrator. If no agreement is reached within thirty (30) days after receipt by one (1) party of such a proposal from the other, the arbitrator shall be appointed by the President of SIAC. The arbitrator must not be a present or former employee or agent of, or consultant or counsel to, any party or any related corporation as defined in Section 6 of the Companies Act (Cap 50) of any party.
-
+</ul>
+<ul>	
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
-
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
+</ul>
+<ul>	
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul>
