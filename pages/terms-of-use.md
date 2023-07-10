@@ -156,7 +156,7 @@ x.  transmitting any viruses, worms, defects, Trojan horses or other harmful ele
 
 5.7. You acknowledge and agree that we cannot be responsible or liable for any content submitted onto the Website by any Website users / members or any Third Party Content, and you agree to exercise access and use such only at your own risk and with care and discretion.
 
-6.  **Disclaimers and Limitations**  
+**6.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Disclaimers and Limitations**  
       
       
     
@@ -187,7 +187,7 @@ b.  access to or the operation of the Website and/or the Website Functions may f
 
 and in any such event,ALPS shall not be liable for any loss, liability or damage which may be incurred as a result.
 
-7.  **Disclaimer of Warranties and Liability**  
+**7.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Disclaimer of Warranties and Liability**  
       
       
     
@@ -226,7 +226,7 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 
 7.3 Further, nothing in this Website T&amp;Cs constitutes any representation or warranty by us as to your rights (if any) to use any content submitted by any third parties, including Third Party Content, all of which representations and warranties are expressly disclaimed.
 
-8.  **Indemnity**  
+**8.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Indemnity**  
       
       
     
@@ -235,7 +235,7 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 
 8.2 This clause shall survive the termination or expiration of these Website T&amp;Cs (howsoever caused).
 
-9.  **Limitation of Liability**  
+**9.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Limitation of Liability**  
       
       
     
@@ -244,14 +244,14 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 
 a.  ALPS, our officers, directors, employees and agents shall not be liable for any claim, damage or loss of any kind of any nature whatsoever caused and howsoever arising as a result (whether direct or indirect) of or otherwise in connection with your use of or reliance on the Website or Website Functions, including but not limited to any claim, damage or loss&nbsp; suffered (whether incidental, special, indirect or consequential) as a result of or in connection with any reliance on any Content or Third Party Content or other content or any other information made available or accessed on or through the Website or contained in or available from the Website or your use or reliance on any products or services on, available or accessed via the Website and / or the Website Functions or any infringement of any rights arising in connection therewith, including without limitation any loss of data, profits, goodwill, anticipated savings, reputation, business or business opportunity, regardless of the cause thereof and even if we have been advised of the possibility thereof.
 
-10.  **Termination**  
+**10.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Termination**  
       
 
 10.1. We reserve the right to terminate or suspend your use of the Website without prior notice to you, at any time and for any or no reason including inappropriate behaviour on the Website. Without limiting the foregoing, if you breach these Website T&amp;Cs or conduct yourself in a manner that we deem to be detrimental to the integrity, security and operation of the Website, the Website Functions or any information systems connected or in operation with the same, we reserve the right to suspend or permanently terminate your access to the Website and the Website Functions for any reason in our sole and absolute discretion.
 
 10.2. You agree and acknowledge that any suspension or termination of your access to the Website may be effected without prior notice, and agree that the Website may immediately deactivate. Further, you agree and acknowledge that to the maximum extent permitted under applicable law, we shall not be liable for the discontinuation or termination of your access to the Website.
 
-11.  **Personal Data**  
+**11.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Personal Data**  
       
       
     
@@ -260,14 +260,14 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 11.2. It is a continuing condition of your use of the Website that you agree to the terms of our Data Protection Policy as amended from time to time.
 
-12.  **Links**  
+**12.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Links**  
       
       
     
 
 12.1 While ALPS welcomes links to our Website from other websites, we, in no way, operate, control or endorse linking sites and reserve the right to disallow any such link at any time in our sole discretion. Should you wish to link to our Website, you must link to our home page at&nbsp;[https://www.alpshealthcare.com.sg/](https://www.alpshealthcare.com.sg/), and even then only with our written consent.
 
-13.  **Third Party Sites and Links**  
+**13.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Third Party Sites and Links**  
       
       
     
@@ -278,7 +278,7 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 13.3. We do not warrant that the third party sites will meet your requirements or that the same will not cause you any loss of any kind, and you agree that to the maximum extent permitted by law, ALPS shall not be liable for any loss or damage of any kind incurred in connection with your use or reliance on any content, information or other materials on or available through such third parties.
 
-14.  **General**  
+**14.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **General**  
       
       
     
@@ -291,14 +291,14 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 14.4. A person who is not a party to these Website T&amp;Cs has no right to enforce or enjoy the benefit of any term of these Website T&amp;Cs under the Contracts (Rights of Third Parties) Act (Chapter 53B).
 
-15.  **Governing Law**  
+**15.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Governing Law**  
       
       
     
 
 15.1 These Website T&amp;Cs shall be governed and construed in accordance with the laws of Singapore.
 
-16.  **Arbitration**  
+**16.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Arbitration**  
       
       
     
