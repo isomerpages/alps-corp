@@ -19,14 +19,18 @@ We may from time to time modify, vary or amend these Website T&amp;Cs at any tim
 **1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Agreement**
 
 <ul>
-1.1. These Website T$Cs govern your use of our Website and the Website Functions which are made available through the Website.
+1.1. These Website T&amp;Cs govern your use of our Website and the Website Functions which are made available through the Website.
 </ul>
+<ul>
 1.2. By accessing the Website, you represent and warrant to us that:
-
+</ul>
+<ul><ul>
 a. You have read and agreed to the Website T&amp;Cs; and
-
+</ul></ul>
+	<ul><ul>
 b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&amp;Cs.
-
+<ul><ul>
+	
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Use of Website and Website Functions**
 
 2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
@@ -300,4 +304,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul></ul></ul>
