@@ -98,16 +98,17 @@ d.  any other content submitted, distributed or otherwise reproduced by any pers
 </ul>
 <ul>
 5.2. You represent and warrant and undertake to us as follows:
-
+</ul>
+<ul><ul>
 a.  any content which you submit to the Website or via the Website Functions shall not:  
-      
-      
-    
-
+ </ul></ul>
+<ul><ul><ul>
 i.  be illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable;
-
+</ul></ul></ul>
+	<ul><ul><ul>
 ii.  consist of or contain software viruses, commercial solicitation, chain letters, mass mailings, or any form of “spam”;
-
+	</ul></ul></ul>
+<ul><ul><ul>
 iii.  contain content or statements contrary to public interest, public morality, public order, public security, national harmony, or otherwise be prohibited by applicable Singapore laws or regulations;
 
 b.  to comply with these Website T&amp;Cs, and such other notices or guidelines that may be posted on the Website by ALPSfrom time to time (which are hereby incorporated by reference into these Website T&amp;Cs);
@@ -324,4 +325,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul>
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul></ul>
