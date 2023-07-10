@@ -111,24 +111,25 @@ ii.  consist of or contain software viruses, commercial solicitation, chain lett
 <ul><ul><ul>
 iii.  contain content or statements contrary to public interest, public morality, public order, public security, national harmony, or otherwise be prohibited by applicable Singapore laws or regulations;
 </ul></ul></ul>
-<ul><ul><ul>
+<ul><ul>
 b.  to comply with these Website T&amp;Cs, and such other notices or guidelines that may be posted on the Website by ALPSfrom time to time (which are hereby incorporated by reference into these Website T&amp;Cs);
-
+</ul></ul>
+	<ul><ul>
 c.  not to use any Website Function or Content for any unlawful purpose, and to comply with all applicable laws and regulations, including without limitation, copyright law;
-</ul></ul></ul>
-<ul><ul><ul>
+</ul></ul>
+	<ul><ul>
 d.  not to hack into, interfere with, disrupt, disable, over-burden or otherwise impair the proper working of the Website or the Website Functions, including without limitation denial-of-service attacks, spoof attacks, session hacking, sniffing, tampering, reverse engineering or reprogramming;
-</ul></ul></ul>
-<ul><ul><ul>
+</ul></ul>
+	<ul><ul>
 e.  not to use the account of another member or user at any time for any purpose, whether with or without his/her permission;
-</ul></ul></ul>
-<ul><ul><ul>
+</ul></ul>
+	<ul><ul>
 f.  not to use any information obtained from the Website or the Website Functions to harass, abuse or harm another person;
-</ul></ul></ul>
-<ul><ul><ul>
+</ul></ul>
+	<ul><ul>
 g.  not engage in advertising to, or solicitation of, any user of the Website to buy or sell any products or services through the Website;
-</ul></ul></ul>
-<ul>
+</ul></ul>
+	<ul>
 5.3 You understand and agree that ALPS may review and edit or delete (but has no obligation to do so) any content, messages, photos or profiles that in the sole judgment of &nbsp;ALPS violates these Website T&amp;Cs or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any Website users.
 	</ul>
 	<ul>
@@ -139,27 +140,38 @@ h.  content that promotes racism, bigotry, hatred or physical harm of any kind a
 		</ul></ul>
 	<ul><ul>
 i.  activity that harasses or advocates harassment of another person;
-
+</ul></ul>
+	<ul><ul>
 j.  transmitting "junk mail", "chain letters," or unsolicited mass mailing or "spamming";
-
+</ul></ul>
+	<ul><ul>
 k.  engaging in advertising to, or solicitation of, any user of the Website to buy or sell any products or services through the Website Functions;
-
+</ul></ul>
+	<ul><ul>
 l.  promoting information or submitting content that is false or misleading or promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libellous;
-
+</ul></ul>
+	<ul><ul>
 m.  creating restricted or password-only access pages or hidden pages or images (those not linked to or from another accessible page);
-
+</ul></ul>
+	<ul><ul>
 n.  providing material that exploits people under the age of 18 in a sexual or violent manner, or soliciting the personal information from anyone under 18;
-
+</ul></ul>
+	<ul><ul>
 o.  soliciting passwords or personal identifying information for commercial or unlawful purposes from other users;
-
+</ul></ul>
+	<ul><ul>
 p.  providing commercial activities and/or sales without our prior written consent such as contests, sweepstakes, barter, advertising, or pyramid schemes.
-
+</ul></ul>
+	<ul><ul>
 q.  modifying, adapting, translating, or reverse engineering any portion of the Website or the Website Functions;
-
+</ul></ul>
+	<ul><ul>
 r.  removing any copyright, trademark or other proprietary rights notices contained in or on the Website or the Website Functions.
-
+</ul></ul>
+	<ul><ul>
 s.  using any robot, spider, site search/retrieval application, or other device to retrieve or index any portion of the Website or the Website Functions;
-
+</ul></ul>
+	<ul><ul>
 t.  reformatting or framing any portion of the web pages that are part of the Website or Website Functions;
 
 u.  creating user accounts by automated means or under false or fraudulent pretenses;
