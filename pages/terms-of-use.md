@@ -29,20 +29,27 @@ a. You have read and agreed to the Website T&amp;Cs; and
 </ul></ul>
 	<ul><ul>
 b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&amp;Cs.
-<ul><ul>
+</ul></ul>
 	
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Use of Website and Website Functions**
+**2**.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Use of Website and Website Functions**
 
+<ul>
 2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
+</ul>
 
-* not to use this Website in any manner which breaches any applicable law or regulation or causes or which may cause an infringement of any third party rights;
-* not to post, transmit or disseminate any information on or via this Web Site which may be harmful, obscene, defamatory or illegal or create liability on ALPS’ part;
-* not to interfere or attempt to interfere with the operation or functionality of this Web Site; and
-*  not to obtain or attempt to obtain&nbsp;unauthorised&nbsp;access, via whatever means, to any of ALPS’ systems.
+<ul><ul><ul>
+<li> not to use this Website in any manner which breaches any applicable law or regulation or causes or which may cause an infringement of any third party rights;</li>
+
+<li>not to post, transmit or disseminate any information on or via this Web Site which may be harmful, obscene, defamatory or illegal or create liability on ALPS’ part;</li>
+	
+<li>not to interfere or attempt to interfere with the operation or functionality of this Web Site; and</li>
+<li>not to obtain or attempt to obtain&nbsp;unauthorised&nbsp;access, via whatever means, to any of ALPS’ systems.</li>
+	</ul>
 
 If ALPS, in its sole discretion, believes that you are in breach, or will be in breach of any of these Terms of Use, ALPS reserves its rights to deny you access to this Web Site without giving you a reason and/or without further reference to you.
-
-3.  **Intellectual Property Rights** 
+	</ul>
+	
+**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Intellectual Property Rights** 
 
 3.1. The intellectual property rights in and to the Website, Website Functions and all the content of the Website, including the designs, text, information, news, listings, graphics, images, videos, logos and button icons, editorial content, notices, applications, software (including HTML-based computer programs), music, sound and other files and their selection and arrangement (“**Content**”) are either owned by us or are licensed to us.
 
@@ -50,7 +57,7 @@ If ALPS, in its sole discretion, believes that you are in breach, or will be in 
 
 3.3. The domain name on which the Website is hosted on is the sole property of ALPS and you may not use or otherwise adopt a similar name for your own use.
 
-4.  **Use of Website Content**  
+**4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Use of Website Content**  
 
 4.1. You may not reproduce, modify, adapt, translate, publish, display, communicate, transmit, broadcast, frame, scrape, podcast, webcast, distribute, sell, trade or exploit for any commercial or other purposes, any portion of, or any access to (unless otherwise expressly permitted in accordance with written law or with our prior written consent):
 
@@ -73,7 +80,7 @@ d.  any other content submitted, distributed or otherwise reproduced by any pers
 
 4.5. Without prejudice to the rights and remedies which are available to us at law, we reserve the right to terminate the privileges of any member or user who repeatedly breaches paragraphs 3 and 4.
 
-5.  **Online Conduct**  
+**5.  **Online Conduct**  
 
 5.1. The Website and Website Functions are made available for your personal, non-commercial use only. Businesses, organizations or other legal entities may not use the Website or Website Functions for any purpose.
 
@@ -304,4 +311,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul></ul></ul>
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul>
