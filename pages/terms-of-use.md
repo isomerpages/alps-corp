@@ -237,37 +237,44 @@ and in any such event,ALPS shall not be liable for any loss, liability or damage
 
 **7.**&nbsp;&nbsp;&nbsp;&nbsp;  **Disclaimer of Warranties and Liability**  
       
-      
-    
 
 **DISCLAIMER: THIS SITE AND THE INFORMATION IT CONTAINS IS MADE AVAILABLE ON AN "AS IS AS AVAILABLE" BASIS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.**
 
+<ul>
 7.1. To the maximum extent permitted by law, you irrevocably agree and acknowledge that:
-
+</ul>
+<ul><ul>
 a.  the Website (together with any Website Functions, Content and Third Party Content or other content or information provided by or through the Website) are provided on an “as is” and “as available” basis, with all faults and without any warranty of any kind. Your use of the Website and Website Functions is at your own risk and you are responsible for compliance with all applicable laws;
-
+	</ul></ul>
+<ul><ul>
 b.  we convey the information available on the Website without responsibility for accuracy and any errors contained in such information shall not be made the basis for any claim, demand or cause of action;
+</ul></ul>
+<ul><ul>
 
 c.  we do not warrant that the content on this Website, the Website or any of the Website Functions will be free of interruption or that the Website is free of viruses, worms, Trojan horses, other harmful elements or other code that manifest contaminating or destructive properties. ALPSis not responsible for telecommunications, network, electronic, technical or computer failures of any kind, inaccurate transcription of entry information, errors in any promotional or marketing materials, errors in these rules, any human or electronic error;
+</ul></ul>
+<ul><ul>
 
 d.  we do not warrant that the Website Functions contained in or performed or enabled by or through the Website will meet your requirements, that the operation of the Website and/or Website Functions will be uninterrupted or error-free, or that defects in the Website and/or Website Functions will be error-free. Without prejudice to the foregoing, ALPS does not warrant and hereby disclaims any representation, warranty or term with respect to the Website or the Website Functions, whether express, implied or statutory, including but not limited to:
 
-  
-  
-
+  </ul></ul>
+<ul><ul><ul>
 i.  merchantability, satisfactory quality, fitness for a particular purpose, title, accuracy, quiet enjoyment, and non-infringement of third party rights, or as to the accuracy, correctness, reliability, timeliness, non-infringement of or compliance with any laws, regulations and/or third party rights in connection with the Website, Website Functions, Content or Third Party Content;
+</ul></ul></ul>
+<ul><ul><ul>
 
 ii.  the Website or any Website Functions associated therewith being uninterrupted or error-free, or that defects will be corrected or that the Website and any related computer system is and will be free of all viruses and/or other harmful elements;
-
+</ul></ul></ul>
+<ul><ul><ul>
 iii.  the Website Functions or Content or Third Party Content will at all times be available and/or accessible;
-
+</ul></ul></ul>
+<ul><ul><ul>
 iv.  the Website or Website Functions being compatible or working with any third party software, applications or third party services;
-
-  
-  
-
+</ul></ul></ul>
+<ul><ul>
 e.  we shall bear no liability whatsoever in connection with the design, development or administration of any aspect of the Website or Website Functions, your interactions with the same or your participation in any Website Functions;
-
+</ul></ul>
+<ul><ul>
 f.  we are not liable for any delay or failure of the Website or the Website Functions to perform. There is no guarantee that you will be able to access the Website whenever and wherever desired. There may be extended periods of time when you cannot access the Website for various reasons, many beyond our control.
 
 8.2 You expressly acknowledge and agree that, to the maximum extent permitted by applicable law, use of the Website and any Website Functions and performed by or accessed through the Website is at your sole risk and that the entire risk as to satisfactory quality, performance, accuracy and effort is with you.
@@ -359,4 +366,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul>
