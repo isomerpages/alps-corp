@@ -173,53 +173,69 @@ s.  using any robot, spider, site search/retrieval application, or other device 
 </ul></ul>
 	<ul><ul>
 t.  reformatting or framing any portion of the web pages that are part of the Website or Website Functions;
-
+</ul></ul>
+	<ul><ul>
 u.  creating user accounts by automated means or under false or fraudulent pretenses;
-
+</ul></ul>
+	<ul><ul>
 v.  falsely representing or implying that any content submitted by you is sponsored or endorsed by ALPS;
-
+</ul></ul>
+	<ul><ul>
 w.  submitting content that infringes, misappropriates or violates the intellectual property, publicity, privacy or other proprietary rights of any party; or
-
+</ul></ul>
+	<ul><ul>
 x.  transmitting any viruses, worms, defects, Trojan horses or other harmful elements;
-
-5.5. &nbsp;ALPS has the right (but is not obliged) to investigate and take appropriate action in its sole discretion against any person who posts such content on the Website or partakes in any such activities including without limitation, removing the offending content from the Website and/or terminating the account of any users which breach these Website T&amp;Cs.
-
+</ul></ul>
+	<ul>
+5.5. ALPS has the right (but is not obliged) to investigate and take appropriate action in its sole discretion against any person who posts such content on the Website or partakes in any such activities including without limitation, removing the offending content from the Website and/or terminating the account of any users which breach these Website TCs.
+</ul>
+	<ul>
 5.6. ALPS has the right (but is not obliged) to, remove or disable access to any materials (including content submitted by Website users / members and Third Party Content) that we determine in our sole discretion to be unlawful, fraudulent, threatening, libelous, defamatory, obscene or otherwise objectionable, or infringes or violates any party's intellectual property, other proprietary rights, these Website T&amp;Cs or for any other reason whatsoever. Any such editing or removal of any such content shall be without prejudice to our other rights and remedies available at law.
-
+</ul>
+	<ul>
 5.7. You acknowledge and agree that we cannot be responsible or liable for any content submitted onto the Website by any Website users / members or any Third Party Content, and you agree to exercise access and use such only at your own risk and with care and discretion.
-
-**6.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Disclaimers and Limitations**  
+</ul>
+	
+**6.**&nbsp;&nbsp;&nbsp;&nbsp;  **Disclaimers and Limitations**  
       
-      
-    
-
+<ul>
 6.1. Please note that the Content and any Third Party Content available via the Website and/or the Website Functions are for general informational purposes only and are not intended to be, and should not be treated as, substitutes for professional medical advice, diagnosis or treatment. The Content and Third Party Content are provided on the understanding that no surgical or medical advice or recommendation is being rendered to you via either the Website and/or the Website Functions. Medical treatment has to be individualised and can only be rendered after adequate assessment of your condition through appropriate clinical examination. Please do not disregard the professional medical advice of your physician or local healthcare provider or delay in seeking medical advice from them because of any information provided on the Website or via the Website Functions. For the reasons given above, you should not rely on the information provided on the Website or via the Website Functions and, to the fullest extent permitted by law, we do not accept any responsibility if you do.
-
+</ul>
+	<ul>
 6.2. You further acknowledge that the Website and Website Functions are not intended or suitable for use in situations or environments where the failure or time delays of, or errors or inaccuracies in, the content, data or information provided by the Website or the Website Functions could lead to death, personal injury, or otherwise result in significant financial loss or business interruption.
-
+</ul>
+	<ul>
 6.3. Any Content and Third Party Content posted, distributed or otherwise made available on the Website or through the Website Functions are not moderated by us. We are not responsible as author, editor or publisher of any Content or Third Party Content, whether designated as “experts” or “content partners” or similar designations and you acknowledge and agree that any use by you of any Content or Third Party Content is entirely at your own risk.
-
+</ul>
+	<ul>
 6.4. In addition, the Website or Website Functions may display, publish or make available content that is not provided or published by us (including for example, content provided by third party content aggregation services or information providers). Such content is the sole responsibility of the person or entity that makes it available. We are not responsible for such content, and we do not have control over the selection thereof, nor do we routinely monitor such content. ALPS makes no representations or warranties as to the veracity or accuracy of such content, the reproduction and use of which may be governed by the third party content provider’s terms of use.
-
+</ul>
+	<ul>
 6.5. ALPS does not verify and is not in a position to verify any party’s rights to submit any content on or through the Website or Website Functions, and ALPS takes no responsibility and assumes no liability, whether direct or indirect or any incidental, special, indirect or consequential damages whatsoever, including, without limitation, damages for loss of profits or any other commercial damages or losses, for any content posted by you or any third party, or for your use of the same. ALPS and its vendors believe their data and text services to be reliable but accuracy is not warranted or guaranteed.
-
+</ul>
+	<ul>
 6.6. You acknowledge and agree that ALPS does not endorse or recommend, is not an agent, reseller or distributor of, and has no control over any of the products or services which may be offered or made available by any third party on or through the Website or the Website Functions, and ALPS hereby expressly disclaims all liabilities and responsibilities arising in relation to any such products or services whether available or advertised via the Website or on a third party website.
-
+</ul>
+	<ul>
 6.7. Any company names, products, services and branding cited or used on the Website or the Website Functions may be trademarks or registered trade marks of their respective owners and the owners retain all legal rights. The use of trade marks or service marks of another is not a representation that the other is affiliated with, sponsors, is sponsored by, endorses, or is endorsed by ALPS.
-
+</ul>
+	<ul>
 6.8. You hereby acknowledge and agree that the Website and Website Functions may use transmissions over the Internet which are never completely private or secure and that any information transmitted to the Website may not be confidential and acknowledge that you have no expectation of privacy with respect to such information, subject always to the Website’s Data Protection Policy.
-
+</ul>
+	<ul>
 6.9. You agree that:
-
-
-
+</ul>
+	<ul><ul>
 a.  ALPS shall be entitled at any time, at its sole and absolute discretion and without prior notice, to add to, vary, terminate, withdraw or suspend the operation of the whole or any part or feature of the Website or Website Functions without assigning any reason; and
-
+</ul></ul>
+	<ul><ul>
 b.  access to or the operation of the Website and/or the Website Functions may from time to time be interrupted or encounter technical or other problems and may not necessarily continue uninterrupted or without technical or other errors,
-
+</ul></ul>
+	<ul>
 and in any such event,ALPS shall not be liable for any loss, liability or damage which may be incurred as a result.
+</ul>
 
-**7.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Disclaimer of Warranties and Liability**  
+**7.**&nbsp;&nbsp;&nbsp;&nbsp;  **Disclaimer of Warranties and Liability**  
       
       
     
@@ -343,4 +359,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul>
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
