@@ -291,15 +291,16 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 </ul>
 
 **9.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Limitation of Liability**  
-      
-      
-    
-
+     
+<ul>
 9.1 To the maximum extent permitted under applicable law:
-
+</ul>
+<ul><ul>	
 a.  ALPS, our officers, directors, employees and agents shall not be liable for any claim, damage or loss of any kind of any nature whatsoever caused and howsoever arising as a result (whether direct or indirect) of or otherwise in connection with your use of or reliance on the Website or Website Functions, including but not limited to any claim, damage or loss&nbsp; suffered (whether incidental, special, indirect or consequential) as a result of or in connection with any reliance on any Content or Third Party Content or other content or any other information made available or accessed on or through the Website or contained in or available from the Website or your use or reliance on any products or services on, available or accessed via the Website and / or the Website Functions or any infringement of any rights arising in connection therewith, including without limitation any loss of data, profits, goodwill, anticipated savings, reputation, business or business opportunity, regardless of the cause thereof and even if we have been advised of the possibility thereof.
+	</ul></ul>
+		
 
-**10.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Termination**  
+**10.**&nbsp;&nbsp;&nbsp;&nbsp;  **Termination**  
       
 
 10.1. We reserve the right to terminate or suspend your use of the Website without prior notice to you, at any time and for any or no reason including inappropriate behaviour on the Website. Without limiting the foregoing, if you breach these Website T&amp;Cs or conduct yourself in a manner that we deem to be detrimental to the integrity, security and operation of the Website, the Website Functions or any information systems connected or in operation with the same, we reserve the right to suspend or permanently terminate your access to the Website and the Website Functions for any reason in our sole and absolute discretion.
