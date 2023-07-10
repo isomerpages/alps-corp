@@ -364,7 +364,6 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 **16.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Arbitration**  
       
 <ul>	
-
 16.1. By accessing this Website, you agree that final and binding arbitration shall be the sole and exclusive forum and remedy for any and all disputes and claims relating in any way to or arising out of these Website T&amp;Cs, the Website (including your visit to or use of the Website) or the Website Functions, except to the extent that either you or ALPS have in any manner infringed upon or violated or threatened to infringe upon or violate the other party's patent, copyright, trademark or trade secret rights, then the parties acknowledge that arbitration is not an adequate remedy at law and that injunctive or other appropriate relief may be sought.
 </ul>
 <ul>	
