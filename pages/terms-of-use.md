@@ -339,19 +339,21 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 	
 **14.**&nbsp;&nbsp;&nbsp;&nbsp;  **General**  
-      
-      
-    
-
+  
+<ul>	
 14.1. You may not transfer any rights or obligations you may have under these Website T&amp;Cs. We reserve the right to transfer or to subcontract any right or obligation under these T&amp;Cs at our sole discretion without your consent.
-
+</ul>
+<ul>	
 14.2. If any term or provision of these Website T&amp;Cs is found by a court of competent jurisdiction to be illegal, invalid or otherwise unenforceable, such term or provision shall not affect these Website T&amp;Cs’ other terms or provisions, or the whole of these Website T&amp;Cs, but such term or provision shall be deemed modified to the extent deemed necessary to render such term or provision enforceable, and the rights and obligations of the parties shall be construed and enforced accordingly, preserving to the fullest permissible extent the intent of the parties and these Website T&amp;Cs’ purposes.
-
+</ul>
+<ul>	
 14.3. Nothing in these Website T&amp;Cs shall constitute or be deemed to constitute an agency, partnership or joint venture between ALPSand you and neither party shall have any authority to bind the other in any way.
-
+</ul>
+<ul>	
 14.4. A person who is not a party to these Website T&amp;Cs has no right to enforce or enjoy the benefit of any term of these Website T&amp;Cs under the Contracts (Rights of Third Parties) Act (Chapter 53B).
+</ul>
 
-**15.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Governing Law**  
+**15.**&nbsp;&nbsp;&nbsp;&nbsp;  **Governing Law**  
       
       
     
