@@ -18,8 +18,9 @@ We may from time to time modify, vary or amend these Website T&amp;Cs at any tim
 
 **1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Agreement**
 
-1.1. These Website T&amp;Cs govern your use of our Website and the Website Functions which are made available through the Website.
-
+<ul>
+1.1. These Website T$Cs govern your use of our Website and the Website Functions which are made available through the Website.
+</ul>
 1.2. By accessing the Website, you represent and warrant to us that:
 
 a. You have read and agreed to the Website T&amp;Cs; and
