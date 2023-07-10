@@ -110,28 +110,34 @@ ii.  consist of or contain software viruses, commercial solicitation, chain lett
 	</ul></ul></ul>
 <ul><ul><ul>
 iii.  contain content or statements contrary to public interest, public morality, public order, public security, national harmony, or otherwise be prohibited by applicable Singapore laws or regulations;
-
+</ul></ul></ul>
+<ul><ul><ul>
 b.  to comply with these Website T&amp;Cs, and such other notices or guidelines that may be posted on the Website by ALPSfrom time to time (which are hereby incorporated by reference into these Website T&amp;Cs);
 
 c.  not to use any Website Function or Content for any unlawful purpose, and to comply with all applicable laws and regulations, including without limitation, copyright law;
-
+</ul></ul></ul>
+<ul><ul><ul>
 d.  not to hack into, interfere with, disrupt, disable, over-burden or otherwise impair the proper working of the Website or the Website Functions, including without limitation denial-of-service attacks, spoof attacks, session hacking, sniffing, tampering, reverse engineering or reprogramming;
-
+</ul></ul></ul>
+<ul><ul><ul>
 e.  not to use the account of another member or user at any time for any purpose, whether with or without his/her permission;
-
+</ul></ul></ul>
+<ul><ul><ul>
 f.  not to use any information obtained from the Website or the Website Functions to harass, abuse or harm another person;
-
+</ul></ul></ul>
+<ul><ul><ul>
 g.  not engage in advertising to, or solicitation of, any user of the Website to buy or sell any products or services through the Website;
-
-  
-  
-
+</ul></ul></ul>
+<ul>
 5.3 You understand and agree that ALPS may review and edit or delete (but has no obligation to do so) any content, messages, photos or profiles that in the sole judgment of &nbsp;ALPS violates these Website T&amp;Cs or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any Website users.
-
+	</ul>
+	<ul>
 5.4 The following are some examples of the types of content and activities which are illegal or prohibited on the Website:
-
+</ul>
+	<ul><ul>
 h.  content that promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
-
+		</ul></ul>
+	<ul><ul>
 i.  activity that harasses or advocates harassment of another person;
 
 j.  transmitting "junk mail", "chain letters," or unsolicited mass mailing or "spamming";
@@ -325,4 +331,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul></ul>
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul>
