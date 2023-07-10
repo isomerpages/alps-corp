@@ -305,10 +305,10 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 <ul>
 10.1. We reserve the right to terminate or suspend your use of the Website without prior notice to you, at any time and for any or no reason including inappropriate behaviour on the Website. Without limiting the foregoing, if you breach these Website T&amp;Cs or conduct yourself in a manner that we deem to be detrimental to the integrity, security and operation of the Website, the Website Functions or any information systems connected or in operation with the same, we reserve the right to suspend or permanently terminate your access to the Website and the Website Functions for any reason in our sole and absolute discretion.
 </ul>	
-<ul><ul>	
+<ul>
 10.2. You agree and acknowledge that any suspension or termination of your access to the Website may be effected without prior notice, and agree that the Website may immediately deactivate. Further, you agree and acknowledge that to the maximum extent permitted under applicable law, we shall not be liable for the discontinuation or termination of your access to the Website.
-</ul></ul>	
-<ul><ul>	
+</ul>
+
 
 **11.**&nbsp;&nbsp;&nbsp;&nbsp;  **Personal Data**  
 
@@ -327,16 +327,18 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 	
 **13.**&nbsp;&nbsp;&nbsp;&nbsp; **Third Party Sites and Links**  
       
-      
-    
-
+<ul>	
 13.1. We may provide links to third party sites. We have no control over such third party sites, and you acknowledge and agree that we are not responsible for the availability of such external sites or resources, and do not endorse and are not responsible or liable for any content, advertising, products, services or materials on or available through such sites or resources, including Third Party Content. You further acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused by or in connection with use of or reliance on any content, goods or services on or available through any such site or resource.
-
+</ul>
+<ul>	
 13.2. You further acknowledge that your access to and/or use of third party sites is entirely at your own risk, and that third party sites usually have their own terms and conditions, including privacy policies, over which we have no control and which will govern your rights and obligations with respect to the use of those sites and resources.
-
+</ul>
+<ul>	
 13.3. We do not warrant that the third party sites will meet your requirements or that the same will not cause you any loss of any kind, and you agree that to the maximum extent permitted by law, ALPS shall not be liable for any loss or damage of any kind incurred in connection with your use or reliance on any content, information or other materials on or available through such third parties.
+</ul>	
 
-**14.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **General**  
+	
+**14.**&nbsp;&nbsp;&nbsp;&nbsp;  **General**  
       
       
     
@@ -369,4 +371,4 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul></ul>
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
