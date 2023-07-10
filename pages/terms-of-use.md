@@ -44,46 +44,59 @@ b. You are at least 18 years old and have the necessary legal capacity, right, p
 	
 <li>not to interfere or attempt to interfere with the operation or functionality of this Web Site; and</li>
 <li>not to obtain or attempt to obtain&nbsp;unauthorised&nbsp;access, via whatever means, to any of ALPS’ systems.</li>
-	</ul>
-
+	</ul></ul></ul>
+<ul>
 If ALPS, in its sole discretion, believes that you are in breach, or will be in breach of any of these Terms of Use, ALPS reserves its rights to deny you access to this Web Site without giving you a reason and/or without further reference to you.
 	</ul>
-	
+
 **3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Intellectual Property Rights** 
 
+<ul>
 3.1. The intellectual property rights in and to the Website, Website Functions and all the content of the Website, including the designs, text, information, news, listings, graphics, images, videos, logos and button icons, editorial content, notices, applications, software (including HTML-based computer programs), music, sound and other files and their selection and arrangement (“**Content**”) are either owned by us or are licensed to us.
-
+</ul>
+	<ul>
 3.2. The trademarks, logos and service marks ("**Marks**") displayed on the Website are the property of ALPS or other third parties, and all rights to the Marks are expressly reserved by ALPS or relevant third parties. You are not permitted to use any Marks without the prior written consent of&nbsp; ALPS or such third party. The name of ALPS or any other Marks may not be used in any way, including in any advertising or publicity, or as a hyperlink without the prior written permission of ALPS.
-
+</ul>
+	<ul>
 3.3. The domain name on which the Website is hosted on is the sole property of ALPS and you may not use or otherwise adopt a similar name for your own use.
+</ul>
+	
+**4.**&nbsp;&nbsp;&nbsp;&nbsp;  **Use of Website Content**  
 
-**4.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Use of Website Content**  
-
+<ul>
 4.1. You may not reproduce, modify, adapt, translate, publish, display, communicate, transmit, broadcast, frame, scrape, podcast, webcast, distribute, sell, trade or exploit for any commercial or other purposes, any portion of, or any access to (unless otherwise expressly permitted in accordance with written law or with our prior written consent):
-
+</ul>
+<ul><ul>
 a.  the Website;
-
+	</ul></ul>
+		<ul><ul>
 b. any of the Website Functions;
-
+	</ul></ul>
+<ul><ul>
 c. any Content, except to the extent expressly permitted in these Website T&amp;Cs; or
-
-d.  any other content submitted, distributed or otherwise reproduced by any person accessing or using the Website or the Website Functions (“**Third Party Content**”) except with the prior written consent of &nbsp;ALPSand the owner of such Third Party Content.
-
-  
-  
-
+</ul></ul>
+	<ul><ul>
+d.  any other content submitted, distributed or otherwise reproduced by any person accessing or using the Website or the Website Functions (“**Third Party Content**”) except with the prior written consent of ALPS and the owner of such Third Party Content.
+</ul></ul>
+<ul>
 4.2. Without prejudice to the generality of the foregoing, you agree not to reproduce, display or otherwise provide access to the Website and/or the Website Functions, Content or Third Party Content on another website or server, for example through linking, framing, mirroring or any other technological means whether available now or in the future unless the prior written consent of ALPS is obtained.
-
+</ul>
+	<ul>
 4.3. You may, provided you have kept all copyright and other proprietary notices intact, download or print one copy of the information available on the Website for your personal, internal and non-commercial use only. Permission to reprint or electronically reproduce any part of the Website, Website Functions, Content or Third Party Content whether in whole or in part for any other purpose is expressly prohibited without ALPS’ prior written consent, and the written consent of the owners of Third Party Content.
-
-4.4. You may not decompile, reverse engineer or otherwise attempt to discover the source code of any &nbsp;ALPS Content available on the Website or provided through a Website Function except under the specific circumstances expressly permitted by law or ALPS in writing.
-
+</ul>
+	<ul>
+4.4. You may not decompile, reverse engineer or otherwise attempt to discover the source code of any ALPS Content available on the Website or provided through a Website Function except under the specific circumstances expressly permitted by law or ALPS in writing.
+	</ul>
+<ul>
 4.5. Without prejudice to the rights and remedies which are available to us at law, we reserve the right to terminate the privileges of any member or user who repeatedly breaches paragraphs 3 and 4.
+</ul>
+	
+**5.**&nbsp;&nbsp;&nbsp;&nbsp;  **Online Conduct**  
 
-**5.  **Online Conduct**  
-
+<ul>
 5.1. The Website and Website Functions are made available for your personal, non-commercial use only. Businesses, organizations or other legal entities may not use the Website or Website Functions for any purpose.
-
+</ul>
+<ul>
 5.2. You represent and warrant and undertake to us as follows:
 
 a.  any content which you submit to the Website or via the Website Functions shall not:  
