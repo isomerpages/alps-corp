@@ -37,19 +37,23 @@ b. You are at least 18 years old and have the necessary legal capacity, right, p
 2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
 </ul>
 
-<ul><ul><ul>
-<li> not to use this Website in any manner which breaches any applicable law or regulation or causes or which may cause an infringement of any third party rights;</li>
-
-<li>not to post, transmit or disseminate any information on or via this Web Site which may be harmful, obscene, defamatory or illegal or create liability on ALPS’ part;</li>
-	
-<li>not to interfere or attempt to interfere with the operation or functionality of this Web Site; and</li>
-<li>not to obtain or attempt to obtain&nbsp;unauthorised&nbsp;access, via whatever means, to any of ALPS’ systems.</li>
-</ul></ul></ul>
+<ul><ul>
+a. not to use this Website in any manner which breaches any applicable law or regulation or causes or which may cause an infringement of any third party rights;
+</ul></ul>
+<ul><ul>
+b. not to post, transmit or disseminate any information on or via this Web Site which may be harmful, obscene, defamatory or illegal or create liability on ALPS’ part;
+</ul></ul>
+<ul><ul>
+c. not to interfere or attempt to interfere with the operation or functionality of this Web Site; and
+</ul></ul>
+<ul><ul>
+d. not to obtain or attempt to obtain; unauthorise; access, via whatever means, to any of ALPS’ systems.
+</ul></ul>
 <ul>
 If ALPS, in its sole discretion, believes that you are in breach, or will be in breach of any of these Terms of Use, ALPS reserves its rights to deny you access to this Web Site without giving you a reason and/or without further reference to you.
 </ul>
 
-**3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Intellectual Property Rights** 
+**3.**&nbsp;&nbsp;&nbsp;&nbsp;  **Intellectual Property Rights** 
 
 <ul>
 3.1. The intellectual property rights in and to the Website, Website Functions and all the content of the Website, including the designs, text, information, news, listings, graphics, images, videos, logos and button icons, editorial content, notices, applications, software (including HTML-based computer programs), music, sound and other files and their selection and arrangement (“**Content**”) are either owned by us or are licensed to us.
