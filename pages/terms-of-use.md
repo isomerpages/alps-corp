@@ -27,7 +27,7 @@ We may from time to time modify, vary or amend these Website T&amp;Cs at any tim
 <ul><ul>
 a. You have read and agreed to the Website T&amp;Cs; and
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&amp;Cs.
 </ul></ul>
 	
@@ -44,10 +44,10 @@ b. You are at least 18 years old and have the necessary legal capacity, right, p
 	
 <li>not to interfere or attempt to interfere with the operation or functionality of this Web Site; and</li>
 <li>not to obtain or attempt to obtain&nbsp;unauthorised&nbsp;access, via whatever means, to any of ALPS’ systems.</li>
-	</ul></ul></ul>
+</ul></ul></ul>
 <ul>
 If ALPS, in its sole discretion, believes that you are in breach, or will be in breach of any of these Terms of Use, ALPS reserves its rights to deny you access to this Web Site without giving you a reason and/or without further reference to you.
-	</ul>
+</ul>
 
 **3.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Intellectual Property Rights** 
 
