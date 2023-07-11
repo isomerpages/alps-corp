@@ -231,7 +231,7 @@ a.  ALPS shall be entitled at any time, at its sole and absolute discretion and 
 <ul><ul>
 b.  access to or the operation of the Website and/or the Website Functions may from time to time be interrupted or encounter technical or other problems and may not necessarily continue uninterrupted or without technical or other errors,
 </ul></ul>
-	<ul>
+<ul>
 and in any such event,ALPS shall not be liable for any loss, liability or damage which may be incurred as a result.
 </ul>
 
@@ -245,7 +245,7 @@ and in any such event,ALPS shall not be liable for any loss, liability or damage
 </ul>
 <ul><ul>
 a.  the Website (together with any Website Functions, Content and Third Party Content or other content or information provided by or through the Website) are provided on an “as is” and “as available” basis, with all faults and without any warranty of any kind. Your use of the Website and Website Functions is at your own risk and you are responsible for compliance with all applicable laws;
-	</ul></ul>
+</ul></ul>
 <ul><ul>
 b.  we convey the information available on the Website without responsibility for accuracy and any errors contained in such information shall not be made the basis for any claim, demand or cause of action;
 </ul></ul>
@@ -254,7 +254,7 @@ c.  we do not warrant that the content on this Website, the Website or any of th
 </ul></ul>
 <ul><ul>
 d.  we do not warrant that the Website Functions contained in or performed or enabled by or through the Website will meet your requirements, that the operation of the Website and/or Website Functions will be uninterrupted or error-free, or that defects in the Website and/or Website Functions will be error-free. Without prejudice to the foregoing, ALPS does not warrant and hereby disclaims any representation, warranty or term with respect to the Website or the Website Functions, whether express, implied or statutory, including but not limited to:
-  </ul></ul>
+ </ul></ul>
 <ul><ul><ul>
 i.  merchantability, satisfactory quality, fitness for a particular purpose, title, accuracy, quiet enjoyment, and non-infringement of third party rights, or as to the accuracy, correctness, reliability, timeliness, non-infringement of or compliance with any laws, regulations and/or third party rights in connection with the Website, Website Functions, Content or Third Party Content;
 </ul></ul></ul>
@@ -297,7 +297,7 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 </ul>
 <ul><ul>	
 a.  ALPS, our officers, directors, employees and agents shall not be liable for any claim, damage or loss of any kind of any nature whatsoever caused and howsoever arising as a result (whether direct or indirect) of or otherwise in connection with your use of or reliance on the Website or Website Functions, including but not limited to any claim, damage or loss&nbsp; suffered (whether incidental, special, indirect or consequential) as a result of or in connection with any reliance on any Content or Third Party Content or other content or any other information made available or accessed on or through the Website or contained in or available from the Website or your use or reliance on any products or services on, available or accessed via the Website and / or the Website Functions or any infringement of any rights arising in connection therewith, including without limitation any loss of data, profits, goodwill, anticipated savings, reputation, business or business opportunity, regardless of the cause thereof and even if we have been advised of the possibility thereof.
-	</ul></ul>
+</ul></ul>
 		
 
 **10.**&nbsp;&nbsp;&nbsp;&nbsp;  **Termination**  
@@ -376,4 +376,5 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 16.4. Any decision or award of an arbitral tribunal appointed pursuant to this Clause will be final and binding on both you and ALPS and the execution thereof may be entered into any court having jurisdiction.
 </ul>
 <ul>	
-16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.</ul>
+16.5.   You undertake to keep the arbitration proceedings and all information, pleadings, documents, evidence and all matters relating there to confidential.
+</ul>
