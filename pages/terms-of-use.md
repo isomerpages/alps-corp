@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 **WELCOME**
 
-**PLEASE READ THESE TERMS AND CONDITIONS (INCLUDING OUR DATA PROTECTION POLICY**&nbsp;[**https://www.alpshealthcare.com.sg/pdpa**](https://www.alpshealthcare.com.sg/pdpa)**) CAREFULLY BEFORE USING THIS WEBSITE AND/OR THE SERVICES OR FUNCTIONS OF THE WEBSITE SO THAT YOU ARE AWARE OF YOUR LEGAL RIGHTS AND OBLIGATIONS WITH RESPECT TO -ALPS PTE LTD AND/OR ITS RELATED CORPORATIONS (INDIVIDUALLY AND COLLECTIVELY, “ALPS”, “WE”, “US”, AS THE CASE MAY BE).**
+**PLEASE READ THESE TERMS AND CONDITIONS (INCLUDING OUR DATA PROTECTION POLICY**[**https://www.alpshealthcare.com.sg/pdpa**](https://www.alpshealthcare.com.sg/pdpa)**) CAREFULLY BEFORE USING THIS WEBSITE AND/OR THE SERVICES OR FUNCTIONS OF THE WEBSITE SO THAT YOU ARE AWARE OF YOUR LEGAL RIGHTS AND OBLIGATIONS WITH RESPECT TO -ALPS PTE LTD AND/OR ITS RELATED CORPORATIONS (INDIVIDUALLY AND COLLECTIVELY, “ALPS”, “WE”, “US”, AS THE CASE MAY BE).**
 
 These Terms and Conditions (together with the documents referred to in it which are hereby incorporated by reference) (collectively, “**Website T&amp;Cs**”) informs you of the terms on which you may use our website (“**Website**”), whether as a guest or a registered user. Use of the Website includes accessing, browsing, or registering to use the Website and the functions and services offered on or made available through the Website (collectively “**Website Functions**”).
 
@@ -16,7 +16,7 @@ We reserve the right to change, modify, suspend or discontinue the whole or any 
 
 We may from time to time modify, vary or amend these Website T&amp;Cs at any time by posting the amended Website T&amp;Cs at this Website. Such modification shall be effective immediately upon posting on the Website. Any use of the Website Functions or the Website after the amendment of these Website T&amp;Cs shall be deemed to be acceptance of the amended Website T&amp;Cs by you. If you do not agree to the amended Website T&amp;Cs, you have the right to cease your use of the Website Functions.
 
-**1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Agreement**
+**1.**&nbsp;&nbsp;&nbsp;&nbsp; **Agreement**
 
 <ul>
 1.1. These Website T&amp;Cs govern your use of our Website and the Website Functions which are made available through the Website.
@@ -31,7 +31,7 @@ a. You have read and agreed to the Website T&amp;Cs; and
 b. You are at least 18 years old and have the necessary legal capacity, right, power or authority to agree to these Website T&amp;Cs.
 </ul></ul>
 	
-**2**.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Use of Website and Website Functions**
+**2**.&nbsp;&nbsp;&nbsp;&nbsp; **Use of Website and Website Functions**
 
 <ul>
 2.1 You agree to use this Web Site in accordance with these Terms of Use and for lawful and proper purposes. You agree to be responsible for all matters arising from your use of this Web Site. Further, you agree:
