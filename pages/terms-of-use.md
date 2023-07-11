@@ -54,10 +54,10 @@ If ALPS, in its sole discretion, believes that you are in breach, or will be in 
 <ul>
 3.1. The intellectual property rights in and to the Website, Website Functions and all the content of the Website, including the designs, text, information, news, listings, graphics, images, videos, logos and button icons, editorial content, notices, applications, software (including HTML-based computer programs), music, sound and other files and their selection and arrangement (“**Content**”) are either owned by us or are licensed to us.
 </ul>
-	<ul>
+<ul>
 3.2. The trademarks, logos and service marks ("**Marks**") displayed on the Website are the property of ALPS or other third parties, and all rights to the Marks are expressly reserved by ALPS or relevant third parties. You are not permitted to use any Marks without the prior written consent of&nbsp; ALPS or such third party. The name of ALPS or any other Marks may not be used in any way, including in any advertising or publicity, or as a hyperlink without the prior written permission of ALPS.
 </ul>
-	<ul>
+<ul>
 3.3. The domain name on which the Website is hosted on is the sole property of ALPS and you may not use or otherwise adopt a similar name for your own use.
 </ul>
 	
@@ -68,25 +68,25 @@ If ALPS, in its sole discretion, believes that you are in breach, or will be in 
 </ul>
 <ul><ul>
 a.  the Website;
-	</ul></ul>
-		<ul><ul>
+</ul></ul>
+<ul><ul>
 b. any of the Website Functions;
-	</ul></ul>
+</ul></ul>
 <ul><ul>
 c. any Content, except to the extent expressly permitted in these Website T&amp;Cs; or
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 d.  any other content submitted, distributed or otherwise reproduced by any person accessing or using the Website or the Website Functions (“**Third Party Content**”) except with the prior written consent of ALPS and the owner of such Third Party Content.
 </ul></ul>
 <ul>
 4.2. Without prejudice to the generality of the foregoing, you agree not to reproduce, display or otherwise provide access to the Website and/or the Website Functions, Content or Third Party Content on another website or server, for example through linking, framing, mirroring or any other technological means whether available now or in the future unless the prior written consent of ALPS is obtained.
 </ul>
-	<ul>
+<ul>
 4.3. You may, provided you have kept all copyright and other proprietary notices intact, download or print one copy of the information available on the Website for your personal, internal and non-commercial use only. Permission to reprint or electronically reproduce any part of the Website, Website Functions, Content or Third Party Content whether in whole or in part for any other purpose is expressly prohibited without ALPS’ prior written consent, and the written consent of the owners of Third Party Content.
 </ul>
-	<ul>
+<ul>
 4.4. You may not decompile, reverse engineer or otherwise attempt to discover the source code of any ALPS Content available on the Website or provided through a Website Function except under the specific circumstances expressly permitted by law or ALPS in writing.
-	</ul>
+</ul>
 <ul>
 4.5. Without prejudice to the rights and remedies which are available to us at law, we reserve the right to terminate the privileges of any member or user who repeatedly breaches paragraphs 3 and 4.
 </ul>
@@ -101,98 +101,98 @@ d.  any other content submitted, distributed or otherwise reproduced by any pers
 </ul>
 <ul><ul>
 a.  any content which you submit to the Website or via the Website Functions shall not:  
- </ul></ul>
+</ul></ul>
 <ul><ul><ul>
 i.  be illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable;
 </ul></ul></ul>
-	<ul><ul><ul>
+<ul><ul><ul>
 ii.  consist of or contain software viruses, commercial solicitation, chain letters, mass mailings, or any form of “spam”;
-	</ul></ul></ul>
+</ul></ul></ul>
 <ul><ul><ul>
 iii.  contain content or statements contrary to public interest, public morality, public order, public security, national harmony, or otherwise be prohibited by applicable Singapore laws or regulations;
 </ul></ul></ul>
 <ul><ul>
 b.  to comply with these Website T&amp;Cs, and such other notices or guidelines that may be posted on the Website by ALPSfrom time to time (which are hereby incorporated by reference into these Website T&amp;Cs);
-</ul></ul>
-	<ul><ul>
+</ul></ul>	
+<ul><ul>
 c.  not to use any Website Function or Content for any unlawful purpose, and to comply with all applicable laws and regulations, including without limitation, copyright law;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 d.  not to hack into, interfere with, disrupt, disable, over-burden or otherwise impair the proper working of the Website or the Website Functions, including without limitation denial-of-service attacks, spoof attacks, session hacking, sniffing, tampering, reverse engineering or reprogramming;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 e.  not to use the account of another member or user at any time for any purpose, whether with or without his/her permission;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 f.  not to use any information obtained from the Website or the Website Functions to harass, abuse or harm another person;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 g.  not engage in advertising to, or solicitation of, any user of the Website to buy or sell any products or services through the Website;
 </ul></ul>
-	<ul>
+<ul>
 5.3 You understand and agree that ALPS may review and edit or delete (but has no obligation to do so) any content, messages, photos or profiles that in the sole judgment of &nbsp;ALPS violates these Website T&amp;Cs or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any Website users.
-	</ul>
-	<ul>
+</ul>
+<ul>
 5.4 The following are some examples of the types of content and activities which are illegal or prohibited on the Website:
 </ul>
-	<ul><ul>
+<ul><ul>
 h.  content that promotes racism, bigotry, hatred or physical harm of any kind against any group or individual;
-		</ul></ul>
-	<ul><ul>
+</ul></ul>
+<ul><ul>
 i.  activity that harasses or advocates harassment of another person;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 j.  transmitting "junk mail", "chain letters," or unsolicited mass mailing or "spamming";
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 k.  engaging in advertising to, or solicitation of, any user of the Website to buy or sell any products or services through the Website Functions;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 l.  promoting information or submitting content that is false or misleading or promotes illegal activities or conduct that is abusive, threatening, obscene, defamatory or libellous;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 m.  creating restricted or password-only access pages or hidden pages or images (those not linked to or from another accessible page);
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 n.  providing material that exploits people under the age of 18 in a sexual or violent manner, or soliciting the personal information from anyone under 18;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 o.  soliciting passwords or personal identifying information for commercial or unlawful purposes from other users;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 p.  providing commercial activities and/or sales without our prior written consent such as contests, sweepstakes, barter, advertising, or pyramid schemes.
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 q.  modifying, adapting, translating, or reverse engineering any portion of the Website or the Website Functions;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 r.  removing any copyright, trademark or other proprietary rights notices contained in or on the Website or the Website Functions.
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 s.  using any robot, spider, site search/retrieval application, or other device to retrieve or index any portion of the Website or the Website Functions;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 t.  reformatting or framing any portion of the web pages that are part of the Website or Website Functions;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 u.  creating user accounts by automated means or under false or fraudulent pretenses;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 v.  falsely representing or implying that any content submitted by you is sponsored or endorsed by ALPS;
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 w.  submitting content that infringes, misappropriates or violates the intellectual property, publicity, privacy or other proprietary rights of any party; or
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 x.  transmitting any viruses, worms, defects, Trojan horses or other harmful elements;
 </ul></ul>
-	<ul>
+<ul>
 5.5. ALPS has the right (but is not obliged) to investigate and take appropriate action in its sole discretion against any person who posts such content on the Website or partakes in any such activities including without limitation, removing the offending content from the Website and/or terminating the account of any users which breach these Website TCs.
 </ul>
-	<ul>
+<ul>
 5.6. ALPS has the right (but is not obliged) to, remove or disable access to any materials (including content submitted by Website users / members and Third Party Content) that we determine in our sole discretion to be unlawful, fraudulent, threatening, libelous, defamatory, obscene or otherwise objectionable, or infringes or violates any party's intellectual property, other proprietary rights, these Website T&amp;Cs or for any other reason whatsoever. Any such editing or removal of any such content shall be without prejudice to our other rights and remedies available at law.
 </ul>
-	<ul>
+<ul>
 5.7. You acknowledge and agree that we cannot be responsible or liable for any content submitted onto the Website by any Website users / members or any Third Party Content, and you agree to exercise access and use such only at your own risk and with care and discretion.
 </ul>
 	
@@ -201,13 +201,13 @@ x.  transmitting any viruses, worms, defects, Trojan horses or other harmful ele
 <ul>
 6.1. Please note that the Content and any Third Party Content available via the Website and/or the Website Functions are for general informational purposes only and are not intended to be, and should not be treated as, substitutes for professional medical advice, diagnosis or treatment. The Content and Third Party Content are provided on the understanding that no surgical or medical advice or recommendation is being rendered to you via either the Website and/or the Website Functions. Medical treatment has to be individualised and can only be rendered after adequate assessment of your condition through appropriate clinical examination. Please do not disregard the professional medical advice of your physician or local healthcare provider or delay in seeking medical advice from them because of any information provided on the Website or via the Website Functions. For the reasons given above, you should not rely on the information provided on the Website or via the Website Functions and, to the fullest extent permitted by law, we do not accept any responsibility if you do.
 </ul>
-	<ul>
+<ul>
 6.2. You further acknowledge that the Website and Website Functions are not intended or suitable for use in situations or environments where the failure or time delays of, or errors or inaccuracies in, the content, data or information provided by the Website or the Website Functions could lead to death, personal injury, or otherwise result in significant financial loss or business interruption.
 </ul>
-	<ul>
+<ul>
 6.3. Any Content and Third Party Content posted, distributed or otherwise made available on the Website or through the Website Functions are not moderated by us. We are not responsible as author, editor or publisher of any Content or Third Party Content, whether designated as “experts” or “content partners” or similar designations and you acknowledge and agree that any use by you of any Content or Third Party Content is entirely at your own risk.
 </ul>
-	<ul>
+<ul>
 6.4. In addition, the Website or Website Functions may display, publish or make available content that is not provided or published by us (including for example, content provided by third party content aggregation services or information providers). Such content is the sole responsibility of the person or entity that makes it available. We are not responsible for such content, and we do not have control over the selection thereof, nor do we routinely monitor such content. ALPS makes no representations or warranties as to the veracity or accuracy of such content, the reproduction and use of which may be governed by the third party content provider’s terms of use.
 </ul>
 	<ul>
@@ -222,13 +222,13 @@ x.  transmitting any viruses, worms, defects, Trojan horses or other harmful ele
 	<ul>
 6.8. You hereby acknowledge and agree that the Website and Website Functions may use transmissions over the Internet which are never completely private or secure and that any information transmitted to the Website may not be confidential and acknowledge that you have no expectation of privacy with respect to such information, subject always to the Website’s Data Protection Policy.
 </ul>
-	<ul>
+<ul>
 6.9. You agree that:
 </ul>
-	<ul><ul>
+<ul><ul>
 a.  ALPS shall be entitled at any time, at its sole and absolute discretion and without prior notice, to add to, vary, terminate, withdraw or suspend the operation of the whole or any part or feature of the Website or Website Functions without assigning any reason; and
 </ul></ul>
-	<ul><ul>
+<ul><ul>
 b.  access to or the operation of the Website and/or the Website Functions may from time to time be interrupted or encounter technical or other problems and may not necessarily continue uninterrupted or without technical or other errors,
 </ul></ul>
 	<ul>
