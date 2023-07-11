@@ -80,7 +80,7 @@ b. any of the Website Functions;
 c. any Content, except to the extent expressly permitted in these Website T&amp;Cs; or
 </ul></ul>
 <ul><ul>
-d.  any other content submitted, distributed or otherwise reproduced by any person accessing or using the Website or the Website Functions (“**Third Party Content**”) except with the prior written consent of ALPS and the owner of such Third Party Content.
+d.  any other content submitted, distributed or otherwise reproduced by any person accessing or using the Website or the Website Functions ("**Third Party Content**”) except with the prior written consent of ALPS and the owner of such Third Party Content.
 </ul></ul>
 <ul>
 4.2. Without prejudice to the generality of the foregoing, you agree not to reproduce, display or otherwise provide access to the Website and/or the Website Functions, Content or Third Party Content on another website or server, for example through linking, framing, mirroring or any other technological means whether available now or in the future unless the prior written consent of ALPS is obtained.
