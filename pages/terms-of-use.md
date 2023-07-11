@@ -214,16 +214,16 @@ x.  transmitting any viruses, worms, defects, Trojan horses or other harmful ele
 <ul>
 6.4. In addition, the Website or Website Functions may display, publish or make available content that is not provided or published by us (including for example, content provided by third party content aggregation services or information providers). Such content is the sole responsibility of the person or entity that makes it available. We are not responsible for such content, and we do not have control over the selection thereof, nor do we routinely monitor such content. ALPS makes no representations or warranties as to the veracity or accuracy of such content, the reproduction and use of which may be governed by the third party content provider’s terms of use.
 </ul>
-	<ul>
+<ul>
 6.5. ALPS does not verify and is not in a position to verify any party’s rights to submit any content on or through the Website or Website Functions, and ALPS takes no responsibility and assumes no liability, whether direct or indirect or any incidental, special, indirect or consequential damages whatsoever, including, without limitation, damages for loss of profits or any other commercial damages or losses, for any content posted by you or any third party, or for your use of the same. ALPS and its vendors believe their data and text services to be reliable but accuracy is not warranted or guaranteed.
 </ul>
 	<ul>
 6.6. You acknowledge and agree that ALPS does not endorse or recommend, is not an agent, reseller or distributor of, and has no control over any of the products or services which may be offered or made available by any third party on or through the Website or the Website Functions, and ALPS hereby expressly disclaims all liabilities and responsibilities arising in relation to any such products or services whether available or advertised via the Website or on a third party website.
 </ul>
-	<ul>
+<ul>
 6.7. Any company names, products, services and branding cited or used on the Website or the Website Functions may be trademarks or registered trade marks of their respective owners and the owners retain all legal rights. The use of trade marks or service marks of another is not a representation that the other is affiliated with, sponsors, is sponsored by, endorses, or is endorsed by ALPS.
 </ul>
-	<ul>
+<ul>
 6.8. You hereby acknowledge and agree that the Website and Website Functions may use transmissions over the Internet which are never completely private or secure and that any information transmitted to the Website may not be confidential and acknowledge that you have no expectation of privacy with respect to such information, subject always to the Website’s Data Protection Policy.
 </ul>
 <ul>
