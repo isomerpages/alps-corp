@@ -37,11 +37,7 @@ Chief Information Officer
     <td><b>MS MABEL PHNG</b></td>
     <td>Director,  
 <br>Pharmaceuticals</td>
-  </tr>
-  <tr>
-    <td><b>MS NINA ZHANG</b></td>
-    <td>Special Projections</td>
-  </tr>
+		</tr>
 			<tr>
     <td><b>MR BRYAN LEE</b></td>
     <td>Director, <br>Furniture,  
@@ -55,6 +51,10 @@ Fittings &amp; Equipment</td>
     <td><b>MS MARILYN CHIA</b></td>
     <td>Deputy Director, 
 <br>Legal &amp; Contracts Management</td>
+  </tr>
+		<tr>
+    <td><b>MS NINA ZHANG</b></td>
+    <td>Special Projections</td>
   </tr>
 </tbody></table>
 
