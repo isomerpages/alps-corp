@@ -28,10 +28,9 @@ Chief Information Officer
 #### Strategic Procurement
 
 <table style="width:100%">
+
   <tbody><tr>
-  </tr>
-  <tr>
-		<td><b>MR JACKSON LIM</b></td>
+		<td style="width:40%"><b>MR JACKSON LIM</b></td>
 		<td>Director, <br>Transformation, Community Care<br> Non-medical Services</td>
   </tr>
   <tr>
