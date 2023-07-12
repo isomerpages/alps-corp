@@ -9,13 +9,13 @@ ALPS’ skilled supply chain professionals shall leverage on data analytics, for
 
 To that end, the MOH has set out three strategic shifts for Singapore’s healthcare system:
 
-##### Moving Beyond Healthcare to Health 
+### Moving Beyond Healthcare to Health 
 
 By empowering Singaporeans to lead healthier lifestyles and shifting the focus to health promotions, early screenings, and disease prevention, this would reap rewards in the long run with fewer trips to medical clinics or hospitals seeking care and treatments.
 
-##### Moving Beyond Hospitals to Community 
+### Moving Beyond Hospitals to Community 
 Identifying appropriate avenues and course of treatments near the patients’ homes ensures they remain well for longer and is better for their health and convenience.
 
-##### Moving Beyond Quality To Value
+### Moving Beyond Quality To Value
 
 Innovative use of technology to eliminate unnecessary administrative processes, improve the delivery of healthcare services, and raise the productivity of our healthcare workers.
