@@ -2,4 +2,5 @@ collections:
   policy:
     output: true
     order:
+      - Personal Data Protection Act.md
       - Whistleblowing/.keep
