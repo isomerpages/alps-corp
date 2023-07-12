@@ -17,14 +17,12 @@ sections:
           url: /pharmaceuticalsourcingevents/
       background: /images/test wide with logo (8).gif
   - infobar:
-      title: The Video From Overview
+      title: ALPS Family
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/-FmArzB3coM" height="315"
         width="560"></iframe>
-      button: Button text
-      url: /faq/
   - infopic:
       title: Overview
       description: ALPS’ Vision, Mission and Value statements challenge us to put the
