@@ -2,6 +2,5 @@ collections:
   whistleblowing:
     output: true
     order:
-      - Whistlingblowing ePoster.md
       - Fight Workplace Misconduct.md
       - FAQs.md
