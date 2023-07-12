@@ -3,21 +3,21 @@ title: Vision, Mission, Value
 permalink: /visionmissionvalue/
 description: ""
 ---
-#### Vision
+### Vision
 
-To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in transforming healthcare.
+To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in transforming healthcare.
 
 * LEADING : We strive for the highest professional standards to excel in healthcare supply chain.
 * INNOVATIVE : We encourage creativity, practical solutions and advancement with technology.
 * TRUSTED : Our relationship with our vendors cannot thrive without mutual trust and the shared understanding that the needs of our patients come first.
 
-#### Mission
-To deliver DYNAMIC and VALUE-BASED supply chain solutions through PARTNERSHIPS.
-* DYNAMIC : We are adaptive and resilient to evolve with healthcare needs.
-* VALUE-BASED : We do our due diligence and research different but viable treatment methods, empowering our healthcare workers and patients to choose the course of treatment that best suits them.
-* PARTNERSHIP : We value our partners and collaborate with them on supply chain solutions to benefit the patients.
+### Mission
+To Deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PARTNERSHIPS**.
+* **DYNAMIC** : We are adaptive and resilient to evolve with healthcare needs.
+* **VALUE-BASED** : We do our due diligence and research different but viable treatment methods, empowering our healthcare workers and patients to choose the course of treatment that best suits them.
+* **PARTNERSHIP** : We value our partners and collaborate with them on supply chain solutions to benefit the patients.
 
-#### Core Values
+### Core Values
 Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, I2SET, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
 
 * INTEGRITY : We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
