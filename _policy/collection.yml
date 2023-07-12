@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Personal Data Protection Act.md
-      - Whistleblowing/FAQs.md
-      - Whistleblowing/Fight Workplace Misconduct.md
-      - Whistleblowing/Whistlingblowing ePoster.md
-      - Whistleblowing/CEO's Foreword.md
       - Whistleblowing/.keep
+      - Whistleblowing/CEO's Foreword.md
+      - Whistleblowing/Whistlingblowing ePoster.md
+      - Whistleblowing/Fight Workplace Misconduct.md
+      - Whistleblowing/FAQs.md
