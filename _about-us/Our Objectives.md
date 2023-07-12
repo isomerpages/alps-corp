@@ -13,8 +13,8 @@ MOH's and ALPS' solution to this development is bold and transformative – desi
 * To yield system-level gains for patients, providers and staff, mitigating cost increase and bringing greater convenience to patients.
 * To strengthen Singapore’s pharmacy services, inventory management, and distribution network capabilities, building up their resilience against unexpected disruptions.
 
-Ultimately, ALPS will rely on our PEOPLE, PROCESSES
-and Partnerships - otherwise known as our three peaks of excellence to improve Singapore's healthcare supply chain and make it more sustainable and resilient.
+Ultimately, ALPS will rely on our **PEOPLE**, **PROCESSES**
+and **PARTNERSHIP** - otherwise known as our three peaks of excellence to improve Singapore's healthcare supply chain and make it more sustainable and resilient.
 
 * PEOPLE : Our employees are not just our most valuable assets, they are the beating heart of Public Healthcare, ensuring essential medical supplies and consumables reach where they are needed most, enabling our Public Healthcare Institutions’ operations to hum along smoothly and uninterrupted.
 
