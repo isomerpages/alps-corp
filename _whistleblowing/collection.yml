@@ -1,5 +1,4 @@
 collections:
   whistleblowing:
     output: true
-    order:
-      - FAQs.md
+    order: []
