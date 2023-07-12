@@ -31,7 +31,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /overview/
-      image: /images/alps, tagline, black, transparent, 1000x921.png
+      image: /images/rsz_alps_tagline_black_transparent_1000x921.png
   - infopic:
       title: Vision, Mission, Values
       button: Find out more
