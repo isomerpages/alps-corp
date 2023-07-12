@@ -56,33 +56,32 @@ Legal &amp; Contracts Management
 
 <table style="width:100%">
   <tbody><tr>
-	
   </tr>
   <tr>
 		<td><b>MR JACKSON LIM</b></td>
-    <td>Director, Transformation/Non-medical Services/Community Care</td>
+		<td>Director, Transformation / Non-medical Services / Community Care</td>
   </tr>
   <tr>
-    <td><b>MS MABEL PHNG<b></b></b></td>
+    <td><b>MS MABEL PHNG</b></td>
     <td>Deputy Director,  
 Pharmaceuticals</td>
   </tr>
   <tr>
-    <td><b>MS NINA ZHANG<b></b></b></td>
+    <td><b>MS NINA ZHANG</b></td>
     <td>Special Projections</td>
   </tr>
 			<tr>
-    <td><b>MS ESTHER HO<b></b></b></td>
+    <td><b>MS ESTHER HO</b></td>
     <td>Director, Furniture,  
 Fittings &amp; Equipment</td>
   </tr>
 			<tr>
-    <td><b>MR BRYAN LEE<b></b></b></td>
+    <td><b>MR BRYAN LEE</b></td>
     <td>Director, Non-medical Supplies  </td>
   </tr>
 			<tr>
-    <td><b>MS MARILYN CHIA<b></b></b></td>
-    <td>Deputy Director,  
+    <td><b>MS MARILYN CHIA</b></td>
+    <td>Deputy Director, 
 Legal &amp; Contracts Management</td>
   </tr>
 </tbody></table>
@@ -98,7 +97,7 @@ Legal &amp; Contracts Management</td>
   <tr>
 		<td><b>MS LER SOCK HOON</b></td>
     <td>Lead, Site Operations, 
-			SingHealth</td>
+			SingHealth n</td>
   </tr>
   <tr>
     <td><b>MS AGNES TIONG<b></b></b></td>
