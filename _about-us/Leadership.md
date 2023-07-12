@@ -64,10 +64,9 @@ Fittings &amp; Equipment</td>
 
 <table style="width:100%">
   <tbody><tr>
-	
   </tr>
   <tr>
-		<td><b>MS LER SOCK HOON</b></td>
+		<td style="width:40%"><b>MS LER SOCK HOON</b></td>
     <td>Lead, Site Operations, SingHealth</td>
   </tr>
   <tr>
@@ -82,12 +81,13 @@ Fittings &amp; Equipment</td>
   </tr>
 </tbody></table>
 
-
-
-
-
-
-
-
-
 #### Strategic Planning, Development and Communications
+
+<table style="width:100%">
+  <tbody><tr>
+  </tr>
+  <tr>
+		<td style="width:40%"><b>MR VICTOR KUAN </b></td>
+    <td>Deputy Director</td>
+  </tr>
+</tbody></table>
