@@ -54,36 +54,59 @@ Director, Non-medical&nbsp;Supplies
 Deputy Director,  
 Legal &amp; Contracts Management
 
+<table style="width:100%">
+  <tbody><tr>
+	
+  </tr>
+  <tr>
+		<td><b>MR JACKSON LIM</b></td>
+    <td>Director, Transformation/Non-medical Services/Community Care</td>
+  </tr>
+  <tr>
+    <td><b>MS MABEL PHNG<b></b></b></td>
+    <td>Deputy Director,  
+Pharmaceuticals</td>
+  </tr>
+  <tr>
+    <td><b>MS NINA ZHANG<b></b></b></td>
+    <td>Special Projections</td>
+  </tr>
+			<tr>
+    <td><b>MS ESTHER HO<b></b></b></td>
+    <td>Director, Furniture,  
+Fittings &amp; Equipment</td>
+  </tr>
+			<tr>
+    <td><b>MR BRYAN LEE<b></b></b></td>
+    <td>Director, Non-medical Supplies  </td>
+  </tr>
+			<tr>
+    <td><b>MS MARILYN CHIA<b></b></b></td>
+    <td>Deputy Director,  
+Legal &amp; Contracts Management</td>
+  </tr>
+</tbody></table>
+
+
+
 #### Supply Chain Operations
-
-
-
-
-
-
-
-
-
 
 <table style="width:100%">
   <tbody><tr>
-    <th>Name</th>
-    <th>Appointment</th> 
-		
+	
   </tr>
   <tr>
-    <td>MS LER SOCK HOON</td>
+		<td><b>MS LER SOCK HOON</b></td>
     <td>Lead, Site Operations, 
-		 SingHealth</td>
-   
+			SingHealth</td>
   </tr>
   <tr>
-    <td>MS AGNES TIONG</td>
+    <td><b>MS AGNES TIONG<b></b></b></td>
     <td>Lead, Site Operations, 
 		NHG</td>
   </tr>
   <tr>
-    <td>MS NINA ZHANG</td>
+    <td><b>MS NINA ZHANG<b></b></b></td>
     <td>Lead, Site Operations, 
 		NUHS</td>
   </tr>
