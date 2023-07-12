@@ -217,7 +217,7 @@ x.  transmitting any viruses, worms, defects, Trojan horses or other harmful ele
 <ul>
 6.5. ALPS does not verify and is not in a position to verify any party’s rights to submit any content on or through the Website or Website Functions, and ALPS takes no responsibility and assumes no liability, whether direct or indirect or any incidental, special, indirect or consequential damages whatsoever, including, without limitation, damages for loss of profits or any other commercial damages or losses, for any content posted by you or any third party, or for your use of the same. ALPS and its vendors believe their data and text services to be reliable but accuracy is not warranted or guaranteed.
 </ul>
-	<ul>
+<ul>
 6.6. You acknowledge and agree that ALPS does not endorse or recommend, is not an agent, reseller or distributor of, and has no control over any of the products or services which may be offered or made available by any third party on or through the Website or the Website Functions, and ALPS hereby expressly disclaims all liabilities and responsibilities arising in relation to any such products or services whether available or advertised via the Website or on a third party website.
 </ul>
 <ul>
