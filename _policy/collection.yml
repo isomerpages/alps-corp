@@ -1,4 +1,5 @@
 collections:
   policy:
     output: true
-    order: []
+    order:
+      - WHISTLEBLOWING/.keep
