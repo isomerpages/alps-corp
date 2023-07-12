@@ -1,0 +1,4 @@
+collections:
+  policy:
+    output: true
+    order: []
