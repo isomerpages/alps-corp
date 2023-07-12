@@ -284,8 +284,7 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 7.3 Further, nothing in this Website T&amp;Cs constitutes any representation or warranty by us as to your rights (if any) to use any content submitted by any third parties, including Third Party Content, all of which representations and warranties are expressly disclaimed.
 </ul>
 
-**8.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Indemnity**  
-      
+**8.**&nbsp;&nbsp;&nbsp;&nbsp;  **Indemnity**  
       
 <ul>
 8.1 You agree to indemnify, defend and hold harmlessALPS, its officers, directors, employees and agents from and against all claims, demands, losses, expenses, damages, costs and liability, including reasonable attorneys' fees, arising out of or in connection with any breach of these Website T&amp;Cs, any breach of any applicable law by you, your breach of any third party’s rights, your use of the Website or the Website Functions or any activity related to your use of the Website (including but not limited to infringement of third parties' worldwide intellectual property rights or negligent or wrongful conduct) or any other person accessing the Website using your user name and password.
@@ -294,7 +293,7 @@ f.  we are not liable for any delay or failure of the Website or the Website Fun
 8.2 This clause shall survive the termination or expiration of these Website T&amp;Cs (howsoever caused).
 </ul>
 
-**9.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Limitation of Liability**  
+**9.**&nbsp;&nbsp;&nbsp;&nbsp;  **Limitation of Liability**  
      
 <ul>
 9.1 To the maximum extent permitted under applicable law:
@@ -358,14 +357,12 @@ a.  ALPS, our officers, directors, employees and agents shall not be liable for 
 </ul>
 
 **15.**&nbsp;&nbsp;&nbsp;&nbsp;  **Governing Law**  
-      
-
-    
+ 
 <ul>
 15.1 These Website T&amp;Cs shall be governed and construed in accordance with the laws of Singapore.
 </ul>
 
-**16.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Arbitration**  
+**16.**&nbsp;&nbsp;&nbsp;&nbsp;  **Arbitration**  
       
 <ul>	
 16.1. By accessing this Website, you agree that final and binding arbitration shall be the sole and exclusive forum and remedy for any and all disputes and claims relating in any way to or arising out of these Website T&amp;Cs, the Website (including your visit to or use of the Website) or the Website Functions, except to the extent that either you or ALPS have in any manner infringed upon or violated or threatened to infringe upon or violate the other party's patent, copyright, trademark or trade secret rights, then the parties acknowledge that arbitration is not an adequate remedy at law and that injunctive or other appropriate relief may be sought.
