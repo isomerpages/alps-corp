@@ -27,62 +27,35 @@ Chief Information Officer
 
 #### Strategic Procurement
 
-**MR JACKSON LIM**  
-Director, Transformation  
-Director, Non-medical Services  
-Director, Community Care
-
-**MS MABEL PHNG**  
-Deputy Director,  
-Pharmaceuticals
-
-**MR WILLIAM ONG**  
-Director,&nbsp;Medical Supplies
-
-**MS NINA ZHANG**  
-Lead, Supply Chain Operations,  
-NUHS &amp; Special Projections
-  
-**MR BRYAN LEE**  
-Director, Furniture,  
-Fittings &amp; Equipment
-
-**MS ESTHER HO**  
-Director, Non-medical&nbsp;Supplies  
- 
-**MS MARILYN CHIA**  
-Deputy Director,  
-Legal &amp; Contracts Management
-
 <table style="width:100%">
   <tbody><tr>
   </tr>
   <tr>
 		<td><b>MR JACKSON LIM</b></td>
-		<td>Director, Transformation / Non-medical Services / Community Care</td>
+		<td>Director, <br>Transformation, Community Care<br> Non-medical Services</td>
   </tr>
   <tr>
     <td><b>MS MABEL PHNG</b></td>
-    <td>Deputy Director,  
-Pharmaceuticals</td>
+    <td>Director,  
+<br>Pharmaceuticals</td>
   </tr>
   <tr>
     <td><b>MS NINA ZHANG</b></td>
     <td>Special Projections</td>
   </tr>
 			<tr>
-    <td><b>MS ESTHER HO</b></td>
-    <td>Director, Furniture,  
+    <td><b>MR BRYAN LEE</b></td>
+    <td>Director, <br>Furniture,  
 Fittings &amp; Equipment</td>
   </tr>
 			<tr>
-    <td><b>MR BRYAN LEE</b></td>
-    <td>Director, Non-medical Supplies  </td>
+    <td><b>MS ESTHER HO</b></td>
+    <td>Director, <br>Non-medical Supplies  </td>
   </tr>
 			<tr>
     <td><b>MS MARILYN CHIA</b></td>
     <td>Deputy Director, 
-Legal &amp; Contracts Management</td>
+<br>Legal &amp; Contracts Management</td>
   </tr>
 </tbody></table>
 
