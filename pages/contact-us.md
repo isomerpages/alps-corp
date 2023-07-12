@@ -26,13 +26,8 @@ locations:
     title: ALPS Procurement Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: ""
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: enquiry@alpshealthcare.com.sg
       - other: ""
-    title: Careers
+    title: General Enquiries
 ---
