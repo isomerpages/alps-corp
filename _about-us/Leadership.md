@@ -69,8 +69,7 @@ Fittings &amp; Equipment</td>
   </tr>
   <tr>
 		<td><b>MS LER SOCK HOON</b></td>
-    <td>Lead, Site Operations, 
-			SingHealth n</td>
+    <td>Lead, Site Operations, SingHealth</td>
   </tr>
   <tr>
     <td><b>MS AGNES TIONG<b></b></b></td>
