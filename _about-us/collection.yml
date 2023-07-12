@@ -1,5 +1,5 @@
 collections:
-  about-alps:
+  about-us:
     output: true
     order:
       - Overview.md
