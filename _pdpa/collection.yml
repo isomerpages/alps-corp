@@ -1,4 +1,5 @@
 collections:
   pdpa:
     output: true
-    order: []
+    order:
+      - PDPA.md
