@@ -2,4 +2,4 @@ collections:
   policy:
     output: true
     order:
-      - WHISTLEBLOWING/.keep
+      - Whistleblowing/.keep
