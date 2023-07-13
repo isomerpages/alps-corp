@@ -3,7 +3,7 @@ title: Leadership
 permalink: /leadership/
 description: ""
 ---
-### Leadership
+## Leadership
 
 **MR PETER TAY**
 <br>Chief Executive Officer  
@@ -25,7 +25,7 @@ Chief Human Resource Officer
 Chief Information Officer
 
 
-### Strategic Procurement
+## Strategic Procurement
 
 <table style="width:100%">
 
@@ -60,7 +60,7 @@ Fittings &amp; Equipment</td>
 
 
 
-### Supply Chain Operations
+## Supply Chain Operations
 
 <table style="width:100%">
   <tbody><tr>
@@ -81,7 +81,7 @@ Fittings &amp; Equipment</td>
   </tr>
 </tbody></table>
 
-### Strategic Planning, Development and Communications
+## Strategic Planning, Development and Communications
 
 <table style="width:100%">
   <tbody><tr>
