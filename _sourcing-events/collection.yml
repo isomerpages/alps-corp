@@ -1,5 +1,5 @@
 collections:
-  national-sourcing-events:
+  sourcing-events:
     output: true
     order:
       - National Sourcing Events.md
