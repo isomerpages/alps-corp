@@ -19,3 +19,4 @@ Identifying appropriate avenues and course of treatments near the patients’ ho
 ### Moving Beyond Quality To Value
 
 Innovative use of technology to eliminate unnecessary administrative processes, improve the delivery of healthcare services, and raise the productivity of our healthcare workers.
+
