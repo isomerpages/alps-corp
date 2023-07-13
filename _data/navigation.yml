@@ -8,13 +8,11 @@ links:
     url: /nationallogistics/
   - title: Green Procurement
     collection: green-procurement
-  - title: PDPA
-    url: /pdpa/
+  - title: Policy
+    collection: policy
   - title: Careers
     collection: careers
   - title: Resources
     url: /resources/
   - title: Contact Us
     url: /contactus/
-  - title: Policy
-    collection: policy
