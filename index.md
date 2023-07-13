@@ -38,6 +38,8 @@ sections:
       alt: Image alt text
       url: /visionmissionvalue/
       image: /images/vision mission values.png
+      description: To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in
+        transforming healthcare.
   - infopic:
       title: Green Procurement
       button: Find out more
