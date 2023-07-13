@@ -3,7 +3,7 @@ title: ALPS Contract Template
 permalink: /alpscontracttemplate/
 description: ""
 ---
-##### PROCESS GUIDELINES & CONTRACT TEMPLATES
+#### PROCESS GUIDELINES & CONTRACT TEMPLATES
 
 * ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipment, and services for Singapore’s three Public Healthcare Clusters (clusters) and their Public Healthcare Institutions (PHIs).
 
@@ -28,7 +28,7 @@ PROCUREMENT NOTIFICATION
 | PHIs     | Respective PHIs' Websites  |
 
 
-##### ALPS' STANDARD TERMS & CONDITIONS
+#### ALPS' STANDARD TERMS & CONDITIONS
 
 * All new and existing purchase orders will be governed by ALPS' Standard Terms & Conditons and Master Agreements. 
 * Vendors are encouraged to refer to ALPS' contract templates below to learn more.
