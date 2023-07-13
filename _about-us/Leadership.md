@@ -70,12 +70,12 @@ Fittings &amp; Equipment</td>
     <td>Lead, Site Operations, SingHealth</td>
   </tr>
   <tr>
-    <td><b>MS AGNES TIONG<b></b></b></td>
+    <td><b>MS AGNES TIONG</b></td>
     <td>Lead, Site Operations, 
 		NHG</td>
   </tr>
   <tr>
-    <td><b>MS NINA ZHANG<b></b></b></td>
+    <td><b>MS NINA ZHANG</b></td>
     <td>Lead, Site Operations, 
 		NUHS</td>
   </tr>
