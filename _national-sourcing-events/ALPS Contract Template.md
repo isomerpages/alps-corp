@@ -11,8 +11,8 @@ description: ""
 
 * In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
 
-| PROCUREMENT NOTIFICATION |
-| --- |
+PROCUREMENT NOTIFICATION
+
 * Request for Proposal (RFP)
 * Request for Information (RFI)
 * Invitation for Quote (ITQ)
