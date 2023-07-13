@@ -6,7 +6,7 @@ description: ""
 ### Leadership
 
 **MR PETER TAY**
-Chief Executive Officer  
+<br>Chief Executive Officer  
 Chief Procurement Officer
 
 **MR CHAN BENG SENG**  
