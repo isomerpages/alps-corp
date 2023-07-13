@@ -44,4 +44,6 @@ sections:
       alt: Image alt text
       url: /ourcommitment/
       image: /images/green logo.png
+      description: ALPS is committed to protecting the environment through its
+        Procurement and Supply Chain Practices
 ---
