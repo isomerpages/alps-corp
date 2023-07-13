@@ -50,7 +50,7 @@ c. not to interfere or attempt to interfere with the operation or functionality 
 d. not to obtain or attempt to obtain; unauthorise; access, via whatever means, to any of ALPS’ systems.
 </ul></ul>
 <ul>
-If ALPS, in its sole discretion, believes that you are in breach, or will be in breach of any of these Terms of Use, ALPS reserves its rights to deny you access to this Web Site without giving you a reason and/or without further reference to you.
+2.2 If ALPS, in its sole discretion, believes that you are in breach, or will be in breach of any of these Terms of Use, ALPS reserves its rights to deny you access to this Web Site without giving you a reason and/or without further reference to you.
 </ul>
 
 **3.**&nbsp;&nbsp;&nbsp;&nbsp;  **Intellectual Property Rights** 
