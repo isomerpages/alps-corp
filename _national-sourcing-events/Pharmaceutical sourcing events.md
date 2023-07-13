@@ -24,11 +24,11 @@ ____________________________________________________________
 ##### DOCUMENT LINKS
 ____________________________________________________________
 
-[Purchasing Programme 2023]()
+[Purchasing Programme 2023](/files/Pharma%20Sourcing%20Events/alps_purchasing_programme.pdf)
 
-[Evaluation Criteria (Pharma Products)]()
+[Evaluation Criteria (Pharma Products](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf)
 
-[Evaluation Criteria (Unregistered Drugs)]()
+[Evaluation Criteria (Unregistered Drugs)](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf)
 
 [Drugs & Pharma Products RFP Results (Update on 8 June 2023)](/files/Pharma%20Sourcing%20Events/rfp%20results.pdf)
 
