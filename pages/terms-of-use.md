@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 **WELCOME**
 
-**PLEASE READ THESE TERMS AND CONDITIONS (INCLUDING OUR DATA PROTECTION POLICY**[**https://www.alpshealthcare.com.sg/pdpa**](https://www.alpshealthcare.com.sg/pdpa)**) CAREFULLY BEFORE USING THIS WEBSITE AND/OR THE SERVICES OR FUNCTIONS OF THE WEBSITE SO THAT YOU ARE AWARE OF YOUR LEGAL RIGHTS AND OBLIGATIONS WITH RESPECT TO -ALPS PTE LTD AND/OR ITS RELATED CORPORATIONS (INDIVIDUALLY AND COLLECTIVELY, “ALPS”, “WE”, “US”, AS THE CASE MAY BE).**
+**PLEASE READ THESE TERMS AND CONDITIONS (INCLUDING OUR DATA PROTECTION POLICY** ([https://www.alpshealthcare.com.sg/policy/pdpa](/policy/pdpa)**) CAREFULLY BEFORE USING THIS WEBSITE AND/OR THE SERVICES OR FUNCTIONS OF THE WEBSITE SO THAT YOU ARE AWARE OF YOUR LEGAL RIGHTS AND OBLIGATIONS WITH RESPECT TO -ALPS PTE LTD AND/OR ITS RELATED CORPORATIONS (INDIVIDUALLY AND COLLECTIVELY, “ALPS”, “WE”, “US”, AS THE CASE MAY BE).**
 
 These Terms and Conditions (together with the documents referred to in it which are hereby incorporated by reference) (collectively, “**Website T&amp;Cs**”) informs you of the terms on which you may use our website (“**Website**”), whether as a guest or a registered user. Use of the Website includes accessing, browsing, or registering to use the Website and the functions and services offered on or made available through the Website (collectively “**Website Functions**”).
 
