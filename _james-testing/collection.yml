@@ -2,4 +2,5 @@ collections:
   james-testing:
     output: true
     order:
+      - James Sections Testing.md
       - James Page 01.md
