@@ -9,6 +9,8 @@ description: ""
    </a>
 </div>
 
-
+<section>
+	      <img class="img-responsive img-thumbnail" style="border-width: 0px; margin: 0px; padding: 0px; width: 100%; height: auto;" alt="" src="https://www.alpshealthcare.com.sg/images_20221/alps_sourcing_pharma_4x_1280x320.png">
+	</section>
 
 [Kim Hwee Test](/kimhwee/)
