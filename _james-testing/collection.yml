@@ -1,0 +1,4 @@
+collections:
+  james-testing:
+    output: true
+    order: []
