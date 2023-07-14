@@ -50,7 +50,11 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: Infobar description
+      description: <iframe allow="autoplay; clipboard-write; encrypted-media;
+        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
+        scrolling="no" style="border:none;overflow:hidden" height="314"
+        width="560"
+        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falpshealthcaresupplychain%2Fvideos%2F978270296704915%2F&show_text=false&width=560&t=0"></iframe>
       button: Button Text
   - infopic:
       title: Infopic Title
