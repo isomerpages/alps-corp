@@ -1,4 +1,5 @@
 collections:
   james-testing:
     output: true
-    order: []
+    order:
+      - James Page 01.md
