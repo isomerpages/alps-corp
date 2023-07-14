@@ -4,8 +4,8 @@ title: ALPS Healthcare
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "NOTICE FOR VENDORS: CLICK HERE FOR PHARMACEUTICAL RFP RESULTS FOR
-  WEEK OF 14 JULY 2023"
+notification: "(Need to remove) NOTICE FOR VENDORS: CLICK HERE FOR
+  PHARMACEUTICAL RFP RESULTS FOR WEEK OF 14 JULY 2023"
 sections:
   - hero:
       url: /contact-us/
@@ -57,13 +57,13 @@ sections:
         src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falpshealthcaresupplychain%2Fvideos%2F978270296704915%2F&show_text=false&width=560&t=0"></iframe>
       button: Button Text
   - infopic:
-      title: Infopic Title
+      title: Infopic Title (Need to Remove)
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      title: Resources Section Title (Need to Remove)
+      subtitle: "Resources Section Subtitle "
       button: Resources Button Name
 ---
