@@ -47,23 +47,4 @@ sections:
       image: /images/green logo.png
       description: ALPS is committed to protecting the environment through its
         Procurement and Supply Chain Practices
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: <iframe allow="autoplay; clipboard-write; encrypted-media;
-        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
-        scrolling="no" style="border:none;overflow:hidden" height="314"
-        width="560"
-        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falpshealthcaresupplychain%2Fvideos%2F978270296704915%2F&show_text=false&width=560&t=0"></iframe>
-      button: Button Text
-  - infopic:
-      title: Infopic Title (Need to Remove)
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - resources:
-      title: Resources Section Title (Need to Remove)
-      subtitle: "Resources Section Subtitle "
-      button: Resources Button Name
 ---
