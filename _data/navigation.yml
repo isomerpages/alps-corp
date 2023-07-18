@@ -10,9 +10,9 @@ links:
     collection: green-procurement
   - title: Policy
     collection: policy
+  - title: Career
+    url: /career/
   - title: Media
     url: /resources/
   - title: Contact Us
     url: /contact-us/
-  - title: James Testing
-    collection: james-testing
