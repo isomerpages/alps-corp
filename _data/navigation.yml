@@ -1,15 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/alps, tagline, black, transparent, 1000x921.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Sourcing Events
+    collection: sourcing-events
+  - title: National Logistics
+    url: /nationallogistics/
+  - title: Green Procurement
+    collection: green-procurement
+  - title: Policy
+    collection: policy
+  - title: Career
+    url: /career/
+  - title: Media
+    url: /resources/
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

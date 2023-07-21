@@ -1,0 +1,9 @@
+collections:
+  sourcing-events:
+    output: true
+    order:
+      - National Sourcing Events.md
+      - CEO's Welcome Letter.md
+      - Pharmaceutical sourcing events.md
+      - Our Code of Conduct.md
+      - ALPS Contract Template.md
