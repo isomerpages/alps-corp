@@ -39,5 +39,17 @@ PROCUREMENT NOTIFICATION
 
 #### NUHS' TEMPLATES : REQUEST FOR PROPOSALS
 
-Cluster Level Equipment
-* Master Terms and Conditions For the lease
+Cluster Level : Equipment
+* [Master Terms and Conditions For The Lease of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20LEVEL%20:%20Equipment/2_1_a_rfp_cluster%20procurement_t%20and%20c_lease%20of%20equipment_v2_31_03_23.pdf)
+* [Master Terms and Conditions For the Purchase of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20LEVEL%20:%20Equipment/2_1_b_rfp_cluster%20procurement_t%20and%20c_medical%20equipment%20onetime%20and%20term_v2%20(31_03_23).pdf)
+
+Cluster Level : Goods
+* 
+
+Cluster Level : Services
+
+Institution Level : Equipment
+
+Institution Level : Goods
+
+Institution Level : Services
