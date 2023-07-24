@@ -51,10 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1nskbz02w25xt.amplifyapp.com
 prod: https://master.d1nskbz02w25xt.amplifyapp.com
-facebook-pixel: ""
-shareicon: ""
+facebook-pixel: "267117415265946"
+shareicon: /images/isomer-logo.svg
 is_government: false
 google_analytics: ""
-google_analytics_ga4: ""
+google_analytics_ga4: G-PBTDQNC1PD
 linkedin-insights: ""
 resources_name: resources
