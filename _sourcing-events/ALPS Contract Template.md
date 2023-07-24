@@ -87,3 +87,13 @@ Institution Level : Equipment
 * [General Terms And Conditions For The Lease Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Equipment/2_1_2_a_rfq_institution_procurement_t_and_c_lease_of_equipment_v2_(31_03_23).pdf)
 * [General Terms And Conditions For The Purchase Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Equipment/2_1_2_b_rfq_institution_procurement_t_and_c_med_equip_one_time_blanket_and_term_v2_(31_03_23).pdf)
 
+Cluster Level : Goods
+* [Master Terms And Conditions For The Supply Of Equipment (FOC) & Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Goods/2_1_3_a_rfq_institution_procurement_t_and_c_goods_placement_equip_consign_v2_(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Equipment (FOC) & Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Goods/2_1_3_b_rfq_institution_procurement_t_and_c_goods_placement_equip_indent_v2_(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Goods/2_1_3_c_rfq_institution_procurement_t_and_c_goods_term_under_consign_v2_(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Goods](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Goods/2_1_3_d_rfq_institution_procurement_t_and_c_goods_one_time_blanket_and_term_ind_v2_(31_03_23).pdf)
+
+Cluster Level : Services
+* [General Terms And Conditions For The Supply Of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Services/2_1_4_a_rfq_institution_procurement_t_and_c_services_v2_(31_03_23).pdf)
+* [General Terms And Conditions For The Supply of BME Maintenance Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Services/2_1_4_b_c_rfq_institution_procurement_t_and_c_services_bme_maintenance_services_v3_(31_03_23).pdf)
+
