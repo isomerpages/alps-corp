@@ -15,7 +15,7 @@ sections:
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/-FmArzB3coM" height="auto"
-        width="100%"></iframe>
+        width="auto"></iframe>
   - infopic:
       title: Overview
       description: ALPS’ Vision, Mission and Value statements challenge us to put the
