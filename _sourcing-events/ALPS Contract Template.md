@@ -60,7 +60,13 @@ Cluster Level : Services
 Institution Level : Equipment
 * [General Terms And Conditions For The Lease Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Equipment/2_4_a_rfp_institution_procurement_t_and_c_lease_of_equipment_v2_(31_03_23).pdf)
 * [General Terms And Conditions For The Purchase Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Equipment/2_4_b_rfp_institution_procurement_t_and_c_medical_equip_one_time_and_term_v2_(31_03_23).pdf)
+* [General Terms And Conditions For The Supply Of Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/INSTITUTION%20LEVEL%20GOODS/2_5_c_rfp_institution_procurement_t_and_c_goods_term_under_consign_v2_(31_03_23).pdf)
+* [General Terms And Conditions For The Supply Of Goods (Indents)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/INSTITUTION%20LEVEL%20GOODS/2_5_d_rfp_institution_procurement_t_and_c_goods_one_time_term_indent_v2_(31_03_23).pdf)
+
+
 Institution Level : Goods
+* [General Terms And Conditions For The Supply Of Equipment (FOC) & Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/INSTITUTION%20LEVEL%20GOODS/2_5_a_rfp_institution_procurement_t_and_c_goods_placement_equip_cons_consign_v2_(31_03_23).pdf)
+* [General Terms And Conditions For The Supply Of Equipment (FOC) & Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/INSTITUTION%20LEVEL%20GOODS/2_5_b_rfp_institution%20procurement_t_and_c_goods_placement_equip_cons_ind_v2_(31_03_23).pdf)
 
 Institution Level : Services
 * [General Terms And Conditions For The Supply of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_a_rfp_institution%20procurement_t%20and%20c_services_v2%20(31_03_23).pdf)
