@@ -44,7 +44,10 @@ Cluster Level : Equipment
 * [Master Terms and Conditions For the Purchase of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20LEVEL%20:%20Equipment/2_1_b_rfp_cluster%20procurement_t%20and%20c_medical%20equipment%20onetime%20and%20term_v2%20(31_03_23).pdf)
 
 Cluster Level : Goods
-* 
+* [Master Terms and Conditions For the Supply of Equipment (FOC) & Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_a_rfp_cluster%20procurement_t%20and%20c_goods_foc-equip-placement_term_indent_v2%20(31_03_23).pdf)
+* [Master Terms and Conditions For The supply of Equipment (FOC) & Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_b_rfp_cluster%20procurement_t%20and%20c_goods_foc-equip-placement_term_consign_v2%20(31_03_23).pdf)
+* [Master Terms and Conditions For the Supply of Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_c_rfp_cluster%20procurement_t%20and%20c_goods_onetime-termcontract_indent_v2%20(31_03_23).pdf)
+* [Master Terms and Conditions For the Supply of Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_d_rfp_cluster%20procurement_t%20and%20c_goods_termcontract_consign_v2(31_03_23).pdf)
 
 Cluster Level : Services
 
