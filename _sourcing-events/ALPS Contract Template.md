@@ -74,3 +74,16 @@ Institution Level : Services
 * [General Terms And Conditions For The Supply of Consultancy Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_c_rfp_institution%20procurement_t%20and%20c_services_consultancy%20services_v2%20(31_03_23).pdf)
 * [Appointment Of Project Manager For Minor Project Works](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_d_e_rfp_institution%20procurement_t%20and%20c_services_projectmanagement_v3%20(31_03_23).pdf)
 * [Appointment Of Project Manager For Minor Project Works (Nominal Fee Option)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/nuhs_rfp_procurement_t&c_services_project_management_contract_nominal_fee_option_v21_300921.pdf)
+
+#### NUHS' TEMPLATES : REQUEST FOR QUOTATION
+
+Cluster Level : Equipment, Goods & Services
+* [Master Terms And Conditions For The Purchase Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20EQUIPMENT%20RFQS/2_1_1_a_rfq_cluster%20procurement_t%20and%20c_medical%20equipment_v2%20(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Cluster%20Equipment/2_1_1_b_rfq_cluster%20procurement_t%20and%20c_goods_onetime-termcontract_consign_v3%20(31_03_23)%20(1).pdf)
+* [Master Terms And Conditions For The Supply Of Goods (indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Cluster%20Equipment/2_1_1_c_rfq_cluster%20procurement_t%20and%20c_goods_onetime-termcontract_indent_v3%20(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Cluster%20Equipment/2_1_1_c_rfq_cluster%20procurement_t%20and%20c_goods_onetime-termcontract_indent_v3%20(31_03_23).pdf)
+
+Institution Level : Equipment
+* [General Terms And Conditions For The Lease Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Equipment/2_1_2_a_rfq_institution_procurement_t_and_c_lease_of_equipment_v2_(31_03_23).pdf)
+* [General Terms And Conditions For The Purchase Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/RFQs%20Institution%20Equipment/2_1_2_b_rfq_institution_procurement_t_and_c_med_equip_one_time_blanket_and_term_v2_(31_03_23).pdf)
+
