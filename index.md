@@ -14,8 +14,8 @@ sections:
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/-FmArzB3coM" height="auto"
-        width="auto"></iframe>
+        src="https://www.youtube.com/embed/-FmArzB3coM" height="315"
+        width="100%"></iframe>
   - infopic:
       title: Overview
       description: ALPS’ Vision, Mission and Value statements challenge us to put the
