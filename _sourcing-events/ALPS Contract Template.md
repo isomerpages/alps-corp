@@ -58,7 +58,13 @@ Cluster Level : Services
 * [Master Maintenance Service Agreement BME Appendices](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_f_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20bme%20appendices_v1.pdf)
 
 Institution Level : Equipment
+* 
 
 Institution Level : Goods
 
 Institution Level : Services
+* [General Terms And Conditions For The Supply of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_a_rfp_institution%20procurement_t%20and%20c_services_v2%20(31_03_23).pdf)
+* [General Terms And Conditions For The Supply of Maintenance Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_b_rfp_institution%20procurement_t%20and%20c_services_bme%20maintenanceservices_v3%20(31_03_23).pdf)
+* [General Terms And Conditions For The Supply of Consultancy Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_c_rfp_institution%20procurement_t%20and%20c_services_consultancy%20services_v2%20(31_03_23).pdf)
+* [Appointment of Project Manager for Minor Project Works](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_d_e_rfp_institution%20procurement_t%20and%20c_services_projectmanagement_v3%20(31_03_23).pdf)
+* [Appointment of Project Manager for Minor Project Works (Nominal Fee Option)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/nuhs_rfp_procurement_t&c_services_project_management_contract_nominal_fee_option_v21_300921.pdf)
