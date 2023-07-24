@@ -50,6 +50,12 @@ Cluster Level : Goods
 * [Master Terms and Conditions For the Supply of Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_d_rfp_cluster%20procurement_t%20and%20c_goods_termcontract_consign_v2(31_03_23).pdf)
 
 Cluster Level : Services
+* [Master Agreement For Facilities Management Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_a_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20bme_v2%20(31_03_23).pdf)
+* [Master Agreement For The Supply of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_b_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20fm_v2%20(31_03_23).pdf)
+* [Master Agreement For The Supply of Services (No Liquidated Damages)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_c_rfp_cluster%20procurement_t%20and%20c_services_v2%20(31_03_23).pdf)
+* [Master Agreement For The Supply of Services (With PHI Contracts)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_d_rfp_cluster%20procurement_t%20and%20c_services_no%20ld_v2%20(31_03_23).pdf)
+* [Master Maintenance Service BME Agreement](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_e_rfp_cluster%20procurement_t%20and%20c_services_with%20institution%20contracts_v2%20(31_03_23).pdf)
+* [Master Maintenance Service Agreement BME Appendices](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_f_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20bme%20appendices_v1.pdf)
 
 Institution Level : Equipment
 
