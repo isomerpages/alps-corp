@@ -35,3 +35,9 @@ PROCUREMENT NOTIFICATION
 * ALPS will retain the final sourcing decisions and approvals for contractual commitments binding ALPS and vendors.
 * Please continue to supply the product(s) and/or service(s) in accordance with existing contractual and business arrangements with ALPS.
 * Click [here]() for ALPS' Standard Terms & Conditions.
+
+
+#### NUHS' TEMPLATES : REQUEST FOR PROPOSALS
+
+Cluster Level Equipment
+* Master Terms and Conditions For the lease
