@@ -40,31 +40,31 @@ PROCUREMENT NOTIFICATION
 #### NUHS' TEMPLATES : REQUEST FOR PROPOSALS
 
 Cluster Level : Equipment
-* [Master Terms and Conditions For The Lease of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20LEVEL%20:%20Equipment/2_1_a_rfp_cluster%20procurement_t%20and%20c_lease%20of%20equipment_v2_31_03_23.pdf)
-* [Master Terms and Conditions For the Purchase of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20LEVEL%20:%20Equipment/2_1_b_rfp_cluster%20procurement_t%20and%20c_medical%20equipment%20onetime%20and%20term_v2%20(31_03_23).pdf)
+* [Master Terms And Conditions For The Lease Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20LEVEL%20:%20Equipment/2_1_a_rfp_cluster%20procurement_t%20and%20c_lease%20of%20equipment_v2_31_03_23.pdf)
+* [Master Terms And Conditions For The Purchase Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/CLUSTER%20LEVEL%20:%20Equipment/2_1_b_rfp_cluster%20procurement_t%20and%20c_medical%20equipment%20onetime%20and%20term_v2%20(31_03_23).pdf)
 
 Cluster Level : Goods
-* [Master Terms and Conditions For the Supply of Equipment (FOC) & Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_a_rfp_cluster%20procurement_t%20and%20c_goods_foc-equip-placement_term_indent_v2%20(31_03_23).pdf)
-* [Master Terms and Conditions For The supply of Equipment (FOC) & Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_b_rfp_cluster%20procurement_t%20and%20c_goods_foc-equip-placement_term_consign_v2%20(31_03_23).pdf)
-* [Master Terms and Conditions For the Supply of Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_c_rfp_cluster%20procurement_t%20and%20c_goods_onetime-termcontract_indent_v2%20(31_03_23).pdf)
-* [Master Terms and Conditions For the Supply of Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_d_rfp_cluster%20procurement_t%20and%20c_goods_termcontract_consign_v2(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Equipment (FOC) & Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_a_rfp_cluster%20procurement_t%20and%20c_goods_foc-equip-placement_term_indent_v2%20(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Equipment (FOC) & Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_b_rfp_cluster%20procurement_t%20and%20c_goods_foc-equip-placement_term_consign_v2%20(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Goods (Consignment)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_c_rfp_cluster%20procurement_t%20and%20c_goods_onetime-termcontract_indent_v2%20(31_03_23).pdf)
+* [Master Terms And Conditions For The Supply Of Goods (Indent)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20:%20Goods/2_2_d_rfp_cluster%20procurement_t%20and%20c_goods_termcontract_consign_v2(31_03_23).pdf)
 
 Cluster Level : Services
 * [Master Agreement For Facilities Management Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_a_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20bme_v2%20(31_03_23).pdf)
-* [Master Agreement For The Supply of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_b_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20fm_v2%20(31_03_23).pdf)
+* [Master Agreement For The Supply Of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_b_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20fm_v2%20(31_03_23).pdf)
 * [Master Agreement For The Supply of Services (No Liquidated Damages)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_c_rfp_cluster%20procurement_t%20and%20c_services_v2%20(31_03_23).pdf)
 * [Master Agreement For The Supply of Services (With PHI Contracts)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_d_rfp_cluster%20procurement_t%20and%20c_services_no%20ld_v2%20(31_03_23).pdf)
 * [Master Maintenance Service BME Agreement](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_e_rfp_cluster%20procurement_t%20and%20c_services_with%20institution%20contracts_v2%20(31_03_23).pdf)
 * [Master Maintenance Service Agreement BME Appendices](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Cluster%20Level%20%20%20Services/2_3_f_rfp_cluster%20procurement_t%20and%20c_services_master%20maintenance%20bme%20appendices_v1.pdf)
 
 Institution Level : Equipment
-* 
-
+* [General Terms And Conditions For The Lease Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Equipment/2_4_a_rfp_institution_procurement_t_and_c_lease_of_equipment_v2_(31_03_23).pdf)
+* [General Terms And Conditions For The Purchase Of Equipment](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Equipment/2_4_b_rfp_institution_procurement_t_and_c_medical_equip_one_time_and_term_v2_(31_03_23).pdf)
 Institution Level : Goods
 
 Institution Level : Services
 * [General Terms And Conditions For The Supply of Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_a_rfp_institution%20procurement_t%20and%20c_services_v2%20(31_03_23).pdf)
 * [General Terms And Conditions For The Supply of Maintenance Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_b_rfp_institution%20procurement_t%20and%20c_services_bme%20maintenanceservices_v3%20(31_03_23).pdf)
 * [General Terms And Conditions For The Supply of Consultancy Services](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_c_rfp_institution%20procurement_t%20and%20c_services_consultancy%20services_v2%20(31_03_23).pdf)
-* [Appointment of Project Manager for Minor Project Works](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_d_e_rfp_institution%20procurement_t%20and%20c_services_projectmanagement_v3%20(31_03_23).pdf)
-* [Appointment of Project Manager for Minor Project Works (Nominal Fee Option)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/nuhs_rfp_procurement_t&c_services_project_management_contract_nominal_fee_option_v21_300921.pdf)
+* [Appointment Of Project Manager For Minor Project Works](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_d_e_rfp_institution%20procurement_t%20and%20c_services_projectmanagement_v3%20(31_03_23).pdf)
+* [Appointment Of Project Manager For Minor Project Works (Nominal Fee Option)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/nuhs_rfp_procurement_t&c_services_project_management_contract_nominal_fee_option_v21_300921.pdf)
