@@ -21,6 +21,11 @@ You may also click on the links below for an overview of the sourcing events for
 
 ```
 
+<div>
+
+  
+
+
 
 &nbsp; &nbsp; 
 
@@ -112,8 +117,13 @@ You may also click on the links below for an overview of the sourcing events for
 
 
 
+  
+
+
+
+
 ```
 
 Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access&nbsp;[**Ariba eProcurement System**](https://www.ariba.com/)&nbsp;for final updates.
 
-Please&nbsp;[**email us**](mailto:alps_operations@alpshealthcare.com.sg)&nbsp;for more details.</a></td></tr></tbody></table>
+Please&nbsp;[**email us**](mailto:alps_operations@alpshealthcare.com.sg)&nbsp;for more details.</a></td></tr></tbody></table></div>
