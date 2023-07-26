@@ -26,3 +26,5 @@ description: ""
 
 
 [DOWNLOAD DOCUMENT HERE](/files/alps%20pdpa%20policy.pdf)
+
+[download](/files/covid19%20_resilience_medal_alps_recipients.pdf)
