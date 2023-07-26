@@ -22,8 +22,8 @@ You may also click on the links below for an overview of the sourcing events for
 
 <table style="border-width: 0; color: white">
 	<tbody><tr style="border-width: 0;">
-		<td>
-			<a style="color: white; font-size: 2em; font-weight: bold; text-decoration: none;" target="_blank" role="button" class="btn btn-primary btn-lg btn-block" href="https://www.alpshealthcare.com.sg/">JAN</a>
+		<td style="margin: 0.5em; adding: 0.5em" class="thumbnail">
+			<a target="_blank" href="/files/SOURCING%20EVENTS/june%202023.pdf"><span style="font-size: 2em; font-weight: bold; text-align: center; text-decoration: none">JAN</span></a>
 		</td>
 		<td>
 			<a style="color: white; font-size: 2em; font-weight: bold; text-decoration: none;" target="_blank" role="button" class="btn btn-primary btn-lg btn-block" href="https://www.alpshealthcare.com.sg/">FEB</a>
