@@ -1,12 +1,8 @@
 ---
-title: Career
-permalink: /career/
+title: TEST PAGE
+permalink: /testpage/
 description: ""
-image: /images/coming soon.png
 ---
-![](/images/coming%20soon.png)
-
-
 <table>
   <tbody>
     <tr>

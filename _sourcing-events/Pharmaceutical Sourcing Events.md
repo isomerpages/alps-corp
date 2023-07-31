@@ -30,7 +30,7 @@ ____________________________________________________________
 
 [Evaluation Criteria (Unregistered Drugs)](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf)
 
-[Drugs & Pharma Products RFP Results (Update on 20 July 2023)](/files/Pharma%20Sourcing%20Events/rfp%20results.pdf)
+[Drugs & Pharma Products RFP Results (Update on 27 July 2023)](/files/Pharma%20Sourcing%20Events/rfp%20results.pdf)
 
 
 [Estimated Annual Quantities](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf)
