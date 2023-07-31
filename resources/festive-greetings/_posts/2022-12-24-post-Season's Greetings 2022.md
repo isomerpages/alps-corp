@@ -1,6 +1,6 @@
 ---
-title: Merry Christmas!!!
-permalink: /resources/celebration-wishes/merrychristmas2022/
+title: Season's Greetings 2022
+permalink: /resources/celebration-wishes/20221224-seasons-greetings/
 date: 2022-12-24
 layout: post
 description: ""

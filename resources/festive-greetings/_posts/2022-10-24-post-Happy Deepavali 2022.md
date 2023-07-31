@@ -1,6 +1,6 @@
 ---
-title: Happy Deepavali !
-permalink: /resources/celebration-wishes/happydeepavali2022/
+title: Happy Deepavali 2022
+permalink: /resources/celebration-wishes/20221024-happy-deepavali/
 date: 2022-10-24
 layout: post
 description: ""
@@ -12,4 +12,4 @@ Deepavali is marked by the lighting of oil lamps called diyas, hence its other c
 
 Please join us in wishing our Hindu friends and their families a very Happy Deepavali - Festival of Lights.
 
-May the glowing diyas fill their homes with warmth, love and happiness.
+May the glowing diyas fill their homes with warmth, love and happiness!
