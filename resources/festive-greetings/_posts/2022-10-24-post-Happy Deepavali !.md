@@ -12,4 +12,4 @@ Deepavali is marked by the lighting of oil lamps called diyas, hence its other c
 
 Please join us in wishing our Hindu friends and their families a very Happy Deepavali - Festival of Lights.
 
-May the glowing diyas fill their homes with warmth, love and happiness.
+May the glowing diyas fill their homes with warmth, love and happiness!
