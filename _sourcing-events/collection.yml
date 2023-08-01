@@ -2,9 +2,9 @@ collections:
   sourcing-events:
     output: true
     order:
-      - NUHS Contract Templates.md
-      - National Sourcing Events.md
       - CEO's Welcome Letter.md
+      - National Sourcing Events.md
       - Pharmaceutical Sourcing Events.md
       - Our Code of Conduct.md
       - ALPS Contract Templates.md
+      - NUHS Contract Templates.md
