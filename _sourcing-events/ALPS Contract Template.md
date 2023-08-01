@@ -11,22 +11,67 @@ ALPS will enable group contracts at the national level while continuing to facil
 
 In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
 
-<section style="background-color: lightgray">
-	<table class="table table-striped">
-		<thead>
+<section>
+	<table>
+		<thead style="background-color: lightgray">
+			<tr>
+				<th>PROCUREMENT NOTIFICATION</th>
+			</tr>
 		</thead>
 		<tbody>
+			<tr>
+				<td>Request for Proposal (RFP)</td>
+			</tr>
+			<tr>
+				<td>Request for Information (RFI)</td>
+			</tr>
+			<tr>
+				<td>Invitation for Quote (ITQ)</td>
+			</tr>
+			<tr>
+				<td>Tender</td>
+			</tr>
+			<tr>
+				<td>Awarded Contracts</td>
+			</tr>
 		</tbody>
 	</table>
 </section>
 
-| PROCUREMENT NOTIFICATION |
-| ------- |
-| Request for Proposal (RFP) |
-| Request for Information (RFI) |
-| Invitation for Quote (ITQ) |
-| Tender |
-| Awarded Contracts |
+<br>
+
+<section>
+	<table>
+		<thead style="background-color: lightgray">
+			<tr>
+				<th>SOURCING HOST</th>
+				<th>SOURCING PLATFORMS</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>ALPS Strategic Procurement</td>
+				<td>Ariba eProcurement System</td>
+			</tr>
+			<tr>
+				<td>SingHealth Cluster</td>
+				<td>Ariba eProcurement System</td>
+			</tr>
+			<tr>
+				<td>NHG Cluster</td>
+				<td>Sesami eProcurement System</td>
+			</tr>
+			<tr>
+				<td>NUHS Cluster</td>
+				<td>Sesami eProcurement System</td>
+			</tr>
+			<tr>
+				<td>Public Healthcare Institutes</td>
+				<td>Respective PHIs' Websites</td>
+			</tr>
+		</tbody>
+	</table>
+</section>
 
 
 | SOURCING HOST | SOURCING PLATFORMS |
