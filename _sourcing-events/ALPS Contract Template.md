@@ -51,11 +51,11 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 		<tbody>
 			<tr>
 				<td>ALPS Strategic Procurement</td>
-				<td>Ariba eProcurement System</td>
+				<td><b><a target="_blank" href="https://www.ariba.com/">Ariba eProcurement System</a></b></td>
 			</tr>
 			<tr>
 				<td>SingHealth Cluster</td>
-				<td>Ariba eProcurement System</td>
+				<td><b><a target="_blank" href="https://www.ariba.com/">Ariba eProcurement System</a></b></td>
 			</tr>
 			<tr>
 				<td>NHG Cluster</td>
@@ -74,13 +74,7 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 </section>
 
 
-| SOURCING HOST | SOURCING PLATFORMS |
-| -------- | -------- |
-|ALPS Strategic Procurement| [Ariba eProcurement System](https://www.sap.com/products/spend-management.html)  |
-| Singhealth Cluster     | [Ariba eProcurement System](https://www.sap.com/products/spend-management.html)  |
-| NHG Cluster     | Sesami eProcurement System |
-| NUHS Cluster     | Sesami eProcurement System
-| PHIs     | Respective PHIs' Websites  |
+
 
 
 #### ALPS' STANDARD TERMS &amp; CONDITIONS
