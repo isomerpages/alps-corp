@@ -37,7 +37,8 @@ Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 ALPS will retain the final sourcing decisions and approvals for contractual commitments binding ALPS and vendors.
 
 Please continue to supply the product(s) and/or service(s) in accordance with existing contractual and business arrangements with ALPS.
-* Click [here]() for ALPS' Standard Terms & Conditions.
+
+????? * Click [here]() for ALPS' Standard Terms & Conditions. ?????
 
 #### FOR CONTRACT VALUES BELOW S$100K
 
@@ -50,4 +51,3 @@ Please continue to supply the product(s) and/or service(s) in accordance with e
 [Master Agreement For Supply Of Consumables Incorporating The Statement Of Work]()
 [Master Services AGreement (Non-IT Services) Incorporating The Statement Of Work]()
 [Master Services Agreement For Professional IT Services Incorporating The Statement Of Work]()
-
