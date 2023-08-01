@@ -8,7 +8,7 @@ image: ""
 ---
 A couple of our colleagues were recently featured in a Channel 8 News segment to shine a spotlight on some of the lesser-known jobs and roles that keep a hospital functioning and operational.
 
-Mr Terry Teo, Senior Executive, ALPS @ NTFGH Non-Pharmaceutical Logistics, and Mr Henry Lee, Senior Associate, ALPS @ NTFGH Non-Pharmaceutical Logistics describe what their jobs entail and the logistical challenges they faced when the COVID-19 pandemic struck.
+**Mr Terry Teo, Senior Executive, ALPS @ NTFGH Non-Pharmaceutical Logistics**, and **Mr Henry Lee, Senior Associate, ALPS @ NTFGH Non-Pharmaceutical Logistics** describe what their jobs entail and the logistical challenges they faced when the COVID-19 pandemic struck.
 
 Watch the 'Hello Singapore - Interesting Jobs' video clip below. (In Mandarin with Chinese subtitles)
 
@@ -17,7 +17,7 @@ Watch the 'Hello Singapore - Interesting Jobs' video clip below. (In Mandarin wi
 <br>
 
 <section style="background-color: lightgrey; padding: 1em">
-	<p><span style="font-size: 2em; font-weight: bold">狮城有约 - 鲜为人”职”</span>
+	<p><span style="font-size: 2em; font-weight: bold">狮城有约 - 鲜为人"职"</span>
 	<br>HELLO SINGAPORE – INTERESTING JOBS (TRANSCRIPT)</p>
 </section>
 
@@ -155,5 +155,3 @@ Whether in normalcy or during the pandemic, hospital operations require not only
 We have come to the end of ‘Hello Singapore’. For more news updates, do browse our 8world news site and facebook page.
 
 Thank you for watching. See you again.
-
-
