@@ -12,7 +12,7 @@ ALPS will enable group contracts at the national level while continuing to facil
 In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
 
 <section>
-	<table>
+	<table style="border-color: lightgray; border-width: 1px">
 		<thead style="background-color: lightgray">
 			<tr>
 				<th>PROCUREMENT NOTIFICATION</th>
@@ -41,7 +41,7 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 <br>
 
 <section>
-	<table>
+	<table style="border-color: lightgray; border-width: 1px">
 		<thead style="background-color: lightgray">
 			<tr>
 				<th>SOURCING HOST</th>
@@ -98,5 +98,5 @@ Please continue to supply the product(s) and/or service(s)&nbsp;in accordance wi
 [Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work]()
 [Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work]()
 [Master Agreement For Supply Of Consumables Incorporating The Statement Of Work]()
-[Master Services AGreement (Non-IT Services) Incorporating The Statement Of Work]()
+[Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work]()
 [Master Services Agreement For Professional IT Services Incorporating The Statement Of Work]()
