@@ -14,3 +14,5 @@ permalink: /resources/news/20230531-covid-9-resilence-medal-recipients/
 <span style="font-size: 3em; font-weight: bold;">COVID-19 Resilience Medal!</span>
 
 <span style="font-size: 1.8em; font-weight: bold;">Thank you for your dedication and perseverance!</span>
+
+(The COVID-19 Resilience Medal is awarded to staff who have been involved in COVID-19 efforts for a cumulative period of 3 months or more between January 2020 and March 2022.)
