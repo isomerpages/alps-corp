@@ -16,7 +16,6 @@ ALPS is humbled to be conferred the **National Awards (COVID-19)** for going abo
 
 As Singapore's end-to-end healthcare supply chain solutions provider, we remain steadfast in our commitment to supporting the Ministry of Health, Singapore, the Public Healthcare Institutions, and to all Singaporeans as they embark on their lifelong healthcare journeys.
 
-[Click here to find out more](/files/national%20award%20covid%20the%20commendation%20award.pdf)
 
 Congratulations to all receipients of the National Awards (COVID-19)!
 
@@ -36,9 +35,6 @@ If you haven't already, do **'LIKE'** and **'FOLLOW'** our Facebook page.
 		<td style="width: 33%"><b>MR MOSES WONG</b><br>CFO, ALPS</td>
 	</tr>
 </tbody></table>
-
-
-
 
 <span style="font-size: 1.5em; font-weight: bold; text-align: center; color: red">THE PUBLIC ADMINISTRATION MEDAL (BRONZE) (COVID-19)</span>
 
