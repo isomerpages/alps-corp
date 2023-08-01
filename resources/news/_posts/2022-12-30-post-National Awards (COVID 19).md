@@ -19,9 +19,7 @@ As Singapore's end-to-end healthcare supply chain solutions provider, we remain 
 
 Congratulations to all receipients of the National Awards (COVID-19)!
 
-You may also view the following lists of award receipients as a series of infographics on [**ALPS Facebook page**](https://www.facebook.com/alpshealthcaresupplychain/posts/pfbid0jLSprh2CdFhPsdHXhMne5nBnK2pFQibP3w7aY7JSirH3FDBDEqHERTAjEsKnbSmLl).
-
-If you haven't already, do **'LIKE'** and **'FOLLOW'** our Facebook page.
+You may also view the following lists of award receipients as a series of infographics on [**ALPS Facebook page**](https://www.facebook.com/alpshealthcaresupplychain/posts/pfbid0jLSprh2CdFhPsdHXhMne5nBnK2pFQibP3w7aY7JSirH3FDBDEqHERTAjEsKnbSmLl). If you haven't already, do **'LIKE'** and **'FOLLOW'** our Facebook page.
 
 
 <span style="font-size: 1.5em; font-weight: bold; text-align: center; color: red">THE PUBLIC ADMINISTRATION MEDAL (SILVER) (COVID-19)</span>
