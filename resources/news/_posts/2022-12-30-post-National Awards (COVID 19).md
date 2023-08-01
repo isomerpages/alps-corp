@@ -27,9 +27,18 @@ If you haven't already, do **'LIKE'** and **'FOLLOW'** our Facebook page.
 
 <span style="font-size: 1.5em; font-weight: bold; text-align: center; color: red">THE PUBLIC ADMINISTRATION MEDAL (SILVER) (COVID-19)</span>
 
+![](/images/Resources/2022_dec_30_alps_ceo_coo_cfo_head_shots_1280x433.png)	
 	
-	
-	
+<table>
+	<tbody><tr>
+		<td style="width: 33%"><b>MR PETER TAY</b><br>CEO, ALPS</td>
+		<td style="width: 33%"><b>MS WONG LAI YIN</b><br>COO, ALPS</td>
+		<td style="width: 33%"><b>MR MOSES WONG</b><br>CFO, ALPS</td>
+	</tr>
+</tbody></table>
+
+
+
 
 <span style="font-size: 1.5em; font-weight: bold; text-align: center; color: red">THE PUBLIC ADMINISTRATION MEDAL (BRONZE) (COVID-19)</span>
 
