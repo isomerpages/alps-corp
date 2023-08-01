@@ -12,4 +12,4 @@ Mr Terry Teo, Senior Executive, ALPS @ NTFGH Non-Pharmaceutical Logistics, and M
 
 Watch the 'Hello Singapore - Interesting Jobs' video clip below. (In Mandarin with Chinese subtitles)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TjK9NynjurQ" height="315" width="560"></iframe>
+<iframe style="aspect-ratio: 16 / 9; width: 100%; height: auto;" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TjK9NynjurQ" height="315" width="560"></iframe>
