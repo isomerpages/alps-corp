@@ -17,7 +17,7 @@ ALPS is humbled to be conferred the **National Awards (COVID-19)** for going abo
 As Singapore's end-to-end healthcare supply chain solutions provider, we remain steadfast in our commitment to supporting the Ministry of Health, Singapore, the Public Healthcare Institutions, and to all Singaporeans as they embark on their lifelong healthcare journeys.
 
 
-Congratulations to all receipients of the National Awards (COVID-19)!
+Congratulations to all receipients of the **National Awards (COVID-19)!**
 
 You may also view the following lists of award receipients as a series of infographics on [**ALPS Facebook page**](https://www.facebook.com/alpshealthcaresupplychain/posts/pfbid0jLSprh2CdFhPsdHXhMne5nBnK2pFQibP3w7aY7JSirH3FDBDEqHERTAjEsKnbSmLl). If you haven't already, do **'LIKE'** and **'FOLLOW'** our Facebook page.
 
