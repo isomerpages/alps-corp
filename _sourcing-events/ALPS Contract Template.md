@@ -3,13 +3,22 @@ title: ALPS Contract Template
 permalink: /alpscontracttemplate/
 description: ""
 ---
-#### PROCESS GUIDELINES & CONTRACT TEMPLATES
+#### PROCESS GUIDELINES
 
 ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipment, and services for Singapore’s three Public Healthcare Clusters (clusters) and their Public Healthcare Institutions (PHIs).
 
-ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch [sourcing events](/nationalsourcingevents/) through the existing platforms at the respective clusters and PHIs.
+ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch&nbsp;[sourcing events](/nationalsourcingevents/)&nbsp;through the existing platforms at the respective clusters and PHIs.
 
 In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
+
+<section style="background-color: lightgray">
+	<table class="table table-striped">
+		<thead>
+		</thead>
+		<tbody>
+		</tbody>
+	</table>
+</section>
 
 | PROCUREMENT NOTIFICATION |
 | ------- |
@@ -18,6 +27,7 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 | Invitation for Quote (ITQ) |
 | Tender |
 | Awarded Contracts |
+
 
 | SOURCING HOST | SOURCING PLATFORMS |
 | -------- | -------- |
@@ -28,17 +38,17 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 | PHIs     | Respective PHIs' Websites  |
 
 
-#### ALPS' STANDARD TERMS & CONDITIONS
+#### ALPS' STANDARD TERMS &amp; CONDITIONS
 
-All new and existing purchase orders will be governed by ALPS' **Standard Terms & Conditons** and **Master Agreements**. 
+All new and existing purchase orders will be governed by ALPS' **Standard Terms &amp; Conditons** and **Master Agreements**. 
 
 Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 
 ALPS will retain the final sourcing decisions and approvals for contractual commitments binding ALPS and vendors.
 
-Please continue to supply the product(s) and/or service(s) in accordance with existing contractual and business arrangements with ALPS.
+Please continue to supply the product(s) and/or service(s)&nbsp;in accordance with existing contractual and business arrangements with ALPS.
 
-????? * Click [here]() for ALPS' Standard Terms & Conditions. ?????
+????? * Click [here]() for ALPS' Standard Terms &amp; Conditions. ?????
 
 #### FOR CONTRACT VALUES BELOW S$100K
 
