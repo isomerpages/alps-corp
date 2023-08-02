@@ -20,13 +20,13 @@ sections:
       url: /resources/festive-greetings/20230721-alps-anniversary/
   - infopic:
       title: Overview
-      description: ALPS’ Vision, Mission and Value statements challenge us to put the
-        needs and well-being of all customers and stakeholders, and during our
-        daily work activities.
+      description: We are skilled supply chain professionals, tasked with transforming
+        Singapore’s healthcare supply chain o better meet the needs of the
+        public healthcare.
       button: Find out more
       alt: Image alt text
       url: /overview/
-      image: /images/rsz_alps_tagline_black_transparent_1000x921.png
+      image: /images/alps_isomer_about_us_section_1920x1080.png
   - infopic:
       title: Vision, Mission, Values
       button: Find out more
