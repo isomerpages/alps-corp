@@ -35,9 +35,6 @@ sections:
       image: /images/green logo.png
       description: ALPS is committed to protecting the environment through its
         Procurement and Supply Chain Practices
-  - infobar:
-      title: Infobar Title
-      subtitle: Information for vendors
-      description: Infobar description
-      button: Button Text
+  - resources:
+      title: Media
 ---
