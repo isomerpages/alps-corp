@@ -87,7 +87,7 @@ ALPS will retain the final sourcing decisions and approvals for contractual comm
 
 Please continue to supply the product(s) and/or service(s)&nbsp;in accordance with existing contractual and business arrangements with ALPS.
 
-????? * Click [here]() for ALPS' Standard Terms &amp; Conditions. ?????
+* Click [here](/files/SOURCING%20EVENTS/28032023_standard_terms_and_conditions_for_supply_of_products_and_services_(v2)(clean)(002).pdf) for ALPS' Standard Terms &amp; Conditions.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
