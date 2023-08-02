@@ -10,6 +10,7 @@ description: ""
 | **MR PETER TAY** | Chief Executive Officer |
 | **MR CHAN BENG SENG** | Deputy Chief Executive Officer |
 | **MS WONG LAI YIN** | Chief Operating Officer |
+| **MS NINA ZHANG** | Chief Procurement Officer |
 | **MR MOSES WONG** | Chief Financial Officer |
 | **MS GOH LEE CHOO** | Chief Human Resource Officer |
 | **MS MAY CHEW** | Chief Information Officer |
@@ -30,7 +31,7 @@ description: ""
 | -------- | -------- |
 | **MS LER SOCK HOON** | Lead, Site Operations, SingHealth |
 | **MS AGNES TIONG** | Lead, Site Operations, NHG |
-| **MS NINA ZHANG** | Lead, Site Operations, NUHS |
+| **MS TAN SOH HIN** | Lead, Site Operations, NUHS |
 
 ### Strategic Planning, Development and Communications
 
