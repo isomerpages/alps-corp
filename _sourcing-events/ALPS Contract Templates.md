@@ -77,7 +77,7 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 
 
 
-#### ALPS' STANDARD TERMS &amp; CONDITIONS
+### ALPS' STANDARD TERMS &amp; CONDITIONS
 
 All new and existing purchase orders will be governed by ALPS' **Standard Terms &amp; Conditons** and **Master Agreements**. 
 
@@ -89,11 +89,11 @@ Please continue to supply the product(s) and/or service(s)&nbsp;in accordance wi
 
 ????? * Click [here]() for ALPS' Standard Terms &amp; Conditions. ?????
 
-#### FOR CONTRACT VALUES BELOW S$100K
+### FOR CONTRACT VALUES BELOW S$100K
 
 [Standard Terms And Conditions For Supply Of Products And Services]()
 
-#### FOR CONTRACT VALUES ABOVE S$100K
+### FOR CONTRACT VALUES ABOVE S$100K
 
 [Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work]()
 
