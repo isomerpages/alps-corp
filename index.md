@@ -28,14 +28,6 @@ sections:
       url: /overview/
       image: /images/alps_isomer_about_us_section_1920x1080.png
   - infopic:
-      title: Vision, Mission, Values
-      button: Find out more
-      alt: Image alt text
-      url: /visionmissionvalue/
-      image: /images/vision mission values.png
-      description: To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in
-        transforming healthcare.
-  - infopic:
       title: Green Procurement
       button: Find out more
       alt: Image alt text
@@ -43,4 +35,9 @@ sections:
       image: /images/green logo.png
       description: ALPS is committed to protecting the environment through its
         Procurement and Supply Chain Practices
+  - infobar:
+      title: Infobar Title
+      subtitle: Information for vendors
+      description: Infobar description
+      button: Button Text
 ---
