@@ -3,6 +3,8 @@ title: NUHS Contract Templates
 permalink: /sourcing-events/nuhs-contract-templates/
 description: ""
 ---
+Certain sourcing events necessitate the use of NUHS' contract templates. Vendors may refer to them here:
+
 ### NUHS REQUEST FOR PROPOSALS
 
 **CLUSTER-LEVEL: EQUIPMENT**
