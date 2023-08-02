@@ -28,15 +28,15 @@ Please&nbsp;[**email us**](mailto:alps_operations@alpshealthcare.com.sg)&nbsp;fo
 <tbody><tr>
 <td style="padding: 0.5em; width: 33%">
 <a style="color: white; font-weight: bold; text-decoration: none;" target="_blank" role="button" class="btn btn-danger btn-lg btn-block" href="https://www.alpshealthcare.com.sg/">
-<br>AUGUST 2023<br>SOURCING EVENTS<br><span style="font-size: 5em;">99</span></a>
+<br>AUGUST 2023<br>SOURCING EVENTS<br><span style="font-size: 4em;">99</span></a>
 </td>
 <td style="padding: 0.5em; width: 33%">
 <a style="background-color: purple; color: white; font-weight: bold; text-decoration: none;" target="_blank" role="button" class="btn btn-primary btn-lg btn-block" href="https://www.alpshealthcare.com.sg/">
-<br>SEPTEMBER 2023<br>SOURCING EVENTS<br><span style="font-size: 5em;">99</span></a>            
+<br>SEPTEMBER 2023<br>SOURCING EVENTS<br><span style="font-size: 4em;">99</span></a>            
 </td>
 <td style="padding: 0.5em; width: 33%">
 <a style="color: white; font-weight: bold; text-decoration: none;" target="_blank" role="button" class="btn btn-success btn-lg btn-block" href="https://www.alpshealthcare.com.sg/">
-<br>OCTOBER 2023<br>SOURCING EVENTS<br><span style="font-size: 5em;">99</span></a>            
+<br>OCTOBER 2023<br>SOURCING EVENTS<br><span style="font-size: 4em;">99</span></a>            
 </td>
 </tr>
-</tbody></table>   
+</tbody></table>
