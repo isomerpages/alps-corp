@@ -3,7 +3,7 @@ title: NUHS Contract Templates
 permalink: /sourcing-events/nuhs-contract-templates/
 description: ""
 ---
-#### NUHS' TEMPLATES : REQUEST FOR PROPOSALS
+### NUHS' TEMPLATES : REQUEST FOR PROPOSALS
 
 **CLUSTER-LEVEL: EQUIPMENT**
 
@@ -63,7 +63,7 @@ description: ""
 
 [Appointment Of Project Manager For Minor Project Works (Nominal Fee Option)](/files/CONTRACT%20DIRECTORY/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/nuhs_rfp_procurement_t&c_services_project_management_contract_nominal_fee_option_v21_300921.pdf)
 
-#### NUHS' TEMPLATES : REQUEST FOR QUOTATION
+### NUHS' TEMPLATES : REQUEST FOR QUOTATION
 
 **CLUSTER-LEVEL: EQUIPMENT, GOODS & SERVICES**
 
