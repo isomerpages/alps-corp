@@ -70,3 +70,5 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 		</tbody>
 	</table>
 </section>
+
+Next, do check out the contract templates in use at ALPS, NHG and NUHS.
