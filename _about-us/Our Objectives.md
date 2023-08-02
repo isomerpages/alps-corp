@@ -10,7 +10,9 @@ Singapore's rapidly greying population is cause for concern. In 2017, we became 
 MOH's and ALPS' solution to this development is bold and transformative – designing and executing a national-level, end-to-end supply chain blueprint, in partnership with all Public Healthcare Institutions, to ensure everyone, regardless of age, can access appropriate and affordable treatments and medications in the years ahead.
 
 * To achieve economies of scale, creating greater synergy, developing new capabilities and evolving innovative supply chain solutions.
+
 * To yield system-level gains for patients, providers and staff, mitigating cost increase and bringing greater convenience to patients.
+
 * To strengthen Singapore’s pharmacy services, inventory management, and distribution network capabilities, building up their resilience against unexpected disruptions.
 
 Ultimately, ALPS will rely on our **PEOPLE**, **PROCESSES**
