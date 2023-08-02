@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - CEO's Welcome Letter.md
+      - Our Code of Conduct.md
       - "National Sourcing Events: Overview.md"
       - "National Sourcing Events: August 2023.md"
       - "National Sourcing Events: September 2023.md"
@@ -12,4 +13,3 @@ collections:
       - ALPS Contract Templates.md
       - NHG Contract Templates.md
       - NUHS Contract Templates.md
-      - Our Code of Conduct.md
