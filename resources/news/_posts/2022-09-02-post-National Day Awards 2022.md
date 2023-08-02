@@ -1,6 +1,6 @@
 ---
-title: National Day Award 2022
-permalink: /resources/news/nationaldayaward2022/
+title: National Day Awards 2022
+permalink: /resources/news/20220902-national-day-awards/
 date: 2022-09-02
 layout: post
 description: ""

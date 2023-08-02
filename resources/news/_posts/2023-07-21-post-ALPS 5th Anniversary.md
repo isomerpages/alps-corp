@@ -1,6 +1,6 @@
 ---
-title: ALPS 5th Anniversary Video
-permalink: /resources/festive-greetings/20230721-alps-5th-anniversary-video/
+title: ALPS 5th Anniversary
+permalink: /resources/festive-greetings/20230721-alps-anniversary/
 date: 2023-07-21
 layout: post
 description: ""

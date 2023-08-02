@@ -1,6 +1,6 @@
 ---
 title: Pharmaceutical Sourcing Events
-permalink: /pharmaceuticalsourcingevents/
+permalink: /sourcing-events/pharmaceutical-sourcing-events/
 description: ""
 ---
 ##### TERMS AND CONDITIONS

@@ -1,6 +1,6 @@
 ---
 title: Our Code of Conduct
-permalink: /ourcodeofconduct/
+permalink: /sourcing-events/our-code-of-conduct/
 description: ""
 ---
 #### WHAT WE EXPECT FROM OUR SUPPLIERS
