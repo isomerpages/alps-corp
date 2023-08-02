@@ -42,4 +42,3 @@ You may also click on the links below for an overview of the sourcing events for
 Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access [**Ariba eProcurement System**](https://www.ariba.com/) for final updates.
 
 Please [**email us**](mailto:alps_operations@alpshealthcare.com.sg) for more details.
-
