@@ -81,17 +81,15 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 
 All new and existing purchase orders will be governed by ALPS' **Standard Terms &amp; Conditons** and **Master Agreements**. 
 
-Vendors are encouraged to refer to ALPS' contract templates below to learn more.
-
 ALPS will retain the final sourcing decisions and approvals for contractual commitments binding ALPS and vendors.
 
-Please continue to supply the product(s) and/or service(s)&nbsp;in accordance with existing contractual and business arrangements with ALPS.
+Please continue to supply the product(s) and/or service(s) in accordance with existing contractual and business arrangements with ALPS.
 
-* Click [here](/files/SOURCING%20EVENTS/28032023_standard_terms_and_conditions_for_supply_of_products_and_services_(v2)(clean)(002).pdf) for ALPS' Standard Terms &amp; Conditions.
+Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-[Standard Terms And Conditions For Supply Of Products And Services]()
+[Standard Terms And Conditions For Supply Of Products And Services](/files/SOURCING%20EVENTS/28032023_standard_terms_and_conditions_for_supply_of_products_and_services_(v2)(clean)(002).pdf)
 
 ### FOR CONTRACT VALUES ABOVE S$100K
 
