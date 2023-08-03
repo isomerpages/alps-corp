@@ -15,16 +15,16 @@ Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-[Standard Terms And Conditions For Supply Of Products And Services](/files/SOURCING%20EVENTS/28032023_standard_terms_and_conditions_for_supply_of_products_and_services_(v2)(clean)(002).pdf)
+[Standard Terms And Conditions For Supply Of Products And Services](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)
 
 ### FOR CONTRACT VALUES ABOVE S$100K
 
-[Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work]()
+[Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_equipment_loan_consignment_and_supply_of_products.pdf)
 
-[Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work]()
+[Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_and_maintenance_of_equipment.pdf)
 
-[Master Agreement For Supply Of Consumables Incorporating The Statement Of Work]()
+[Master Agreement For Supply Of Consumables Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_of_consumables.pdf)
 
-[Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work]()
+[Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_non_it_services.pdf)
 
-[Master Services Agreement For Professional IT Services Incorporating The Statement Of Work]()
+[Master Services Agreement For Professional IT Services Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_professional_it_services.pdf)
