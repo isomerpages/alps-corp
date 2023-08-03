@@ -3,18 +3,18 @@ url: https://www.alpshealthcare.com.sg
 favicon: /images/alps, tagline, black, transparent, 1000x921.png
 colors:
   primary-color: "#ed9787"
-  secondary-color: "#dc1931"
+  secondary-color: "#9c8ac1"
   media-colors:
     - title: media-color-one
-      color: "#9c8ac1"
-    - title: media-color-two
       color: "#836db1"
+    - title: media-color-two
+      color: "#6c53a3"
     - title: media-color-three
       color: "#9b9b9b"
     - title: media-color-four
       color: "#e8e5f3"
     - title: media-color-five
-      color: "#dddddd"
+      color: "#e7717d"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
