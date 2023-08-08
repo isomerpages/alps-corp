@@ -4,7 +4,7 @@ permalink: /careers/
 description: ""
 image: /images/coming soon.png
 ---
-![](/images/2023_feb_14_alps_staff_sited_at_sgh_1920x640.jpg)
+![](/images/2023_feb_14_alps_staff_sired_at_sgh_1920x1080.jpg)
 
 Since our inauguration on 01 July 2018, ALPS has made great strides in our efforts to transform Singapore’s healthcare landscape. We are only just getting started, and we are looking for committed, dedicated individuals like yourself to help usher in a new age of public healthcare.
 
@@ -25,4 +25,3 @@ Are you up for this challenge? Do check out the links below for more information
 
 | [SuccessFactors](https://careers.singhealth.com.sg/ALPS/go/ALPS-All-Opportunities/650244/) | [LinkedIn](https://www.linkedin.com/company/alps-pte-ltd/about/) | [JobStreet](https://www.jobstreet.com.sg/en/companies/1236450-alps-pte-ltd) |
 | -------- | -------- | -------- |
-
