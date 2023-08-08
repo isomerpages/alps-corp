@@ -20,9 +20,9 @@ sections:
       url: /resources/festive-greetings/20230721-alps-anniversary/
   - infopic:
       title: Overview
-      description: We are skilled supply chain professionals, tasked with transforming
-        Singapore’s healthcare supply chain to better meet the needs of the
-        public healthcare.
+      description: We are supply chain specialists & professionals, tasked with
+        transforming Singapore’s healthcare supply chain to better meet the
+        needs of the public healthcare.
       button: Find out more
       alt: Image alt text
       url: /overview/
