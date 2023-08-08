@@ -28,13 +28,14 @@ sections:
       url: /overview/
       image: /images/alps_isomer_about_us_section_1920x1080.png
   - infopic:
-      title: Green Procurement
+      title: Best Practices
       button: Find out more
       alt: Image alt text
       url: /ourcommitment/
       image: /images/alps_going_green_procurement.png
-      description: ALPS is committed to protecting the environment through its
-        Procurement and Supply Chain Practices
+      description: ALPS is committed to protecting the environment and we are drawing
+        up our own Green Procurement Plan in conjunction with valued partners
+        and vendors.
   - resources:
       title: Media
 ---
