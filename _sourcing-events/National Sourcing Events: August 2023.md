@@ -12,12 +12,12 @@ description: ""
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
 |	1	|	Medical Supplies	|	Fully Automated Pre-Transfusion Immunohematology Analyser for Blood Bank	|
-|	2	|	Medical Technology	|	Ventilators, NIV, BiPAP	|
-|	3	|	Medical Technology	|	Monitoring Systems, Physiologic	|
-|	4	|	Medical Technology	|	Scanning Systems, Gamma Camera	|
-|	5	|	Medical Technology	|	Scanning Systems, Gamma Camera, Cardiac	|
-|	6	|	Medical Technology	|	Scanning Systems, MRI, 1.5T	|
-|	7	|	Medical Technology	|	Surgical, Laparoscopes	|
+|	2	|	MedTech	|	Ventilators, NIV, BiPAP	|
+|	3	|	MedTech	|	Monitoring Systems, Physiologic	|
+|	4	|	MedTech	|	Scanning Systems, Gamma Camera	|
+|	5	|	MedTech	|	Scanning Systems, Gamma Camera, Cardiac	|
+|	6	|	MedTech	|	Scanning Systems, MRI, 1.5T	|
+|	7	|	MedTech	|	Surgical, Laparoscopes	|
 |	8	|	Environmental	|	Linen Laundry and Leasing- 2nd National (SingHealth + NHG) Firm	|
 |	9	|	Environmental	|	Housekeeping Services (NHG and NUHS) 1st National RFP	|
 |	10	|	Professional	|	Energy Retailer 3rd National RFP	|

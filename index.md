@@ -20,21 +20,22 @@ sections:
       url: /resources/festive-greetings/20230721-alps-anniversary/
   - infopic:
       title: Overview
-      description: We are skilled supply chain professionals, tasked with transforming
-        Singapore’s healthcare supply chain to better meet the needs of the
-        public healthcare.
+      description: We are supply chain specialists & professionals, tasked with
+        transforming Singapore’s healthcare supply chain to better meet the
+        needs of the public healthcare.
       button: Find out more
       alt: Image alt text
       url: /overview/
       image: /images/alps_isomer_about_us_section_1920x1080.png
   - infopic:
-      title: Green Procurement
+      title: Best Practices
       button: Find out more
       alt: Image alt text
       url: /ourcommitment/
-      image: /images/green logo.png
-      description: ALPS is committed to protecting the environment through its
-        Procurement and Supply Chain Practices
+      image: /images/alps_going_green_procurement.png
+      description: ALPS is committed to protecting the environment and we are drawing
+        up our own Green Procurement Plan in conjunction with valued partners
+        and vendors.
   - resources:
       title: Media
 ---
