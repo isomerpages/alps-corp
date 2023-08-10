@@ -14,7 +14,7 @@ description: ""
 |	1	|	Medical Supplies	|	Nerve Stimulation - Deep Brain & Vagal	|
 |	2	|	Medical Supplies	|	Dural Patch & Aneurysm Clips	|
 |	3	|	Medical Supplies	|	Brachytherapy	|
-|	4	|	Medical Technology	|	Warming Units, Blood/Intravenous Solution	|
-|	5	|	Medical Technology	|	Oximeters, Pulse, Finger-Tip	|
-|	6	|	Medical Technology	|	Oximeters, Pulse, Handheld	|
+|	4	|	MedTech	|	Warming Units, Blood/Intravenous Solution	|
+|	5	|	MedTech	|	Oximeters, Pulse, Finger-Tip	|
+|	6	|	MedTech	|	Oximeters, Pulse, Handheld	|
 |	7	|	Estate	|	Facilities Management Services - 1st National	|
