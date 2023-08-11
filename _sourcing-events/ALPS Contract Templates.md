@@ -3,6 +3,8 @@ title: ALPS Contract Templates
 permalink: /alps-contract-templates/
 description: ""
 ---
+
+![](/images/alps_sourcing_events_process_guidelines_1920x640.png)
 ### ALPS' STANDARD TERMS &amp; CONDITIONS
 
 All new and existing purchase orders will be governed by ALPS' **Standard Terms &amp; Conditons** and **Master Agreements**. 
