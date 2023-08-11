@@ -12,20 +12,26 @@ description: ""
 				<br>AUGUST 2023
 				<br>SOURCING EVENTS
 				<br>
-				<a target="_blank" style="color: white; font-size: 6em; font-weight: bold;text-align: center; text-decoration: none;" href="https://www.alpshealthcare.com.sg/sourcing-events/1st-month-events/">
+				<a target="_blank" style="color: white; font-size: 6em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.alpshealthcare.com.sg/sourcing-events/1st-month-events/">
 					12
 				</a>
 			</td>
 			<td style="width: 33%; background-color: purple; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>SEPTEMBER 2023
 				<br>SOURCING EVENTS
-				<br><span style="font-size: 6em;">18</span>
-			</td>
+				<br>
+				<a target="_blank" style="color: white; font-size: 6em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.alpshealthcare.com.sg/sourcing-events/2nd-month-events/">
+					18
+					<p></p>
+			</a></td>
 			<td style="width: 33%; background-color: green; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>OCTOBER 2023
 				<br>SOURCING EVENTS
-				<br><span style="font-size: 6em;">07</span>
-			</td>
+				<br>
+				<a target="_blank" style="color: white; font-size: 6em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.alpshealthcare.com.sg/sourcing-events/3rd-month-events/">
+					07
+					<p></p>
+			</a></td>
 		</tr>
 	</tbody>
 </table>
