@@ -28,17 +28,6 @@ sections:
       url: /overview/
       image: /images/alps_isomer_about_us_section_1920x1080.png
   - infopic:
-      title: Best Practices
-      button: Find out more
-      alt: Image alt text
-      url: /ourcommitment/
-      image: /images/alps_going_green_procurement.png
-      description: ALPS is committed to protecting the environment and we are drawing
-        up our own Green Procurement Plan in conjunction with valued partners
-        and vendors.
-  - resources:
-      title: Media
-  - infopic:
       title: National-level
       subtitle: Sourcing Events For Vendors
       description: 3-month schedules of RFP information available here and on Ariba
@@ -56,4 +45,15 @@ sections:
       url: /sourcing-events/pharmaceutical-sourcing-events/
       image: /images/alps_sourcing_events_pharmaceutical_1920x640.png
       alt: Image alt text
+  - infopic:
+      title: Best Practices
+      button: Find out more
+      alt: Image alt text
+      url: /ourcommitment/
+      image: /images/alps_going_green_procurement.png
+      description: ALPS is committed to protecting the environment and we are drawing
+        up our own Green Procurement Plan in conjunction with valued partners
+        and vendors.
+  - resources:
+      title: Media
 ---
