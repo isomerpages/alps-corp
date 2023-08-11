@@ -7,8 +7,6 @@ description: ""
 
 ## OCTOBER 2023 SOURCING EVENTS
 
-
-
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
 |	1	|	Medical Supplies	|	Nerve Stimulation - Deep Brain & Vagal	|
