@@ -3,7 +3,7 @@ title: "National Sourcing Events: Overview"
 permalink: /sourcing-events/national-sourcing-events/
 description: ""
 ---
-![](/images/alps_sourcing_events_national_1920x640_clear.png)
+![](/images/alps_sourcing_events_national_1920x640.png)
 
 <table style="padding: 0.5em; width:100%">
 	<tbody>
