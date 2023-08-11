@@ -28,15 +28,15 @@ ____________________________________________________________
 
 #### DOCUMENT LINKS
 
-[Purchasing Programme 2023](/files/Pharma%20Sourcing%20Events/alps_purchasing_programme.pdf)
+[**Purchasing Programme 2023**](/files/Pharma%20Sourcing%20Events/alps_purchasing_programme.pdf)
 
-[Evaluation Criteria (Pharma Products](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf)
+[**Evaluation Criteria (Pharma Products)**](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf)
 
-[Evaluation Criteria (Unregistered Drugs)](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf)
+[**Evaluation Criteria (Unregistered Drugs)**](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf)
 
-[Drugs & Pharma Products RFP Results (Update on 3 August 2023)](/files/Pharma%20Sourcing%20Events/rfp%20results.pdf)
+[**Drugs & Pharma Products RFP Results (Update on 3 August 2023)**](/files/Pharma%20Sourcing%20Events/rfp%20results.pdf)
 
-[Estimated Annual Quantities](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf)
+[**Estimated Annual Quantities**](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf)
 
 ____________________________________________________________
 
