@@ -39,8 +39,8 @@ sections:
   - resources:
       title: Media
   - infopic:
-      title: National
-      subtitle: Sourcing Events
+      title: National-level
+      subtitle: Sourcing Events For Vendors
       description: 3-month schedules of RFP information available here and on Ariba
         eProcurement System.
       button: Find Out More
@@ -49,7 +49,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Pharmaceutical
-      subtitle: " Sourcing Events"
+      subtitle: Sourcing Events For Vendors
       description: ALPS drugs and pharma RFP results published here weekly. Other
         reference documents also available.
       button: Find Out More
