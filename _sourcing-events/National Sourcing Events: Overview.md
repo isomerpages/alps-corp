@@ -11,7 +11,10 @@ description: ""
 			<td style="width: 33%; background-color: red; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>AUGUST 2023
 				<br>SOURCING EVENTS
-				<br><span style="font-size: 6em;">12</span>
+				<br>
+				<a target="_blank" style="color: white; font-size: 6em; font-weight: bold;text-align: center; text-decoration: none;" href="https://www.alpshealthcare.com.sg/sourcing-events/1st-month-events/">
+					12
+				</a>
 			</td>
 			<td style="width: 33%; background-color: purple; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>SEPTEMBER 2023
