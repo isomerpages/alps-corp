@@ -3,6 +3,8 @@ title: NUHS Contract Templates
 permalink: /sourcing-events/nuhs-contract-templates/
 description: ""
 ---
+
+![](/images/alps_sourcing_events_process_guidelines_1920x640.png)
 Certain sourcing events necessitate the use of NUHS' contract templates. Vendors may refer to them here:
 
 ### NUHS REQUEST FOR PROPOSALS
