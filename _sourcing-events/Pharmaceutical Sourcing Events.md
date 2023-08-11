@@ -3,7 +3,6 @@ title: Pharmaceutical Sourcing Events
 permalink: /sourcing-events/pharmaceutical-sourcing-events/
 description: ""
 ---
-
 ![](/images/alps_sourcing_events_pharmaceutical_1920x640.png)
 #### TERMS AND CONDITIONS
 
