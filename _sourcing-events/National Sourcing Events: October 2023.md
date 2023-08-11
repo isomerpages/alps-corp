@@ -3,7 +3,7 @@ title: "National Sourcing Events: October 2023"
 permalink: /sourcing-events/3rd-month-events/
 description: ""
 ---
-![](/images/NATIONAL%20SOURCING%20EVENTS/alps_national_sourcing_events_1920x640.png)
+![](/images/alps_sourcing_events_national_1920x640.png)
 
 ## OCTOBER 2023 SOURCING EVENTS
 
