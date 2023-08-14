@@ -34,7 +34,7 @@ sections:
         eProcurement System.
       button: Find Out More
       url: /sourcing-events/national-sourcing-events/
-      image: /images/alps_sourcing_events_national_1920x640.png
+      image: /images/alps_sourcing_events_national_1920x640_clear.png
       alt: Image alt text
   - infopic:
       title: Pharmaceutical
@@ -43,14 +43,14 @@ sections:
         reference documents also available.
       button: Find Out More
       url: /sourcing-events/pharmaceutical-sourcing-events/
-      image: /images/alps_sourcing_events_pharmaceutical_1920x640.png
+      image: /images/alps_sourcing_events_pharmaceutical_1920x640_clear.png
       alt: Image alt text
   - infopic:
       title: Best Practices
       button: Find out more
       alt: Image alt text
       url: /ourcommitment/
-      image: /images/alps_going_green_procurement.png
+      image: /images/alps_going_green_procurement_1920x640.png
       description: ALPS is committed to protecting the environment and we are drawing
         up our own Green Procurement Plan in conjunction with valued partners
         and vendors.
