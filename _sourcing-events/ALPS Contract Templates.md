@@ -3,7 +3,7 @@ title: ALPS Contract Templates
 permalink: /sourcing-events/alps-contract-templates/
 description: ""
 ---
-![](/images/alps_sourcing_events_process_guidelines_1920x640.png)
+![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
 ### ALPS' STANDARD TERMS & CONDITIONS
 
