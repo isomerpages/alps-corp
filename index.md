@@ -10,8 +10,8 @@ sections:
       url: /contact-us/
       background: /images/alps_homepage_hero_banner_1920x720_no_logo.jpg
       title: Transforming Singapore's Healthcare
-      subtitle: Delivering dynamic and value-based supply chain solutions through
-        partnerships
+      subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
+        PARTNERSHIPS
   - infobar:
       title: ALPS 5th Anniversary
       description: '<iframe allow="autoplay; clipboard-write; encrypted-media;
