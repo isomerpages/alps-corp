@@ -29,7 +29,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /overview/
-      image: /images/alps_isomer_about_us_section_1920x1080.png
+      image: /images/alps_healthcare_warehouse_overview_1920x640.jpg
   - infopic:
       title: National-level
       subtitle: Sourcing Events For Vendors
@@ -53,7 +53,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /ourcommitment/
-      image: /images/alps_going_green_procurement_1920x640.png
+      image: /images/alps_going_green_procurement_1920x640.jpg
       description: ALPS is committed to protecting the environment and we are drawing
         up our own Green Procurement Plan in conjunction with valued partners
         and vendors.
