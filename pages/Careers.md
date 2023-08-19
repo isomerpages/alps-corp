@@ -27,7 +27,7 @@ Are you up for this challenge? Do check out the links below for more information
 			<td style="width: 33.3%; background-color: blue; text-align: center;">
 				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-decoration: none;" href="https://www.linkedin.com/company/alps-pte-ltd/about/">LinkedIn</a>
 			</td>
-						<td style="width: 33.3%; background-color: hotpink; text-align: center;">
+			<td style="width: 33.3%; background-color: hotpink; text-align: center;">
 				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.jobstreet.com.sg/en/companies/1236450-alps-pte-ltd">JobStreet</a>
 			</td>
 		</tr>
