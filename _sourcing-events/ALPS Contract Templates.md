@@ -1,11 +1,11 @@
 ---
 title: ALPS Contract Templates
-permalink: /alps-contract-templates/
+permalink: /sourcing-events/alps-contract-templates/
 description: ""
 ---
+![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
-![](/images/alps_sourcing_events_process_guidelines_1920x640.png)
-### ALPS' STANDARD TERMS &amp; CONDITIONS
+### ALPS' STANDARD TERMS & CONDITIONS
 
 All new and existing purchase orders will be governed by ALPS' **Standard Terms &amp; Conditons** and **Master Agreements**. 
 
@@ -17,16 +17,16 @@ Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-[Standard Terms And Conditions For Supply Of Products And Services](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)
+[**Standard Terms And Conditions For Supply Of Products And Services**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)
 
 ### FOR CONTRACT VALUES ABOVE S$100K
 
-[Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_equipment_loan_consignment_and_supply_of_products.pdf)
+[**Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_equipment_loan_consignment_and_supply_of_products.pdf)
 
-[Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_and_maintenance_of_equipment.pdf)
+[**Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_and_maintenance_of_equipment.pdf)
 
-[Master Agreement For Supply Of Consumables Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_of_consumables.pdf)
+[**Master Agreement For Supply Of Consumables Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_of_consumables.pdf)
 
-[Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_non_it_services.pdf)
+[**Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_non_it_services.pdf)
 
-[Master Services Agreement For Professional IT Services Incorporating The Statement Of Work](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_professional_it_services.pdf)
+[**Master Services Agreement For Professional IT Services Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_professional_it_services.pdf)

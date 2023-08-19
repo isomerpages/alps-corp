@@ -3,12 +3,11 @@ title: Process Guidelines
 permalink: /sourcing-events/process-guidelines/
 description: ""
 ---
-
-![](/images/alps_sourcing_events_process_guidelines_1920x640.png)
+![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
 ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipment, and services for Singapore’s three Public Healthcare Clusters (clusters) and their Public Healthcare Institutions (PHIs).
 
-ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch&nbsp;[sourcing events](/nationalsourcingevents/)&nbsp;through the existing platforms at the respective clusters and PHIs.
+ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch [**sourcing events**](/sourcing-events/national-sourcing-events/) through the existing platforms at the respective clusters and PHIs.
 
 In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
 
@@ -74,4 +73,4 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	</table>
 </section>
 
-Next, do check out the contract templates in use at ALPS, NHG and NUHS.
+Next, do check out the contract templates in use at [**ALPS**](/sourcing-events/alps-contract-templates/), [**NHG**](/sourcing-events/nhg-contract-templates/) and [**NUHS**](/sourcing-events/nuhs-contract-templates/).
