@@ -24,7 +24,7 @@ ALPS’ logo design is made up of three triangles that form a bigger triangle. I
 <br>
 
 <div style="background-color: #B8DA93; padding: 1em" class="container">
-	<p style="color: #82C341; font-size: 3em; font-weight: bold">GREEN</p>
+	<p style="color: green; font-size: 3em; font-weight: bold">GREEN</p>
 	<p style="color: white; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
 </div>
 
