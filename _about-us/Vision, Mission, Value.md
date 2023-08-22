@@ -27,14 +27,14 @@ To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <s
 
 <h3 style="color: #82C341">Core Values</h3>
 
-Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, I2SET, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
+Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, <span style="color: #82C341; font-weight: bold">I2SET</span>, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
 
-* INTEGRITY : We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
+* <span style="color: #82C341; font-weight: bold">INTEGRITY</span> : We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
 
-* INNOVATION : We encourage creative ideas and experiment new ways of doing things.We focus in finding practical solutions to solve supply chain challenges.We promote out of the box thinking and being enterprising.
+* <span style="color: #82C341; font-weight: bold">INNOVATION</span> : We encourage creative ideas and experiment new ways of doing things.We focus in finding practical solutions to solve supply chain challenges.We promote out of the box thinking and being enterprising.
 
-* SYNERGY : We leverage on each other’s expertise and knowledge to advance together. Together with our stakeholders and partners, we work collaboratively as one entity to achieve our shared goals in transforming healthcare supply chain.
+* <span style="color: #82C341; font-weight: bold">SYNERGY</span> : We leverage on each other’s expertise and knowledge to advance together. Together with our stakeholders and partners, we work collaboratively as one entity to achieve our shared goals in transforming healthcare supply chain.
  
-* EMPATHY : We care for each other. We stand in the shoes of others and understand their point of views. We think and do what is the best for our staff, stakeholders, and patients.
+* <span style="color: #82C341; font-weight: bold">EMPATHY</span> : We care for each other. We stand in the shoes of others and understand their point of views. We think and do what is the best for our staff, stakeholders, and patients.
 
-* TRUST &amp; RESPECT : We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
+* <span style="color: #82C341; font-weight: bold">TRUST &amp; RESPECT</span> : We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
