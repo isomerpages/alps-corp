@@ -3,6 +3,9 @@ title: Our Corporate Identity
 permalink: /ourcorporateidentity/
 description: ""
 ---
+
+![](/images/alps_healthcare_brand_identity_1920x640.jpg)
+
 ALPS’ logo design is made up of three triangles that form a bigger triangle. Individually, the triangle symbolises embracing change, taking action, and moving forward. It is also not a coincidence that the three triangles come in different primary colours, as each of them represents a different 'Peak of Excellence' - People, Processes and Partnerships.
 
 * RED :  Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.
