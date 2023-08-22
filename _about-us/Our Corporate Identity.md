@@ -11,21 +11,21 @@ ALPS’ logo design is made up of three triangles that form a bigger triangle. I
 
 <div style="background-color: #ED9787; padding: 1em" class="container">
 	<p style="color: #DC1931; font-size: 3em; font-weight: bold">RED</p>
-	<p style="color: white; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
+	<p style="color: white; font-weight: bold; margin-top: -30px">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
 </div>
 
 <br>
 
 <div style="background-color: #9C8AC1; padding: 1em" class="container">
 	<p style="color: #6C53A3; font-size: 3em; font-weight: bold">PURPLE</p>
-	<p style="color: white; font-weight: bold">Represents creativity, imagination, and an eagerness to explore and develop alternative solutions to present and future supply chain challenges.</p>
+	<p style="color: white; font-weight: bold; margin-top: -30px">Represents creativity, imagination, and an eagerness to explore and develop alternative solutions to present and future supply chain challenges.</p>
 </div>
 
 <br>
 
 <div style="background-color: #B8DA93; padding: 1em" class="container">
 	<p style="color: green; font-size: 3em; font-weight: bold">GREEN</p>
-	<p style="color: white; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
+	<p style="color: white; font-weight: bold; margin-top: -30px">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
 </div>
 
 When the three&nbsp;‘Peaks of Excellence’&nbsp;unite in the formation of the bigger triangle, demonstrating a strong collaborative spirit and connectivity to one another, the outcome is that of an Apex rising, one that is balanced and resilient yet also strong and sturdy.
