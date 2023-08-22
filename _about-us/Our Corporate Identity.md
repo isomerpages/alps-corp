@@ -7,29 +7,25 @@ description: ""
 
 ALPS’ logo design is made up of three triangles that form a bigger triangle. Individually, the triangle symbolises embracing change, taking action, and moving forward. It is also not a coincidence that the three triangles come in different primary colours, as each of them represents a different 'Peak of Excellence' - People, Processes and Partnerships.
 
-* RED : &nbsp;Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.
 
-* PURPLE : Represents creativity, imagination, and an eagerness to explore and develop alternative solutions to present and future supply chain challenges.
-
-* GREEN : Represents strong growth, progress and success in the partnerships that ALPS have had with various stakeholders, helping us reach ever closer to our Vision and Mission.
 
 <div style="background-color: #ED9787; padding: 1em" class="container">
 	<p style="color: #DC1931; font-size: 3em; font-weight: bold">RED</p>
-	<p style="color: black; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
+	<p style="color: white; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
 </div>
 
 <br>
 
-<div style="background-color: #ED9787; padding: 1em" class="container">
-	<p style="color: #DC1931; font-size: 3em; font-weight: bold">RED</p>
-	<p style="color: black; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
+<div style="background-color: #9C8AC1; padding: 1em" class="container">
+	<p style="color: #6C53A3; font-size: 3em; font-weight: bold">PURPLE</p>
+	<p style="color: white; font-weight: bold">Represents creativity, imagination, and an eagerness to explore and develop alternative solutions to present and future supply chain challenges.</p>
 </div>
 
 <br>
 
-<div style="background-color: #ED9787; padding: 1em" class="container">
-	<p style="color: #DC1931; font-size: 3em; font-weight: bold">RED</p>
-	<p style="color: black; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
+<div style="background-color: #B8DA93; padding: 1em" class="container">
+	<p style="color: #82C341; font-size: 3em; font-weight: bold">GREEN</p>
+	<p style="color: white; font-weight: bold">Represents confidence, courage, energy and passion, all of which aptly describe ALPS staff and our ongoing efforts to improve the public healthcare system.</p>
 </div>
 
 When the three&nbsp;‘Peaks of Excellence’&nbsp;unite in the formation of the bigger triangle, demonstrating a strong collaborative spirit and connectivity to one another, the outcome is that of an Apex rising, one that is balanced and resilient yet also strong and sturdy.
