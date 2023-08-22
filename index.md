@@ -29,7 +29,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /overview/
-      image: /images/alps_healthcare_warehouse_overview_1920x640.jpg
+      image: /images/alps_healthcare_about_us_overview_1920x640.jpg
   - infopic:
       title: National-level
       subtitle: Sourcing Events For Vendors
