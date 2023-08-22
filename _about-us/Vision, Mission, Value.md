@@ -9,9 +9,9 @@ description: ""
 
 To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span style="color: #6C53A3; font-weight: bold">INNOVATIVE</span> and <span style="color: #6C53A3; font-weight: bold">TRUSTED</span> supply chain partner in transforming healthcare.
 
-* LEADING : We strive for the highest professional standards to excel in healthcare supply chain.
-* INNOVATIVE : We encourage creativity, practical solutions and advancement with technology.
-* TRUSTED : Our relationship with our vendors cannot thrive without mutual trust and the shared understanding that the needs of our patients come first.
+* <span style="color: #6C53A3; font-weight: bold">LEADING</span> : We strive for the highest professional standards to excel in healthcare supply chain.
+* <span style="color: #6C53A3; font-weight: bold">INNOVATIVE</span> : We encourage creativity, practical solutions and advancement with technology.
+* <span style="color: #6C53A3; font-weight: bold">TRUSTED</span> : Our relationship with our vendors cannot thrive without mutual trust and the shared understanding that the needs of our patients come first.
 
 ### Mission
 To Deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PARTNERSHIPS**.
