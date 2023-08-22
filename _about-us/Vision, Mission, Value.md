@@ -3,11 +3,11 @@ title: Vision, Mission, Value
 permalink: /visionmissionvalue/
 description: ""
 ---
-
 ![](/images/alps_healthcare_vision_mission_values_1920x640.jpg)
-### Vision
 
-To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in transforming healthcare.
+<h3 style="color: #6C53A3">Vision</h3>
+
+To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span style="color: #6C53A3; font-weight: bold">INNOVATIVE</span> and <span style="color: #6C53A3; font-weight: bold">TRUSTED</span> supply chain partner in transforming healthcare.
 
 * LEADING : We strive for the highest professional standards to excel in healthcare supply chain.
 * INNOVATIVE : We encourage creativity, practical solutions and advancement with technology.
@@ -32,4 +32,4 @@ Transforming Singapore’s healthcare landscape is a team effort and requires us
  
 * EMPATHY : We care for each other. We stand in the shoes of others and understand their point of views. We think and do what is the best for our staff, stakeholders, and patients.
 
-* TRUST & RESPECT : We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
+* TRUST &amp; RESPECT : We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
