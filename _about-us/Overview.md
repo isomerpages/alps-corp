@@ -3,7 +3,7 @@ title: Overview
 permalink: /overview/
 description: ""
 ---
-![](/images/alps_healthcare_warehouse_overview_1920x640.jpg)
+![](/images/alps_healthcare_about_us_overview_1920x640.jpg)
 
 ALPS' Vision, Mission, and Value statements challenge us to put the needs and well-being of all customers (direct or indirect) and stakeholders, who engage our services, during our daily work activities. The statements also propel us to constantly examine our supply chain strategies, approaches, and processes in delivering value-based supply chain solutions to public healthcare, as part of MOH's strategic thrust.
 
