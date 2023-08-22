@@ -3,6 +3,8 @@ title: Vision, Mission, Value
 permalink: /visionmissionvalue/
 description: ""
 ---
+
+![](/images/alps_healthcare_vision_mission_values_1920x640.jpg)
 ### Vision
 
 To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in transforming healthcare.
