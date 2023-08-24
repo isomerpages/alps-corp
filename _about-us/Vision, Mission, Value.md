@@ -14,8 +14,7 @@ description: ""
 	<div style="float: right" class="column">
 		<h3 style="color: #6C53A3">&nbsp;VISION</h3>
 	</div>
-</div>
-
+</div><br>
 To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span style="color: #6C53A3; font-weight: bold">INNOVATIVE</span> and <span style="color: #6C53A3; font-weight: bold">TRUSTED</span> supply chain partner in transforming healthcare.
 
 * <span style="color: #6C53A3; font-weight: bold">LEADING</span> : We strive for the highest professional standards to excel in healthcare supply chain.
@@ -32,8 +31,7 @@ To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span st
 	<div style="float: right" class="column">
 		<h3 style="color: #DC1931">&nbsp;MISSION</h3>
 	</div>
-</div>
-
+</div><br>
 To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <span style="color: #DC1931; font-weight: bold">VALUE-BASED</span> supply chain solutions through <span style="color: #DC1931; font-weight: bold">PARTNERSHIPS</span>.
 	
 * <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> : We are adaptive and resilient to evolve with healthcare needs.
@@ -50,8 +48,7 @@ To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <s
 	<div style="float: right" class="column">
 		<h3 style="color: #82C341">&nbsp;CORE VALUES</h3>
 	</div>
-</div>
-
+</div><br>
 Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, <span style="color: #82C341; font-weight: bold">I<sup>2</sup>SET</span>, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
 
 * <span style="color: #82C341; font-weight: bold">INTEGRITY</span> : We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
