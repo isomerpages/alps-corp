@@ -12,7 +12,7 @@ description: ""
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_vision_640x640.png">
 	</div>
 	<div class="column">
-		<h3 style="color: #6C53A3">&nbsp; VISION</h3>
+		<h3 style="color: #6C53A3">&nbsp;VISION</h3>
 	</div>
 </div>
 To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span style="color: #6C53A3; font-weight: bold">INNOVATIVE</span> and <span style="color: #6C53A3; font-weight: bold">TRUSTED</span> supply chain partner in transforming healthcare.
@@ -29,7 +29,7 @@ To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span st
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_mission_640x640.png">
 	</div>
 	<div class="column">
-		<h3 style="color: #DC1931">&nbsp; MISSION</h3>
+		<h3 style="color: #DC1931">&nbsp;MISSION</h3>
 	</div>
 </div>
 To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <span style="color: #DC1931; font-weight: bold">VALUE-BASED</span> supply chain solutions through <span style="color: #DC1931; font-weight: bold">PARTNERSHIPS</span>.
@@ -46,7 +46,7 @@ To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <s
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_values_640x640.png">
 	</div>
 	<div class="column">
-		<h3 style="color: #82C341">&nbsp; CORE VALUES</h3>
+		<h3 style="color: #82C341">&nbsp;CORE VALUES</h3>
 	</div>
 </div>
 Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, <span style="color: #82C341; font-weight: bold">I2SET</span>, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
