@@ -49,7 +49,7 @@ To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <s
 		<h3 style="color: #82C341">&nbsp;CORE VALUES</h3>
 	</div>
 </div>
-Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, <span style="color: #82C341; font-weight: bold">I2SET</span>, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
+Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, <span style="color: #82C341; font-weight: bold">I<sup>2</sup>SET</span>, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
 
 * <span style="color: #82C341; font-weight: bold">INTEGRITY</span> : We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
 
