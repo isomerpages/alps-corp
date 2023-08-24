@@ -8,10 +8,10 @@ description: ""
 <br>
 
 <div class="row">
-	<div class="column">
+	<div style="float: left" class="column">
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_vision_640x640.png">
 	</div>
-	<div class="column">
+	<div style="float: right" class="column">
 		<h3 style="color: #6C53A3">&nbsp;VISION</h3>
 	</div>
 </div>
@@ -25,10 +25,10 @@ To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span st
 
 
 <div class="row">
-	<div class="column">
+	<div style="float: left" class="column">
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_mission_640x640.png">
 	</div>
-	<div class="column">
+	<div style="float: right" class="column">
 		<h3 style="color: #DC1931">&nbsp;MISSION</h3>
 	</div>
 </div>
