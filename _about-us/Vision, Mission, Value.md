@@ -42,10 +42,10 @@ To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <s
 
 
 <div class="row">
-	<div class="column">
+	<div style="float: left" class="column">
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_values_640x640.png">
 	</div>
-	<div class="column">
+	<div style="float: right" class="column">
 		<h3 style="color: #82C341">&nbsp;CORE VALUES</h3>
 	</div>
 </div>
