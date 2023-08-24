@@ -31,7 +31,7 @@ To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span st
 	<div class="column">
 		<h3 style="color: #DC1931">MISSION</h3>
 	</div>
-</div><br>
+</div>
 To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <span style="color: #DC1931; font-weight: bold">VALUE-BASED</span> supply chain solutions through <span style="color: #DC1931; font-weight: bold">PARTNERSHIPS</span>.
 	
 * <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> : We are adaptive and resilient to evolve with healthcare needs.
