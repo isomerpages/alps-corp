@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Process Guidelines/.keep
-      - Process Guidelines/Process Guidelines.md
+      - Process Guidelines/Overview.md
       - Process Guidelines/ALPS Contract Templates.md
       - Process Guidelines/NHG Contract Templates.md
       - Process Guidelines/NUHS Contract Templates.md
