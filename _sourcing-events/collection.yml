@@ -2,6 +2,7 @@ collections:
   sourcing-events:
     output: true
     order:
+      - Process Guidelines/NUHS Contract Templates.md
       - Process Guidelines/NHG Contract Templates.md
       - Process Guidelines/ALPS Contract Templates.md
       - Process Guidelines/Process Guidelines.md
