@@ -2,6 +2,7 @@ collections:
   sourcing-events:
     output: true
     order:
+      - Process Guidelines/.keep
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
       - National Sourcing Events/.keep
