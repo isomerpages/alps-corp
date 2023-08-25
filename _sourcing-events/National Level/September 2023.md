@@ -1,7 +1,8 @@
 ---
-title: "National Sourcing Events: September 2023"
-permalink: /sourcing-events/2nd-month-events/
+title: September 2023
+permalink: /sourcing-events/national-level/2nd-month-events/
 description: ""
+third_nav_title: National Level
 ---
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
 

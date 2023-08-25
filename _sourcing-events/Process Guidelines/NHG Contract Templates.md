@@ -1,7 +1,8 @@
 ---
 title: NHG Contract Templates
-permalink: /sourcing-events/nhg-contract-templates/
+permalink: /sourcing-events/process-guidelines/nhg-contract-templates/
 description: ""
+third_nav_title: Process Guidelines
 ---
 ![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 

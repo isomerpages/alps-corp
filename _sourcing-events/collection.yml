@@ -4,12 +4,14 @@ collections:
     order:
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
-      - "National Sourcing Events: Overview.md"
-      - "National Sourcing Events: August 2023.md"
-      - "National Sourcing Events: September 2023.md"
-      - "National Sourcing Events: October 2023.md"
+      - National Level/.keep
+      - National Level/Overview.md
+      - National Level/August 2023.md
+      - National Level/September 2023.md
+      - National Level/October 2023.md
       - Pharmaceutical Sourcing Events.md
-      - Process Guidelines.md
-      - ALPS Contract Templates.md
-      - NHG Contract Templates.md
-      - NUHS Contract Templates.md
+      - Process Guidelines/.keep
+      - Process Guidelines/Overview.md
+      - Process Guidelines/ALPS Contract Templates.md
+      - Process Guidelines/NHG Contract Templates.md
+      - Process Guidelines/NUHS Contract Templates.md
