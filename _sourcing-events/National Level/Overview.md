@@ -9,19 +9,19 @@ third_nav_title: National Level
 <table style="padding: 0.5em; width:100%">
 	<tbody>
 		<tr>
-			<td style="width: 33%; background-color: red; color: white; font-weight: bold; text-align: center; text-decoration: none;">
+			<td style="width: 33%; background-color: #DC1931; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>AUGUST 2023
 				<br>SOURCING EVENTS
 				<br>
 				<span style="color: white; font-size: 6em"> 12 </span>
 			</td>
-			<td style="width: 33%; background-color: purple; color: white; font-weight: bold; text-align: center; text-decoration: none;">
+			<td style="width: 33%; background-color: #836DB1; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>SEPTEMBER 2023
 				<br>SOURCING EVENTS
 				<br>
 				<span style="color: white; font-size: 6em"> 18 </span>
 			</td>
-			<td style="width: 33%; background-color: green; color: white; font-weight: bold; text-align: center; text-decoration: none;">
+			<td style="width: 33%; background-color: #82C341; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>OCTOBER 2023
 				<br>SOURCING EVENTS
 				<br>
