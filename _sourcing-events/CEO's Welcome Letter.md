@@ -23,6 +23,7 @@ description: ""
 	<p>ALPS will also be informing all vendors and supplies through <a style="font-weight: bold" target="_blank" href="https://www.facebook.com/alpshealthcaresupplychain">ALPS Facebook</a> to prompt the upcoming sourcing events. As the calendar acts as a source of reference, vendors and supplies are also encouraged to register and log into <a style="font-weight: bold" target="_blank" href="https://www.sap.com/products/spend-management.html">Ariba eProcurement System</a> for the updated sourcing details. Please note that all national sourcing events shall be conducted via <a style="font-weight: bold" target="_blank" href="https://www.sap.com/products/spend-management.html">Ariba eProcurement System</a>.</p>
 	<p>Once again, thank you for the continued support to Singapore's healthcare and we look forward to a long-lasting relationship.</p>
 	<p>Thank you.</p>
+	<br>
 	<p style="line-height: 1.5"><b>Peter Tay</b><br>Chief Executive Officer, ALPS</p>
 	<section style="height: 20px; background-image: linear-gradient(45deg, #DC1931, #6C53A3, #9C8AC1, #82C341); margin-bottom: 10px"></section>
 </div>
