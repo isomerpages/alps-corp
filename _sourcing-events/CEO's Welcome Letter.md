@@ -3,16 +3,6 @@ title: CEO's Welcome Letter
 permalink: /sourcing-events/ceos-welcome-letter/
 description: ""
 ---
-![](/images/alps%20ceo%20messagev2%20caa12jun23.jpg)
-
-
-
-
-
-
-
-
-
 <div style="border: 2px solid; padding-left: 10px; padding-right:10px; width: 100%" class="container">
  <img style="width: 100%" src="/images/alps_national_sourcing_events_ceo_message_banner_1920x640.png">
 	<p>Dear valued partner,</p>
