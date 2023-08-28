@@ -22,6 +22,5 @@ description: ""
 	<p>To ensure our outreach to all existing valued partners as well as potential partners, ALPS will publish a quarterly National Sourcing Calendar on our ALPS website where you will be able to see the upcoming sourcing evenings. This will allow vendors and suppliers to make the necessary preparation for the sourcing event that you may wish to participate in.</p>
 	<p>ALPS will also be informing all vendors and supplies through ALPS Facebook (@ALPS Healthcare) to prompt the upcoming sourcing events. As the calendar acts as a source of reference, vendors and supplies are also encouraged to register and log into Ariba for the updated sourcing details. Please note that all national sourcing events shall be conducted via Ariba.</p>
 	<p>Once again, thank you for the continued support to Singapore's healthcare and we look forward to a long-lasting relationship.</p>
-	
-	
+	<img style="margin-bottom: 10px;width: 100%" src="/images/alps_national_sourcing_events_ceo_signoff_rppg_bar_1920x640.png">
 </div>
