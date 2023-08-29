@@ -3,6 +3,8 @@ title: Our Commitment
 permalink: /ourcommitment/
 description: ""
 ---
+![](/images/alps_going_green_procurement_1920x640.jpg)
+
 ALPS is committed to protecting the environment through its Procurement and Supply Chain Practices. Since April 2022, ALPS has gradually rolled out Green Procurement, together with the Public Healthcare Institutions. Such Guidelines aim to improve the energy and water efficiency; and reduce and recycle waste within Public Healthcare Institutions.   
 
 ALPS Green Procurement Guidelines is aligned with SG2030 Green Procurement Requirements. This includes, not limited to, guidelines pertaining to Air-conditioners, Refrigerators, Televisions, Lamps, Water fittings and Equipment, Building Products, Printing Paper, ICT Equipment and Vehicles. Please refer to [NEA](https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/energy-efficiency/public-sector) website for more details.
