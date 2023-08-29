@@ -38,4 +38,6 @@ Interested vendors and suppliers are to register in [**Ariba eProcurement System
 
 Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access [**Ariba eProcurement System**](https://www.ariba.com/) for final updates.
 
+If you are unfamiliar with the system, you may want to download and view [**ALPS eProcurement User Training Guide**](/files/SOURCING%20EVENTS/alps_supplier_training_v_7_1.pdf).
+
 Please [**email us**](mailto:alps_operations@alpshealthcare.com.sg) for more details.

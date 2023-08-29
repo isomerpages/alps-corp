@@ -14,21 +14,24 @@ Our approach must be bold and transformative – to design and execute a nationa
  
 Are you up for this challenge? Do check out the links below for more information about us and what we do. We look forward receiving your job application!
 
-
-
-
 <br>
 <table style="width:100%">
 	<tbody>
-		<tr>
-			<td style="width: 33.3%; background-color: red; text-align: center;">
-				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold;text-align: center; text-decoration: none;" href="https://careers.singhealth.com.sg/ALPS/go/ALPS-All-Opportunities/650244/">SuccessFactors</a>
+		<tr style="margin-top: 1em">
+			<td style="width: 33.3%; background-color: #0076CA; text-align: center;">
+				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold;text-align: center; text-decoration: none;" href="https://careers.singhealth.com.sg/ALPS/go/ALPS-All-Opportunities/650244/">
+					<img style="margin-top: 0.5em; width:60px" src="/images/alps_icon_success_factors_heart.png">
+				SuccessFactors</a>
 			</td>
-			<td style="width: 33.3%; background-color: blue; text-align: center;">
-				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-decoration: none;" href="https://www.linkedin.com/company/alps-pte-ltd/about/">LinkedIn</a>
+			<td style="width: 33.3%; background-color: #4891DB; text-align: center;">
+				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-decoration: none;" href="https://www.linkedin.com/company/alps-pte-ltd/about/">
+					<img style="margin-top: 0.5em; width:60px" src="/images/alps_icon_linkedin_blue_on_white.png">
+				LinkedIn</a>
 			</td>
-			<td style="width: 33.3%; background-color: hotpink; text-align: center;">
-				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.jobstreet.com.sg/en/companies/1236450-alps-pte-ltd">JobStreet</a>
+			<td style="width: 33.3%; background-color: #E60379; text-align: center;">
+				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.jobstreet.com.sg/en/companies/1236450-alps-pte-ltd">
+					<img style="margin-top: 0.5em; width:60px" src="/images/alps_icon_jobstreet_arrow.png">
+				JobStreet</a>
 			</td>
 		</tr>
 	</tbody>
