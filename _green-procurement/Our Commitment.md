@@ -20,4 +20,4 @@ ALPS aims to collaborate with valued Green Partners, to advance Singapore’s mo
 *   Packaging Design
 *   Recycle/ Trade-In Program
 
-If you like to work with us on Green Project/ Initiatives, please email ALPS at [alps.green.workgroup@alpshealthcare.com.sg](mailto:alps.green.workgroup@alpshealthcare.com.sg) for more information.
+If you like to work with us on Green Project/ Initiatives, please email [email us](mailto:alps.green.workgroup@alpshealthcare.com.sg) for more information.
