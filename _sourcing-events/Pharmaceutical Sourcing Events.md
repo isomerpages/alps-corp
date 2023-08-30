@@ -8,9 +8,14 @@ description: ""
 #### TERMS AND CONDITIONS
 
 * All RFP proposals must be submitted through the [**Ariba eProcurement System**](https://www.ariba.com/) sourcing tool.
+
 * Your company must be registered in Singapore to participate in ALPS events.
+
 *  For all events, the Supply Head requirement for participation is EPU/DAP/32.
+
 *  Each Company must participate at all sourcing events using the same [**Ariba eProcurement System**](https://www.ariba.com/) account.
+
+* If you are unfamiliar with the system, you may want to download and view [**ALPS eProcurement User Training Guide**](/files/SOURCING%20EVENTS/alps_supplier_training_v_7_1.pdf).
 
 ____________________________________________________________
 
