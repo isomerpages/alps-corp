@@ -74,4 +74,6 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	</table>
 </section>
 
+If you are unfamiliar with the [**Ariba eProcurement System**](https://www.ariba.com/), you may want to download and view [**ALPS eProcurement User Training Guide**](/files/SOURCING%20EVENTS/alps_supplier_training_v_7_1.pdf).
+
 Next, do check out the contract templates in use at [**ALPS**](/sourcing-events/alps-contract-templates/), [**NHG**](/sourcing-events/nhg-contract-templates/) and [**NUHS**](/sourcing-events/nuhs-contract-templates/).
