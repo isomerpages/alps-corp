@@ -8,7 +8,7 @@ third_nav_title: Process Guidelines
 
 ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipment, and services for Singapore’s three Public Healthcare Clusters (clusters) and their Public Healthcare Institutions (PHIs).
 
-ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch [**sourcing events**](/sourcing-events/national-sourcing-events/) through the existing platforms at the respective clusters and PHIs.
+ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch <a target="_blank" style="font-weight: bold" href="/sourcing-events/national-level/overview/">sourcing events</a> through the existing platforms at the respective clusters and PHIs.
 
 In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
 
@@ -52,11 +52,11 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 		<tbody>
 			<tr>
 				<td>ALPS Strategic Procurement</td>
-				<td><b><a target="_blank" href="https://www.ariba.com/">Ariba eProcurement System</a></b></td>
+				<td><a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a></td>
 			</tr>
 			<tr>
 				<td>SingHealth Cluster</td>
-				<td><b><a target="_blank" href="https://www.ariba.com/">Ariba eProcurement System</a></b></td>
+				<td><a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a></td>
 			</tr>
 			<tr>
 				<td>NHG Cluster</td>
@@ -74,6 +74,6 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	</table>
 </section>
 
-If you are unfamiliar with the [**Ariba eProcurement System**](https://www.ariba.com/), you may want to download and view [**ALPS eProcurement User Training Guide**](/files/SOURCING%20EVENTS/alps_supplier_training_v_7_1.pdf).
+If you are unfamiliar with the <a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a>, you may want to download and view <a target="_blank" style="font-weight: bold" href="/SOURCING%20EVENTS/alps_supplier_training_v_7_1.pdf">ALPS eProcurement User Training Guide</a>.
 
-Next, do check out the contract templates in use at [**ALPS**](/sourcing-events/alps-contract-templates/), [**NHG**](/sourcing-events/nhg-contract-templates/) and [**NUHS**](/sourcing-events/nuhs-contract-templates/).
+Next, do check out the contract templates in use at ALPS, NHG, and NUHS.
