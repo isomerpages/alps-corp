@@ -6,7 +6,7 @@ third_nav_title: Process Guidelines
 ---
 ![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
-### ALPS' STANDARD TERMS & CONDITIONS
+### ALPS' STANDARD TERMS &amp; CONDITIONS
 
 All new and existing purchase orders will be governed by ALPS' **Standard Terms &amp; Conditons** and **Master Agreements**. 
 
@@ -20,6 +20,8 @@ Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 
 [**Standard Terms And Conditions For Supply Of Products And Services**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)
 
+<div class="hide">
+
 ### FOR CONTRACT VALUES ABOVE S$100K
 
 [**Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_equipment_loan_consignment_and_supply_of_products.pdf)
@@ -31,3 +33,5 @@ Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 [**Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_non_it_services.pdf)
 
 [**Master Services Agreement For Professional IT Services Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_professional_it_services.pdf)
+	
+</div>
