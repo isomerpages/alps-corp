@@ -14,7 +14,7 @@ Certain sourcing events necessitate the use of NHG's contract templates. Vendors
 
 [**Terms And Conditions For The Supply Of Goods And Services**](/files/CONTRACT%20DIRECTORY/NHG%20TEMPLATES/nhg_scc_3_21022023_v_1_9_goods_and_services.pdf)
 
-### NON-IT TERMS & CONDITIONS
+### IT TERMS & CONDITIONS
 
 [**Terms And Conditions For The Supply Of Computer System And/Or Services**](/files/CONTRACT%20DIRECTORY/NHG%20TEMPLATES/nhg_scc_6_itrfp_system_acquisition.pdf)
 
