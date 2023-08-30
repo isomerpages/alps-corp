@@ -7,13 +7,13 @@ description: ""
 
 #### TERMS AND CONDITIONS
 
-* All RFP proposals must be submitted through the [**Ariba eProcurement System**](https://www.ariba.com/) sourcing tool.
+* All RFP proposals must be submitted through the&nbsp;[**Ariba eProcurement System**](https://www.ariba.com/)&nbsp;sourcing tool.
 
 * Your company must be registered in Singapore to participate in ALPS events.
 
 *  For all events, the Supply Head requirement for participation is EPU/DAP/32.
 
-*  Each Company must participate at all sourcing events using the same [**Ariba eProcurement System**](https://www.ariba.com/) account.
+*  Each Company must participate at all sourcing events using the same&nbsp;[**Ariba eProcurement System**](https://www.ariba.com/)&nbsp;account.
 
 * If you are unfamiliar with the system, you may want to download and view [**ALPS eProcurement User Training Guide**](/files/SOURCING%20EVENTS/alps_supplier_training_v_7_1.pdf).
 
@@ -25,10 +25,10 @@ ____________________________________________________________
 
 * Click on the “Respond to Posting” button found on the page.
 
-* Log in to [**Ariba eProcurement System**](https://www.ariba.com/) by entering your ID and password.
+* Log in to&nbsp;[**Ariba eProcurement System**](https://www.ariba.com/)&nbsp;by entering your ID and password.
 
 * You will gain access into the event for proposal submission.
-* Submit your proposal via [**Ariba eProcurement System**](https://www.ariba.com/) before the closing date and time stated in the RFP notice below.
+* Submit your proposal via&nbsp;[**Ariba eProcurement System**](https://www.ariba.com/)&nbsp;before the closing date and time stated in the RFP notice below.
 
 ____________________________________________________________
 
@@ -40,7 +40,7 @@ ____________________________________________________________
 
 [**Evaluation Criteria (Unregistered Drugs)**](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf)
 
-[**Drugs & Pharma Products RFP Results (Update on 24 August 2023)**](/files/Pharma%20Sourcing%20Events/rfp_results.pdf)
+[**Drugs &amp; Pharma Products RFP Results (Update on 24 August 2023)**](/files/Pharma%20Sourcing%20Events/rfp_results.pdf)
 
 [**Estimated Annual Quantities**](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf)
 
@@ -56,12 +56,12 @@ ____________________________________________________________
 
 #### TESTING
 
-[**Purchasing Programme 2023**](/files/pharma-sourcing-events/alps_purchasing_programme.pdf)
+<a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/alps_purchasing_programme.pdf">Purchasing Programme 2023</a>
 
-[**Evaluation Criteria (Pharma Products)**](/files/pharma-sourcing-events/evaluation_criteria_for_pharma_products.pdf)
+<a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf">Evaluation Criteria (Pharmaceutical Products)</a>
 
-[**Evaluation Criteria (Unregistered Drugs)**](/files/pharma-sourcing-events/evaluation_criteria_for_unregistered_drugs.pdf)
+<a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf">Evaluation Criteria (Unregistered Drugs)</a>
 
-[**Drugs & Pharma Products RFP Results (Update on 24 August 2023)**](/files/pharma-sourcing-events/rfp_results.pdf)
+<a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf">Estimated Annual Quantities</a>
 
-[**Estimated Annual Quantities**](/files/pharma-sourcing-events/estimated_annual_quantities_of_pharma_products.pdf)
+<a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/rfp_results.pdf">Drugs &amp; Pharma Products RFP Results (Update on 24 Aug 2023)</a>
