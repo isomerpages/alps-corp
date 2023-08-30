@@ -51,3 +51,17 @@ ____________________________________________________________
 * Lim Liu Gin : 6377 8993
 
 * Neo Li Zhu : 6377 8432
+
+____________________________________________________________
+
+#### TESTING
+
+[**Purchasing Programme 2023**](/files/pharma-sourcing-events/alps_purchasing_programme.pdf)
+
+[**Evaluation Criteria (Pharma Products)**](/files/pharma-sourcing-events/evaluation_criteria_for_pharma_products.pdf)
+
+[**Evaluation Criteria (Unregistered Drugs)**](/files/pharma-sourcing-events/evaluation_criteria_for_unregistered_drugs.pdf)
+
+[**Drugs & Pharma Products RFP Results (Update on 24 August 2023)**](/files/pharma-sourcing-events/rfp_results.pdf)
+
+[**Estimated Annual Quantities**](/files/pharma-sourcing-events/estimated_annual_quantities_of_pharma_products.pdf)
