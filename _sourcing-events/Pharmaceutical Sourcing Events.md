@@ -43,7 +43,7 @@ ____________________________________________________________
 
 <a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf">Estimated Annual Quantities</a>
 
-<a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/rfp_results.pdf">Drugs &amp; Pharma Products RFP Results (Update on 24 Aug 2023)</a>
+<a target="_blank" style="font-weight: bold" href="/files/Pharma%20Sourcing%20Events/rfp%20results.pdf">Drugs &amp; Pharma Products RFP Results (Update on 31 Aug 2023)</a>
 
 ____________________________________________________________
 
