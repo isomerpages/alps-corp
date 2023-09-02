@@ -1,6 +1,6 @@
 ---
 title: October 2023
-permalink: /sourcing-events/national-level/3rd-month-events/
+permalink: /sourcing-events/national-level/2nd-month-events/
 description: ""
 third_nav_title: National Level
 ---
@@ -8,12 +8,12 @@ third_nav_title: National Level
 
 ## OCTOBER 2023 SOURCING EVENTS
 
-| S/N | CATEGORY | RFP TITLE |
+|S/N|CATEGORY|RFP TITLE|
 | -------- | -------- | -------- |
-|	1	|	Medical Supplies	|	Nerve Stimulation - Deep Brain & Vagal	|
-|	2	|	Medical Supplies	|	Dural Patch & Aneurysm Clips	|
-|	3	|	Medical Supplies	|	Brachytherapy	|
-|	4	|	MedTech	|	Warming Units, Blood/Intravenous Solution	|
-|	5	|	MedTech	|	Oximeters, Pulse, Finger-Tip	|
-|	6	|	MedTech	|	Oximeters, Pulse, Handheld	|
-|	7	|	Estate	|	Facilities Management Services - 1st National	|
+|1|Medical Supplies|Trauma Implants|
+|2|MedTech|Electrocardiographs, Multichannel, Interpretive|
+|3|MedTech|Monitoring Systems, Physiologic|
+|4|Environmental|Housekeeping Services (NHG and NUHS) 1st National RFP|
+|5|Environmental|Portering Services National 1st|
+|6|Estate|Facilities Management Services - 1st National|
+|7|Environmental|Linen Laundry and Leasing- 2nd National (SingHealth + NHG) Firm|
