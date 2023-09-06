@@ -27,5 +27,3 @@ Certain sourcing events necessitate the use of NHG's contract templates. Vendors
 [**Terms And Conditions For The Supply Of Software And/Or Services**](/files/Contract%20Directory/NHG%20TEMPLATES/nhg_scc_6_itrfp_software_acquisition.pdf)
 
 
-
-[](/files/Contract%20Directory/NHG%20TEMPLATES/nhg_scc_1_12102022_v_1_6_construction_and_improvement_works.pdf)
