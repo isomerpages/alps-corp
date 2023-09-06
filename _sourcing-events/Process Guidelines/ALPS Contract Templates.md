@@ -18,7 +18,9 @@ Vendors are encouraged to refer to ALPS' contract templates below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-[**Standard Terms And Conditions For Supply Of Products And Services**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)
+[**Standard Terms And Conditions For Supply Of Products And Services**](/files/Contract%20Directory/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)
+
+[](/files/Contract%20Directory/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)
 
 <div class="hide">
 
