@@ -60,21 +60,21 @@ Certain sourcing events necessitate the use of NUHS' contract templates. Vendors
 
 #### INSTITUTION-LEVEL: SERVICES
 
-[**General Terms And Conditions For The Supply of Services**](/files/Contract%20Directory/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_a_rfp_institution%20procurement_t%20and%20c_services_v2%20(31_03_23).pdf)
+[**General Terms And Conditions For The Supply of Services**](/files/Contract%20Directory/NUHS%20TEMPLATES/RFPs%20Institution%20Sevices/2_6_a_rfp_institution%20procurement_t%20and%20c_services_v2%20(31_03_23).pdf)
 
-[**General Terms And Conditions For The Supply of Maintenance Services**](/files/Contract%20Directory/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_b_rfp_institution%20procurement_t%20and%20c_services_bme%20maintenanceservices_v3%20(31_03_23).pdf)
+[**General Terms And Conditions For The Supply of Maintenance Services**](/files/Contract%20Directory/NUHS%20TEMPLATES/RFPs%20Institution%20Sevices/2_6_b_rfp_institution%20procurement_t%20and%20c_services_bme%20maintenanceservices_v3%20(31_03_23).pdf)
 
-[**General Terms And Conditions For The Supply of Consultancy Services**](/files/Contract%20Directory/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_c_rfp_institution%20procurement_t%20and%20c_services_consultancy%20services_v2%20(31_03_23).pdf)
+[**General Terms And Conditions For The Supply of Consultancy Services**](/files/Contract%20Directory/NUHS%20TEMPLATES/RFPs%20Institution%20Sevices/2_6_c_rfp_institution%20procurement_t%20and%20c_services_consultancy%20services_v2%20(31_03_23).pdf)
 
-[**Appointment Of Project Manager For Minor Project Works**](/files/Contract%20Directory/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/2_6_d_e_rfp_institution%20procurement_t%20and%20c_services_projectmanagement_v3%20(31_03_23).pdf)
+[**Appointment Of Project Manager For Minor Project Works**](/files/Contract%20Directory/NUHS%20TEMPLATES/RFPs%20Institution%20Sevices/2_6_d_e_rfp_institution%20procurement_t%20and%20c_services_projectmanagement_v3%20(31_03_23).pdf)
 
-[**Appointment Of Project Manager For Minor Project Works (Nominal Fee Option)**](/files/Contract%20Directory/NUHS%20TEMPLATES/Institution%20Level%20:%20Services/nuhs_rfp_procurement_t&c_services_project_management_contract_nominal_fee_option_v21_300921.pdf)
+[**Appointment Of Project Manager For Minor Project Works (Nominal Fee Option)**](/files/Contract%20Directory/NUHS%20TEMPLATES/RFPs%20Institution%20Sevices/nuhs_rfp_procurement_t&c_services_project_management_contract_nominal_fee_option_v21_300921.pdf)
 
 ### NUHS REQUEST FOR QUOTATIONS
 
 #### CLUSTER-LEVEL: EQUIPMENT, GOODS & SERVICES
 
-[**Master Terms And Conditions For The Purchase Of Equipment**](/files/Contract%20Directory/NUHS%20TEMPLATES/CLUSTER%20EQUIPMENT%20RFQS/2_1_1_a_rfq_cluster%20procurement_t%20and%20c_medical%20equipment_v2%20(31_03_23).pdf)
+[**Master Terms And Conditions For The Purchase Of Equipment**](/files/Contract%20Directory/NUHS%20TEMPLATES/RFQs%20Cluster%20Equipment/2_1_1_a_rfq_cluster%20procurement_t%20and%20c_medical%20equipment_v2%20(31_03_23).pdf)
 
 [**Master Terms And Conditions For The Supply Of Goods (Consignment)**](/files/Contract%20Directory/NUHS%20TEMPLATES/RFQs%20Cluster%20Equipment/2_1_1_b_rfq_cluster%20procurement_t%20and%20c_goods_onetime-termcontract_consign_v3%20(31_03_23)%20(1).pdf)
 
