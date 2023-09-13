@@ -33,6 +33,8 @@ description: ""
 | **MS LER SOCK HOON** | Lead, Site Operations, SingHealth |
 | **MS AGNES TIONG** | Lead, Site Operations, NHG |
 | **MS TAN SOH HIN** | Lead, Site Operations, NUHS |
+| **MR LIM HOON MIN** | Director, Supply Chain Management Office |
+| **MR KEITH LIM** | Director, Supply Chain Services Office |
 
 ### Strategic Planning, Development and Communications
 
