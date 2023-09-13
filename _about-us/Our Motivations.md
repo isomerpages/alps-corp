@@ -3,6 +3,8 @@ title: Our Motivations
 permalink: /our/motivations/
 description: ""
 ---
+![](/images/alps_healthcare_staff_at_cgh_ktph_ntfgh.gif)
+
 ALPS was officially launched on 1 July 2018 to bring to fruition the Ministry of Health’s (MOH) target for Singaporeans to receive good healthcare services at the best and affordable value. 
 
 ALPS’ skilled supply chain professionals shall leverage on data analytics, forge strategic partnerships, and tap emerging technologies and other innovative solutions to improve and future-proof Singapore’s healthcare supply chain landscape and to better meet the needs of the public healthcare.
@@ -19,4 +21,3 @@ Identifying appropriate avenues and course of treatments near the patients’ ho
 ### Moving Beyond Quality To Value
 
 Innovative use of technology to eliminate unnecessary administrative processes, improve the delivery of healthcare services, and raise the productivity of our healthcare workers.
-
