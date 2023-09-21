@@ -8,7 +8,7 @@ third_nav_title: Process Guidelines
 
 ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipment, and services for Singapore’s three Public Healthcare Clusters (clusters) and their Public Healthcare Institutions (PHIs).
 
-ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch <a target="_blank" style="font-weight: bold" href="/sourcing-events/national-level/overview/">sourcing events</a> through the existing platforms at the respective clusters and PHIs.
+ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch **[sourcing events](/sourcing-events/national-level/overview/)** through the existing platforms at the respective clusters and PHIs.
 
 In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
 
