@@ -7,15 +7,15 @@ description: ""
 
 #### TERMS AND CONDITIONS
 
-* All RFP proposals must be submitted through the <a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a> sourcing tool.
+* All RFP proposals must be submitted through the **[Ariba eProcurement System](https://www.ariba.com/)** sourcing tool.
 
 * Your company must be registered in Singapore to participate in ALPS events.
 
 *  For all events, the Supply Head requirement for participation is EPU/DAP/32.
 
-*  Each Company must participate at all sourcing events using the same <a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a> account.
+*  Each Company must participate at all sourcing events using the same **[Ariba eProcurement System](https://www.ariba.com/)** account.
 
-* If you are unfamiliar with the system, you may want to download and view <a target="_blank" style="font-weight: bold" href="/SOURCING%20EVENTS/alps_supplier_training_v_7_1.pdf">ALPS eProcurement User Training Guide</a>.
+* If you are unfamiliar with the system, you may want to download and view **[ALPS eProcurement User Training Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
 
 ____________________________________________________________
 
@@ -25,11 +25,11 @@ ____________________________________________________________
 
 * Click on the “Respond to Posting” button found on the page.
 
-* Log in to <a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a> by entering your ID and password.
+* Log in to **[Ariba eProcurement System](https://www.ariba.com/)** by entering your ID and password.
 
 * You will gain access into the event for proposal submission.
 
-* Submit your proposal via <a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a> before the closing date and time stated in the RFP notice below.
+* Submit your proposal via **[Ariba eProcurement System](https://www.ariba.com/)** before the closing date and time stated in the RFP notice below.
 
 ____________________________________________________________
 
