@@ -1,5 +1,5 @@
 collections:
-  sourcing-events:
+  strategic-procurement:
     output: true
     order:
       - Green Procurement.md
