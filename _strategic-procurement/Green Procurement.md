@@ -1,6 +1,6 @@
 ---
-title: Our Commitment
-permalink: /ourcommitment/
+title: Green Procurement
+permalink: /green-procurement/
 description: ""
 ---
 ![](/images/alps_going_green_procurement_1920x640.jpg)

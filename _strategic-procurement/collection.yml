@@ -1,5 +1,5 @@
 collections:
-  sourcing-events:
+  strategic-procurement:
     output: true
     order:
       - CEO's Welcome Letter.md
@@ -15,3 +15,4 @@ collections:
       - Process Guidelines/ALPS Contract Templates.md
       - Process Guidelines/NHG Contract Templates.md
       - Process Guidelines/NUHS Contract Templates.md
+      - Green Procurement.md

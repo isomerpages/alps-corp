@@ -2,12 +2,12 @@ logo: /images/alps, tagline, black, transparent, 1000x921.png
 links:
   - title: About Us
     collection: about-us
-  - title: Sourcing Events
-    collection: sourcing-events
+  - title: Strategic Procurement
+    collection: strategic-procurement
   - title: National Logistics
     url: /nationallogistics/
-  - title: Green Procurement
-    collection: green-procurement
+  - title: NCFP
+    url: /national-central-fill-pharmacy
   - title: Policy
     collection: policy
   - title: Careers
