@@ -1,5 +1,4 @@
 collections:
   green-procurement:
     output: true
-    order:
-      - Green Procurement.md
+    order: []
