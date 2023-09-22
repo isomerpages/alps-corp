@@ -2,4 +2,4 @@ collections:
   green-procurement:
     output: true
     order:
-      - Our Commitment.md
+      - Green Procurement.md
