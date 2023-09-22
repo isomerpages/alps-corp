@@ -2,7 +2,6 @@ collections:
   strategic-procurement:
     output: true
     order:
-      - Green Procurement.md
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
       - National Level/.keep
@@ -16,3 +15,4 @@ collections:
       - Process Guidelines/ALPS Contract Templates.md
       - Process Guidelines/NHG Contract Templates.md
       - Process Guidelines/NUHS Contract Templates.md
+      - Green Procurement.md
