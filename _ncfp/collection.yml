@@ -1,5 +1,4 @@
 collections:
   ncfp:
     output: true
-    order:
-      - National Central Fill Pharmacy.md
+    order: []
