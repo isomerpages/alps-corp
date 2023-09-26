@@ -52,11 +52,11 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 		<tbody>
 			<tr>
 				<td>ALPS Strategic Procurement</td>
-				<td><a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a></td>
+				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network</a></td>
 			</tr>
 			<tr>
 				<td>SingHealth Cluster</td>
-				<td><a target="_blank" style="font-weight: bold" href="https://www.ariba.com/">Ariba eProcurement System</a></td>
+				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network</a></td>
 			</tr>
 			<tr>
 				<td>NHG Cluster</td>
@@ -74,6 +74,6 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	</table>
 </section>
 
-If you are unfamiliar with the  **[Ariba eProcurement System](https://www.ariba.com/)** , you may want to download and view **[ALPS eProcurement User Training Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
+If you are unfamiliar with the  **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view **[eProcurement Supplier User Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
 
 Next, do check out the contract templates in use at ALPS, NHG, and NUHS.
