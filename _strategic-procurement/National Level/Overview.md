@@ -34,7 +34,7 @@ third_nav_title: National Level
 
 
 
-Interested vendors and suppliers are to register in **[SAP Business Network](https://supplier.ariba.com/)** to access the National Sourcing Events and RFP information.  
+Interested vendors and suppliers are to register with **[SAP Business Network](https://supplier.ariba.com/)** to access the National and Institution Sourcing Events and RFP information on eProcurement system.  
 
 Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access **[SAP Business Network](https://supplier.ariba.com/)** for final updates.
 
