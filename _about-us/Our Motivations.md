@@ -3,7 +3,7 @@ title: Our Motivations
 permalink: /our/motivations/
 description: ""
 ---
-![](/images/alps_healthcare_staff_at_cgh_ktph_ntfgh.gif)
+![](/images/2023_feb_14_alps_staff_at_nhc_ntfgh_sgh_ncc_diagonal_frame_02.png)
 
 ALPS was officially launched on 1 July 2018 to bring to fruition the Ministry of Health’s (MOH) target for Singaporeans to receive good healthcare services at the best and affordable value. 
 
