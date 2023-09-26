@@ -38,6 +38,6 @@ Interested vendors and suppliers are to register with **[SAP Business Network](h
 
 Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access **[SAP Business Network](https://supplier.ariba.com/)** for final updates.
 
-If you are unfamiliar with the system, you may want to download and view **[eProcurement Supplier User Training Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
+If you are unfamiliar with the system, you may want to download and view **[eProcurement Supplier User Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
 
 Please **[email us](mailto:alps_operations@alpshealthcare.com.sg)** for more details.
