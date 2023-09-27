@@ -74,6 +74,6 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	</table>
 </section>
 
-If you are unfamiliar with the  **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view **[eProcurement Supplier User Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
+If you are unfamiliar with the  **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](/files/Sourcing%20Events/eprocurement_supplier_user_guide.pdf)**.
 
 Next, do check out the contract templates in use at ALPS, NHG, and NUHS.
