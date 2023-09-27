@@ -3,7 +3,7 @@ title: Green Procurement
 permalink: /green-procurement/
 description: ""
 ---
-![](/images/alps_going_green_procurement_1920x640.jpg)
+![](/images/alps_sourcing_events_green_procurement_1920x640_clear.png)
 
 ALPS is committed to protecting the environment through its Procurement and Supply Chain Practices. Since April 2022, ALPS has gradually rolled out Green Procurement, together with the Public Healthcare Institutions. Such Guidelines aim to improve the energy and water efficiency; and reduce and recycle waste within Public Healthcare Institutions.   
 
