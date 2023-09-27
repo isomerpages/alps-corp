@@ -33,11 +33,10 @@ third_nav_title: National Level
 
 
 
-
 Interested vendors and suppliers are to register with **[SAP Business Network](https://supplier.ariba.com/)** to access the National and Institution Sourcing Events and RFP information on eProcurement system.  
 
 Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access **[SAP Business Network](https://supplier.ariba.com/)** for final updates.
 
-If you are unfamiliar with the system, you may want to download and view **[eProcurement Supplier User Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
+If you are unfamiliar with the system, you may want to download and view our **[eProcurement Supplier User Guide](/files/Sourcing%20Events/eprocurement_supplier_user_guide.pdf)**.
 
 Please **[email us](mailto:alps_operations@alpshealthcare.com.sg)** for more details.

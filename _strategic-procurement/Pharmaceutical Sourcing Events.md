@@ -15,7 +15,7 @@ description: ""
 
 *  Each Company must participate at all sourcing events using the same **[SAP Business Network](https://supplier.ariba.com/)** account.
 
-* If you are unfamiliar with the system, you may want to download and view **[eProcurement Supplier User Guide](/files/Sourcing%20Events/alps_supplier_training_v_7_1.pdf)**.
+* If you are unfamiliar with the system, you may want to download and view our **[eProcurement Supplier User Guide](/files/Sourcing%20Events/eprocurement_supplier_user_guide.pdf)**.
 
 ____________________________________________________________
 
