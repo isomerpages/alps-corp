@@ -8,15 +8,19 @@ third_nav_title: National Level
 
 ## SEPTEMBER 2023 SOURCING EVENTS
 
-|S/N|CATEGORY|RFP TITLE|
+| S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-|1|Medical Supplies|Reusable Resuscitators and Accessories|
-|2|Medical Supplies|Contrast Media|
-|3|MedTech|Radiotherapy Systems, Linear Accelerator|
-|4|MedTech|Handpieces, Surgical, Microdebrider|
-|5|MedTech|Hand Drills, Surgical, Bone, Battery|
-|6|MedTech|Hand Drills, Surgical, Bone, Electric|
-|7|Professional|Emergency ambulance service and medical transport services|
-|8|Environmental|Medical Waste Disposal for NHG|
-|9|Professional|Call Centre Services|
-|10|Non Medical Supplies|Office, Training & Clinical Chairs (National)|
+| 1 | Medical Supplies | Trauma Implants |
+| 2 | MedTech | Electrocardiographs, Multichannel, Interpretive |
+| 3 | MedTech | Monitoring Systems, Physiologic |
+| 4 | MedTech | Radiotherapy Systems, Linear Accelerator |
+| 5 | MedTech | Scanning Systems, Gamma Camera |
+| 6 | MedTech | Scanning Systems, Gamma Camera, Cardiac |
+| 7 | MedTech | Handpieces, Debrider |
+| 8 | MedTech | Hand Drills, Bone, Battery |
+| 9 | MedTech | Hand Drills, Bone, Electric |
+| 10 | Environmental | Housekeeping Services (NHG and NUHS) |
+| 11 | Environmental | Disposal Medical Waste NHG |
+| 12 | Environmental | Portering Services |
+| 13 | Linen Laundry Services | Linen Laundry and Leasing |
+| 14 | Non-Medical | Office, Training & Clinical Chairs (National) |
