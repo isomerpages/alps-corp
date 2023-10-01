@@ -6,7 +6,7 @@ third_nav_title: National Level
 ---
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
 
-## SEPTEMBER 2023 SOURCING EVENTS
+## OCTOBER 2023 SOURCING EVENTS
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
