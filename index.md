@@ -53,7 +53,7 @@ sections:
       button: Find out more
       alt: Image alt text
       url: /ourcommitment/
-      image: /images/alps_going_green_procurement_1920x640.jpg
+      image: /images/alps_sourcing_events_green_procurement_1920x640_clear.png
       description: ALPS is committed to protecting the environment and we are drawing
         up our own Green Procurement Plan in conjunction with valued partners
         and vendors.

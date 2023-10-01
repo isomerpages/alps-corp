@@ -1,6 +1,6 @@
 ---
 title: October 2023
-permalink: /sourcing-events/national-level/2nd-month-events/
+permalink: /sourcing-events/national-level/1st-month-events/
 description: ""
 third_nav_title: National Level
 ---
@@ -8,12 +8,19 @@ third_nav_title: National Level
 
 ## OCTOBER 2023 SOURCING EVENTS
 
-|S/N|CATEGORY|RFP TITLE|
+| S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-|1|Medical Supplies|Trauma Implants|
-|2|MedTech|Electrocardiographs, Multichannel, Interpretive|
-|3|MedTech|Monitoring Systems, Physiologic|
-|4|Environmental|Housekeeping Services (NHG and NUHS) 1st National RFP|
-|5|Environmental|Portering Services National 1st|
-|6|Estate|Facilities Management Services - 1st National|
-|7|Environmental|Linen Laundry and Leasing- 2nd National (SingHealth + NHG) Firm|
+| 1 | Medical Supplies | Trauma Implants |
+| 2 | MedTech | Electrocardiographs, Multichannel, Interpretive |
+| 3 | MedTech | Monitoring Systems, Physiologic |
+| 4 | MedTech | Radiotherapy Systems, Linear Accelerator |
+| 5 | MedTech | Scanning Systems, Gamma Camera |
+| 6 | MedTech | Scanning Systems, Gamma Camera, Cardiac |
+| 7 | MedTech | Handpieces, Debrider |
+| 8 | MedTech | Hand Drills, Bone, Battery |
+| 9 | MedTech | Hand Drills, Bone, Electric |
+| 10 | Environmental | Housekeeping Services (NHG and NUHS) |
+| 11 | Environmental | Disposal Medical Waste NHG |
+| 12 | Environmental | Portering Services |
+| 13 | Linen Laundry Services | Linen Laundry and Leasing |
+| 14 | Non-Medical | Office, Training & Clinical Chairs (National) |

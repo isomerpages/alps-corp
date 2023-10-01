@@ -1,6 +1,6 @@
 ---
 title: November 2023
-permalink: /sourcing-events/national-level/3rd-month-events/
+permalink: /sourcing-events/national-level/2nd-month-events/
 description: ""
 third_nav_title: National Level
 ---
@@ -9,13 +9,11 @@ third_nav_title: National Level
 ## NOVEMBER 2023 SOURCING EVENTS
 
 
-|S/N|CATEGORY|RFP TITLE|
+| S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-|1|Medical Supplies|Nerve Stimulators for Deep Brain and Vagal Nerve|
-|2|Medical Supplies|Brachytherapy|
-|3|Medical Supplies|Nerve Stimulators for Spinal Cord|
-|4|MedTech|Ventilators, Transport|
-|5|MedTech|Ventilators, Noninvasive Positive Pressure, BiPAP|
-|6|MedTech|Heart-Lung Bypass Units|
-|7|MedTech|Scanning Systems, Gamma Camera|
-|8|MedTech|Scanning Systems, Gamma Camera, Cardiac|
+| 1 | Medical Supplies | Nerve Stimulators for Spinal Cord |
+| 2 | Medical Supplies | Nerve Stimulators for Deep Brain and Vagal Nerve |
+| 3 | MedTech | Ventilators, Transport |
+| 4 | MedTech | Ventilators, NIV, BiPAP |
+| 5 | MedTech | Heart-Lung Bypass Units |
+| 6 | Non-Medical | Multi-Function Photocopiers Leasing |
