@@ -6,16 +6,20 @@ third_nav_title: National Level
 ---
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
 
-## NOVEMBER 2023 SOURCING EVENTS
+## DECEMBER 2023 SOURCING EVENTS
 
 
-|S/N|CATEGORY|RFP TITLE|
+| S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-|1|Medical Supplies|Nerve Stimulators for Deep Brain and Vagal Nerve|
-|2|Medical Supplies|Brachytherapy|
-|3|Medical Supplies|Nerve Stimulators for Spinal Cord|
-|4|MedTech|Ventilators, Transport|
-|5|MedTech|Ventilators, Noninvasive Positive Pressure, BiPAP|
-|6|MedTech|Heart-Lung Bypass Units|
-|7|MedTech|Scanning Systems, Gamma Camera|
-|8|MedTech|Scanning Systems, Gamma Camera, Cardiac|
+| 1 | Pharmaceutical | Cardiovascular Drugs |
+| 2 | Pharmaceutical | Contraception and Reproductive Medicine |
+| 3 | Pharmaceutical | Diabetic Medicine |
+| 4 | Pharmaceutical | Electrolytes Imbalance Medicine |
+| 5 | Pharmaceutical | ENT Preparations |
+| 6 | Pharmaceutical | Eye Preparations |
+| 7 | Pharmaceutical | Infusion Fluids |
+| 8 | Pharmaceutical | Irrigation Fluids |
+| 9 | Pharmaceutical | Other Endocrine Drugs |
+| 10 |	Medical Supplies | Multiplex PCR System for Molecular Diagnostics |
+| 11 |	Medical Supplies | Sharps Container |
+| 12 |	Medical Supplies | Nerve Stimulators for Sacral Nerve |
