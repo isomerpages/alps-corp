@@ -8,12 +8,12 @@ third_nav_title: National Level
 
 ## OCTOBER 2023 SOURCING EVENTS
 
-|S/N|CATEGORY|RFP TITLE|
+
+| S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-|1|Medical Supplies|Trauma Implants|
-|2|MedTech|Electrocardiographs, Multichannel, Interpretive|
-|3|MedTech|Monitoring Systems, Physiologic|
-|4|Environmental|Housekeeping Services (NHG and NUHS) 1st National RFP|
-|5|Environmental|Portering Services National 1st|
-|6|Estate|Facilities Management Services - 1st National|
-|7|Environmental|Linen Laundry and Leasing- 2nd National (SingHealth + NHG) Firm|
+| 1 | Medical Supplies | Nerve Stimulators for Spinal Cord |
+| 2 | Medical Supplies | Nerve Stimulators for Deep Brain and Vagal Nerve |
+| 3 | MedTech | Ventilators, Transport |
+| 4 | MedTech | Ventilators, NIV, BiPAP |
+| 5 | MedTech | Heart-Lung Bypass Units |
+| 6 | Non-Medical | Multi-Function Photocopiers Leasing |
