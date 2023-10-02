@@ -35,7 +35,7 @@ ____________________________________________________________
 
 #### DOCUMENT LINKS
 
-**[Purchasing Programme 2023](/files/Pharma%20Sourcing%20Events/alps_purchasing_programme.pdf)**
+**[Purchasing Programme 2024](/files/Pharma%20Sourcing%20Events/alps_purchasing_programme_2024.pdf)**
 
 **[Evaluation Criteria (Pharmaceutical Products)](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf)**
 
@@ -47,8 +47,10 @@ ____________________________________________________________
 
 ____________________________________________________________
 
-#### CONTACT PERSON
+#### CONTACT PERSONS
 
-* Lim Liu Gin : 6377 8993
+* **Sherie Sim: 6377-8733**
 
-* Neo Li Zhu : 6377 8432
+* **Neo Li Zhu: 6377-8432**
+
+* **Tai Ai Lee: 6377-8734**
