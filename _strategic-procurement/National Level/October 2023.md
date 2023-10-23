@@ -19,8 +19,7 @@ third_nav_title: National Level
 | 7 | MedTech | Handpieces, Debrider |
 | 8 | MedTech | Hand Drills, Bone, Battery |
 | 9 | MedTech | Hand Drills, Bone, Electric |
-| 10 | Environmental | Housekeeping Services (NHG and NUHS) |
-| 11 | Environmental | Disposal Medical Waste NHG |
-| 12 | Environmental | Portering Services |
-| 13 | Linen Laundry Services | Linen Laundry and Leasing |
-| 14 | Non-Medical | Office, Training & Clinical Chairs (National) |
+| 10 | Environmental | Disposal Medical Waste NHG |
+| 11 | Environmental | Portering Services |
+| 12 | Linen Laundry Services | Linen Laundry and Leasing |
+| 13 | Non-Medical | Office, Training & Clinical Chairs (National) |
