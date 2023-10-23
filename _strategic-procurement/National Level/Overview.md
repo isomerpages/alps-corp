@@ -13,13 +13,13 @@ third_nav_title: National Level
 				<br>OCTOBER 2023
 				<br>SOURCING EVENTS
 				<br>
-				<span style="color: white; font-size: 6em"> 14 </span>
+				<span style="color: white; font-size: 6em"> 13 </span>
 			</td>
 			<td style="width: 33%; background-color: #836DB1; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>NOVEMBER 2023
 				<br>SOURCING EVENTS
 				<br>
-				<span style="color: white; font-size: 6em"> 06 </span>
+				<span style="color: white; font-size: 6em"> 07 </span>
 			</td>
 			<td style="width: 33%; background-color: #82C341; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>DECEMBER 2023
