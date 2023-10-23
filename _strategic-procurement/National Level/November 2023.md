@@ -17,3 +17,4 @@ third_nav_title: National Level
 | 4 | MedTech | Ventilators, NIV, BiPAP |
 | 5 | MedTech | Heart-Lung Bypass Units |
 | 6 | Non-Medical | Multi-Function Photocopiers Leasing |
+| 7 | Environmental | Housekeeping Services (NHG and NUHS) |
