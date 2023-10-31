@@ -9,7 +9,7 @@ sections:
   - hero:
       url: /contact-us/
       background: /images/alps_homepage_hero_banner_1920x720_no_logo.jpg
-      title: Advancing Singapore's Healthcare
+      title: Advancing Singapore's Healthcare Supply Chain
       subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
   - infobar:
