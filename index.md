@@ -49,7 +49,7 @@ sections:
       image: /images/alps_sourcing_events_pharmaceutical_1920x640_clear.png
       alt: Image alt text
   - infopic:
-      title: Best Practices
+      title: Going Green
       button: Find out more
       alt: Image alt text
       url: /ourcommitment/
