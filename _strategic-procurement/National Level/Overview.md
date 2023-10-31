@@ -10,22 +10,22 @@ third_nav_title: National Level
 	<tbody>
 		<tr>
 			<td style="width: 33%; background-color: #DC1931; color: white; font-weight: bold; text-align: center; text-decoration: none;">
-				<br>OCTOBER 2023
-				<br>SOURCING EVENTS
-				<br>
-				<span style="color: white; font-size: 6em"> 13 </span>
-			</td>
-			<td style="width: 33%; background-color: #836DB1; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>NOVEMBER 2023
 				<br>SOURCING EVENTS
 				<br>
-				<span style="color: white; font-size: 6em"> 07 </span>
+				<span style="color: white; font-size: 6em"> 10 </span>
 			</td>
-			<td style="width: 33%; background-color: #82C341; color: white; font-weight: bold; text-align: center; text-decoration: none;">
+			<td style="width: 33%; background-color: #836DB1; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>DECEMBER 2023
 				<br>SOURCING EVENTS
 				<br>
 				<span style="color: white; font-size: 6em"> 12 </span>
+			</td>
+			<td style="width: 33%; background-color: #82C341; color: white; font-weight: bold; text-align: center; text-decoration: none;">
+				<br>JANUARY 2024
+				<br>SOURCING EVENTS
+				<br>
+				<span style="color: white; font-size: 6em"> 04 </span>
 			</td>
 		</tr>
 	</tbody>
