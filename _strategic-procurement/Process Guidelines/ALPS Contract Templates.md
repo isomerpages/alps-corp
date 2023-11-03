@@ -3,6 +3,7 @@ title: ALPS Contract Templates
 permalink: /sourcing-events/process-guidelines/alps-contract-templates/
 description: ""
 third_nav_title: Process Guidelines
+variant: markdown
 ---
 ![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
@@ -14,11 +15,11 @@ ALPS will retain the final sourcing decisions and approvals for contractual comm
 
 Please continue to supply the product(s) and/or service(s) in accordance with existing contractual and business arrangements with ALPS.
 
-Vendors are encouraged to refer to ALPS' contract templates below to learn more.
+Vendors are encouraged to refer to ALPS' contract template below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-**[Standard Terms And Conditions For Supply Of Products And Services](/files/Contract%20Directory/ALPS%20TEMPLATES/alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)**
+**[Standard Terms And Conditions For Supply Of Products And Services](/files/Contract%20Directory/ALPS%20TEMPLATES/20231027_alps_standard_terms_and_conditions_for_supply_of_products_and_services.pdf)**
 
 
 <div class="hide">
