@@ -36,7 +36,7 @@ sections:
       description: 3-month schedules of RFP information available here and on Ariba
         eProcurement System.
       button: Find Out More
-      url: /sourcing-events/national-level/overview/
+      url: /strategic-procurement/national-level/overview/
       image: /images/alps_sourcing_events_national_1920x640_clear.png
       alt: Image alt text
   - infopic:
@@ -45,14 +45,14 @@ sections:
       description: ALPS drugs and pharma RFP results published here weekly. Other
         reference documents also available.
       button: Find Out More
-      url: /sourcing-events/pharmaceutical-sourcing-events/
+      url: /strategic-procurement/pharmaceutical-sourcing-events/
       image: /images/alps_sourcing_events_pharmaceutical_1920x640_clear.png
       alt: Image alt text
   - infopic:
       title: Going Green
       button: Find out more
       alt: Image alt text
-      url: /ourcommitment/
+      url: /strategic-procurement/green-procurement/
       image: /images/alps_sourcing_events_green_procurement_1920x640_clear.png
       description: ALPS is committed to protecting the environment and we are drawing
         up our own Green Procurement Plan in conjunction with valued partners
