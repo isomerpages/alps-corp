@@ -1,6 +1,6 @@
 ---
 title: ALPS Contract Templates
-permalink: /sourcing-events/process-guidelines/alps-contract-templates/
+permalink: /strategic-procurement/process-guidelines/alps-contract-templates/
 description: ""
 third_nav_title: Process Guidelines
 variant: markdown

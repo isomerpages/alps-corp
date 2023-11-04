@@ -1,7 +1,8 @@
 ---
 title: Green Procurement
-permalink: /green-procurement/
+permalink: /strategic-procurement/green-procurement/
 description: ""
+variant: tiptap
 ---
 ![](/images/alps_sourcing_events_green_procurement_1920x640_clear.png)
 

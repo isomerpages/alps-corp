@@ -1,7 +1,8 @@
 ---
 title: CEO's Welcome Letter
-permalink: /sourcing-events/ceos-welcome-letter/
+permalink: /strategic-procurement/ceos-welcome-letter/
 description: ""
+variant: tiptap
 ---
 <div style="border: 2px solid; padding-left: 10px; padding-right:10px; width: 100%" class="container">
  <img style="width: 100%" src="/images/alps_national_sourcing_events_ceo_message_banner_1920x640.png">

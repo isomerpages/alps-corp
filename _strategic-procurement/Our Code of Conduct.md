@@ -1,7 +1,8 @@
 ---
 title: Our Code of Conduct
-permalink: /sourcing-events/our-code-of-conduct/
+permalink: /strategic-procurement/our-code-of-conduct/
 description: ""
+variant: tiptap
 ---
 #### WHAT WE EXPECT FROM OUR SUPPLIERS
 

@@ -1,8 +1,9 @@
 ---
 title: January 2024
-permalink: /sourcing-events/national-level/3rd-month-events/
+permalink: /strategic-procurement/national-level/3rd-month-events/
 description: ""
 third_nav_title: National Level
+variant: tiptap
 ---
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
 

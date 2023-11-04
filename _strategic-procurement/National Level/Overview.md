@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /sourcing-events/national-level/overview/
+permalink: /strategic-procurement/national-level/overview/
 description: ""
 third_nav_title: National Level
+variant: tiptap
 ---
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
 

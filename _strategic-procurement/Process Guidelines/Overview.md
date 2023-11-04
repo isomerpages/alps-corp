@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /sourcing-events/process-guidelines/overview/
+permalink: /strategic-procurement/process-guidelines/overview/
 description: ""
 third_nav_title: Process Guidelines
+variant: tiptap
 ---
 ![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 

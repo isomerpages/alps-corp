@@ -1,6 +1,6 @@
 ---
 title: Pharmaceutical Sourcing Events
-permalink: /sourcing-events/pharmaceutical-sourcing-events/
+permalink: /strategic-procurement/pharmaceutical-sourcing-events/
 description: ""
 variant: markdown
 ---
