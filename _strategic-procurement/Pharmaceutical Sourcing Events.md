@@ -16,7 +16,7 @@ variant: markdown
 
 *  Each Company must participate at all sourcing events using the same **[SAP Business Network](https://supplier.ariba.com/)** account.
 
-* If you are unfamiliar with the  **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](/files/Sourcing%20Events/eprocurement_supplier_user_guide_v7.1.pdf)** and **[Contract eSignature Guide](/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf)**.
+* If you are unfamiliar with **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](/files/Sourcing%20Events/eprocurement_supplier_user_guide_v7.1.pdf)** and **[Contract eSignature Guide](/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf)**.
 
 ____________________________________________________________
 
