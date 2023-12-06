@@ -3,7 +3,7 @@ title: Overview
 permalink: /strategic-procurement/process-guidelines/overview/
 description: ""
 third_nav_title: Process Guidelines
-variant: tiptap
+variant: markdown
 ---
 ![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
@@ -75,6 +75,6 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	</table>
 </section>
 
-If you are unfamiliar with the  **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](/files/Sourcing%20Events/eprocurement_supplier_user_guide.pdf)**.
+If you are unfamiliar with the **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](/files/Sourcing%20Events/eprocurement_supplier_user_guide_v7.1.pdf)** and **[Contract eSignature Guide](/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf)**.
 
 Next, do check out the contract templates in use at ALPS, NHG, and NUHS.
