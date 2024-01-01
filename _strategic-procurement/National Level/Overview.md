@@ -11,22 +11,22 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="width: 33%; background-color: #DC1931; color: white; font-weight: bold; text-align: center; text-decoration: none;">
-				<br>DECEMBER 2023
+				<br>JANUARY 2023
 				<br>SOURCING EVENTS
 				<br>
-				<span style="color: white; font-size: 6em"> 14 </span>
+				<span style="color: white; font-size: 6em"> 06 </span>
 			</td>
 			<td style="width: 33%; background-color: #836DB1; color: white; font-weight: bold; text-align: center; text-decoration: none;">
-				<br>JANUARY 2024
-				<br>SOURCING EVENTS
-				<br>
-				<span style="color: white; font-size: 6em"> 04 </span>
-			</td>
-			<td style="width: 33%; background-color: #82C341; color: white; font-weight: bold; text-align: center; text-decoration: none;">
 				<br>FEBRUARY 2024
 				<br>SOURCING EVENTS
 				<br>
-				<span style="color: white; font-size: 6em"> 01 </span>
+				<span style="color: white; font-size: 6em"> 02 </span>
+			</td>
+			<td style="width: 33%; background-color: #82C341; color: white; font-weight: bold; text-align: center; text-decoration: none;">
+				<br>MARCH 2024
+				<br>SOURCING EVENTS
+				<br>
+				<span style="color: white; font-size: 6em"> 04 </span>
 			</td>
 		</tr>
 	</tbody>
