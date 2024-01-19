@@ -5,6 +5,7 @@ date: 2023-10-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="722" width="552" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Falpshealthcaresupplychain%2Fposts%2Fpfbid0Uqai6RsnNQhnxG1AByDimJDwtDpQBsnko8Tcjuvakq9oegAeWDNFyfXfoSNL7HTSl&amp;width=552&amp;show_text=true&amp;height=722&amp;appId"></iframe>
 
