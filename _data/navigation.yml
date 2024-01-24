@@ -1,0 +1,18 @@
+logo: /images/alps, tagline, black, transparent, 1000x921.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Strategic Procurement
+    collection: strategic-procurement
+  - title: National Logistics
+    url: /national-logistics/
+  - title: NCFP
+    url: /national-central-fill-pharmacy
+  - title: Policy
+    collection: policy
+  - title: Careers
+    url: /careers/
+  - title: Media
+    url: /resources/
+  - title: Contact Us
+    url: /contact-us/
