@@ -2,7 +2,6 @@ collections:
   strategic-procurement:
     output: true
     order:
-      - National Sourcing Events.md
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
       - National Level/.keep
