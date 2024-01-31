@@ -7,14 +7,9 @@ description: ""
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
 
 
-
-<p>FEB 2024 SOURCING EVENTS</p><table style="width:100%">
-	<tbody>
-		<tr style="background-color: #DC1931; color: white; font-weight: bold; text-align: center;">
-			
-		</tr>
-	</tbody>
-</table>
+<div style="background-color: #DC1931; width: 100%" class="section">
+			<h5 style="color: white; font-weight: bold; text-align: center;">FEB 2024 SOURCING EVENTS</h5>
+</div>
 
 
 
