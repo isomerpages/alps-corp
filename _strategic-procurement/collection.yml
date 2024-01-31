@@ -2,9 +2,9 @@ collections:
   strategic-procurement:
     output: true
     order:
-      - National Sourcing Events.md
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
+      - National Sourcing Events.md
       - Pharmaceutical Sourcing Events.md
       - Process Guidelines/.keep
       - Process Guidelines/Overview.md
