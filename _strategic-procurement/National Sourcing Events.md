@@ -7,8 +7,8 @@ description: ""
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
 
 
-<div style="background-color: #DC1931; width: 100%" class="section">
-			<h5 style="color: white; font-weight: bold; text-align: center;">FEB 2024 SOURCING EVENTS</h5>
+<div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
+			<h5 style="color: white; font-weight: bold; text-align: left;">FEB 2024 SOURCING EVENTS</h5>
 </div>
 
 
@@ -19,10 +19,9 @@ description: ""
 | 2 | Services | NHG Medical Waste |
 
 
-<div style="background-color: #836DB1; width: 100%" class="section">
-			<h5 style="color: white; font-weight: bold; text-align: center;">MAR 2024 SOURCING EVENTS</h5>
+<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
+			<h5 style="color: white; font-weight: bold; text-align: left;">MAR 2024 SOURCING EVENTS</h5>
 </div>
-
 
 
 
@@ -33,11 +32,10 @@ description: ""
 | 3 | Medical Supplies | Masks and Examination Gloves |
 
 
-<div style="background-color: #82C341; width: 100%" class="section">
-			<h5 style="color: white; font-weight: bold; text-align: center;">APR 2024 SOURCING EVENTS</h5>
+
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h5 style="color: white; font-weight: bold; text-align: left;">APR 2024 SOURCING EVENTS</h5>
 </div>
-
-
 
 
 
