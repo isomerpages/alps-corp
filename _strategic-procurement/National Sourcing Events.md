@@ -8,7 +8,7 @@ description: ""
 
 
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h5 style="color: white; font-weight: bold; text-align: left;">FEB 2024 SOURCING EVENTS</h5>
+			<h4 style="color: white; font-weight: bold; text-align: left;">FEB 2024 SOURCING EVENTS</h4>
 </div>
 
 
@@ -20,7 +20,7 @@ description: ""
 
 
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h5 style="color: white; font-weight: bold; text-align: left;">MAR 2024 SOURCING EVENTS</h5>
+			<h4 style="color: white; font-weight: bold; text-align: left;">MAR 2024 SOURCING EVENTS</h4>
 </div>
 
 
@@ -34,7 +34,7 @@ description: ""
 
 
 <div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
-			<h5 style="color: white; font-weight: bold; text-align: left;">APR 2024 SOURCING EVENTS</h5>
+			<h4 style="color: white; font-weight: bold; text-align: left;">APR 2024 SOURCING EVENTS</h4>
 </div>
 
 
@@ -48,19 +48,11 @@ description: ""
 | 5 | Medical Supplies | Transcatherer Mitral Valve Leaflet Replacement (TMVLR) Implant Mitraclip |
 | 6 | Non-Medical Supplies | Supply of Nursing and Ancillary Shoes |
 
-<a target="_blank" style="text-decoration: none;" href="/strategic-procurement/national-sourcing-events/">
-<div style="color: white; font-weight: bold; background-color: #6C53A3; width: 100%;" class="section">
-<p>CLICK HERE TO VIEW &gt;&gt;&gt;</p>
-<p>Pharmaceutical Sourcing Events</p>
+
+
+<div style="background-color: grey; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">INSTRUCTIONS FOR VENDORS</h4>
 </div>
-	</a>
-
-
-
-<a style="color: white; font-weight: bold; background-color: #6C53A3; ; text-decoration: none;" href="" target="_blank" role="button" class="btn btn-default btn-lg btn-block">
-		<h6>CLICK HERE TO VIEW &gt;&gt;&gt;</h6>
-		<h3>Pharmaceutical Sourcing Events</h3>
-</a>
 
 
 
