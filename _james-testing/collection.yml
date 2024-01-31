@@ -2,6 +2,7 @@ collections:
   james-testing:
     output: true
     order:
+      - January 2023.md
       - Overview.md
       - James Sections Testing.md
       - James Page 01.md
