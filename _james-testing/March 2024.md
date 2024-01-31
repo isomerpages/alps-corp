@@ -2,7 +2,6 @@
 title: March 2024
 permalink: /strategic-procurement/national-level/3rd-month-events/
 description: ""
-third_nav_title: National Level
 variant: markdown
 ---
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)

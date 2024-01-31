@@ -2,7 +2,6 @@
 title: Overview
 permalink: /strategic-procurement/national-level/overview/
 description: ""
-third_nav_title: National Level
 variant: markdown
 ---
 ![](/images/alps_sourcing_events_national_1920x640_clear.png)
