@@ -50,6 +50,13 @@ description: ""
 | 5 | Medical Supplies | Transcatherer Mitral Valve Leaflet Replacement (TMVLR) Implant Mitraclip |
 | 6 | Non-Medical Supplies | Supply of Nursing and Ancillary Shoes |
 
+<a target="_blank" style="text-decoration: none;" href="/strategic-procurement/national-sourcing-events/">
+<div style="color: white; font-weight: bold; background-color: #6C53A3; width: 100%;" class="section">
+<p>CLICK HERE TO VIEW &gt;&gt;&gt;</p>
+<p>Pharmaceutical Sourcing Events</p>
+</div>
+	</a>
+
 
 
 <a style="color: white; font-weight: bold; background-color: #6C53A3; ; text-decoration: none;" href="" target="_blank" role="button" class="btn btn-default btn-lg btn-block">
