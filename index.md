@@ -40,10 +40,10 @@ sections:
       image: /images/alps_sourcing_events_national_1920x640_clear.png
       alt: Image alt text
   - infopic:
-      title: Pharmaceutical
+      title: Pharmaceuticals
       subtitle: Sourcing Events For Vendors
-      description: ALPS drugs and pharma RFP results published here weekly. Other
-        reference documents also available.
+      description: ALPS drugs and pharmaceutical RFP results published here weekly.
+        Other reference documents also available.
       button: Find Out More
       url: /strategic-procurement/pharmaceutical-sourcing-events/
       image: /images/alps_sourcing_events_pharmaceutical_1920x640_clear.png
