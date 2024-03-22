@@ -1,6 +1,6 @@
 ---
-title: February 2024
-permalink: /strategic-procurement/national-level/2nd-month-events/
+title: "Test Page 05: February 2024"
+permalink: /test-pages/test-page-05-2nd-month-events/
 description: ""
 variant: markdown
 ---

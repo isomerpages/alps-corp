@@ -1,7 +1,8 @@
 ---
-title: James Page 01
-permalink: /james-testing/james-page-01/
+title: "Test Page 01: Sections, Images, Lists"
+permalink: /test-pages/test-page-01-sections-images-lists/
 description: ""
+variant: tiptap
 ---
 <div class="container"> 
    <a href="https://www.alpshealthcare.com.sg/Pages/alps_pharma_rfps_invitation_notices.aspx" target="_blank" style="color: black;">

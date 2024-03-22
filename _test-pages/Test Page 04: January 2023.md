@@ -1,6 +1,6 @@
 ---
-title: January 2023
-permalink: /strategic-procurement/national-level/1st-month-events/
+title: "Test Page 04: January 2023"
+permalink: /test-pages/test-page-04-1st-month-events/
 description: ""
 variant: markdown
 ---
