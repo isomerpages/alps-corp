@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - March 2024.md
-      - February 2024.md
+      - "Test Page 05: February 2024.md"
       - "Test Page 04: January 2023.md"
       - "Test Page 03: Calendar Buttons.md"
       - "Test Page 02: ALPS Copyright.md"
