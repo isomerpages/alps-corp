@@ -1,5 +1,5 @@
 collections:
-  james-testing:
+  test-pages:
     output: true
     order:
       - March 2024.md
