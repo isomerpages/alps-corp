@@ -2,4 +2,5 @@ collections:
   national-logistics:
     output: true
     order:
+      - Central Warehouse One.md
       - National Central Fill Pharmacy One.md
