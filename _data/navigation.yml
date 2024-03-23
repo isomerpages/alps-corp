@@ -5,9 +5,7 @@ links:
   - title: Strategic Procurement
     collection: strategic-procurement
   - title: National Logistics
-    url: /national-logistics/
-  - title: NCFP
-    url: /national-central-fill-pharmacy
+    collection: national-logistics
   - title: Policy
     collection: policy
   - title: Careers
