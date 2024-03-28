@@ -33,10 +33,10 @@ sections:
   - infopic:
       title: National-level
       subtitle: Sourcing Events For Vendors
-      description: 3-month schedules of RFP information available here and on Ariba
-        eProcurement System.
+      description: 3-month schedules of RFP information available here and on SAP
+        Business Network.
       button: Find Out More
-      url: /strategic-procurement/national-level/overview/
+      url: /strategic-procurement/national-sourcing-events/
       image: /images/alps_sourcing_events_national_1920x640_clear.png
       alt: Image alt text
   - infopic:
