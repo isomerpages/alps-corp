@@ -55,7 +55,7 @@ No sourcing events for this month.
 
 <br>
 <div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">APR 2024 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">JUNE 2024 SOURCING EVENTS</h4>
 </div>
 
 
