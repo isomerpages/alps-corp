@@ -62,12 +62,11 @@ No sourcing events for this month.
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Integrated Chemistry and Immunoassay System |
-| 2 | Medical Supplies | Catheters and Tubes |
-| 3 | Medical Supplies | Sanitary Products |
-| 4 | Medical Supplies | Cardiac Consumables |
-| 5 | Medical Supplies | Transcatherer Mitral Valve Leaflet Replacement (TMVLR) Implant Mitraclip |
-| 6 | Non-Medical Supplies | Supply of Nursing and Ancillary Shoes |
+| 1 | Services | Corporate Travel Management Services |
+| 2 | Med Supplies | Cardiac Implantable Electronic Devices (CIEDs) (MOH-ACE) |
+| 3 | Med Supplies | Absorbable Adhesion Barriers |
+| 4 | Med Supplies | Surgical Instrument for Basic Common Sets |
+| 5 | Non-Med Supplies | Off-site Imaging Centre |
 
 
 
