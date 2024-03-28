@@ -10,30 +10,46 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">FEB 2024 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">APRIL 2024 SOURCING EVENTS</h4>
 </div>
 
 
 
-| S/N | CATEGORY | RFP TITLE |
+| S/N | CATEGORY	| RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Services | Transport Services (Shuttle Bus) |
-| 2 | Services | NHG Medical Waste |
+| 1 | MedTech | Scanning Systems, Magnetic Resonance Imaging |
+| 2 | MedTech | Scanning Systems, Computed Tomography |
+| 3 | MedTech | Surgical Systems, Navigation |
+| 4 | MedTech | Scanning Systems, Gamma Camera, Single Photon |
+| 5 | MedTech | Cryosurgical Units, General Purpose |
+| 6 | MedTech | Cameras, Video, Surgical |
+| 7 | MedTech | Heart-Lung Bypass Units |
+| 8 | MedTech | Radiographic/Fluoroscopic Units, Mobile |
+| 9 | MedTech | Respirators, Air-Purifying, Particulate/Gas/Vapor |
+| 10 | MedTech | Ventilators, Noninvasive Positive Pressure |
+| 11 | MedTech | Video Systems, Endoscopic |
+| 12 | MedTech | Detectors, Blood Flow, Ultrasonic |
+| 13 | MedTech | Warming Units |
+| 14 | MedTech | Monitoring Systems, Physiologic |
+| 15 | MedTech | Carts, Treatment |
+| 16 | MedTech | Oximeters, Pulse |
+| 17 | Med Supplies | Integrated Chemistry and Immunoassay System |
+| 18 | Med Supplies | Catheters and Tubes |
+| 19 | Med Supplies | Sanitary Products |
+| 20 | Med Supplies	| Cardiac Consumables |
+| 21 | Med Supplies | Diagnostic Cardiology |
+| 22 | Med Supplies | Transcatherer Mitral Valve Leaflet Replacement (TMVLR) Implant Mitraclip |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">MAR 2024 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">MAY 2024 SOURCING EVENTS</h4>
 </div>
 
 
 
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Sharps Container |
-| 2 | Medical Supplies | Multiplex PCR System for Molecular Diagnostics |
-| 3 | Medical Supplies | Masks and Examination Gloves |
+No sourcing events for this month.
 
 
 
