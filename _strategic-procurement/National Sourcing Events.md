@@ -15,7 +15,7 @@ description: ""
 
 
 
-| S/N | CATEGORY	| RFP TITLE |
+| S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
 | 1 | MedTech | Scanning Systems, Magnetic Resonance Imaging |
 | 2 | MedTech | Scanning Systems, Computed Tomography |
@@ -33,12 +33,17 @@ description: ""
 | 14 | MedTech | Monitoring Systems, Physiologic |
 | 15 | MedTech | Carts, Treatment |
 | 16 | MedTech | Oximeters, Pulse |
-| 17 | Med Supplies | Integrated Chemistry and Immunoassay System |
-| 18 | Med Supplies | Catheters and Tubes |
-| 19 | Med Supplies | Sanitary Products |
-| 20 | Med Supplies	| Cardiac Consumables |
-| 21 | Med Supplies | Diagnostic Cardiology |
-| 22 | Med Supplies | Transcatherer Mitral Valve Leaflet Replacement (TMVLR) Implant Mitraclip |
+| 17 | Medical Supplies | Sharps Container |
+| 18 | Medical Supplies | Multiplex PCR System |
+| 19 | Medical Supplies | Masks and Examination Gloves |
+| 20 | Medical Supplies | Catheters - Nelaton &amp; Suction, Connecting Tubings &amp; Accessories |
+| 21 | Medical Supplies | Catheters - Urinary &amp; Accessories |
+| 22 | Medical Supplies | Sanitary Products |
+| 23 | Medical Supplies | Cardiac Consumables |
+| 24 | Medical Supplies | Transcatherer Mitral Valve Leaflet Replacement (TMVLR) Implant Mitraclip |
+| 25 | Medical Supplies | Interventional Radiology (IR) Angiography Packs |
+| 26 | Medical Supplies | Sterile Minor Procedural Set |
+| 27 | Medical Supplies | Diagnostic Cardiology Products |
 
 
 
@@ -49,7 +54,9 @@ description: ""
 
 
 
-No sourcing events for this month.
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | Medical Supplies | Nasogastric and Infant Feeding Tubes |
 
 
 
@@ -64,9 +71,16 @@ No sourcing events for this month.
 | -------- | -------- | -------- |
 | 1 | Services | Corporate Travel Management Services |
 | 2 | Med Supplies | Cardiac Implantable Electronic Devices (CIEDs) (MOH-ACE) |
-| 3 | Med Supplies | Absorbable Adhesion Barriers |
-| 4 | Med Supplies | Surgical Instrument for Basic Common Sets |
-| 5 | Non-Med Supplies | Off-site Imaging Centre |
+| 3 | Med Supplies | Wound Care Products (Basic) |
+| 4 | Med Supplies | Wound Care Products (Specialised) |
+| 5 | Med Supplies | Medical Diagnostic Sets and Accessories |
+| 6 | Med Supplies | Disposable Resuscitator Sets &amp; Accessories |
+| 7 | Med Supplies | Tourniquet Sets &amp; Accessories |
+| 8 | Med Supplies | Laryngoscope |
+| 9 | Med Supplies | Surgical Instrument for Basic Common Sets |
+| 10 | Med Supplies | Endo-Mechanical |
+| 11 | Med Supplies | Surgical Energy Consumables |
+| 12 | Non-Med Supplies | Off-site Imaging Centre |
 
 
 
