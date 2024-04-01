@@ -9,7 +9,7 @@ description: ""
 
 
 <br>
-<div style="background-color: #DC1931; padding: 0.5rem 0rem 0.4rem 1rem; width: 100%" class="section">
+<div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">APRIL 2024 SOURCING EVENTS</h4>
 </div>
 
