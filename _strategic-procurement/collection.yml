@@ -2,13 +2,13 @@ collections:
   strategic-procurement:
     output: true
     order:
-      - NUHS Contract Templates.md
-      - NHG Contract Templates.md
-      - ALPS Contract Templates.md
-      - Process Guidelines.md
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
+      - Process Guidelines.md
       - National Sourcing Events.md
       - Pharmaceutical Sourcing Events.md
+      - ALPS Contract Templates.md
+      - NHG Contract Templates.md
+      - NUHS Contract Templates.md
       - Process Guidelines & Contracts/.keep
       - Green Procurement.md
