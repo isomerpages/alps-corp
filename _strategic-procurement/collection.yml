@@ -2,6 +2,7 @@ collections:
   strategic-procurement:
     output: true
     order:
+      - NHG Contract Templates.md
       - ALPS Contract Templates.md
       - Overview.md
       - CEO's Welcome Letter.md
