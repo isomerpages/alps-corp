@@ -2,6 +2,7 @@ collections:
   strategic-procurement:
     output: true
     order:
+      - ALPS Contract Templates.md
       - Overview.md
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
