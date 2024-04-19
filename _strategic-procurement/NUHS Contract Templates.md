@@ -1,8 +1,7 @@
 ---
 title: NUHS Contract Templates
-permalink: /strategic-procurement/process-guidelines/nuhs-contract-templates/
+permalink: /strategic-procurement/nuhs-contract-templates/
 description: ""
-third_nav_title: Process Guidelines
 variant: tiptap
 ---
 ![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)

@@ -4,11 +4,10 @@ collections:
     order:
       - CEO's Welcome Letter.md
       - Our Code of Conduct.md
+      - Process Guidelines.md
       - National Sourcing Events.md
       - Pharmaceutical Sourcing Events.md
-      - Process Guidelines/.keep
-      - Process Guidelines/Overview.md
-      - Process Guidelines/ALPS Contract Templates.md
-      - Process Guidelines/NHG Contract Templates.md
-      - Process Guidelines/NUHS Contract Templates.md
+      - ALPS Contract Templates.md
+      - NHG Contract Templates.md
+      - NUHS Contract Templates.md
       - Green Procurement.md
