@@ -10,43 +10,33 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">MAY 2024 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Catheters - Urinary &amp; Accessories |
-| 2 | Medical Supplies | Nasogastric and Infant Feeding Tubes |
-
-
-
-<br>
-<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">JUNE 2024 SOURCING EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Services | Corporate Travel Management Services |
-| 2 | Medical Supplies | Sanitary Products |
-| 3 | Medical Supplies | Wound Care Products (Basic) |
-| 4 | Medical Supplies | Wound Care Products (Specialised) |
-| 5 | Medical Supplies | Medical Diagnostic Sets and Accessories |
-| 6 | Medical Supplies | Disposable Resuscitator Sets &amp; Accessories |
-| 7 | Medical Supplies | Disposable and Reusable Tourniquet for Venepuncture |
-| 8 | Medical Supplies | Laryngoscope |
-| 9 | Medical Supplies | Endo-Mechanical |
-| 10 | Medical Supplies | Surgical Energy Consumables |
-| 11 | Medical Supplies | Meshes |
+|  -------- | -------- | -------- |
+| 1 | Medical Supplies | Sanitary Products |
+| 2 | Medical Supplies | Diapers |
+| 3 | Medical Supplies | Drawsheets for OT Trolleys |
+| 4 | Medical Supplies | Sharps Container |
+| 5 | Medical Supplies | Wound Care Products |
+| 6 | Medical Supplies | Ostomy Care Products |
+| 7 | Medical Supplies | Medical Diagnostic Sets and Accessories |
+| 8 | Medical Supplies | Disposable Resuscitator Sets and Accessories |
+| 9 | Medical Supplies | Tourniquet for Venepuncture (Reusable and Single Use) |
+| 10 | Medical Supplies | Laryngoscope Sets and Laryngoscope Blades (Reusable and Single Use) |
+| 11 | Medical Supplies | Cervical Collar |
+| 12 | Medical Supplies | Endomechanical Products |
+| 13 | Medical Supplies | Surgical Energy Devices and Accessories |
+| 14 | Medical Supplies | Surgical (Hernia) Meshes and Associated Consumables and Accessories |
+| 15 | Non-Med Supplies | Supply and Delivery of Shoes (Nursing and Ancillary) |
 
 
 
 <br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">JULY 2024 SOURCING EVENTS</h4>
 </div>
 
@@ -54,8 +44,25 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Non-Med Supplies | Electrical Appliances |
-| 2 | Non-Med Supplies | Unit Dose Repackaging Outsource Service |
+| 1 | Medical Supplies | Disposable Medical Pulp Receptacles (For Macerators) &amp; Cleaning Products (For Bedpan Sanitisers) |
+| 2 | Non-Med Supplies | Unit Dose Repackaging Outsource Services for Inpatient |
+
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">AUGUST 2024 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | Medical Supplies | Surgical Instrument for Basic Common Sets |
+| 2 | Medical Supplies | Cardiac Implantable Electronic Devices (CIEDs) |
+| 3 | Medical Supplies | Neurosurgical Catheter and Drains |
+| 4 | Non-Med Supplies | Term Contract for Electrical Appliances |
+| 5 | Non-Med Supplies | Supply and Delivery of Decontamination Suits |
 
 
 
