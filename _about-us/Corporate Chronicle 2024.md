@@ -10,8 +10,29 @@ description: ""
 the past year and future. In addition, it also showcases our worksites’
 achievements. This Chronicle is a testament to our hard work, dedication
 in bringing synergies to healthcare supply chain.</p>
-<p></p>
-<p></p>
+
+
+
+<br>
+<table style="width:100%">
+	<tbody>
+		<tr style="margin-top: 1em">
+			<td style="width: 50%; background-color: LIGHTGRAY; text-align: center;">
+				<a target="_blank" style="text-align: center; text-decoration: none;" href="https://file.for.sg/alps-corporate-chronicle-2024-ebook.pdf">
+					<p style="color: GRAY;  font-size: 1.5em; font-weight: bold;">Download PDF</p>
+				</a>
+			</td>
+			<td style="width: 50%; background-color: GRAY; text-align: center;">
+				<a target="_blank" style="text-decoration: none;" href="https://heyzine.com/flip-book/57dc5622d6.html">
+					<p style="color: LIGHTGRAY;  font-size: 1.5em; font-weight: bold;">View Flipbook</p>
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024_jun_26_alps_corporate_chronicle_2024_cover_96dpi.png">
 </div>
