@@ -12,15 +12,15 @@ sections:
       title: Advancing Singapore's Healthcare Supply Chain
       subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
-  - infobar:
-      title: ALPS 5th Anniversary
-      description: '<iframe allow="autoplay; clipboard-write; encrypted-media;
-        picture-in-picture; web-share" allowfullscreen="true" frameborder="0"
-        scrolling="no" style="aspect-ratio: 16 / 9; border: none; overflow:
-        hidden; width: 100%; height: auto"
-        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Falpshealthcaresupplychain%2Fvideos%2F3501023593558097%2F&show_text=false&width=560&t=0">
-        </iframe>'
-      url: /resources/festive-greetings/20230721-alps-anniversary/
+  - infopic:
+      title: ALPS' Achievements
+      id: infopic
+      description: We are excited to announce the release of ALPS’ first corporate
+        publication!
+      button: LEARN MORE
+      url: /about-us/corporate-chronicle-2024/
+      image: /images/About Us/2024_jun_26_alps_corporate_chronicle_banner_96dpi.png
+      alt: Image alt text
   - infopic:
       title: Overview
       description: We are supply chain specialists & professionals, tasked with
