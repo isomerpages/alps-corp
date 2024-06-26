@@ -1,7 +1,8 @@
 ---
 title: Leadership
-permalink: /leadership/
+permalink: /about-us/leadership/
 description: ""
+variant: tiptap
 ---
 ### Leadership
 

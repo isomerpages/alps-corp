@@ -1,7 +1,8 @@
 ---
 title: Vision, Mission, Value
-permalink: /visionmissionvalue/
+permalink: /about-us/vision-mission-value/
 description: ""
+variant: markdown
 ---
 ![](/images/alps_healthcare_vision_mission_values_1920x640.jpg)
 

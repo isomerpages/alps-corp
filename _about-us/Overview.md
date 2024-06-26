@@ -1,7 +1,8 @@
 ---
 title: Overview
-permalink: /overview/
+permalink: /about-us/overview/
 description: ""
+variant: tiptap
 ---
 ![](/images/alps_healthcare_about_us_overview_1920x640.jpg)
 

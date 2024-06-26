@@ -1,7 +1,8 @@
 ---
 title: Our Objectives
-permalink: /objectives/
+permalink: /about-us/our-objectives/
 description: ""
+variant: markdown
 ---
 Singapore's rapidly greying population is cause for concern. In 2017, we became an aged society - according to WHO's definition - with 14 percent of the population made up of seniors aged 65 years and above. If the silver generation continues this unabated growth, it will have a profound impact on healthcare demand and expenditure.
 

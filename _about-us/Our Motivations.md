@@ -1,7 +1,8 @@
 ---
 title: Our Motivations
-permalink: /our/motivations/
+permalink: /about-us/our-motivations/
 description: ""
+variant: tiptap
 ---
 ![](/images/2023_feb_14_alps_staff_at_nhc_ntfgh_sgh_ncc_diagonal_frame_02.png)
 
