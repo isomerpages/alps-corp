@@ -15,8 +15,8 @@ sections:
   - infopic:
       title: ALPS' Achievements
       id: infopic
-      description: We are excited to announce the release of ALPS’ first corporate
-        publication!
+      description: We are excited to release ALPS' first corporate publication,
+        highlighting our past growth and vision for the future!
       button: LEARN MORE
       url: /about-us/corporate-chronicle-2024/
       image: /images/About Us/2024_jun_26_alps_corporate_chronicle_banner_96dpi.png
