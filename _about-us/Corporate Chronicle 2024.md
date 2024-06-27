@@ -16,12 +16,12 @@ description: ""
 	<tbody>
 		<tr style="margin-top: 1em">
 			<td style="width: 50%; background-color: GRAY; text-align: center;">
-				<a target="_blank" style="text-align: center; text-decoration: none;" href="https://file.for.sg/alps-corporate-chronicle-2024-ebook.pdf">
+				<a target="_blank" style="text-align: center; text-decoration: none;" href="">
 					<p style="color: LIGHTGRAY;  font-size: 1em; font-weight: bold;">Download PDF</p>
 				</a>
 			</td>
 			<td style="width: 50%; background-color: LIGHTGRAY; text-align: center;">
-				<a target="_blank" style="text-decoration: none;" href="https://heyzine.com/flip-book/57dc5622d6.html">
+				<a target="_blank" style="text-decoration: none;" href="">
 					<p style="color: GRAY;  font-size: 1em; font-weight: bold;">View Flipbook</p>
 				</a>
 			</td>
