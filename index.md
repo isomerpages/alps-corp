@@ -12,6 +12,10 @@ sections:
       title: Advancing Singapore's Healthcare Supply Chain
       subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
+  - infobar:
+      id: infobar
+      description: '<img style="width: 100%; height=: auto;" alt=""
+        src="/images/2024_jul_01_alps_anniversary_fb_cover_01_FINAL.png">'
   - infopic:
       title: ALPS' Achievements
       id: infopic
@@ -59,8 +63,4 @@ sections:
         and vendors.
   - resources:
       title: Media
-  - infobar:
-      id: infobar
-      description: '<img style="width: 100%; height=: auto;" alt=""
-        src="/images/2024_jul_01_alps_anniversary_fb_cover_01_FINAL.png">'
 ---
