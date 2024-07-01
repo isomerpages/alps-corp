@@ -59,4 +59,8 @@ sections:
         and vendors.
   - resources:
       title: Media
+  - infobar:
+      id: infobar
+      description: /images/alps_sourcing_events_national_1920x640_clear.png
+      button: Button Text
 ---
