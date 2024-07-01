@@ -62,5 +62,5 @@ sections:
   - infobar:
       id: infobar
       description: '<img style="width: 100%; height=: auto;" alt=""
-        src="/images/alps_sourcing_events_national_1920x640_clear.png">'
+        src="/images/2024_jul_01_alps_anniversary_fb_cover_01_FINAL.png">'
 ---
