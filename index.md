@@ -61,5 +61,6 @@ sections:
       title: Media
   - infobar:
       id: infobar
-      description: /images/alps_sourcing_events_national_1920x640_clear.png
+      description: '<img style="width: 100%; height=: auto;" alt=""
+        src="/images/alps_sourcing_events_national_1920x640_clear.png">'
 ---
