@@ -15,7 +15,7 @@ sections:
   - infobar:
       id: infobar
       description: '<img style="width: 100%; height=: auto;" alt=""
-        src="/images/2024_jul_01_alps_anniversary_fb_cover_01_FINAL.png">'
+        src="/images/2024_jul_01_alps_anniversary.png">'
   - infopic:
       title: ALPS' Achievements
       id: infopic
