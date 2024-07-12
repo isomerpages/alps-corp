@@ -14,8 +14,8 @@ sections:
         PARTNERSHIPS
   - infobar:
       id: infobar
-      description: '<img style="width: 100%; height=: auto;" alt=""
-        src="/images/2024_jul_01_alps_anniversary.png">'
+      description: <a href="/resources/news/20240705-alps-annual-dinner-2024/"><img
+        alt="" src="/images/2024_jul_01_alps_anniversary.png"></a>
   - infopic:
       title: ALPS' Achievements
       id: infopic
