@@ -15,7 +15,7 @@ sections:
   - infobar:
       id: infobar
       description: <a href="/resources/news/20240705-alps-annual-dinner-2024/"><img
-        alt="" src="/images/2024_jul_01_alps_anniversary.png"></a>
+        target="_blank" src="/images/2024_jul_01_alps_anniversary.png"></a>
   - infopic:
       title: ALPS' Achievements
       id: infopic
