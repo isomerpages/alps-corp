@@ -32,7 +32,7 @@ sections:
         needs of the public healthcare.
       button: Find out more
       alt: Image alt text
-      url: /overview/
+      url: /about-us/overview/
       image: /images/alps_healthcare_about_us_overview_1920x640.jpg
   - infopic:
       title: National-level
