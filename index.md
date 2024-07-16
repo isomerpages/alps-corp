@@ -16,6 +16,8 @@ sections:
       id: infobar
       description: <a href="/resources/news/20240705-alps-anniversary-2024/"><img
         target="_blank" src="/images/2024_jul_01_alps_anniversary.png"></a>
+      url: /resources/news/20240705-alps-anniversary-2024/
+      button: FIND OUT MORE
   - infopic:
       title: ALPS' Achievements
       id: infopic
