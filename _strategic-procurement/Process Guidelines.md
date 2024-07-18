@@ -10,7 +10,7 @@ ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipm
 
 ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch **[sourcing events](/strategic-procurement/national-sourcing-events/)** through the existing platforms at the respective clusters and PHIs.
 
-In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms..
+In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms.
 
 <section>
 	<table style="border-color: lightgray; border-width: 1px">
