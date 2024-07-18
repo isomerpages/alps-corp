@@ -57,22 +57,17 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 				<td style="text-align: center; vertical-align: middle;"></td>
 			</tr>
 			<tr>
-				<td>SingHealth Cluster</td>
-				<td style="text-align: center; vertical-align: middle;">️✔</td>
-				<td style="text-align: center; vertical-align: middle;"></td>
-			</tr>
-			<tr>
-				<td>NHG Cluster</td>
+				<td> NHG Cluster / PHIs</td>
 				<td style="text-align: center; vertical-align: middle;">️✔</td>
 				<td style="text-align: center; vertical-align: middle;">️✔</td>
 			</tr>
 			<tr>
-				<td>NUHS Cluster</td>
+				<td>NUHS Cluster / PHIs</td>
 				<td style="text-align: center; vertical-align: middle;">️✔</td>
 				<td style="text-align: center; vertical-align: middle;">️✔</td>
 			</tr>
 			<tr>
-				<td>Public Healthcare Institutes</td>
+				<td>SingHealth Cluster / PHIs</td>
 				<td style="text-align: center; vertical-align: middle;">️✔</td>
 				<td style="text-align: center; vertical-align: middle;"></td>
 			</tr>
