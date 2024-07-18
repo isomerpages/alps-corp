@@ -2,7 +2,7 @@
 title: Leadership
 permalink: /about-us/leadership/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ### Leadership
 

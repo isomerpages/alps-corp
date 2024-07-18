@@ -2,7 +2,7 @@
 title: Our Corporate Identity
 permalink: /about-us/our-corporate-identity/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 ![](/images/alps_healthcare_brand_identity_1920x640.jpg)
 

@@ -3,8 +3,9 @@ title: Careers
 permalink: /careers/
 description: ""
 image: /images/coming soon.png
+variant: markdown
 ---
-![](/images/2023_feb_14_alps_staff_at_skh_nuh_ah_ktph_rpg_diagonal_frame_01.png)
+![](/images/Careers/2024_jul_05_alps_annual_dinner_group_shot_1920x640.png)
 
 Since our inauguration on 01 July 2018, ALPS has made great strides in our efforts to transform Singapore’s healthcare landscape. We are only just getting started, and we are looking for committed, dedicated individuals like yourself to help usher in a new age of public healthcare.
 
@@ -20,17 +21,17 @@ Are you up for this challenge? Do check out the links below for more information
 		<tr style="margin-top: 1em">
 			<td style="width: 33.3%; background-color: #0076CA; text-align: center;">
 				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold;text-align: center; text-decoration: none;" href="https://careers.singhealth.com.sg/ALPS/go/ALPS-All-Opportunities/650244/">
-					<img style="margin-top: 0.5em; width:60px" src="/images/alps_icon_success_factors_heart.png">
+					<img style="margin-top: 0.5em; width:60px" src="/images/Careers/alps_icon_success_factors_heart.png">
 				SuccessFactors</a>
 			</td>
 			<td style="width: 33.3%; background-color: #4891DB; text-align: center;">
 				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-decoration: none;" href="https://www.linkedin.com/company/alps-pte-ltd/about/">
-					<img style="margin-top: 0.5em; width:60px" src="/images/alps_icon_linkedin_blue_on_white.png">
+					<img style="margin-top: 0.5em; width:60px" src="/images/Careers/alps_icon_linkedin_blue_on_white.png">
 				LinkedIn</a>
 			</td>
 			<td style="width: 33.3%; background-color: #E60379; text-align: center;">
 				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.jobstreet.com.sg/en/companies/1236450-alps-pte-ltd">
-					<img style="margin-top: 0.5em; width:60px" src="/images/alps_icon_jobstreet_arrow.png">
+					<img style="margin-top: 0.5em; width:60px" src="/images/Careers/alps_icon_jobstreet_arrow.png">
 				JobStreet</a>
 			</td>
 		</tr>
