@@ -60,11 +60,11 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 			</tr>
 			<tr>
 				<td>NHG Cluster</td>
-				<td>Sesami eProcurement System</td>
+				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network (ALPS eProcurement System)</a> &amp; Sesami eProcurement System</td>
 			</tr>
 			<tr>
 				<td>NUHS Cluster</td>
-				<td>Sesami eProcurement System</td>
+				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network (ALPS eProcurement System)</a> &amp; Sesami eProcurement System</td>
 			</tr>
 			<tr>
 				<td>Public Healthcare Institutes</td>
@@ -75,5 +75,3 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 </section>
 
 If you are unfamiliar with **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](https://for.sg/alps-eprocurement-supplier-user-guide)** and **[Contract eSignature Guide](/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf)**.
-
-Next, do check out the contract templates in use at ALPS, NHG, and NUHS.
