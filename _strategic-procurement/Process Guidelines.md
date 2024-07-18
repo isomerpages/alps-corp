@@ -16,7 +16,7 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	<table style="border-color: lightgray; border-width: 1px">
 		<thead style="background-color: lightgray">
 			<tr>
-				<th>PROCUREMENT NOTIFICATION</th>
+				<th>Procurement Notification</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -45,36 +45,36 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	<table style="border-color: lightgray; border-width: 1px">
 		<thead style="background-color: lightgray">
 			<tr>
-				<th>SOURCING HOST</th>
-				<th>SAP Business Network<br>(ALPS eProcurement System)</th>
-				<th>Sesami eProcurement System</th>
+				<th style="vertical-align: middle;">Sourcing Host</th>
+				<th style="text-align: center; vertical-align: middle;">SAP Business Network<br>(ALPS eProcurement System)</th>
+				<th style="text-align: center; vertical-align: middle;">Sesami eProcurement System</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
 				<td>ALPS</td>
-				<td>️✔</td>
-				<td></td>
+				<td style="text-align: center; vertical-align: middle;">️✔</td>
+				<td style="text-align: center; vertical-align: middle;"></td>
 			</tr>
 			<tr>
 				<td>SingHealth Cluster</td>
-				<td>️✔</td>
-				<td></td>
+				<td style="text-align: center; vertical-align: middle;">️✔</td>
+				<td style="text-align: center; vertical-align: middle;"></td>
 			</tr>
 			<tr>
 				<td>NHG Cluster</td>
-				<td>️✔</td>
-				<td>️✔</td>
+				<td style="text-align: center; vertical-align: middle;">️✔</td>
+				<td style="text-align: center; vertical-align: middle;">️✔</td>
 			</tr>
 			<tr>
 				<td>NUHS Cluster</td>
-				<td>️✔</td>
-				<td>️✔</td>
+				<td style="text-align: center; vertical-align: middle;">️✔</td>
+				<td style="text-align: center; vertical-align: middle;">️✔</td>
 			</tr>
 			<tr>
 				<td>Public Healthcare Institutes</td>
-				<td>️✔</td>
-				<td></td>
+				<td style="text-align: center; vertical-align: middle;">️✔</td>
+				<td style="text-align: center; vertical-align: middle;"></td>
 			</tr>
 		</tbody>
 	</table>
