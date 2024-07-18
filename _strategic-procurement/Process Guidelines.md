@@ -8,9 +8,9 @@ variant: markdown
 
 ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipment, and services for Singapore’s three Public Healthcare Clusters (clusters) and their Public Healthcare Institutions (PHIs).
 
-ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch **[sourcing events](/sourcing-events/national-level/overview/)** through the existing platforms at the respective clusters and PHIs.
+ALPS will enable group contracts at the national level while continuing to facilitate cluster-based or PHI-based contracts as required. We will continue to launch **[sourcing events](/strategic-procurement/national-sourcing-events/)** through the existing platforms at the respective clusters and PHIs.
 
-In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms and to also review the pathways stipulated in the PHIs' websites.
+In the long term, ALPS will strive to have one eProcurement platform. For now, suppliers are encouraged to refer to the following Sourcing Platforms..
 
 <section>
 	<table style="border-color: lightgray; border-width: 1px">
@@ -51,12 +51,12 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 		</thead>
 		<tbody>
 			<tr>
-				<td>ALPS Strategic Procurement</td>
-				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network</a></td>
+				<td>ALPS</td>
+				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network (ALPS eProcurement System)</a></td>
 			</tr>
 			<tr>
 				<td>SingHealth Cluster</td>
-				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network</a></td>
+				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network (ALPS eProcurement System)</a></td>
 			</tr>
 			<tr>
 				<td>NHG Cluster</td>
@@ -68,7 +68,7 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 			</tr>
 			<tr>
 				<td>Public Healthcare Institutes</td>
-				<td>Respective PHIs' Websites</td>
+				<td><a target="_blank" style="font-weight: bold" href="https://supplier.ariba.com/">SAP Business Network (ALPS eProcurement System)</a></td>
 			</tr>
 		</tbody>
 	</table>
