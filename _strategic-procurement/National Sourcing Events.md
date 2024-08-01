@@ -10,42 +10,29 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">JULY  2024  SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">AUGUST  2024  SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Endomechanical Products	|
-| 2 | Medical Supplies | Surgical Energy Devices and Accessories	|
-| 3 | Medical Supplies | Surgical (Hernia) Meshes and Associated Consumables and Accessories	|
-| 4 | Medical Supplies | Sharps Container |
-| 5 | Non-Med Supplies | Unit Dose Repackaging Outsource Services for Inpatient |
-| 6 | Non-Med Supplies | National Panel Contracts for Electrical Appliance |
+| 1 | Services | Courier Services |
+| 2 | Services | Shuttle Bus Services |
+| 3 | Non-Medical Supplies | Term Contract for Electrical Appliances |
+| 4 | Non-Medical Supplies | Employee Engagement Survey Services |
+| 5 | Medical Supplies | Sanitary Products |
+| 6 | Medical Supplies | Diapers |
+| 7 | Medical Supplies | Drawsheets for OT and Patient Trolleys |
+| 8 | Medical Supplies | Cardiac Implantable Electronic Devices (CIEDs) |
+| 9 | Medical Supplies | Neurosurgical Catheter and Drains |
+| 10 | Medical Supplies | Endomechanical Products |
+| 11 | Medical Supplies | Surgical Energy Devices and Accessories |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">AUGUST 2024 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Disposable Medical Pulp Receptacles (For Macerators) &amp; Cleaning Products (For Bedpan Sanitisers) |
-| 2 | Medical Supplies | Sanitary Products |
-| 3 | Medical Supplies | Diapers |
-| 4 | Medical Supplies | Drawsheets for OT Trolleys |
-| 5 | Medical Supplies | Cardiac Implantable Electronic Devices (CIEDs) |
-| 6 | Medical Supplies | Neurosurgical Catheter and Drains |
-
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">SEPTEMBER 2024 SOURCING EVENTS</h4>
 </div>
 
@@ -53,10 +40,22 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Surgical Instrument for Basic Common Sets |
-| 2 | Non-Med Supplies | Supply and Delivery of Decontamination Suits |
-| 3 | Services | Visitor Manpower Services |
-| 4 | Services | Corporate Travel Management Services |
+| 1 | Non-Medical Supplies | Supply and Delivery of Decontamination Suits |
+| 2 | Medical Supplies | Surgical Instrument for Basic Common Sets |
+| 3 | Medical Supplies | Absorbable Adhesion Barriers |
+
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">OCTOBER 2024 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | Services | Corporate Travel Management Services |
 
 
 
