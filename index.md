@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/alps_homepage_hero_banner_1920x720_no_logo.jpg
+      background: /images/2024_aug_01_alps_singapore_national_day_FB_cover.png
   - infobar:
       title: Advancing Singapore's Healthcare Supply Chain
       id: infobar
