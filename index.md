@@ -9,8 +9,10 @@ sections:
   - hero:
       url: /contact-us/
       background: /images/alps_homepage_hero_banner_1920x720_no_logo.jpg
+  - infobar:
       title: Advancing Singapore's Healthcare Supply Chain
-      subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
+      id: infobar
+      description: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
   - infobar:
       id: infobar
