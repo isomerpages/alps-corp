@@ -16,9 +16,9 @@ sections:
         PARTNERSHIPS
   - infobar:
       id: infobar
-      description: <a href="/resources/news/20240705-alps-anniversary-2024/"><img
-        target="_blank" src="/images/2024_jul_01_alps_anniversary.png"></a>
-      url: /resources/news/20240705-alps-anniversary-2024/
+      description: <a href="/resources/news/20240809-happy-national-day/"><img
+        target="_blank" src="/images/2024_aug_09_alps_natl_day_awards.png"></a>
+      url: /resources/news/20240809-happy-national-day/
       button: FIND OUT MORE
   - infopic:
       title: ALPS' Achievements
