@@ -4,10 +4,10 @@ permalink: /about-us/overview/
 description: ""
 variant: markdown
 ---
-![](/images/alps_healthcare_about_us_overview_1920x640.jpg)
+ALPS' Vision, Mission, and Value statements serve as a compass that guides us towards supply chain excellence to give support to the stakeholders in the public healthcare sector. By prioritising their needs and well-being, we are actively contributing to the overall health and well-being of the community.
 
-ALPS' Vision, Mission, and Value statements challenge us to put the needs and well-being of all customers (direct or indirect) and stakeholders, who engage our services, during our daily work activities. The statements also propel us to constantly examine our supply chain strategies, approaches, and processes in delivering value-based supply chain solutions to public healthcare, as part of MOH's strategic thrust.
+In order to meet the objectives set forth by our statements, we are committed to constantly evaluating and improving our supply chain strategies and processes. This includes working closely with the Ministry of Health to align with their strategic goals and deliver value-based solutions.
 
-As a public healthcare supply chain agency, we shall extend our reach, progress with agility, and invest for resiliency. To achieve so, we shall leverage on building good relationships with our stakeholders and suppliers, re-engineer our processes for synergies and foster the development of our people and organisation's values.
+As we move forward, we are dedicated to expanding our reach and capabilities, adapting with speed and flexibility, and investing in building resilience. By fostering strong relationships with our stakeholders and suppliers, re-engineering our processes for efficiency, and nurturing the growth of our people, we ensure that we are well-equipped to meet the evolving needs of the healthcare sector.
 
-Our growth drivers are specific focus areas for future growth, thereby creating innovation, delivering execution excellence, leveraging technology for business transformation, generating partnerships, and inspiring our employees through empowerment.
+Our growth drivers - innovation, execution excellence, technology transformation, partnerships, and empowerment - are crucial focus areas that will propel us towards our goal of becoming a leader in healthcare supply chain. By embracing these drivers, we are confident in our ability to drive positive change and deliver exceptional outcomes for our customers and stakeholders.
