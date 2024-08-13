@@ -4,10 +4,6 @@ permalink: /about-us/vision-mission-value/
 description: ""
 variant: markdown
 ---
-![](/images/alps_healthcare_vision_mission_values_1920x640.jpg)
-
-<br>
-
 <div class="row">
 	<div style="width: 60px" class="column">
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_vision_640x640.png">
@@ -16,13 +12,17 @@ variant: markdown
 		<h3 style="color: #6C53A3">VISION</h3>
 	</div>
 </div>
-To be a <span style="color: #6C53A3; font-weight: bold">LEADING</span>, <span style="color: #6C53A3; font-weight: bold">INNOVATIVE</span> and <span style="color: #6C53A3; font-weight: bold">TRUSTED</span> supply chain partner in transforming healthcare.
 
-* <span style="color: #6C53A3; font-weight: bold">LEADING</span> : We strive for the highest professional standards to excel in healthcare supply chain.
 
-* <span style="color: #6C53A3; font-weight: bold">INNOVATIVE</span> : We encourage creativity, practical solutions and advancement with technology.
 
-* <span style="color: #6C53A3; font-weight: bold">TRUSTED</span> : Our relationship with our vendors cannot thrive without mutual trust and the shared understanding that the needs of our patients come first.
+To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in transforming healthcare.
+
+•	**LEADING** : We strive for the highest professional standards to excel in healthcare supply chain.
+
+•	**INNOVATIVE** : We encourage creativity, practical solutions and advancement with technology.
+
+•	**TRUSTED** : Our relationship with our vendors cannot thrive without mutual trust and the shared understanding that the needs of our patients come first.
+
 
 
 <div class="row">
