@@ -24,7 +24,7 @@ To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in tran
 •	**TRUSTED** : Our relationship with our vendors cannot thrive without mutual trust and the shared understanding that the needs of our patients come first.
 
 
-
+<br>
 <div class="row">
 	<div style="width: 60px" class="column">
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_mission_640x640.png">
@@ -33,15 +33,19 @@ To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in tran
 		<h3 style="color: #DC1931">MISSION</h3>
 	</div>
 </div>
-To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <span style="color: #DC1931; font-weight: bold">VALUE-BASED</span> supply chain solutions through <span style="color: #DC1931; font-weight: bold">PARTNERSHIPS</span>.
+
 	
-* <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> : We are adaptive and resilient to evolve with healthcare needs.
+	
+To deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PARTNERSHIPS**.
 
-* <span style="color: #DC1931; font-weight: bold">VALUE-BASED</span> : We do our due diligence and research different but viable treatment methods, empowering our healthcare workers and patients to choose the course of treatment that best suits them.
+•	**DYNAMIC** : We are adaptive and resilient to evolve with healthcare needs.
 
-* <span style="color: #DC1931; font-weight: bold">PARTNERSHIP</span> : We value our partners and collaborate with them on supply chain solutions to benefit the patients.
+•	**VALUE-BASED** : We do our due diligence and source for different quality products for patients and caregivers while mitigating potential supply chain risks.
+
+•	**PARTNERSHIP** : We value our partners and collaborate with them on supply chain solutions to benefit the patients and caregivers.
 
 
+<br>
 <div class="row">
 	<div style="width: 60px" class="column">
 		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_values_640x640.png">
@@ -50,14 +54,17 @@ To deliver <span style="color: #DC1931; font-weight: bold">DYNAMIC</span> and <s
 		<h3 style="color: #82C341">CORE VALUES</h3>
 	</div>
 </div>
-Transforming Singapore’s healthcare landscape is a team effort and requires us to be agile yet accountable. Our core values, <span style="color: #82C341; font-weight: bold">I<sup>2</sup>SET</span>, keep us focused on the right track and help us overcome obstacles that prevent us from achieving our shared goal. They describe the professional behaviours and ethics that we embrace.
 
-* <span style="color: #82C341; font-weight: bold">INTEGRITY</span> : We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
 
-* <span style="color: #82C341; font-weight: bold">INNOVATION</span> : We encourage creative ideas and experiment new ways of doing things.We focus in finding practical solutions to solve supply chain challenges.We promote out of the box thinking and being enterprising.
 
-* <span style="color: #82C341; font-weight: bold">SYNERGY</span> : We leverage on each other’s expertise and knowledge to advance together. Together with our stakeholders and partners, we work collaboratively as one entity to achieve our shared goals in transforming healthcare supply chain.
- 
-* <span style="color: #82C341; font-weight: bold">EMPATHY</span> : We care for each other. We stand in the shoes of others and understand their point of views. We think and do what is the best for our staff, stakeholders, and patients.
+By emphasizing the importance of Integrity, Innovation, Synergy, Empathy, and Trust and Respect (**I2SET**), we foster a culture of continuous improvement and collaboration within the public healthcare sector. These core values act as a compass that guides us in making decisions that prioritise patient care, ensuring supply chain resiliency and drive positive change in our healthcare system.
 
-* <span style="color: #82C341; font-weight: bold">TRUST &amp; RESPECT</span> : We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
+Through embracing these values, we adapt to the ever-changing landscape of healthcare, ensuring that we remain at the forefront of providing high-quality products and services to our patients. By holding ourselves accountable to these standards, we will continue to build trust with our stakeholders and the community, demonstrating our commitment to ethical practices and excellence in healthcare delivery.
+
+As we work together towards transforming Singapore’s healthcare landscape, it is essential that we uphold these core values and remain dedicated to the principles of I2SET. By doing so, we can overcome challenges and barriers that may arise, ensuring that we continue to provide value products and services for our patients and the caregivers and improve the overall health and well-being of our community.
+
+*   **INTEGRITY**&nbsp;: We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
+*   **INNOVATION**&nbsp;: We encourage creative ideas and experiment new ways of doing things. We focus in finding practical solutions to solve supply chain challenges. We promote out of the box thinking and being enterprising.
+*   **SYNERGY**&nbsp;: We leverage on each other’s expertise and knowledge to advance together. Together with our stakeholders and partners, we work collaboratively as one entity to achieve our shared goals in transforming healthcare supply chain.
+*   **EMPATHY**&nbsp;: We care for each other. We stand in the shoes of others and understand their point of views. We think and do what is the best for our staff, stakeholders, and patients.
+*   **TRUST &amp; RESPECT**&nbsp;: We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
