@@ -57,14 +57,19 @@ To deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PART
 
 
 
-By emphasizing the importance of Integrity, Innovation, Synergy, Empathy, and Trust and Respect (**I2SET**), we foster a culture of continuous improvement and collaboration within the public healthcare sector. These core values act as a compass that guides us in making decisions that prioritise patient care, ensuring supply chain resiliency and drive positive change in our healthcare system.
+By emphasizing the importance of Integrity, Innovation, Synergy, Empathy, and Trust and Respect (I2SET), we foster a culture of continuous improvement and collaboration within the public healthcare sector. These core values act as a compass that guides us in making decisions that prioritise patient care, ensuring supply chain resiliency and drive positive change in our healthcare system.
 
 Through embracing these values, we adapt to the ever-changing landscape of healthcare, ensuring that we remain at the forefront of providing high-quality products and services to our patients. By holding ourselves accountable to these standards, we will continue to build trust with our stakeholders and the community, demonstrating our commitment to ethical practices and excellence in healthcare delivery.
 
 As we work together towards transforming Singapore’s healthcare landscape, it is essential that we uphold these core values and remain dedicated to the principles of I2SET. By doing so, we can overcome challenges and barriers that may arise, ensuring that we continue to provide value products and services for our patients and the caregivers and improve the overall health and well-being of our community.
 
-*   **INTEGRITY**&nbsp;: We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
-*   **INNOVATION**&nbsp;: We encourage creative ideas and experiment new ways of doing things. We focus in finding practical solutions to solve supply chain challenges. We promote out of the box thinking and being enterprising.
-*   **SYNERGY**&nbsp;: We leverage on each other’s expertise and knowledge to advance together. Together with our stakeholders and partners, we work collaboratively as one entity to achieve our shared goals in transforming healthcare supply chain.
-*   **EMPATHY**&nbsp;: We care for each other. We stand in the shoes of others and understand their point of views. We think and do what is the best for our staff, stakeholders, and patients.
-*   **TRUST &amp; RESPECT**&nbsp;: We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
+
+*	**INTEGRITY** : We believe in doing the right thing even when no one is watching. We uphold the quality of being honest and truthful in our actions. We are fair, open and transparent with each other.
+
+*	**INNOVATION** : We encourage creative ideas and experiment new ways of doing things. We focus in finding practical solutions to solve supply chain challenges. We promote out of the box thinking and being enterprising.
+
+*	**SYNERGY** : We leverage on each other’s expertise and knowledge to advance together. Together with our stakeholders and partners, we work collaboratively as one entity to achieve our shared goals in transforming healthcare supply chain.
+
+*	**EMPATHY** : We care for each other. We stand in the shoes of others and understand their point of views. We think and do what is the best for our staff, stakeholders, and patients.
+
+*	**TRUST &amp; RESPECT** : We honour and deliver what we promise. We embrace and value our diversities. We create a conducive working environment where different views are being respected.
