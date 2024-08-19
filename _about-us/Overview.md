@@ -4,7 +4,6 @@ permalink: /about-us/overview/
 description: ""
 variant: markdown
 ---
-
 ![](/images/About%20Us/alps_central_warehouse_one_1920x1080.png)
 
 The Vision, Mission, and Value statements of ALPS (Agency of Logistics and Procurement Services) serve as a compass that guides us towards supply chain excellence to give support to the stakeholders in the public healthcare sector, contributing to the overall health and well-being of the community.
