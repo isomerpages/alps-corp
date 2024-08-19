@@ -4,7 +4,7 @@ permalink: /about-us/overview/
 description: ""
 variant: markdown
 ---
-ALPS' Vision, Mission, and Value statements serve as a compass that guides us towards supply chain excellence to give support to the stakeholders in the public healthcare sector, contributing to the overall health and well-being of the community.
+The Vision, Mission, and Value statements of ALPS (Agency of Logistics and Procurement Services) serve as a compass that guides us towards supply chain excellence to give support to the stakeholders in the public healthcare sector, contributing to the overall health and well-being of the community.
 
 In order to meet the objectives set forth by our statements, we are committed to constantly evaluating and improving our supply chain strategies and processes. This includes working closely with the Ministry of Health to align with their strategic goals and deliver value-based solutions.
 
