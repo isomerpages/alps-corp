@@ -4,6 +4,8 @@ permalink: /about-us/leadership/
 description: ""
 variant: markdown
 ---
+![](/images/About%20Us/2024_jun_21_alps_c_suites_group_shot.png)
+
 ### Leadership
 
 |No.| Name | Title |
