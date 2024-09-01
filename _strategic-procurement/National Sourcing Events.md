@@ -10,44 +10,32 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">AUGUST  2024  SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">SEPTEMBER 2024  SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Services | Courier Services |
-| 2 | Services | Shuttle Bus Services |
-| 3 | Non-Medical Supplies | Term Contract for Electrical Appliances |
-| 4 | Non-Medical Supplies | Employee Engagement Survey Services |
-| 5 | Medical Supplies | Sanitary Products |
-| 6 | Medical Supplies | Diapers |
-| 7 | Medical Supplies | Drawsheets for OT and Patient Trolleys |
-| 8 | Medical Supplies | Cardiac Implantable Electronic Devices (CIEDs) |
-| 9 | Medical Supplies | Neurosurgical Catheter and Drains |
-| 10 | Medical Supplies | Endomechanical Products |
-| 11 | Medical Supplies | Surgical Energy Devices and Accessories |
+| 1 | Medical Supplies | Absorbable Adhesion Barriers |
+| 2 | Medical Supplies | Setting Up of Integrated Clinical Chemistry &amp; Immunoassay Laboratory System for KKH |
+| 3 | Medical Supplies | Surgical Instrument for Basic Common Sets |
+| 4 | Medical Supplies | Sanitary Products |
+| 5 | Medical Supplies | Diapers |
+| 6 | Medical Supplies | Drawsheets for Patient Trolleys |
+| 7 | Services | Shuttle Bus Services |
+| 8 | Non-Medical Supplies | National RFP for the supply and delivery of Disposable Patient Gowns |
+| 9 | Medtech | Detectors, Blood Flow, Ultrasonic |
+| 10 | Medtech | Ventilators, Noninvasive Positive Pressure |
+| 11 | Medtech | Warming Units |
+| 12 | Medtech | Video Systems, Endoscopic |
+| 13 | Medtech |	Monitoring Systems, Physiologic |
+| 14 | Medtech |	Radiographic / Fluoroscopic Systems |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">SEPTEMBER 2024 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Non-Medical Supplies | Supply and Delivery of Decontamination Suits |
-| 2 | Medical Supplies | Surgical Instrument for Basic Common Sets |
-| 3 | Medical Supplies | Absorbable Adhesion Barriers |
-
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">OCTOBER 2024 SOURCING EVENTS</h4>
 </div>
 
@@ -55,7 +43,28 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Services | Corporate Travel Management Services |
+| 1 | Services | Courier Services |
+| 2 | Non-Medical Supplies | National RFP for Supply and Delivery of Decontamination Suits and Accessories |
+| 3 | Medtech | Respirators, Air-Purifying, Particulate / Gas / Vapor |
+| 4 | Medtech | Heart-Lung Bypass Units |
+| 5 | Medtech | Oximeters, Pulse |
+| 6 | Medtech | Cameras, Video, Surgical |
+
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">NOVEMBER 2024 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | Medtech | Radiographic / Fluoroscopic Units, Mobile |
+| 2 | Medtech | Scanning Systems, Gamma Camera, Single Photon Emission Tomography |
+| 3 | Medtech | Scanning Systems, Magnetic Resonance Imaging, Full-Body |
+| 4 | Medtech | Stereotactic Systems, Image-Guided, Surgical |
 
 
 
