@@ -12,10 +12,15 @@ sections:
       title: Advancing Singapore's Healthcare Supply Chain
       subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
-      variant: center
+      variant: image
       size: md
       alignment: left
       backgroundColor: gray
+  - infobar:
+      title: Advancing Singapore's Healthcare Supply Chain
+      id: infobar
+      description: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
+        PARTNERSHIPS
   - infobar:
       id: infobar
       description: <a href="/resources/news/20240809-happy-national-day/"><img
