@@ -8,12 +8,14 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/2024_aug_01_alps_singapore_national_day_FB_cover.png
-  - infobar:
+      background: /images/About Us/2024_jul_05_alps_annual_dinner_banner.png
       title: Advancing Singapore's Healthcare Supply Chain
-      id: infobar
-      description: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
+      subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
+      variant: center
+      size: md
+      alignment: left
+      backgroundColor: gray
   - infobar:
       id: infobar
       description: <a href="/resources/news/20240809-happy-national-day/"><img
