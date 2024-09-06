@@ -14,3 +14,7 @@ We recently took part in the JobStreet Career Fair at the Sands Expo &amp; Conve
 Our team had meaningful conversations with potential candidates, sharing insights into our company culture and the various roles available.
 
 We are thrilled with the strong interest we received and are excited about the prospect of welcoming talented individuals who share our commitment to excellence!
+
+<br>
+
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="600" width="600" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Falpshealthcaresupplychain%2Fvideos%2F1049026070555781%2F&amp;show_text=true&amp;width=560&amp;t=0"></iframe>
