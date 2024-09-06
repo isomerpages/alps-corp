@@ -1,0 +1,6 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Join Us!.md
+      - ALPS @ JobStreet Career Fair 2024.md

@@ -1,6 +1,6 @@
 ---
-title: Careers
-permalink: /careers/
+title: Join Us!
+permalink: /careers/join-us/
 description: ""
 image: /images/coming soon.png
 variant: markdown
