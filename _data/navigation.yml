@@ -9,7 +9,7 @@ links:
   - title: Policy
     collection: policy
   - title: Careers
-    url: /careers/
+    collection: careers
   - title: Media
     url: /resources/
   - title: Contact Us
