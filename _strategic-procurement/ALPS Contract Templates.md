@@ -18,21 +18,21 @@ Vendors are encouraged to refer to ALPS' contract template below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-**[ALPS Standard Purchase Order Terms And Conditions For Supply Of Products, Services And Deliverables](/files/Contract%20Directory/ALPS%20TEMPLATES/20240920_alps_standard_purchase_order_terms_and_conditions_for_supply_of_products_services_and_deliverables.pdf)**
+**[ALPS Standard Purchase Order Terms and Conditions for Supply of Products and Services](/files/Contract%20Directory/ALPS%20TEMPLATES/20240926_standard_purchase_order_terms_and_conditions_for_supply_of_products_and_services.pdf)**
 
 
 <div class="hide">
 
 ### FOR CONTRACT VALUES ABOVE S$100K
 
-[**Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_equipment_loan_consignment_and_supply_of_products.pdf)
+[**Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work**]()
 
-[**Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_and_maintenance_of_equipment.pdf)
+[**Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work**]()
 
-[**Master Agreement For Supply Of Consumables Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_agreement_for_supply_of_consumables.pdf)
+[**Master Agreement For Supply Of Consumables Incorporating The Statement Of Work**]()
 
-[**Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_non_it_services.pdf)
+[**Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work**]()
 
-[**Master Services Agreement For Professional IT Services Incorporating The Statement Of Work**](/files/CONTRACT%20DIRECTORY/ALPS%20TEMPLATES/alps_master_services_agreement_for_professional_it_services.pdf)
+[**Master Services Agreement For Professional IT Services Incorporating The Statement Of Work**]()
 	
 </div>
