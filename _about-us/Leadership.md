@@ -26,7 +26,7 @@ variant: markdown
 | **MR JACKSON LIM** | Director, Transformation, Community Care, Non-medical Services |
 | **MS MABEL PHNG** | Director, Pharmaceuticals |
 | **MR WILLIAM ONG** | Director, Medical Supplies |
-| **MR BRYAN LEE** | Director, Medical Technology|
+| **MR BRYAN LEE** | Director, Medical Technology |
 | **MS ESTHER HO** | Director, Non-medical Supplies |
 | **MS MARILYN CHIA** | Deputy Director, Legal & Contracts Management |
 
