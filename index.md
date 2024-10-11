@@ -23,9 +23,10 @@ sections:
         PARTNERSHIPS
   - infobar:
       id: infobar
-      description: <a href="/resources/news/20240809-happy-national-day/"><img
-        target="_blank" src="/images/2024_aug_09_alps_natl_day_awards.png"></a>
-      url: /resources/news/20240809-happy-national-day/
+      description: <a href="/careers/2024-oct-17-18-21-alps-walk-in-interview/"><img
+        target="_blank"
+        src="/images/Careers/2024_oct_17_18_21_alps_interview.png"></a>
+      url: /careers/2024-oct-17-18-21-alps-walk-in-interview/
       button: FIND OUT MORE
   - infopic:
       title: ALPS' Achievements

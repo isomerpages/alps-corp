@@ -1,5 +1,5 @@
 ---
-title: ALPS @ JobStreet Career Fair 2024
+title: "Recap: ALPS @ JobStreet Career Fair 2024"
 permalink: /careers/2024-aug-25-alps-jobstreet-career-fair/
 description: ""
 variant: markdown
