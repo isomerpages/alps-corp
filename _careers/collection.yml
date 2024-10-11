@@ -2,5 +2,6 @@ collections:
   careers:
     output: true
     order:
+      - "Upcoming: ALPS Walk In Interview.md"
       - Join Us!.md
       - "Recap: ALPS @ JobStreet Career Fair 2024.md"
