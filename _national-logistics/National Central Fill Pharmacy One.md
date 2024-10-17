@@ -1,6 +1,6 @@
 ---
 title: National Central Fill Pharmacy One
-permalink: /national-logistics/national-central-fill-pharmacy-one/
+permalink: /national-central-fill-pharmacy/
 description: ""
 variant: markdown
 ---
