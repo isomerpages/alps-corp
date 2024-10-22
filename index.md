@@ -21,13 +21,6 @@ sections:
       id: infobar
       description: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
-  - infobar:
-      id: infobar
-      description: <a href="/careers/2024-oct-17-18-21-alps-walk-in-interview/"><img
-        target="_blank"
-        src="/images/Careers/2024_oct_17_18_21_alps_interview.png"></a>
-      url: /careers/2024-oct-17-18-21-alps-walk-in-interview/
-      button: FIND OUT MORE
   - infopic:
       title: ALPS' Achievements
       id: infopic
