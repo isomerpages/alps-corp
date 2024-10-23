@@ -1,5 +1,5 @@
 ---
-title: ALPS Team Present At NHG Webinar
+title: ALPS Team Presents At NHG Webinar
 permalink: /resources/news/20241017-alps-team-presents-at-nhg-webinar/
 date: 2024-10-17
 layout: post
