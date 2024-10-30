@@ -36,7 +36,7 @@ ____________________________________________________________
 
 #### DOCUMENT LINKS
 
-**[Purchasing Programme 2024](/files/Pharma%20Sourcing%20Events/alps_purchasing_programme_2024.pdf)**
+**[Purchasing Programme 2025](/files/Pharma%20Sourcing%20Events/alps_pharma_purchasing_programme_2025.pdf)**
 
 **[Evaluation Criteria (Pharmaceutical Products)](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf)**
 
@@ -50,7 +50,9 @@ ____________________________________________________________
 
 #### CONTACT PERSONS
 
-* **Sherie Sim: 6377-8733**
+* **Genesis Lim: 6377-8737**
+
+* **Kang Mei Ting: 6377-8974**
 
 * **Neo Li Zhu: 6377-8432**
 
