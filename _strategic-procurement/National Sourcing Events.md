@@ -17,13 +17,12 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Macerator Consumables and Accessories |
-| 2 | Medical Supplies | Infusion set (Consumable for B Braun Smart Pump, Infusomat Spaceline) |
-| 3 | Services | Shuttle Bus Services |
-| 4 | Medtech | Radiographic/Fluoroscopic Units, Mobile |
-| 5 | Medtech | Scanning Systems, Gamma Camera, Single Photon Emission Tomography |
-| 6 | Medtech | Scanning Systems, Magnetic Resonance Imaging, Full-Body |
-| 7 | Medtech | Stereotactic Systems, Image-Guided, Surgical |
+| 1 | Medical Supplies | Infusion set (Consumable for B Braun Smart Pump, Infusomat Spaceline) |
+| 2 | Services | Shuttle Bus Services |
+| 3 | Medtech | Radiographic/Fluoroscopic Units, Mobile |
+| 4 | Medtech | Scanning Systems, Gamma Camera, Single Photon Emission Tomography |
+| 5 | Medtech | Scanning Systems, Magnetic Resonance Imaging, Full-Body |
+| 6 | Medtech | Stereotactic Systems, Image-Guided, Surgical |
 
 
 
@@ -36,8 +35,9 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Artertial Blood Gas Analyzer |
-| 2 | Medical Supplies | Core Chemistry total laboratory automation |
+| 1 | Medical Supplies | Macerator Consumables and Accessories |
+| 2 | Medical Supplies | Artertial Blood Gas Analyzer |
+| 3 | Medical Supplies | Core Chemistry total laboratory automation |
 
 
 
