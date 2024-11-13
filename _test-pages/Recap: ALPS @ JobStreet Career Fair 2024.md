@@ -1,6 +1,6 @@
 ---
 title: "Recap: ALPS @ JobStreet Career Fair 2024"
-permalink: /careers/2024-aug-25-alps-jobstreet-career-fair/
+permalink: /test-pages/2024-aug-25-alps-jobstreet-career-fair/
 description: ""
 variant: markdown
 ---
