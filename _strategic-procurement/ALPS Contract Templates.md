@@ -18,7 +18,7 @@ Vendors are encouraged to refer to ALPS' contract template below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-**[ALPS Standard Purchase Order Terms and Conditions for Supply of Products and Services](/files/Contract%20Directory/ALPS%20TEMPLATES/20240926_standard_purchase_order_terms_and_conditions_for_supply_of_products_and_services.pdf)**
+**[ALPS Standard Purchase Order Terms and Conditions for Supply of Products and Services](/files/Contract%20Directory/ALPS%20TEMPLATES/2024_sep_26_standard_purchase_order_terms_and_conditions_for_supply_of_products_and_services.pdf)**
 
 
 <div class="hide">
