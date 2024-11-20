@@ -8,7 +8,8 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/About Us/2024_jul_05_alps_annual_dinner_banner.png
+      background: /images/About
+        Us/2024_nov_08_alps_bowling_championship_group_photo_banner.jpg
       title: Advancing Singapore's Healthcare Supply Chain
       subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
         PARTNERSHIPS
