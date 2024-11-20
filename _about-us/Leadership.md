@@ -23,12 +23,13 @@ variant: markdown
 
 | Name | Title |
 | -------- | -------- |
-| **MR JACKSON LIM** | Director, Transformation, Community Care, Non-medical Services |
 | **MS MABEL PHNG** | Director, Pharmaceuticals |
 | **MR WILLIAM ONG** | Director, Medical Supplies |
 | **MR BRYAN LEE** | Director, Medical Technology |
-| **MS ESTHER HO** | Director, Non-medical Supplies |
-| **MS MARILYN CHIA** | Deputy Director, Legal & Contracts Management |
+| **MS ESTHER HO** | Director, General Services (including Non-medical Supplies) |
+| **MR EDWIN CHEU** | Assistant Director, Estate & Environmental Services |
+| **MR LIONEL LIM** | Assistant Director, Transformation |
+| **MS MARILYN CHIA** | Deputy Director, Legal & Contracts Management |
 
 ### Supply Chain Operations
 
