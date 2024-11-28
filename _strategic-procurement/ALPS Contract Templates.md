@@ -18,21 +18,4 @@ Vendors are encouraged to refer to ALPS' contract template below to learn more.
 
 ### FOR CONTRACT VALUES BELOW S$100K
 
-**[ALPS Standard Purchase Order Terms and Conditions for Supply of Products and Services](/files/Contract%20Directory/ALPS%20TEMPLATES/2024_sep_26_standard_purchase_order_terms_and_conditions_for_supply_of_products_and_services.pdf)**
-
-
-<div class="hide">
-
-### FOR CONTRACT VALUES ABOVE S$100K
-
-[**Master Agreement For Equipment Loan Consignment And Supply Of Products Incorporating The Statement Of Work**]()
-
-[**Master Agreement For Supply And Maintenance Of Equipment Incorporating The Statement Of Work**]()
-
-[**Master Agreement For Supply Of Consumables Incorporating The Statement Of Work**]()
-
-[**Master Services Agreement (Non-IT Services) Incorporating The Statement Of Work**]()
-
-[**Master Services Agreement For Professional IT Services Incorporating The Statement Of Work**]()
-	
-</div>
+**[ALPS Standard Purchase Order Terms and Conditions for Supply of Products and Services](/files/Contract%20Directory/ALPS%20TEMPLATES/2024_sep_26_4_standard_purchase_order_terms_and_conditions_for_supply_of_products_and_services.pdf)**
