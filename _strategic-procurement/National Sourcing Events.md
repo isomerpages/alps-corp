@@ -10,39 +10,22 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">NOVEMBER 2024 SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">DECEMBER 2024 SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Infusion set (Consumable for B Braun Smart Pump, Infusomat Spaceline) |
-| 2 | Services | Shuttle Bus Services |
-| 3 | Medtech | Radiographic/Fluoroscopic Units, Mobile |
-| 4 | Medtech | Scanning Systems, Gamma Camera, Single Photon Emission Tomography |
-| 5 | Medtech | Scanning Systems, Magnetic Resonance Imaging, Full-Body |
-| 6 | Medtech | Stereotactic Systems, Image-Guided, Surgical |
+| 1 | Non-Medical Supplies | Supply and Delivery of Unit Dose Repackaging Services |
+| 2 | Medical Supplies | Arterial Blood Gas Analyzer |
+| 3 | Medical Supplies | Macerator Consumables and Accessories |
+| 4 | Medical Supplies | &nbsp;Core Chemistry total laboratory automation |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">DECEMBER 2024 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Macerator Consumables and Accessories |
-| 2 | Medical Supplies | Artertial Blood Gas Analyzer |
-| 3 | Medical Supplies | Core Chemistry total laboratory automation |
-
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2025 SOURCING EVENTS</h4>
 </div>
 
@@ -50,17 +33,31 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Medical Supplies |	Gauzes (Plain &amp; Rytec) and Abdominal Swabs |
-| 2 | Medical Supplies |	Total Hip &amp; Knee Implants |
-| 3 | Medical Supplies |	Ear Implants |
-| 4 | Medical Supplies |	Hearing Aids |
-| 5 | Medical Supplies |	Ear Thermometer and Probe Covers |
-| 6 | Medical Supplies |	Structural Heart Valves and Grafts |
-| 7 | Medical Supplies |	Pectus bar and Stabiliser |
-| 8 | Medical Supplies |	Structural Heart Occluders |
-| 9 | Medical Supplies |	Transcatheter Valve Replacement Implant |
-| 10 | Medical Supplies | Bone Cement and Accessories |
-| 11 | Medical Supplies | Bone Graft and Biomaterials |
+| 1 | Medical Supplies | Total Hip &amp; Knee Implants |
+| 2 | Medical Supplies | Ear Implants |
+| 3 | Medical Supplies | Hearing Aids |
+| 4 | Medical Supplies | Ear Thermometer and Probe Covers |
+| 5 | Medical Supplies | Structural Heart Valves and Grafts |
+| 6 | Medical Supplies | Pectus bar and Stabiliser |
+| 7 | Medical Supplies | Structural Heart Occluders |
+| 8 | Medical Supplies | Transcatheter Valve Replacement Implant |
+| 9 | Medical Supplies | Bone Cement, Bone Graft, Biomaterials and Associated Accessories |
+| 10 | Medical Supplies | Gauzes (Plain &amp; Rytec) and Abdominal Swabs |
+
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2025 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | Non-Medical Supplies | Labels, Thermal / Paper Rolls, Stickers and Ribbons |
+| 2 | Non-Medical Supplies | OPAS Medication Boxes |
+| 3 | Medical Supplies | Sports Medicine |
 
 
 
