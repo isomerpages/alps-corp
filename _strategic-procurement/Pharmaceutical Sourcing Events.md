@@ -44,7 +44,7 @@ ____________________________________________________________
 
 **[Estimated Annual Quantities](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf)**
 
-**[Drugs &amp; Pharma Products RFP Results (Updated on 05 Dec 2024)](/files/Pharma%20Sourcing%20Events/2024_dec_05_alps_pharma_rfp_results.pdf)**
+**[Drugs &amp; Pharma Products RFP Results (Updated on 12 Dec 2024)](/files/Pharma%20Sourcing%20Events/2024_dec_12_alps_pharma_rfp_results.pdf)**
 
 ____________________________________________________________
 
