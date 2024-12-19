@@ -17,10 +17,9 @@ sections:
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: Advancing Singapore's Healthcare Supply Chain
+      title: <img src="/images/About Us/2024_alps_anniversary.png">
       id: infobar
-      description: <img height="auto" width="100%" src="/images/About
-        Us/2024_jul_05_alps_annual_dinner_banner.png">
+      description: ADVANCING SINGAPORE'S HEALTHCARE SUPPLY CHAIN
   - infopic:
       title: ALPS' Achievements
       id: infopic
