@@ -1,6 +1,6 @@
 ---
 title: ALPS Bowling Championship 2024
-permalink: /alps-bowling-championship-2024/
+permalink: /resources/news/20241112-alps-bowling-championship/
 date: 2024-11-12
 layout: post
 description: ""

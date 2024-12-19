@@ -1,6 +1,6 @@
 ---
 title: ALPS Recognised for Procurement Excellence
-permalink: /resources/news/alps-recognised-for-procurement-excellence/
+permalink: /resources/news/20241113-alps-recognised-for-procurement-excellence/
 date: 2024-11-13
 layout: post
 description: ""
