@@ -10,28 +10,12 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">DECEMBER 2024 SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2025 SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
-| -------- | -------- | -------- |
-| 1 | Non-Medical Supplies | Supply and Delivery of Unit Dose Repackaging Services |
-| 2 | Medical Supplies | Arterial Blood Gas Analyzer |
-| 3 | Medical Supplies | Macerator Consumables and Accessories |
-| 4 | Medical Supplies | &nbsp;Core Chemistry total laboratory automation |
-
-
-
-<br>
-<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2025 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
 | 1 | Medical Supplies | Total Hip &amp; Knee Implants |
 | 2 | Medical Supplies | Ear Implants |
@@ -43,11 +27,15 @@ description: ""
 | 8 | Medical Supplies | Transcatheter Valve Replacement Implant |
 | 9 | Medical Supplies | Bone Cement, Bone Graft, Biomaterials and Associated Accessories |
 | 10 | Medical Supplies | Gauzes (Plain &amp; Rytec) and Abdominal Swabs |
+| 11 | Medical Supplies | Arterial Blood Gas Analyzer |
+| 12 | Medical Supplies | Wound Drain |
+| 13 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
+| 14 | MedTech | Scanning Systems, CT/PET |
 
 
 
 <br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2025 SOURCING EVENTS</h4>
 </div>
 
@@ -55,9 +43,27 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Non-Medical Supplies | Labels, Thermal / Paper Rolls, Stickers and Ribbons |
-| 2 | Non-Medical Supplies | OPAS Medication Boxes |
-| 3 | Medical Supplies | Sports Medicine |
+| 1 | General Services | Labels, Thermal/Paper Rolls, Stickers and Ribbons |
+| 2 | General Services | OPAS Medication Boxes |
+| 3 | General Services | Provision of National Visitor Services Management and Patient Service Associate |
+| 4 | General Services | Provision of Centrally Managed Warehousing and Distribution Service of Pharmaceutical and Non-Pharmaceutical Commodities for Polyclinics and Related Sites |
+| 5 | Medical Supplies | Sports Medicine |
+
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">MARCH 2025 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | General Services | Provision of Courier Services - Last Mile Delivery Services to Patient Homes |
+| 2 | General Services | Provision of Courier Services - Lab Specimens, Autoclave &amp; Documents |
+| 3 | General Services | Provision of Functional Screening Services |
+| 4 | Medical Supplies | Sutures |
 
 
 
