@@ -28,9 +28,8 @@ description: ""
 | 9 | Medical Supplies | Bone Cement, Bone Graft, Biomaterials and Associated Accessories |
 | 10 | Medical Supplies | Gauzes (Plain &amp; Rytec) and Abdominal Swabs |
 | 11 | Medical Supplies | Arterial Blood Gas Analyzer |
-| 12 | Medical Supplies | Wound Drain |
-| 13 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
-| 14 | MedTech | Scanning Systems, CT/PET |
+| 12 | Medical Supplies | Anaesthesia Respiratory Products (Pediatric Breathing Circuit) |
+| 13 | MedTech | Scanning Systems, CT/PET |
 
 
 
@@ -48,7 +47,8 @@ description: ""
 | 3 | General Services | Provision of National Visitor Services Management and Patient Service Associate |
 | 4 | General Services | Provision of Centrally Managed Warehousing and Distribution Service of Pharmaceutical and Non-Pharmaceutical Commodities for Polyclinics and Related Sites |
 | 5 | Medical Supplies | Sports Medicine |
-
+| 6 | Medical Supplies | Wound Drain |
+| 7 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
 
 
 <br>
@@ -64,6 +64,7 @@ description: ""
 | 2 | General Services | Provision of Courier Services - Lab Specimens, Autoclave &amp; Documents |
 | 3 | General Services | Provision of Functional Screening Services |
 | 4 | Medical Supplies | Sutures |
+| 5 | Medical Supplies | Dressings and Surgical Tapes |
 
 
 
