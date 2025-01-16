@@ -1,5 +1,5 @@
 ---
-title: ALPS 2024 SPOTLIGHT
+title: ALPS 2024 Spotlight
 permalink: /resources/news/20241227-alps-spotlight-top-5/
 date: 2024-12-27
 layout: post
