@@ -10,49 +10,29 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2025 SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2025 SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Total Hip &amp; Knee Implants |
-| 2 | Medical Supplies | Ear Implants |
-| 3 | Medical Supplies | Hearing Aids |
-| 4 | Medical Supplies | Ear Thermometer and Probe Covers |
-| 5 | Medical Supplies | Structural Heart Valves and Grafts |
-| 6 | Medical Supplies | Pectus bar and Stabiliser |
-| 7 | Medical Supplies | Structural Heart Occluders |
-| 8 | Medical Supplies | Transcatheter Valve Replacement Implant |
-| 9 | Medical Supplies | Bone Cement, Bone Graft, Biomaterials and Associated Accessories |
+| 1 | General Services | National RFP Labels, Thermal/Paper Rolls, Stickers and Ribbons |
+| 2 | General Services | National RFP OPAS Medication Boxes |
+| 3 | General Services | Provision of Courier Services – Medication Delivery Services |
+| 4 | General Services | Provision of Centrally Managed Warehousing and Distribution Service of Pharmaceutical and Non-Pharmaceutical Commodities for Polyclinics and Related Sites |
+| 5 | MedTech | Fluoroscopic Systems, Angiography/IR (Single Plane) for SGH |
+| 6 | MedTech | Aspirator/Irrigators, Surgical, Ultrasonic for NUH |
+| 7 | Medical Supplies | Sports Medicine |
+| 8 | Medical Supplies | Wound Drain |
+| 9 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
 | 10 | Medical Supplies | Gauzes (Plain &amp; Rytec) and Abdominal Swabs |
 | 11 | Medical Supplies | Arterial Blood Gas Analyzer |
-| 12 | Medical Supplies | Anaesthesia Respiratory Products (Pediatric Breathing Circuit) |
-| 13 | MedTech | Scanning Systems, CT/PET |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2025 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | General Services | Labels, Thermal/Paper Rolls, Stickers and Ribbons |
-| 2 | General Services | OPAS Medication Boxes |
-| 3 | General Services | Provision of National Visitor Services Management and Patient Service Associate |
-| 4 | General Services | Provision of Centrally Managed Warehousing and Distribution Service of Pharmaceutical and Non-Pharmaceutical Commodities for Polyclinics and Related Sites |
-| 5 | Medical Supplies | Sports Medicine |
-| 6 | Medical Supplies | Wound Drain |
-| 7 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">MARCH 2025 SOURCING EVENTS</h4>
 </div>
 
@@ -60,11 +40,28 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | General Services | Provision of Courier Services - Last Mile Delivery Services to Patient Homes |
-| 2 | General Services | Provision of Courier Services - Lab Specimens, Autoclave &amp; Documents |
-| 3 | General Services | Provision of Functional Screening Services |
-| 4 | Medical Supplies | Sutures |
-| 5 | Medical Supplies | Dressings and Surgical Tapes |
+| 1 | General Services | Provision of Functional Screening Services |
+| 2 | Medical Supplies | Sutures |
+| 3 | Medical Supplies | Dressings and Surgical Tapes |
+| 4 | Medical Supplies | Wound Drain |
+| 5 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
+| 6 | Medical Supplies | Pediatric Breathing Circuit |
+| 7 | Lab Diagnostics | Full Blood Count Analyzer (5-part differential) - SHP |
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">APRIL 2025 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | General Services | National RFP for Food Supplies |
+| 2 | General Services | Provision of Mobile Inpatient Care @ Home |
+| 3 | General Services | Provision of National Visitor Services Management and Patient Service Associate |
+| 4 | Medical Supplies | Dressings and Surgical Tapes |
 
 
 
