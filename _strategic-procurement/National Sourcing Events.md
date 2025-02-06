@@ -20,14 +20,13 @@ description: ""
 | 1 | General Services | National RFP Labels, Thermal/Paper Rolls, Stickers and Ribbons |
 | 2 | General Services | National RFP OPAS Medication Boxes |
 | 3 | General Services | Provision of Courier Services – Medication Delivery Services |
-| 4 | General Services | Provision of Centrally Managed Warehousing and Distribution Service of Pharmaceutical and Non-Pharmaceutical Commodities for Polyclinics and Related Sites |
-| 5 | MedTech | Fluoroscopic Systems, Angiography/IR (Single Plane) for SGH |
-| 6 | MedTech | Aspirator/Irrigators, Surgical, Ultrasonic for NUH |
-| 7 | Medical Supplies | Sports Medicine |
-| 8 | Medical Supplies | Wound Drain |
-| 9 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
-| 10 | Medical Supplies | Gauzes (Plain &amp; Rytec) and Abdominal Swabs |
-| 11 | Medical Supplies | Arterial Blood Gas Analyzer |
+| 4 | MedTech | Fluoroscopic Systems, Angiography/IR (Single Plane) for SGH |
+| 5 | MedTech | Aspirator/Irrigators, Surgical, Ultrasonic for NUH |
+| 6 | Medical Supplies | Sports Medicine |
+| 7 | Medical Supplies | Wound Drain |
+| 8 | Medical Supplies | Chest Drains, Trocars &amp; Drainage Bottles |
+| 9 | Medical Supplies | Gauzes (Plain &amp; Rytec) and Abdominal Swabs |
+| 10 | Medical Supplies | Arterial Blood Gas Analyzer |
 
 
 
@@ -61,7 +60,8 @@ description: ""
 | 1 | General Services | National RFP for Food Supplies |
 | 2 | General Services | Provision of Mobile Inpatient Care @ Home |
 | 3 | General Services | Provision of National Visitor Services Management and Patient Service Associate |
-| 4 | Medical Supplies | Dressings and Surgical Tapes |
+| 4 | General Services | Provision of Centrally Managed Warehousing and Distribution Service of Pharmaceutical and Non-Pharmaceutical Commodities for Polyclinics and Related Sites |
+| 5 | Medical Supplies | Dressings and Surgical Tapes |
 
 
 
