@@ -4,14 +4,14 @@ title: ALPS Healthcare
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "#PeopleOfALPSHealthcare  #WeAreALPSHealthcare  #SynergiesInHealt\
+  hcareSupplyChain"
 sections:
   - hero:
       url: /contact-us/
-      background: /images/About Us/2025_jan_07_alps_lunar_new_year_fb_cover.png
-      title: Advancing Singapore's Healthcare Supply Chain
-      subtitle: DELIVERING DYNAMIC AND VALUE-BASED SUPPLY CHAIN SOLUTIONS THROUGH
-        PARTNERSHIPS
+      background: /images/About Us/2025_feb_13_people_of_alps_healthcare.png
+      title: "#PeopleOfALPSHealthcare"
+      subtitle: "#PeopleOfALPSHealthcare"
       variant: image
       size: md
       alignment: left
