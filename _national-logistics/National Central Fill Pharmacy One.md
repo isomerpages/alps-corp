@@ -26,4 +26,6 @@ The revised SS 644 standard is a risk-based approach that allows 3rd party deliv
 
 The end result is a medications handling and delivery model built on trust and efficiency in which cost savings are ultimately channeled back to public healthcare and to patients.
 
+Click here to read more about **[SS 644: Safeguarding Medicine Delivery to Consumer](https://coresdo.org/ss-644-safeguarding-medicine-delivery-to-consumer/)**.
+
 For more information on **NCFP One** services, please contact us at **[alps.ncfp@alpshealthcare.com.sg](alps.ncfp@alpshealthcare.com.sg)**.
