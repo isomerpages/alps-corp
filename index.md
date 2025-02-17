@@ -8,14 +8,14 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/About Us/2025_feb_13_people_of_alps_healthcare.png
+      background: /images/2025_feb_17_people_of_alps_healthcare_FB_cover_photo.png
       subtitle: "#PeopleOfALPSHealthcare"
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
   - infobar:
-      title: <img src="/images/About Us/2024_alps_anniversary.png">
+      title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
       description: ADVANCING SINGAPORE'S HEALTHCARE SUPPLY CHAIN
   - infopic:
