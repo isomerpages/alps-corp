@@ -4,7 +4,7 @@ permalink: /strategic-procurement/alps-contract-templates/
 description: ""
 variant: markdown
 ---
-![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
+![](/images/Procurement/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
 ### ALPS' STANDARD TERMS &amp; CONDITIONS
 
