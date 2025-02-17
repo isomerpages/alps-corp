@@ -4,7 +4,7 @@ permalink: /strategic-procurement/pharmaceutical-sourcing-events/
 description: ""
 variant: markdown
 ---
-![](/images/alps_sourcing_events_pharmaceutical_1920x640_clear.png)
+![](/images/Procurement/alps_sourcing_events_pharmaceutical_1920x640_clear.png)
 
 #### TERMS AND CONDITIONS
 
