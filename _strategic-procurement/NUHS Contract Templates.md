@@ -4,7 +4,7 @@ permalink: /strategic-procurement/nuhs-contract-templates/
 description: ""
 variant: markdown
 ---
-![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
+![](/images/Procurement/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
 Certain sourcing events necessitate the use of NUHS' contract templates. Vendors may refer to them here:
 
