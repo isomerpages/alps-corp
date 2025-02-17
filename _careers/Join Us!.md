@@ -5,7 +5,7 @@ description: ""
 image: /images/coming soon.png
 variant: markdown
 ---
-![](/images/Careers/2024_jul_05_alps_annual_dinner_group_shot_1920x640.png)
+![](/images/About%20Us/2023_feb_14_alps_logs_staff_corp_polo_tees_1920x1200.png)
 
 Since our inauguration on 01 July 2018, ALPS has made great strides in our efforts to transform Singapore’s healthcare landscape. We are only just getting started, and we are looking for committed, dedicated individuals like yourself to help usher in a new age of public healthcare.
 
