@@ -2,7 +2,7 @@
 title: Our Code of Conduct
 permalink: /strategic-procurement/our-code-of-conduct/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 #### WHAT WE EXPECT FROM OUR SUPPLIERS
 

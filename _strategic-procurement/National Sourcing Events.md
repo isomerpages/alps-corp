@@ -4,7 +4,7 @@ permalink: /strategic-procurement/national-sourcing-events/
 variant: markdown
 description: ""
 ---
-![](/images/alps_sourcing_events_national_1920x640_clear.png)
+![](/images/Procurement/alps_sourcing_events_national_1920x640_clear.png)
 
 
 

@@ -2,9 +2,9 @@
 title: NHG Contract Templates
 permalink: /strategic-procurement/nhg-contract-templates/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
+![](/images/Procurement/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
 Certain sourcing events necessitate the use of NHG's contract templates. Vendors may refer to them here:
 
