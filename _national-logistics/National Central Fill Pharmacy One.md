@@ -20,9 +20,13 @@ Unique to **NCFP One** is the usage of **The Chariots** which is jointly develop
 
 Overall, **NCFP One** works diligently behind the scenes to ensure patients receive the medications they need in a timely and efficient manner. Our systems and partnerships with the service providers help us to deliver exceptional service to patients!
 
+![](/images/Logistics/2025_feb_10_alps_implements_ss644_group_photo.png)
+
 ALPS was recently lauded by the Centre of Regulatory Excellence Standards Development Organisation  (CoRE-SDO) for the company's implementation of Singapore Standards 644 to its medication delivery services to consumers.
 
 The revised SS 644 standard is a risk-based approach that allows 3rd party delivery vendors to optimise their operational efficiencies and reduce unnecessary expenses, without sacrificing public healthcare's stringent medication controls, and in keeping with patient safety requirements.
+
+![](/images/Logistics/2025_feb_10_alps_implements_ss644_ncfp_photo.png)
 
 The end result is a medications handling and delivery model built on trust and efficiency in which cost savings are ultimately channeled back to public healthcare and to patients.
 
