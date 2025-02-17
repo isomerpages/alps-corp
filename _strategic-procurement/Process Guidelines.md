@@ -4,7 +4,7 @@ permalink: /strategic-procurement/process-guidelines/
 description: ""
 variant: markdown
 ---
-![](/images/alps_sourcing_events_process_guidelines_1920x640_clear.png)
+![](/images/Procurement/alps_sourcing_events_process_guidelines_1920x640_clear.png)
 
 ALPS Pte Ltd (ALPS) purchases drugs, medical and non-medical supplies and equipment, and services for Singapore’s three Public Healthcare Clusters (clusters) and their Public Healthcare Institutions (PHIs).
 
