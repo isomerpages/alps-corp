@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 	<div style="width: 60px" class="column">
-		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_vision_640x640.png">
+		<img style="width:50px" alt="" src="/images/about20%us/alps_healthcare_icon_vision_640x640.png">
 	</div>
 	<div class="column">
 		<h3 style="color: #6C53A3">VISION</h3>
