@@ -6,7 +6,7 @@ variant: markdown
 ---
 <div class="row">
 	<div style="width: 60px" class="column">
-		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_vision_640x640.png">
+		<img style="width:50px" alt="" src="/images/About%20Us/alps_healthcare_icon_vision_640x640.png">
 	</div>
 	<div class="column">
 		<h3 style="color: #6C53A3">VISION</h3>
@@ -27,7 +27,7 @@ To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in tran
 <br>
 <div class="row">
 	<div style="width: 60px" class="column">
-		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_mission_640x640.png">
+		<img style="width:50px" alt="" src="/images/About%20Us/alps_healthcare_icon_mission_640x640.png">
 	</div>
 	<div class="column">
 		<h3 style="color: #DC1931">MISSION</h3>
@@ -48,7 +48,7 @@ To deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PART
 <br>
 <div class="row">
 	<div style="width: 60px" class="column">
-		<img style="width:50px" alt="" src="/images/alps_healthcare_icon_values_640x640.png">
+		<img style="width:50px" alt="" src="/images/About%20Us/alps_healthcare_icon_values_640x640.png">
 	</div>
 	<div class="column">
 		<h3 style="color: #82C341">CORE VALUES</h3>
