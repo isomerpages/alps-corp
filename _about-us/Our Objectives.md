@@ -12,7 +12,7 @@ By implementing a national-level supply chain blueprint, ALPS aims to ensure tha
 
 ALPS recognizes that successful implementation of this blueprint relies on three key factors - **PEOPLE**, **PROCESSES**, and **PARTNERSHIPS**. 
 
-![](/images/About%20Us/2023_feb_14_alps_logs_staff_corp_polo_tees_1920x1200.png)
+![](/images/Careers/2023_feb_14_alps_staff_at_nhc_ntfgh_sgh_ncc_diagonal_frame_02.png)
 
 The dedicated employees of ALPS play a crucial role in ensuring the seamless distribution of medical supplies, while also driving innovation and efficiency through the adoption of new technologies. By continuously improving processes and fostering strong partnerships with government agencies, regulators, vendors, and service providers, ALPS is able to enhance the resilience and sustainability of Singapore’s healthcare supply chain.
 
