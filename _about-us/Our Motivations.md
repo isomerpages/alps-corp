@@ -4,7 +4,7 @@ permalink: /about-us/our-motivations/
 description: ""
 variant: markdown
 ---
-![](/images/About%20Us/2023_feb_14_alps_logs_staff_corp_polo_tees_1920x1200.png)
+![](/images/Careers/2023_feb_14_alps_staff_at_skh_nuh_ah_ktph_rpg_diagonal_frame_01.png)
 
 ALPS (Agency of Logistics and Procurement Services), established on 1 July 2018, is a national integrated supply chain management agency dedicated to the management of supply chains and support care transformation within the public healthcare sector. 
 
