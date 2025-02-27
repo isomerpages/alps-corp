@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/2025_feb_17_people_of_alps_healthcare_FB_cover_photo.png
+      background: /images/2025_feb_27_people_of_alps_healthcare_FB_cover_photo.png
       subtitle: "#PeopleOfALPSHealthcare"
       variant: center
       size: md
