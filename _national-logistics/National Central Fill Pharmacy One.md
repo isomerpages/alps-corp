@@ -14,7 +14,7 @@ It all starts with the transmission of valid prescription orders into ALPS **NCF
 
 Unique to **NCFP One** is the usage of **The Chariots** which is jointly developed by ALPS and **Better Age Solutions**(BAS)! Using blockchain principles, **The Chariots** will track all stages of the delivery process starting from picking up of medication parcels to verification before handing over the medication parcels to the patients by our reliable courier partner. Through **The Chariots** and the commitment of our reliable courier partner, medication parcels are delivered securely and on time to ensure that the patients receive their essential medications without any delay.
 
-![](/images/Logistics/alps_ncfp_delivery_2024_mar_05.jpg)
+![](/images/Logistics/alps_ncfp_regent_logistics_2025_feb_27.png)
 
 **NCFP One** also validates the storage and delivery process from start to end to ensure quality and safety. 
 
