@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/Hero/2025_mar_28_alps_hari_raya_fb_cover_01.png
+      background: /images/Hero/2025_mar_28_alps_hari_raya_fb_cover_02.png
       variant: center
       size: md
       alignment: left
