@@ -4,6 +4,9 @@ permalink: /test-pages/alps-pharma-rfp-listings/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_sourcing_events_pharmaceutical_1920x640_clear.png">
+</div>
 <h4>TERMS &amp; CONDITIONS</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,9 +52,6 @@ the closing date and time stated in the RFP notice below.</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_sourcing_events_pharmaceutical_1920x640_clear.png">
-</div>
 <table style="minWidth: 225px">
 <colgroup>
 <col>
