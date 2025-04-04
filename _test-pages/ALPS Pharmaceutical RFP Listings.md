@@ -48,10 +48,27 @@ entering your ID and password.</p>
 <li>
 <p>Submit your proposal via <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a> before
 the closing date and time stated in the RFP notice below.</p>
-<p></p>
+</li>
+</ul>
+<h4>DOCUMENT LINKS</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Purchasing Programme 2025</p>
+</li>
+<li>
+<p>Evaluation Criteria (Pharmaceutical Products)</p>
+</li>
+<li>
+<p>Evaluation Criteria (Unregistered Drugs)</p>
+</li>
+<li>
+<p>Estimated Annual Quantities</p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
+<p></p>
 <table style="minWidth: 225px">
 <colgroup>
 <col>
