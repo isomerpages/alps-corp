@@ -2,7 +2,7 @@ collections:
   test-pages:
     output: true
     order:
-      - "Test Page: RFP Listings.md"
+      - ALPS Pharmaceutical RFP Listings.md
       - "Recap: ALPS @ JobStreet Career Fair 2024.md"
       - "Upcoming: ALPS Walk In Interview.md"
       - "Test Page 06: March 2024.md"
