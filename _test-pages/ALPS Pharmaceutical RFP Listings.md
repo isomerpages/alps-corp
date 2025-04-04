@@ -73,8 +73,14 @@ the closing date and time stated in the RFP notice below.</p>
 </li>
 </ul>
 <h4>CONTACT PERSONS</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Genesis Lim: 6377-8737</p>
+</li>
+<li>
 <p></p>
-<p></p>
+</li>
+</ul>
 <p></p>
 <table style="minWidth: 225px">
 <colgroup>
