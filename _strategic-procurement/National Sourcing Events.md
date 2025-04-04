@@ -25,6 +25,7 @@ description: ""
 | 6 | Medical Supplies | Dressings and Surgical Tapes |
 | 7 | Medical Supplies | Pediatric Breathing Circuit |
 | 8 |	Lab Diagnostics | Full Blood Count Analyzer (5-part differential) - SHP |
+| 9 | Environmental Services | Preventive  Maintenance for Security Enhancement Products | 
 
 
 
