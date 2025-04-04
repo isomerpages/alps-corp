@@ -10,7 +10,7 @@ description: ""
 <h4>TERMS &amp; CONDITIONS</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>All RFP proposals must be submitted through <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>
+<p>All RFP proposals must be submitted through <strong><a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a></strong>
 </p>
 </li>
 <li>
@@ -20,11 +20,10 @@ description: ""
 <p>For all events, the Supply Head requirement for participation is EPU/DAP/32.</p>
 </li>
 <li>
-<p>Each Company must participate at all sourcing events using the same
-<a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>account</p>
+<p>Each Company must participate at all sourcing events using the same <strong><a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a></strong> account</p>
 </li>
 <li>
-<p>If you are unfamiliar with <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>,
+<p>If you are unfamiliar with <strong><a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a></strong>,
 you may want to download and view our <a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener nofollow" target="_blank">eProcurement Supplier User Guide</a> and
 <a href="/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf" rel="noopener nofollow" target="_blank">Contract eSignature Guide</a>.</p>
 </li>
@@ -73,6 +72,9 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </li>
 </ul>
+<h4>CONTACT PERSONS</h4>
+<p></p>
+<p></p>
 <p></p>
 <table style="minWidth: 225px">
 <colgroup>
