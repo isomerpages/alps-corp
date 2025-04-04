@@ -49,28 +49,16 @@ the closing date and time stated in the RFP notice below.</p>
 </li>
 </ul>
 <h4>DOCUMENT LINKS</h4>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong><a href="/files/Pharma%20Sourcing%20Events/alps_pharma_purchasing_programme_2025.pdf" rel="noopener nofollow" target="_blank">Purchasing Programme 2025</a></strong>
 </p>
-</li>
-<li>
 <p><strong><a href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf" rel="noopener nofollow" target="_blank">Evaluation Criteria (Pharmaceutical Products)</a></strong>
 </p>
-</li>
-<li>
 <p><strong><a href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf" rel="noopener nofollow" target="_blank">Evaluation Criteria (Unregistered Drugs)</a></strong>
 </p>
-</li>
-<li>
 <p><strong><a href="/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf" rel="noopener nofollow" target="_blank">Estimated Annual Quantities</a></strong>
 </p>
-</li>
-<li>
 <p><strong><a href="/files/Pharma%20Sourcing%20Events/2025_apr_03_alps_pharma_rfp_results.pdf" rel="noopener nofollow" target="_blank">Drugs &amp; Pharma Products RFP Results (Updated on 03 Apr 2025)</a></strong>
 </p>
-</li>
-</ul>
 <h4>CONTACT PERSONS</h4>
 <ul data-tight="true" class="tight">
 <li>
