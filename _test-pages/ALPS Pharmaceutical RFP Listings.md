@@ -65,7 +65,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Estimated Annual Quantities</p>
 </li>
 <li>
-<p></p>
+<p>Drugs &amp; Pharma Products RFP Results (Updated on 03 Apr 2025)</p>
 </li>
 </ul>
 <p></p>
