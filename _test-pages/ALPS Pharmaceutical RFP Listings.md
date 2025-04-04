@@ -24,8 +24,7 @@ description: ""
 </li>
 <li>
 <p>If you are unfamiliar with <strong><a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a></strong>,
-you may want to download and view our <a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener nofollow" target="_blank">eProcurement Supplier User Guide</a> and
-<a href="/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf" rel="noopener nofollow" target="_blank">Contract eSignature Guide</a>.</p>
+you may want to download and view our <strong><a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener nofollow" target="_blank">eProcurement Supplier User Guide</a></strong> and <strong><a href="/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf" rel="noopener nofollow" target="_blank">Contract eSignature Guide</a></strong>.</p>
 </li>
 </ul>
 <h4>TO GAIN DIRECT ACCESS INTO EVENTS</h4>
@@ -38,37 +37,37 @@ You will be directed to the next page.</p>
 <p>lick on the “Respond to Posting” button found on the page.</p>
 </li>
 <li>
-<p>Log in to <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a> by
+<p>Log in to <strong><a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a></strong> by
 entering your ID and password.</p>
 </li>
 <li>
 <p>You will gain access into the event for proposal submission.</p>
 </li>
 <li>
-<p>Submit your proposal via <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a> before
+<p>Submit your proposal via <strong><a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a></strong> before
 the closing date and time stated in the RFP notice below.</p>
 </li>
 </ul>
 <h4>DOCUMENT LINKS</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Pharma%20Sourcing%20Events/alps_pharma_purchasing_programme_2025.pdf" rel="noopener nofollow" target="_blank">Purchasing Programme 2025</a>
+<p><strong><a href="/files/Pharma%20Sourcing%20Events/alps_pharma_purchasing_programme_2025.pdf" rel="noopener nofollow" target="_blank">Purchasing Programme 2025</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf" rel="noopener nofollow" target="_blank">Evaluation Criteria (Pharmaceutical Products)</a>
+<p><strong><a href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf" rel="noopener nofollow" target="_blank">Evaluation Criteria (Pharmaceutical Products)</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf" rel="noopener nofollow" target="_blank">Evaluation Criteria (Unregistered Drugs)</a>
+<p><strong><a href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf" rel="noopener nofollow" target="_blank">Evaluation Criteria (Unregistered Drugs)</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf" rel="noopener nofollow" target="_blank">Estimated Annual Quantities</a>
+<p><strong><a href="/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf" rel="noopener nofollow" target="_blank">Estimated Annual Quantities</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Pharma%20Sourcing%20Events/2025_apr_03_alps_pharma_rfp_results.pdf" rel="noopener nofollow" target="_blank">Drugs &amp; Pharma Products RFP Results (Updated on 03 Apr 2025)</a>
+<p><strong><a href="/files/Pharma%20Sourcing%20Events/2025_apr_03_alps_pharma_rfp_results.pdf" rel="noopener nofollow" target="_blank">Drugs &amp; Pharma Products RFP Results (Updated on 03 Apr 2025)</a></strong>
 </p>
 </li>
 </ul>
