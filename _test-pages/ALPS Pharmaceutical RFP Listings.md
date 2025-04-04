@@ -34,7 +34,7 @@ you may want to download and view our <strong><a href="https://for.sg/alps-eproc
 You will be directed to the next page.</p>
 </li>
 <li>
-<p>lick on the “Respond to Posting” button found on the page.</p>
+<p>Click on the “Respond to Posting” button found on the page.</p>
 </li>
 <li>
 <p>Log in to <strong><a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a></strong> by
