@@ -77,10 +77,13 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Genesis Lim: 6377-8737</p>
 </li>
 <li>
-<p></p>
+<p>Nadiah: 6377-8734</p>
+</li>
+<li>
+<p>Alicia Chua: 6377-8728</p>
 </li>
 </ul>
-<p></p>
+<h4>RFP / INVITATION NOTICES</h4>
 <table style="minWidth: 225px">
 <colgroup>
 <col>
