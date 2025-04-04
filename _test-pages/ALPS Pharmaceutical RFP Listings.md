@@ -61,7 +61,8 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </li>
 <li>
-<p>Evaluation Criteria (Unregistered Drugs)</p>
+<p><a href="/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf" rel="noopener nofollow" target="_blank">Evaluation Criteria (Unregistered Drugs)</a>
+</p>
 </li>
 <li>
 <p>Estimated Annual Quantities</p>
