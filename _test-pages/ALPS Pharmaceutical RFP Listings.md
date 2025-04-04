@@ -4,6 +4,33 @@ permalink: /test-pages/alps-pharma-rfp-listings/
 variant: tiptap
 description: ""
 ---
+<h3>TERMS &amp; CONDITIONS</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>All RFP proposals must be submitted through <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>
+</p>
+</li>
+<li>
+<p>Your company must be registered in Singapore to participate in ALPS events.</p>
+</li>
+<li>
+<p>For all events, the Supply Head requirement for participation is EPU/DAP/32.</p>
+</li>
+<li>
+<p>Each Company must participate at all sourcing events using the same
+<a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>account</p>
+</li>
+<li>
+<p>If you are unfamiliar with <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>,
+you may want to download and view our <a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener nofollow" target="_blank">eProcurement Supplier User Guide</a> and
+<a href="/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf" rel="noopener nofollow" target="_blank">Contract eSignature Guide</a>.</p>
+<p></p>
+<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_sourcing_events_pharmaceutical_1920x640_clear.png">
+</div>
 <table style="minWidth: 225px">
 <colgroup>
 <col>
