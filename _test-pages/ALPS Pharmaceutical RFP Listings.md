@@ -4,7 +4,7 @@ permalink: /test-pages/alps-pharma-rfp-listings/
 variant: tiptap
 description: ""
 ---
-<h3>TERMS &amp; CONDITIONS</h3>
+<h4>TERMS &amp; CONDITIONS</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>All RFP proposals must be submitted through <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>
@@ -24,6 +24,27 @@ description: ""
 <p>If you are unfamiliar with <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a>,
 you may want to download and view our <a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener nofollow" target="_blank">eProcurement Supplier User Guide</a> and
 <a href="/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf" rel="noopener nofollow" target="_blank">Contract eSignature Guide</a>.</p>
+</li>
+</ul>
+<h4>TO GAIN DIRECT ACCESS INTO EVENTS</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click on the respective link found in the column “Respond to Posting”.
+You will be directed to the next page.</p>
+</li>
+<li>
+<p>lick on the “Respond to Posting” button found on the page.</p>
+</li>
+<li>
+<p>Log in to <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a> by
+entering your ID and password.</p>
+</li>
+<li>
+<p>You will gain access into the event for proposal submission.</p>
+</li>
+<li>
+<p>Submit your proposal via <a href="https://supplier.ariba.com/" rel="noopener nofollow" target="_blank">SAP Business Network</a> before
+the closing date and time stated in the RFP notice below.</p>
 <p></p>
 <p></p>
 </li>
