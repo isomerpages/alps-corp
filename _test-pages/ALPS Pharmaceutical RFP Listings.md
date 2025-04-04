@@ -19,7 +19,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RFP NO</strong>
+<p><strong>RFP No.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,7 +35,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closing Date/time</strong>
+<p><strong>Closing Date/Time</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -51,7 +51,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ref</strong>
+<p><strong>Remarks</strong>
 </p>
 </td>
 </tr>
