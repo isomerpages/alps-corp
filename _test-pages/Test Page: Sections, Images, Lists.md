@@ -1,6 +1,6 @@
 ---
-title: "Test Page 01: Sections, Images, Lists"
-permalink: /test-pages/test-page-01-sections-images-lists/
+title: "Test Page: Sections, Images, Lists"
+permalink: /test-pages/test-page-sections-images-lists/
 description: ""
 variant: tiptap
 ---

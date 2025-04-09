@@ -1,6 +1,6 @@
 ---
-title: "Test Page 03: Calendar Buttons"
-permalink: /test-pages/test-page-03-calendar-buttons/
+title: "Test Page: Calendar Buttons"
+permalink: /test-pages/test-page-calendar-buttons/
 description: ""
 variant: markdown
 ---
