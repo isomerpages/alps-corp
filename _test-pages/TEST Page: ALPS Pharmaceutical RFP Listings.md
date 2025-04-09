@@ -125,13 +125,44 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 05925</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Vancomycin 500mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Pharma RFP Document/GPOR_05925.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05925</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28/3/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14/4/2025 12:00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>https://discovery.ariba.com/rfx/22888469</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 05825</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item 1 - Dipyridamole 10mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05825</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05825.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05825</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -160,7 +191,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Terazosin 1 mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05725</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05725.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05725</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -191,7 +223,8 @@ the closing date and time stated in the RFP notice below.</p>
 <br>Item 3 - Pomalidomide 4mg Capsules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05625</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05625.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05625</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -220,7 +253,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Risperidone 1 mg/mL Oral Solution, 30mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05525</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05525.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05525</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -249,7 +283,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05425</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05425.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05425</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -278,7 +313,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05325</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05325.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05325</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -307,7 +343,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05225</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05225.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05225</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -336,7 +373,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05125</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05125.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05125</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -703,35 +741,6 @@ the closing date and time stated in the RFP notice below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GPOR 05925</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Item 1 - Vancomycin 500mg Injection</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GPOR 05925</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28/3/2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14/4/2025 12:00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>https://discovery.ariba.com/rfx/22888469</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S4 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
