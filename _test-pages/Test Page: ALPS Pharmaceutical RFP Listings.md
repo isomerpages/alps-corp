@@ -122,7 +122,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Vancomycin 500mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 05925</p>
+<p><a href="/files/Pharma RFP Document/GPOR_05925.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05925</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>28/3/2025</p>
@@ -140,7 +141,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Updated as of XX XXX XX</p>
 </td>
 </tr>
 <tr>
@@ -152,6 +153,7 @@ the closing date and time stated in the RFP notice below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>GPOR 05825</p>
+<p>File1 File2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
