@@ -2,6 +2,7 @@ collections:
   test-pages:
     output: true
     order:
+      - TEST PAGE.md
       - "TEST Page: ALPS Pharmaceutical RFP Listings.md"
       - "TEST PAGE: Career Fair 2024 Photo Slideshow, FB VIdeo.md"
       - "Test Page: ALPS Walk In Interview.md"
