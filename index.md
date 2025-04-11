@@ -13,7 +13,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      title: "#PeopleOfALPSHealthcare"
+      subtitle: "#PeopleOfALPSHealthcare"
   - infobar:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
