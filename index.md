@@ -8,11 +8,12 @@ notification: ""
 sections:
   - hero:
       url: /contact-us/
-      background: /images/Hero/2025_mar_28_alps_hari_raya_fb_cover_02.png
+      background: /images/Hero/2025_apr_11_people_of_alps_healthcare_FB_cover_photo.png
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
+      title: "#PeopleOfALPSHealthcare"
   - infobar:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
