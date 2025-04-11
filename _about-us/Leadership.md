@@ -4,19 +4,18 @@ permalink: /about-us/leadership/
 description: ""
 variant: markdown
 ---
-![](/images/About%20Us/2025_feb_01_alps_c_suites_lineup_numbered.png)
+![](/images/About%20Us/2025_apr_11_alps_c_suites_lineup_numbered.png)
 
 ### Leadership
 
 |No.| Name | Title |
 | -------- | -------- | -------- |
 | 1 | **MR PETER TAY** | Chief Executive Officer |
-| 2 | **MS WONG LAI YIN** | Chief Operating Officer |
-| 3 | **MS NINA ZHANG** | Chief Procurement Officer |
-| 4 | **MR MOSES WONG** | Chief Financial Officer |
-| 5 | **MS GOH LEE CHOO** | Chief Human Resource Officer |
-| 6 | **MS MAY CHEW** | Chief Information Officer |
-| 7 | **MR SYAMSUDHEER GUMPALI** | Chief Information Security Officer |
+| 2 | **MS WONG LAI YIN** | Chief Operating Officer / Chief Procurement Officer |
+| 3 | **MR MOSES WONG** | Chief Financial Officer |
+| 4 | **MS GOH LEE CHOO** | Chief Human Resource Officer |
+| 5 | **MS MAY CHEW** | Chief Information Officer |
+| 6 | **MR SYAMSUDHEER GUMPALI** | Chief Information Security Officer |
 
 ### Strategic Procurement
 
