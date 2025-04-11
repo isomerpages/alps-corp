@@ -1,6 +1,6 @@
 ---
-title: TEST PAGE
-permalink: /testpage/
+title: "Test Page: FB Media Embed"
+permalink: /test-pages/test-page-fb-media-embed/
 description: ""
 variant: markdown
 ---

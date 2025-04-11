@@ -1,7 +1,8 @@
 ---
-title: Why Join Us (TESTING)
-permalink: /whyjoinus/
+title: "Test Page: Why Join Us"
+permalink: /test-pages/test-page-why-join-us/
 description: ""
+variant: tiptap
 ---
 We do the right thing.
 

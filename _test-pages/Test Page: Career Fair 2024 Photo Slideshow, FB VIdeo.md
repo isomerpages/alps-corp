@@ -1,5 +1,5 @@
 ---
-title: "TEST PAGE: Career Fair 2024 Photo Slideshow, FB VIdeo"
+title: "Test Page: Career Fair 2024 Photo Slideshow, FB VIdeo"
 permalink: /test-pages/2024-aug-25-alps-jobstreet-career-fair/
 description: ""
 variant: tiptap

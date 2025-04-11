@@ -1,5 +1,5 @@
 ---
-title: "TEST Page: ALPS Pharmaceutical RFP Listings"
+title: "Test Page: ALPS Pharmaceutical RFP Listings"
 permalink: /test-pages/test-page-alps-pharma-rfp-listings/
 variant: tiptap
 description: ""
@@ -87,40 +87,31 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>RFP No.</strong>
-</p>
+<p>RFP NO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Event Description</strong>
-</p>
+<p>Event Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RFP Document</strong>
-</p>
+<p>RFP Document</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Published Date</strong>
-</p>
+<p>Published Date</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closing Date/Time</strong>
-</p>
+<p>Closing Date/time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Respond to Posting</strong>
-</p>
+<p>Respond to Posting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Financial Category</strong>
-</p>
+<p>Financial Category</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Corrigendum</strong>
-</p>
+<p>Corrigendum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Remarks</strong>
-</p>
+<p>Remarks</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +141,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Updated as of XX XXX XX</p>
 </td>
 </tr>
 <tr>
@@ -161,8 +152,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Dipyridamole 10mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05825.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05825</a>
-</p>
+<p>GPOR 05825</p>
+<p>File1 File2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -191,8 +182,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Terazosin 1 mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05725.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05725</a>
-</p>
+<p>GPOR 05725</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -223,8 +213,7 @@ the closing date and time stated in the RFP notice below.</p>
 <br>Item 3 - Pomalidomide 4mg Capsules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05625.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05625</a>
-</p>
+<p>GPOR 05625</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -253,8 +242,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Risperidone 1 mg/mL Oral Solution, 30mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05525.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05525</a>
-</p>
+<p>GPOR 05525</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -283,8 +271,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05425.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05425</a>
-</p>
+<p>GPOR 05425</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -313,8 +300,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05325.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05325</a>
-</p>
+<p>GPOR 05325</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -343,8 +329,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05225.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05225</a>
-</p>
+<p>GPOR 05225</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -373,8 +358,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Items 1 to 3 - Unregistered Drugs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Pharma RFP Document/GPOR_05125.pdf" rel="noopener noreferrer nofollow" target="_blank">GPOR 05125</a>
-</p>
+<p>GPOR 05125</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
@@ -635,28 +619,28 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 04225</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Clozapine 25mg Tablets</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 04225</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/4/2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/4/2025 12:00</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://discovery.ariba.com/rfx/22905548</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S5 or Higher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -664,28 +648,28 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 04125</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Haemophilus Type b Conjugate Vaccine, 0.5mL/pre-filled syringe</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 04125</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/4/2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/4/2025 12:00</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://discovery.ariba.com/rfx/22898079</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S2 or Higher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -693,28 +677,28 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 04025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Yellow Fever Vaccine (Live), 1 dose/vial</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 04025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/4/2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/4/2025 12:00</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://discovery.ariba.com/rfx/22897782</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S5 or Higher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -722,28 +706,405 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 03925</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Somatropin 10mg/1.5mL Injection, 1.5mL pre-filled pen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GPOR 03925</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4/4/2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>25/4/2025 12:00</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>https://discovery.ariba.com/rfx/22895206</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S5 or Higher</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
