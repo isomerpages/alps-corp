@@ -38,9 +38,9 @@ ____________________________________________________________
 
 **[Purchasing Programme 2025](/files/Pharma%20Sourcing%20Events/alps_pharma_purchasing_programme_2025.pdf)**
 
-**[Evaluation Criteria (Pharmaceutical Products)](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_pharma_products.pdf)**
+**[Evaluation Criteria - Pharmaceutical Products](/files/Pharma%20Sourcing%20Events/alps_evaluation_criteria_for_pharmaceutical_products_january_2025.pdf)**
 
-**[Evaluation Criteria (Unregistered Drugs)](/files/Pharma%20Sourcing%20Events/evaluation_criteria_for_unregistered_drugs.pdf)**
+**[Evaluation Criteria - Unregistered Pharmaceutical Products](/files/Pharma%20Sourcing%20Events/alps_evaluation_criteria_for_unregistered_pharmaceutical_products_january_2025.pdf)**
 
 **[Estimated Annual Quantities](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf)**
 
