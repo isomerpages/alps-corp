@@ -42,9 +42,7 @@ shall be conducted via <strong><a href="https://supplier.ariba.com/" rel="noopen
 <p>Once again, thank you for the continued support to Singapore's healthcare
 and we look forward to a long-lasting relationship.</p>
 <p>Thank you.</p>
-<p>
 <br>
-</p>
 <p><strong>Peter Tay</strong>
 <br>Chief Executive Officer, ALPS</p>
-</div>	
+</div>
