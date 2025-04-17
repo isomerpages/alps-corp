@@ -4,6 +4,7 @@ permalink: /strategic-procurement/ceos-welcome-letter/
 description: ""
 variant: markdown
 ---
+<div style="border: 1px solid black; padding: 10px; width: 100%;">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_national_sourcing_events_ceo_message_banner_1920x640.png">
 </div>
@@ -41,8 +42,7 @@ shall be conducted via <strong><a href="https://supplier.ariba.com/" rel="noopen
 <p>Once again, thank you for the continued support to Singapore's healthcare
 and we look forward to a long-lasting relationship.</p>
 <p>Thank you.</p>
-<p>
 <br>
-</p>
 <p><strong>Peter Tay</strong>
 <br>Chief Executive Officer, ALPS</p>
+</div>
