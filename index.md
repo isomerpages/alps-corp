@@ -7,13 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /contact-us/
-      background: /images/Hero/2025_apr_11_people_of_alps_healthcare_FB_cover_photo.png
+      url: /careers/join-us/
+      background: /images/Hero/2025_apr_18_people_of_alps_healthcare_FB_cover_photo.png
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
-      subtitle: "#PeopleOfALPSHealthcare"
+      key_highlights:
+        - title: JOIN US
+          description: "#PeopleOfALPSHealthcare"
+          url: /careers/join-us/
   - infobar:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
