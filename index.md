@@ -14,8 +14,8 @@ sections:
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: JOIN US
-          description: "#PeopleOfALPSHealthcare"
+        - title: People Of ALPS Healthcare
+          description: ""
           url: /careers/join-us/
   - infobar:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
