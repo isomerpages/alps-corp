@@ -42,7 +42,7 @@ ____________________________________________________________
 
 **[Evaluation Criteria - Unregistered Pharmaceutical Products](/files/Pharma%20Sourcing%20Events/alps_evaluation_criteria_for_unregistered_pharmaceutical_products_january_2025.pdf)**
 
-**[Estimated Annual Quantities](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products.pdf)**
+**[Estimated Annual Quantities](/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products_updated_april_2025.pdf)**
 
 **[Drugs &amp; Pharma Products RFP Results (Updated on 02 May 2025)](/files/Pharma%20Sourcing%20Events/2025_may_02_alps_pharma_rfp_results.pdf)**
 
