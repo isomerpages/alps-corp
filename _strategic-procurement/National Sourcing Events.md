@@ -10,41 +10,23 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">APRIL 2025 SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">MAY 2025 SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | General Services | National RFP for Food Supplies - Processed Food &amp; Fresh Food |
-| 2 | General Services | National RFP for Food Supplies - Meat &amp; Seafood |
-| 3 | General Services | Provision of Mobile Inpatient Care @ Home |
-| 4 | General Services | Provision of National Visitor Services Management and Patient Service Associate |
-| 5 | Medical Supplies | IOLs Implants |
-| 6 | Medical Supplies | Dressings and Surgical Tapes |
-| 7 | Medical Supplies | Pediatric Breathing Circuit |
-| 8 |	Lab Diagnostics | Full Blood Count Analyzer (5-part differential) - SHP |
-| 9 | Environmental Services | Preventive  Maintenance for Security Enhancement Products | 
+| 1 | Lab Supplies | Full Blood Count Analyzer for Polyclinics |
+| 2 | Medical Supplies | Hemostatic Agents and Sealants |
+| 3 | Medical Supplies | Warming Blankets, Single-Use for Convective (Forced Air) Patient Warming System |
+| 4 | Medical Supplies | Dressings and Surgical Tapes |
+| 5 | Medical Supplies | Medical Dressings and Bandages |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">MAY 2025 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Hemostatic Agents and Sealants |
-| 2 | Medical Supplies | Kidney Dish (Single-use) |
-| 3 | Medical Supplies | Warming Blankets, Single-Use for Convective (Forced Air) Patient Warming System |
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">JUNE 2025 SOURCING EVENTS</h4>
 </div>
 
@@ -55,6 +37,20 @@ description: ""
 | 1 | Medical Supplies | Anti-Embolism Stockings |
 | 2 | Medical Supplies | Elastomeric Infusion Pump |
 | 3 | Medical Supplies | High Level Disinfectant |
+| 4 | Medical Supplies | Kidney Dish (Single-use) |
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">JULY 2025 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | General Services | Provision of Corporate Travel Management Service	 |
+| 2 | General Services | Provision of Medical and Dental Clinic Services |
 
 
 
