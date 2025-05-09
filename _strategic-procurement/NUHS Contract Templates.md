@@ -9,6 +9,7 @@ variant: tiptap
 </div>
 <p>Certain sourcing events necessitate the use of NUHS' contract templates.
 Vendors may refer to them here:</p>
+<hr>
 <h3>NUHS REQUEST FOR PROPOSALS</h3>
 <h4>CLUSTER-LEVEL: EQUIPMENT</h4>
 <p><strong><a href="/files/Contract%20Directory/NUHS%20TEMPLATES/RFPs%20Cluster%20Equipment/2_1_a_rfp_cluster%20procurement_t%20and%20c_lease%20of%20equipment_v2_31_03_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Master Terms And Conditions For The Lease Of Equipment</a></strong>
@@ -62,6 +63,7 @@ Vendors may refer to them here:</p>
 </p>
 <p><strong><a href="/files/Contract%20Directory/NUHS%20TEMPLATES/RFPs%20Institution%20Sevices/nuhs_rfp_procurement_t&amp;c_services_project_management_contract_nominal_fee_option_v21_300921.pdf" rel="noopener noreferrer nofollow" target="_blank">Appointment Of Project Manager For Minor Project Works (Nominal Fee Option)</a></strong>
 </p>
+<hr>
 <h3>NUHS REQUEST FOR QUOTATIONS</h3>
 <h4>CLUSTER-LEVEL: EQUIPMENT, GOODS &amp; SERVICES</h4>
 <p><strong><a href="/files/Contract%20Directory/NUHS%20TEMPLATES/RFQs%20Cluster%20Equipment/2_1_1_a_rfq_cluster%20procurement_t%20and%20c_medical%20equipment_v2%20(31_03_23).pdf" rel="noopener noreferrer nofollow" target="_blank">Master Terms And Conditions For The Purchase Of Equipment</a></strong>
