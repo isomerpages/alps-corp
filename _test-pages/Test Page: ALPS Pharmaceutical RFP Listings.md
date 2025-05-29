@@ -153,7 +153,9 @@ the closing date and time stated in the RFP notice below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>GPOR 05825</p>
-<p>File1 File2</p>
+<p><a href="/files/Pharma RFP Document/test_1.pdf" rel="noopener noreferrer nofollow" target="_blank">File1 </a>
+<a href="/files/Pharma RFP Document/test_2.pdf" rel="noopener noreferrer nofollow" target="_blank">File2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4/4/2025</p>
