@@ -21,6 +21,7 @@ sections:
       id: infobar
       description: ADVANCING SINGAPORE'S HEALTHCARE SUPPLY CHAIN
       url: /national-logistics/central-warehouse-one/
+      button: FIND OUT MORE
   - infopic:
       title: Overview
       description: We are supply chain specialists & professionals, tasked with
