@@ -19,7 +19,6 @@ sections:
   - infobar:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
-      description: ADVANCING SINGAPORE'S HEALTHCARE SUPPLY CHAIN
       url: /national-logistics/central-warehouse-one/
       button: TRANSFORMING PUBLIC HEALTHCARE
   - infopic:
