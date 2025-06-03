@@ -20,6 +20,7 @@ sections:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
       description: ADVANCING SINGAPORE'S HEALTHCARE SUPPLY CHAIN
+      url: /national-logistics/central-warehouse-one/
   - infopic:
       title: Overview
       description: We are supply chain specialists & professionals, tasked with
