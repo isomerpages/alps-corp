@@ -31,18 +31,6 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR PETER TAY</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Executive Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>MR MOSES WONG</strong>
 </p>
 </td>
@@ -52,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS WONG LAI YIN</strong>
@@ -64,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS GOH LEE CHOO</strong>
@@ -76,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS MAY CHEW</strong>
@@ -88,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MR SYAMSUDHEER GUMPALI</strong>
