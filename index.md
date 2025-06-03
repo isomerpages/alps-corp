@@ -20,7 +20,8 @@ sections:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
       url: /national-logistics/central-warehouse-one/
-      button: TRANSFORMING PUBLIC HEALTHCARE
+      button: FIND OUT MORE
+      description: Advancing Singapore's Healthcare Supply Chain
   - infopic:
       title: Overview
       description: We are supply chain specialists & professionals, tasked with
