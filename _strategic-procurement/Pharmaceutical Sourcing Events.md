@@ -76,4 +76,104 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </li>
 </ul>
+<p>RFP / INVITATION NOTICES</p>
+<table style="minWidth: 225px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RFP No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Description</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RFP Document&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Published Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closing Date/ Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Respond to posting&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Financial Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corrigendum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remarks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>GPOR 12345</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - test</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Pharma RFP Document/test_1.pdf" rel="noopener noreferrer nofollow" target="_blank">QPP&nbsp;</a>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>1/5/2025</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>30/5/2025 12.00pm</p>
+</td>
+<td rowspan="4" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/22888469" rel="noopener nofollow" target="_blank">https://discovery.ariba.com/rfx/22888469</a>
+</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>S3 or highe</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Item 2 - test</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Pharma RFP Document/test_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Specificatio</a>n</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Item 3 - test</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
