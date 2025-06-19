@@ -114,33 +114,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR WILLIAM ONG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Medical Supplies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR BRYAN LEE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Medical Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS ESTHER HO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, General Services (including Non-medical Supplies)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>MR EDWIN CHEU</strong>
 </p>
 </td>
