@@ -30,8 +30,8 @@ you may want to download and view our <strong><a href="https://for.sg/alps-eproc
 <h4>TO GAIN DIRECT ACCESS INTO EVENTS</h4>
 <ul>
 <li>
-<p>Click on the respective link found in the column “Respond to Posting”.
-You will be directed to the next page.</p>
+<p>Refer to RFP/Invitation Notices below for the website URL to each event
+under the column “Respond to Posting”.</p>
 </li>
 <li>
 <p>Click on the “Respond to Posting” button found on the page.</p>
@@ -76,4 +76,94 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </li>
 </ul>
+<p></p>
+<h4>RFP/Invitation Notices</h4>
+<table style="minWidth: 275px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RFP No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Description</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contract Quantity&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buffer Quantity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contract Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Published Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closing Date/ Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Respond to posting&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Financial Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corrigendum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remarks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOV 02125</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Triheptanoin 100% w/w Oral Liquid, 500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oct 2025 - Sep 2035</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
