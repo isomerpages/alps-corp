@@ -388,10 +388,10 @@ Lotion, 30mL bottle</p>
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Quantities and Prevailing Price Document for Item 4 has been amended.</p>
 </td>
 </tr>
 <tr>
