@@ -892,10 +892,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11625</p>
+<p>GPOR 11625 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs</p>
+<p>Item 1 - Anakinra 100mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1,480</p>
@@ -928,10 +928,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11625</p>
+<p>GPOR 11625 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs</p>
+<p>Item 2 - Dantrolene Sodium 20mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>330</p>
@@ -964,10 +964,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11625</p>
+<p>GPOR 11625 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs</p>
+<p>Item 3 - Dantrolene Sodium 25mg Capsules</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8,100</p>
@@ -1000,10 +1000,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11725</p>
+<p>GPOR 11725 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 -&nbsp; Bethanechol Chloride 10mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>754,512</p>
@@ -1036,10 +1036,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11725</p>
+<p>GPOR 11725 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs</p>
+<p>Item 2 - Bismuth Subcitrate 120mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>42,837</p>
@@ -1072,10 +1072,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11725</p>
+<p>GPOR 11725 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs</p>
+<p>Item 3 - Chlordiazepoxide 5mg and Clidinium Bromide 2.5mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>108,500</p>
@@ -1108,10 +1108,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11825</p>
+<p>GPOR 11825 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs</p>
+<p>Item 1 -&nbsp; Digoxin Immune Fab 40mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16</p>
@@ -1144,10 +1144,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11825</p>
+<p>GPOR 11825 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs</p>
+<p>Item 2 - Hydrocortisone 10% w/v Rectal Foam 14 doses/pack</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>425</p>
@@ -1180,10 +1180,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11825</p>
+<p>GPOR 11825 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs</p>
+<p>Item 3 - Haemorrhoidal Suppositories</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4,000 - 45,000</p>
@@ -1216,10 +1216,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11925</p>
+<p>GPOR 11925 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 - Droperidol 2.5mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3,010</p>
@@ -1252,10 +1252,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11925</p>
+<p>GPOR 11925 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs&nbsp;</p>
+<p>Item 2 - Famotidine 20mg/2mL Preservative Free Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20,710</p>
@@ -1288,10 +1288,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 11925</p>
+<p>GPOR 11925 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs&nbsp;</p>
+<p>Item 3 - Glycopyrrolate 0.6mg/3mL Injection 3mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>32,520</p>
@@ -1324,10 +1324,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12025</p>
+<p>GPOR 12025 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 - Lorazepam 4mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11,290</p>
@@ -1360,10 +1360,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12025</p>
+<p>GPOR 12025 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs&nbsp;</p>
+<p>Item 2 - Nitrazepam 5mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>45,402</p>
@@ -1396,10 +1396,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12025</p>
+<p>GPOR 12025 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs&nbsp;</p>
+<p>Item 3 - Phenobarbital Sodium 200mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2,854</p>
@@ -1432,10 +1432,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12125</p>
+<p>GPOR 12125 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 - Nortriptyline Hydrochloride 10mg Capsules or Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>741,900</p>
@@ -1468,10 +1468,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12125</p>
+<p>GPOR 12125 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs&nbsp;</p>
+<p>Item 2 - Nortriptyline Hydrochloride 25mg Capsules or Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>198,220</p>
@@ -1504,10 +1504,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12125</p>
+<p>GPOR 12125 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs&nbsp;</p>
+<p>Item 3 - Pancuronium Bromide 4mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>630</p>
@@ -1540,10 +1540,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12225</p>
+<p>GPOR 12225 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 - Phenazopyridine Hydrochloride 100mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16,050</p>
@@ -1576,10 +1576,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12225</p>
+<p>GPOR 12225 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs&nbsp;</p>
+<p>Item 2 - Primidone 50mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>62,559</p>
@@ -1612,10 +1612,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12225</p>
+<p>GPOR 12225 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs&nbsp;</p>
+<p>Item 3 - Phytomenadione 2mg/0.2mL Injection 0.2mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23,100</p>
@@ -1648,10 +1648,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12225</p>
+<p>GPOR 12225 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 4 - Unregistered Drugs&nbsp;</p>
+<p>Item 4 - Phytomenadione 10mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9,945</p>
@@ -1684,10 +1684,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12325</p>
+<p>GPOR 12325 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 - Propantheline Bromide 15mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>208,918</p>
@@ -1720,10 +1720,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12325</p>
+<p>GPOR 12325 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs&nbsp;</p>
+<p>Item 2 - Pyridostigmine Bromide 10mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1,377,785</p>
@@ -1756,10 +1756,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12425</p>
+<p>GPOR 12425 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 - Rotigotine 4mg/24hr Patch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>29,704</p>
@@ -1792,10 +1792,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12425</p>
+<p>GPOR 12425 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs&nbsp;</p>
+<p>Item 2 - Rotigotine 6mg/24hr Patch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4,088</p>
@@ -1828,10 +1828,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12425</p>
+<p>GPOR 12425 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs&nbsp;</p>
+<p>Item 3 - Sodium Tetradecyl Sulfate 3% w/v Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>335</p>
@@ -1864,10 +1864,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12525</p>
+<p>GPOR 12525 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Unregistered Drugs&nbsp;</p>
+<p>Item 1 - Tetrabenazine 25mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22,172</p>
@@ -1900,10 +1900,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12525</p>
+<p>GPOR 12525 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 2 - Unregistered Drugs&nbsp;</p>
+<p>Item 2 - Thiamine Hydrochloride 100mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>253,735</p>
@@ -1936,10 +1936,10 @@ jar</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 12525</p>
+<p>GPOR 12525 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 3 - Unregistered Drugs&nbsp;</p>
+<p>Item 3 - Ursodeoxycholic Acid 50mg/mL Suspension 250mL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>810</p>
