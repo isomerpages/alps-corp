@@ -161,7 +161,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -172,6 +172,11 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Dobutamine 250mg/20mL Injection</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>3,980</p>
+<p></p>
+<p>16,830</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,6 +214,11 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Epinephrine 1mg/10mL Injection (1:10000), 10mL pre-filled syringe</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>5,390</p>
+<p></p>
+<p>16,800</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,6 +257,11 @@ the closing date and time stated in the RFP notice below.</p>
 bottle</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>4,225</p>
+<p></p>
+<p>12,902</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,6 +300,11 @@ bottle</p>
 Lotion, 30mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>390</p>
+<p></p>
+<p>1,250</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -322,6 +342,11 @@ Lotion, 30mL bottle</p>
 <p>Item 3 - Clindamycin 1% w/w and Benzoyl Peroxide 5% w/w Gel, 15g tube</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>5,535</p>
+<p></p>
+<p>16,660</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -398,6 +423,11 @@ Lotion, 30mL bottle</p>
 10% w/w Solution, 13mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>600</p>
+<p></p>
+<p>1,700</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -435,6 +465,11 @@ Lotion, 30mL bottle</p>
 <p>Item 1 - Finasteride 1mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>1,514,970</p>
+<p></p>
+<p>4,561,050</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -473,6 +508,11 @@ Lotion, 30mL bottle</p>
 jar</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>89,755</p>
+<p></p>
+<p>266,743</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -626,6 +666,11 @@ jar</p>
 <p>Item 1 - Febuxostat 80mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>292,760</p>
+<p></p>
+<p>892,320</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -663,6 +708,11 @@ jar</p>
 <p>Item 1- Nicotine 2mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>241,136</p>
+<p></p>
+<p>809,198</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -700,6 +750,10 @@ jar</p>
 <p>Item 2 - Nicotine 4mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>28,323</p>
+<p>121,779</p>
+<p></p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
