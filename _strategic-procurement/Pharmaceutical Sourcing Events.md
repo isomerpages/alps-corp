@@ -151,14 +151,14 @@ the closing date and time stated in the RFP notice below.</p>
 <p>11/7/2025&nbsp; 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
+<p><a href="https://discovery.ariba.com/rfx/23240825" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S7 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -172,12 +172,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Dobutamine 250mg/20mL Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3,980</p>
-<p></p>
-<p>16,830</p>
-<p></p>
-<p></p>
-<p></p>
+<p>3,980
+<br>16,830</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -200,7 +196,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>S6 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -214,12 +210,8 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Epinephrine 1mg/10mL Injection (1:10000), 10mL pre-filled syringe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5,390</p>
-<p></p>
-<p>16,800</p>
-<p></p>
-<p></p>
-<p></p>
+<p>5,390
+<br>16,800</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -235,14 +227,14 @@ the closing date and time stated in the RFP notice below.</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257403</a>
+<p><a href="https://discovery.ariba.com/rfx/23257403" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257403</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -257,12 +249,8 @@ the closing date and time stated in the RFP notice below.</p>
 bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4,225</p>
-<p></p>
-<p>12,902</p>
-<p></p>
-<p></p>
-<p></p>
+<p>4,225
+<br>12,902</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -278,14 +266,14 @@ bottle</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -300,12 +288,8 @@ bottle</p>
 Lotion, 30mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>390</p>
-<p></p>
-<p>1,250</p>
-<p></p>
-<p></p>
-<p></p>
+<p>390
+<br>1,250</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -321,14 +305,14 @@ Lotion, 30mL bottle</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -342,12 +326,8 @@ Lotion, 30mL bottle</p>
 <p>Item 3 - Clindamycin 1% w/w and Benzoyl Peroxide 5% w/w Gel, 15g tube</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5,535</p>
-<p></p>
-<p>16,660</p>
-<p></p>
-<p></p>
-<p></p>
+<p>5,535
+<br>16,660</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -363,14 +343,14 @@ Lotion, 30mL bottle</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -401,14 +381,14 @@ Lotion, 30mL bottle</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -423,12 +403,8 @@ Lotion, 30mL bottle</p>
 10% w/w Solution, 13mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>600</p>
-<p></p>
-<p>1,700</p>
-<p></p>
-<p></p>
-<p></p>
+<p>600
+<br>1,700</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -444,14 +420,14 @@ Lotion, 30mL bottle</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -465,12 +441,8 @@ Lotion, 30mL bottle</p>
 <p>Item 1 - Finasteride 1mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,514,970</p>
-<p></p>
-<p>4,561,050</p>
-<p></p>
-<p></p>
-<p></p>
+<p>1,514,970
+<br>4,561,050</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -486,14 +458,14 @@ Lotion, 30mL bottle</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257364</a>
+<p><a href="https://discovery.ariba.com/rfx/23257364" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257364</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -508,12 +480,8 @@ Lotion, 30mL bottle</p>
 jar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>89,755</p>
-<p></p>
-<p>266,743</p>
-<p></p>
-<p></p>
-<p></p>
+<p>89,755
+<br>266,743</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -529,14 +497,14 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257733</a>
+<p><a href="https://discovery.ariba.com/rfx/23257733" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257733</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -568,7 +536,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23254493</a>
+<p><a href="https://discovery.ariba.com/rfx/23254493" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23254493</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -606,7 +574,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256939</a>
+<p><a href="https://discovery.ariba.com/rfx/23256939" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256939</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -644,8 +612,8 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257004" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-<a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257004</a>
+<p>
+<br><a href="https://discovery.ariba.com/rfx/23257004" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257004</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -666,12 +634,8 @@ jar</p>
 <p>Item 1 - Febuxostat 80mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>292,760</p>
-<p></p>
-<p>892,320</p>
-<p></p>
-<p></p>
-<p></p>
+<p>292,760
+<br>892,320</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -687,14 +651,14 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257567</a>
+<p><a href="https://discovery.ariba.com/rfx/23257567" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257567</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -708,12 +672,8 @@ jar</p>
 <p>Item 1- Nicotine 2mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>241,136</p>
-<p></p>
-<p>809,198</p>
-<p></p>
-<p></p>
-<p></p>
+<p>241,136
+<br>809,198</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -729,14 +689,14 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
+<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -750,11 +710,8 @@ jar</p>
 <p>Item 2 - Nicotine 4mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28,323</p>
-<p>121,779</p>
-<p></p>
-<p></p>
-<p></p>
+<p>28,323
+<br>121,779</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -770,14 +727,14 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
+<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -807,7 +764,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
+<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -844,7 +801,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
+<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -882,7 +839,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
+<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -920,7 +877,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
+<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -956,7 +913,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -992,7 +949,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1028,7 +985,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1064,7 +1021,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1100,7 +1057,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1136,7 +1093,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1172,7 +1129,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1208,7 +1165,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1244,7 +1201,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1280,7 +1237,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1316,7 +1273,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1352,7 +1309,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1388,7 +1345,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1424,7 +1381,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1460,7 +1417,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1496,7 +1453,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1532,7 +1489,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1568,7 +1525,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1604,7 +1561,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1640,7 +1597,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1676,7 +1633,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1712,7 +1669,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1748,7 +1705,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
+<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1784,7 +1741,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
+<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1820,7 +1777,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1856,7 +1813,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1892,7 +1849,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1928,7 +1885,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1964,7 +1921,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2000,7 +1957,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
