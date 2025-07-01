@@ -101,13 +101,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Event Description</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Contract Quantity&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Buffer Quantity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contract Period</p>
+<p>Respond to posting&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Published Date</p>
@@ -116,7 +110,13 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Closing Date/ Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Respond to posting&nbsp;</p>
+<p>Contract Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contract Quantity&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buffer Quantity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Financial Category</p>
@@ -136,23 +136,23 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Triheptanoin 100% w/w Oral Liquid, 500mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="https://discovery.ariba.com/rfx/23240825" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oct 2025 - Sep 2035</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/20/2025</p>
+<p>20/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11/7/2025&nbsp; 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23240825" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
-</p>
+<p>Oct 2025 - Sep 2035</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S7 or higher</p>
@@ -172,25 +172,25 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Dobutamine 250mg/20mL Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3,980
-<br>16,830</p>
+<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260448</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>3,980
+<br>16,830</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260448</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -210,25 +210,25 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Epinephrine 1mg/10mL Injection (1:10000), 10mL pre-filled syringe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5,390
-<br>16,800</p>
+<p><a href="https://discovery.ariba.com/rfx/23257403" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257403</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>5,390
+<br>16,800</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257403" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257403</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -249,25 +249,25 @@ the closing date and time stated in the RFP notice below.</p>
 bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4,225
-<br>12,902</p>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>4,225
+<br>12,902</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -288,25 +288,25 @@ bottle</p>
 Lotion, 30mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>390
-<br>1,250</p>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>390
+<br>1,250</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -326,25 +326,25 @@ Lotion, 30mL bottle</p>
 <p>Item 3 - Clindamycin 1% w/w and Benzoyl Peroxide 5% w/w Gel, 15g tube</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5,535
-<br>16,660</p>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>5,535
+<br>16,660</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -364,25 +364,25 @@ Lotion, 30mL bottle</p>
 <p>Item 4 - Clobetasol Propionate 0.05% w/w Shampoo, 60mL or 120mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>500 - 2,000
-<br>2,001 - 8,000</p>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>500 - 2,000
+<br>2,001 - 8,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -403,25 +403,25 @@ Lotion, 30mL bottle</p>
 10% w/w Solution, 13mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>600
-<br>1,700</p>
+<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>600
+<br>1,700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -441,25 +441,25 @@ Lotion, 30mL bottle</p>
 <p>Item 1 - Finasteride 1mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,514,970
-<br>4,561,050</p>
+<p><a href="https://discovery.ariba.com/rfx/23257364" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257364</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>1,514,970
+<br>4,561,050</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257364" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257364</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -480,25 +480,25 @@ Lotion, 30mL bottle</p>
 jar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>89,755
-<br>266,743</p>
+<p><a href="https://discovery.ariba.com/rfx/23257733" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257733</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>89,755
+<br>266,743</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257733" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257733</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -519,25 +519,25 @@ jar</p>
 400mg/5mL, Simethicone 30-40mg/5mL Mixture 100-200mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,000-12,000
-<br>12,001-50,000</p>
+<p><a href="https://discovery.ariba.com/rfx/23254493" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23254493</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>1,000-12,000
+<br>12,001-50,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23254493" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23254493</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
@@ -557,25 +557,25 @@ jar</p>
 <p>Item 1 - Alverine Citrate 60mg and Simeticone 300mg Capsules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>705,600
-<br>1,930,080</p>
+<p><a href="https://discovery.ariba.com/rfx/23256939" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256939</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>705,600
+<br>1,930,080</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256939" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256939</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -595,26 +595,26 @@ jar</p>
 <p>Item 1 - Esomeprazole 40mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>96,225
-<br>281,175</p>
+<p>
+<br><a href="https://discovery.ariba.com/rfx/23257004" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257004</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>96,225
+<br>281,175</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="https://discovery.ariba.com/rfx/23257004" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257004</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S7 or higher</p>
@@ -634,25 +634,25 @@ jar</p>
 <p>Item 1 - Febuxostat 80mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>292,760
-<br>892,320</p>
+<p><a href="https://discovery.ariba.com/rfx/23257567" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257567</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>292,760
+<br>892,320</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257567" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257567</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -672,25 +672,25 @@ jar</p>
 <p>Item 1- Nicotine 2mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>241,136
-<br>809,198</p>
+<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>241,136
+<br>809,198</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
@@ -710,25 +710,25 @@ jar</p>
 <p>Item 2 - Nicotine 4mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28,323
-<br>121,779</p>
+<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>28,323
+<br>121,779</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
@@ -749,23 +749,23 @@ jar</p>
 90-100mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6,000-13,000</p>
+<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apr 2026 - Mar 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
-</p>
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,000-13,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or Higher</p>
@@ -786,23 +786,23 @@ jar</p>
 200mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10,000-30,000</p>
+<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Apr 2026 - Mar 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
-</p>
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,000-30,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or Higher</p>
@@ -822,25 +822,25 @@ jar</p>
 <p>Item 1 -&nbsp; Folic Acid 400mcg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>278,300
-<br>797,100</p>
+<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>278,300
+<br>797,100</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
@@ -860,25 +860,25 @@ jar</p>
 <p>Item 2 - Pyridoxine Hydrochloride 50mg Tablets&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>152,550
-<br>503,200</p>
+<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>27/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2026 - Mar 2027 /
 <br>Apr 2026 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>152,550
+<br>503,200</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>18/7/2025 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
@@ -898,23 +898,23 @@ jar</p>
 <p>Item 1 - Anakinra 100mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,480</p>
+<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,480</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -934,23 +934,23 @@ jar</p>
 <p>Item 2 - Dantrolene Sodium 20mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>330</p>
+<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>330</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -970,23 +970,23 @@ jar</p>
 <p>Item 3 - Dantrolene Sodium 25mg Capsules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8,100</p>
+<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8,100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1006,23 +1006,23 @@ jar</p>
 <p>Item 1 -&nbsp; Bethanechol Chloride 10mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>754,512</p>
+<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>754,512</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1042,23 +1042,23 @@ jar</p>
 <p>Item 2 - Bismuth Subcitrate 120mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>42,837</p>
+<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>42,837</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1078,23 +1078,23 @@ jar</p>
 <p>Item 3 - Chlordiazepoxide 5mg and Clidinium Bromide 2.5mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>108,500</p>
+<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>108,500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1114,23 +1114,23 @@ jar</p>
 <p>Item 1 -&nbsp; Digoxin Immune Fab 40mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16</p>
+<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1150,23 +1150,23 @@ jar</p>
 <p>Item 2 - Hydrocortisone 10% w/v Rectal Foam 14 doses/pack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>425</p>
+<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>425</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1186,23 +1186,23 @@ jar</p>
 <p>Item 3 - Haemorrhoidal Suppositories</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4,000 - 45,000</p>
+<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,000 - 45,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1222,23 +1222,23 @@ jar</p>
 <p>Item 1 - Droperidol 2.5mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3,010</p>
+<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,010</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1258,23 +1258,23 @@ jar</p>
 <p>Item 2 - Famotidine 20mg/2mL Preservative Free Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20,710</p>
+<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20,710</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1294,23 +1294,23 @@ jar</p>
 <p>Item 3 - Glycopyrrolate 0.6mg/3mL Injection 3mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>32,520</p>
+<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32,520</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1330,23 +1330,23 @@ jar</p>
 <p>Item 1 - Lorazepam 4mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11,290</p>
+<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11,290</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1366,23 +1366,23 @@ jar</p>
 <p>Item 2 - Nitrazepam 5mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>45,402</p>
+<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45,402</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1402,23 +1402,23 @@ jar</p>
 <p>Item 3 - Phenobarbital Sodium 200mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2,854</p>
+<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,854</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1438,23 +1438,23 @@ jar</p>
 <p>Item 1 - Nortriptyline Hydrochloride 10mg Capsules or Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>741,900</p>
+<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>741,900</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or Higher</p>
@@ -1474,23 +1474,23 @@ jar</p>
 <p>Item 2 - Nortriptyline Hydrochloride 25mg Capsules or Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>198,220</p>
+<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>198,220</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or Higher</p>
@@ -1510,23 +1510,23 @@ jar</p>
 <p>Item 3 - Pancuronium Bromide 4mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>630</p>
+<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>630</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or Higher</p>
@@ -1546,23 +1546,23 @@ jar</p>
 <p>Item 1 - Phenazopyridine Hydrochloride 100mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16,050</p>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16,050</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1582,23 +1582,23 @@ jar</p>
 <p>Item 2 - Primidone 50mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>62,559</p>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>62,559</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1618,23 +1618,23 @@ jar</p>
 <p>Item 3 - Phytomenadione 2mg/0.2mL Injection 0.2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23,100</p>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23,100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1654,23 +1654,23 @@ jar</p>
 <p>Item 4 - Phytomenadione 10mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9,945</p>
+<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9,945</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1690,23 +1690,23 @@ jar</p>
 <p>Item 1 - Propantheline Bromide 15mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>208,918</p>
+<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>208,918</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1726,23 +1726,23 @@ jar</p>
 <p>Item 2 - Pyridostigmine Bromide 10mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,377,785</p>
+<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,377,785</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1762,23 +1762,23 @@ jar</p>
 <p>Item 1 - Rotigotine 4mg/24hr Patch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29,704</p>
+<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29,704</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1798,23 +1798,23 @@ jar</p>
 <p>Item 2 - Rotigotine 6mg/24hr Patch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4,088</p>
+<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,088</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1834,23 +1834,23 @@ jar</p>
 <p>Item 3 - Sodium Tetradecyl Sulfate 3% w/v Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>335</p>
+<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>335</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -1870,23 +1870,23 @@ jar</p>
 <p>Item 1 - Tetrabenazine 25mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>22,172</p>
+<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22,172</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1906,23 +1906,23 @@ jar</p>
 <p>Item 2 - Thiamine Hydrochloride 100mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>253,735</p>
+<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>253,735</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1942,23 +1942,23 @@ jar</p>
 <p>Item 3 - Ursodeoxycholic Acid 50mg/mL Suspension 250mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>810</p>
+<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6/27/2025</p>
+<p>27/6/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
-</p>
+<p>April 2026 - March 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>810</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
