@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: HAPPY BIRTHDAY ALPS!
           description: ""
-          url: /careers/join-us/
+          url: /resources/news/20250701-alps-7-anniversary-c-suites-messages
   - infobar:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
