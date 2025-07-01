@@ -17,10 +17,15 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Anti-Embolism Stockings |
-| 2 | Medical Supplies | Elastomeric Infusion Pump |
-| 3 | Medical Supplies | High Level Disinfectant |
-| 4 | Medical Supplies | Kidney Dish (Single-use) |
+| 1 | General Services | Provision of Corporate Travel Management Service |
+| 2 | General Services | Provision of Medical and Dental Clinic Services |
+| 3 | Estate &amp; Env. Services | Linen Laundry Services |
+| 4 | Med Tech | Radiographic/Fluroscopic Systems |
+| 5 | General Services | Provision of Mobile Inpatient Care @ Home |
+| 6 | Medical Supplies | Arterial Blood Gas Analyzer |
+| 7 | Medical Supplies | Anti-Embolism Stockings |
+| 8 | Medical Supplies | High Level Disinfectant |
+| 9 | Medical Supplies | Ambulatory Infusion Pump (Disposable) |
 
 
 
@@ -33,10 +38,11 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | General Services	| Provision of Corporate Travel Management Service |
-| 2 | General Services	| Provision of Medical and Dental Clinic Services |
-| 3 | Estate &amp; Env. Services | Linen Laundry Services |
-| 4 | Med Tech | Radiographic / Fluroscopic Systems |
+| 1 | Med Tech | Electrosurgical Units |
+| 2 | Med Tech | Warming Units, Blood/Intravenous Solution |
+| 3 | General Services | Provision of Port Blockers |
+| 4 | Medical Supplies | Blood Collection System |
+| 5 | Medical Supplies | Mucus Extractors |
 
 
 <br>
@@ -48,9 +54,7 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Blood Collection System |
-| 2 | Med Tech | Electrosurgical Units |
-| 3 | Med Tech | Warming Units, Blood / Intravenous Solution |
+| 1 | General Services | Provision of Topping Up Services for Pharmaceutical Products |
 
 
 
