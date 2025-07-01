@@ -10,7 +10,7 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">JUNE 2025 SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">JULY 2025 SOURCING  EVENTS</h4>
 </div>
 
 
@@ -26,7 +26,7 @@ description: ""
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">JULY 2025 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">AUGUST 2025 SOURCING EVENTS</h4>
 </div>
 
 
@@ -41,7 +41,7 @@ description: ""
 
 <br>
 <div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">AUGUST 2025 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">SEPTEMBER 2025 SOURCING EVENTS</h4>
 </div>
 
 
