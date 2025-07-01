@@ -7,15 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero/2025_jun_27_people_of_alps_healthcare_FB_cover_photo.png
+      background: /images/Hero/2025_jul_04_alps_anniversary_7_fb_cover_01.png
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: People  Of  ALPS  Healthcare
+        - title: HAPPY BIRTHDAY ALPS!
           description: ""
-          url: /careers/join-us/
+          url: /resources/news/20250701-alps-7-anniversary-c-suites-messages
   - infobar:
       title: <img src="/images/About Us/2024_alps_cwh.jpg">
       id: infobar
