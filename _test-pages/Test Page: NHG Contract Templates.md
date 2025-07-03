@@ -1,6 +1,6 @@
 ---
-title: NHG Contract Templates
-permalink: /strategic-procurement/nhg-contract-templates/
+title: "Test Page: NHG Contract Templates"
+permalink: /test-pages/test-page-nhg-contract-templates/
 description: ""
 variant: tiptap
 ---
