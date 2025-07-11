@@ -2514,42 +2514,6 @@ jar</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GPOV 02125</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Item 1 - Triheptanoin 100% w/w Oral Liquid, 500mL bottle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23240825" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20/6/2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11/7/2025&nbsp; 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oct 2025 - Sep 2035</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S7 or higher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
