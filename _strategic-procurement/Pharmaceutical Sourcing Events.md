@@ -130,32 +130,576 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOV 02125</p>
+<p>GPOR 12625 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item 1 - Triheptanoin 100% w/w Oral Liquid, 500mL bottle</p>
+<p>Item 1 - Sterile Diazepam 10mg/2mL in one injector for intramuscular administration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23240825" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23284252</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20/6/2025</p>
+<p>11/7/2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11/7/2025&nbsp; 12.00pm</p>
+<p>1/8/2025&nbsp; 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oct 2025 - Sep 2035</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>630</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S7 or higher</p>
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12725 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Dimercaprol 100mg/2mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23287790</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14,936</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12725 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 2 - Dimercaprol 200mg/2mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23287790</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7,200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12825 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Hydroxocobalamin 5g Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288600</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,543</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12925 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Potassium Iodide 65mg/mL Oral Solution , 30mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288679</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>180</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Pralidoxime Chloride 500mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288741</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15,780</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13125 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Sterile Atropine Sulphate 2.0mg/2mL or 2.1mg/0.7mL and sterile
+Pralidoxime Chloride 600mg/2mL in one injector for intramuscular administration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288768</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>671</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13225 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Prussian Blue (Ferric Hexacyanoferrate II) 500mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23284213</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>183,636</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13325 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Sodium Thiosulfate 25% w/v Injection, 50mL vial or 100mL vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23284930</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,000 - 2,600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13425 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Zn-DTPA (Trisodium Zinc Diethylenetriaminepentaacetate) 200mg/mL
+or 211mg/mL Injection, 5mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23284988</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,095</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13525</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Atropine Sulfate 600mcg/mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288247</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2026 - Mar 2027
+<br>Apr 2026 - Mar 2028&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>65,766
+<br>132,926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13625</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Heparinised Saline 50 IU/5mL Solution, 5mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23283804</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2025 - Nov 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>424,200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13725</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Anti-A Blood Grouping Serum, 10mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288501</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2026 - Dec 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,310</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13725</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 2 - Anti-A and Anti-B (Group O) Blood Grouping Serum, 10mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288501</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2026 - Dec 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,255</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13725</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 3 - Anti-B Blood Grouping Serum, 10mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288501</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2026 - Dec 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,290</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13725</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 4 - Anti-D Blood Grouping Serum (RH 1), 10mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23288501</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1/8/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2026 - Dec 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,285</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
@@ -172,7 +716,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Dobutamine 250mg/20mL Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260448" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260448</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260448</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,7 +754,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Item 1 - Epinephrine 1mg/10mL Injection (1:10000), 10mL pre-filled syringe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257403" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257403</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257403</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,7 +793,7 @@ the closing date and time stated in the RFP notice below.</p>
 bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -288,7 +832,7 @@ bottle</p>
 Lotion, 30mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -326,7 +870,7 @@ Lotion, 30mL bottle</p>
 <p>Item 3 - Clindamycin 1% w/w and Benzoyl Peroxide 5% w/w Gel, 15g tube</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,7 +908,7 @@ Lotion, 30mL bottle</p>
 <p>Item 4 - Clobetasol Propionate 0.05% w/w Shampoo, 60mL or 120mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -403,7 +947,7 @@ Lotion, 30mL bottle</p>
 10% w/w Solution, 13mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23259937" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23259937</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -441,7 +985,7 @@ Lotion, 30mL bottle</p>
 <p>Item 1 - Finasteride 1mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257364" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257364</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257364</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -480,7 +1024,7 @@ Lotion, 30mL bottle</p>
 jar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257733" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257733</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257733</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -519,7 +1063,7 @@ jar</p>
 400mg/5mL, Simethicone 30-40mg/5mL Mixture 100-200mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23254493" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23254493</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23254493</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -557,7 +1101,7 @@ jar</p>
 <p>Item 1 - Alverine Citrate 60mg and Simeticone 300mg Capsules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256939" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256939</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256939</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -596,7 +1140,7 @@ jar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="https://discovery.ariba.com/rfx/23257004" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257004</a>
+<br><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257004</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -634,7 +1178,7 @@ jar</p>
 <p>Item 1 - Febuxostat 80mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257567" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257567</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257567</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -672,7 +1216,7 @@ jar</p>
 <p>Item 1- Nicotine 2mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -710,7 +1254,7 @@ jar</p>
 <p>Item 2 - Nicotine 4mg Gum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257837" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257837</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -749,7 +1293,7 @@ jar</p>
 90-100mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -786,7 +1330,7 @@ jar</p>
 200mL bottle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257162" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257162</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -822,7 +1366,7 @@ jar</p>
 <p>Item 1 -&nbsp; Folic Acid 400mcg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -860,7 +1404,7 @@ jar</p>
 <p>Item 2 - Pyridoxine Hydrochloride 50mg Tablets&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23260474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23260474</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -898,7 +1442,7 @@ jar</p>
 <p>Item 1 - Anakinra 100mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -908,7 +1452,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1,480</p>
@@ -934,7 +1478,7 @@ jar</p>
 <p>Item 2 - Dantrolene Sodium 20mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -944,7 +1488,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>330</p>
@@ -970,7 +1514,7 @@ jar</p>
 <p>Item 3 - Dantrolene Sodium 25mg Capsules</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257002" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257002</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -980,7 +1524,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8,100</p>
@@ -1006,7 +1550,7 @@ jar</p>
 <p>Item 1 -&nbsp; Bethanechol Chloride 10mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1016,7 +1560,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>754,512</p>
@@ -1042,7 +1586,7 @@ jar</p>
 <p>Item 2 - Bismuth Subcitrate 120mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1052,7 +1596,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>42,837</p>
@@ -1078,7 +1622,7 @@ jar</p>
 <p>Item 3 - Chlordiazepoxide 5mg and Clidinium Bromide 2.5mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257087" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257087</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1088,7 +1632,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>108,500</p>
@@ -1114,7 +1658,7 @@ jar</p>
 <p>Item 1 -&nbsp; Digoxin Immune Fab 40mg Injection</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1124,7 +1668,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16</p>
@@ -1150,7 +1694,7 @@ jar</p>
 <p>Item 2 - Hydrocortisone 10% w/v Rectal Foam 14 doses/pack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1160,7 +1704,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>425</p>
@@ -1186,7 +1730,7 @@ jar</p>
 <p>Item 3 - Haemorrhoidal Suppositories</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257354" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257354</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1196,7 +1740,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4,000 - 45,000</p>
@@ -1222,7 +1766,7 @@ jar</p>
 <p>Item 1 - Droperidol 2.5mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1232,7 +1776,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3,010</p>
@@ -1258,7 +1802,7 @@ jar</p>
 <p>Item 2 - Famotidine 20mg/2mL Preservative Free Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1268,7 +1812,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20,710</p>
@@ -1294,7 +1838,7 @@ jar</p>
 <p>Item 3 - Glycopyrrolate 0.6mg/3mL Injection 3mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256918" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256918</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1304,7 +1848,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>32,520</p>
@@ -1330,7 +1874,7 @@ jar</p>
 <p>Item 1 - Lorazepam 4mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1340,7 +1884,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11,290</p>
@@ -1366,7 +1910,7 @@ jar</p>
 <p>Item 2 - Nitrazepam 5mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1376,7 +1920,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>45,402</p>
@@ -1402,7 +1946,7 @@ jar</p>
 <p>Item 3 - Phenobarbital Sodium 200mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23256982" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23256982</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1412,7 +1956,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2,854</p>
@@ -1438,7 +1982,7 @@ jar</p>
 <p>Item 1 - Nortriptyline Hydrochloride 10mg Capsules or Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1448,7 +1992,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>741,900</p>
@@ -1474,7 +2018,7 @@ jar</p>
 <p>Item 2 - Nortriptyline Hydrochloride 25mg Capsules or Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1484,7 +2028,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>198,220</p>
@@ -1510,7 +2054,7 @@ jar</p>
 <p>Item 3 - Pancuronium Bromide 4mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257041" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257041</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1520,7 +2064,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>630</p>
@@ -1546,7 +2090,7 @@ jar</p>
 <p>Item 1 - Phenazopyridine Hydrochloride 100mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1556,7 +2100,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>16,050</p>
@@ -1582,7 +2126,7 @@ jar</p>
 <p>Item 2 - Primidone 50mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1592,7 +2136,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>62,559</p>
@@ -1618,7 +2162,7 @@ jar</p>
 <p>Item 3 - Phytomenadione 2mg/0.2mL Injection 0.2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1628,7 +2172,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23,100</p>
@@ -1654,7 +2198,7 @@ jar</p>
 <p>Item 4 - Phytomenadione 10mg/mL Injection 1mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257152" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257152</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1664,7 +2208,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9,945</p>
@@ -1690,7 +2234,7 @@ jar</p>
 <p>Item 1 - Propantheline Bromide 15mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1700,7 +2244,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>208,918</p>
@@ -1726,7 +2270,7 @@ jar</p>
 <p>Item 2 - Pyridostigmine Bromide 10mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257213" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257213</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1736,7 +2280,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1,377,785</p>
@@ -1762,7 +2306,7 @@ jar</p>
 <p>Item 1 - Rotigotine 4mg/24hr Patch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1772,7 +2316,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>29,704</p>
@@ -1798,7 +2342,7 @@ jar</p>
 <p>Item 2 - Rotigotine 6mg/24hr Patch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1808,7 +2352,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4,088</p>
@@ -1834,7 +2378,7 @@ jar</p>
 <p>Item 3 - Sodium Tetradecyl Sulfate 3% w/v Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257309" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257309</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1844,7 +2388,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>335</p>
@@ -1870,7 +2414,7 @@ jar</p>
 <p>Item 1 - Tetrabenazine 25mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1880,7 +2424,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22,172</p>
@@ -1906,7 +2450,7 @@ jar</p>
 <p>Item 2 - Thiamine Hydrochloride 100mg/2mL Injection 2mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1916,7 +2460,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>253,735</p>
@@ -1942,7 +2486,7 @@ jar</p>
 <p>Item 3 - Ursodeoxycholic Acid 50mg/mL Suspension 250mL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23257380" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23257380</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1952,7 +2496,7 @@ jar</p>
 <p>18/7/2025 12.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>April 2026 - March 2027</p>
+<p>Apr 2026 - Mar 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>810</p>
@@ -1962,6 +2506,42 @@ jar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOV 02125</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item 1 - Triheptanoin 100% w/w Oral Liquid, 500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23284252" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23240825</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20/6/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/7/2025&nbsp; 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oct 2025 - Sep 2035</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
