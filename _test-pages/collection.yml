@@ -2,7 +2,7 @@ collections:
   test-pages:
     output: true
     order:
-      - NUHS Contract Templates.md
+      - "Test Page: NUHS Contract Templates.md"
       - "Test Page: NHG Contract Templates.md"
       - "Test Page: ALPS Pharmaceutical RFP Listings.md"
       - "Test Page: Career Fair 2024 Photo Slideshow, FB VIdeo.md"
