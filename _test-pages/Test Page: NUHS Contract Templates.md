@@ -1,6 +1,6 @@
 ---
-title: NUHS Contract Templates
-permalink: /strategic-procurement/nuhs-contract-templates/
+title: "Test Page: NUHS Contract Templates"
+permalink: /test-pages/test-page-nuhs-contract-templates/
 description: ""
 variant: tiptap
 ---
