@@ -17,11 +17,10 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: <img src="/images/About Us/2024_alps_cwh.jpg">
+      title: <img src="images/Hero/nda2025alps.png">
       id: infobar
-      url: /national-logistics/central-warehouse-one/
+      url: /resources/news/20250809-happy-national-day/
       button: FIND OUT MORE
-      description: ADVANCING SINGAPORE'S HEALTHCARE SUPPLY CHAIN
   - infopic:
       title: Overview
       description: We are supply chain specialists & professionals, tasked with
