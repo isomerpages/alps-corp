@@ -7,21 +7,20 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero/2025_jul_04_alps_anniversary_7_fb_cover_01.png
+      background: /images/Hero/2025_aug_01_national_day_sg60_cbd_overhead_sky_for_FB_IG_LinkedIn_1920x1080.png
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: HAPPY BIRTHDAY ALPS!
+        - title: HAPPY BIRTHDAY SINGAPORE!
           description: ""
-          url: /resources/news/20250701-alps-7-anniversary-c-suites-messages
+          url: ""
   - infobar:
-      title: <img src="/images/About Us/2024_alps_cwh.jpg">
+      title: <img src="images/Hero/nda2025alps.png">
       id: infobar
-      url: /national-logistics/central-warehouse-one/
+      url: /resources/news/20250809-happy-national-day/
       button: FIND OUT MORE
-      description: ADVANCING SINGAPORE'S HEALTHCARE SUPPLY CHAIN
   - infopic:
       title: Overview
       description: We are supply chain specialists & professionals, tasked with
