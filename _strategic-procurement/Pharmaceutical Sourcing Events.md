@@ -2184,7 +2184,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2220,7 +2220,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2256,7 +2256,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2292,7 +2292,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2328,7 +2328,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2364,7 +2364,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2400,7 +2400,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2436,7 +2436,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2472,7 +2472,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2508,7 +2508,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2546,7 +2546,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2584,7 +2584,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2620,7 +2620,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2656,7 +2656,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2692,7 +2692,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2728,7 +2728,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2764,7 +2764,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2800,7 +2800,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2836,7 +2836,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2872,7 +2872,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2908,7 +2908,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2944,7 +2944,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2980,7 +2980,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3016,7 +3016,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3052,7 +3052,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3088,7 +3088,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3124,7 +3124,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3160,7 +3160,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3196,7 +3196,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3232,7 +3232,7 @@ Tablets</p>
 <p>S8 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3268,7 +3268,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3304,7 +3304,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3340,7 +3340,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3376,7 +3376,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3412,7 +3412,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3448,7 +3448,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3487,7 +3487,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3525,7 +3525,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3563,7 +3563,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3599,7 +3599,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3635,7 +3635,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3671,7 +3671,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3707,7 +3707,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3745,7 +3745,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3781,7 +3781,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3820,7 +3820,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3858,7 +3858,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3896,7 +3896,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3933,7 +3933,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3971,7 +3971,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4009,7 +4009,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4047,7 +4047,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4085,7 +4085,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4123,7 +4123,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4161,7 +4161,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4199,7 +4199,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4237,7 +4237,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4275,7 +4275,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4311,7 +4311,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4347,7 +4347,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4383,7 +4383,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4419,7 +4419,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4455,7 +4455,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4491,7 +4491,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4527,7 +4527,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4563,7 +4563,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4601,7 +4601,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4638,7 +4638,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4676,7 +4676,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4712,7 +4712,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4750,7 +4750,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4788,7 +4788,7 @@ Tablets</p>
 <p>S8 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4826,7 +4826,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4864,7 +4864,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4902,7 +4902,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4938,7 +4938,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -4974,7 +4974,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5010,7 +5010,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5048,7 +5048,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5086,7 +5086,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5124,7 +5124,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5162,7 +5162,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5198,7 +5198,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5234,7 +5234,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5270,7 +5270,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5308,7 +5308,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5346,7 +5346,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5384,7 +5384,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5422,7 +5422,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5458,7 +5458,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5494,7 +5494,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5532,7 +5532,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5570,7 +5570,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5606,7 +5606,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5642,7 +5642,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5678,7 +5678,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5716,7 +5716,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5754,7 +5754,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5792,7 +5792,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5830,7 +5830,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5868,7 +5868,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5906,7 +5906,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5944,7 +5944,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -5980,7 +5980,7 @@ Tablets</p>
 <p>S9 or HIgher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6016,7 +6016,7 @@ Tablets</p>
 <p>S9 or HIgher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6052,7 +6052,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6088,7 +6088,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6126,7 +6126,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6162,7 +6162,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6200,7 +6200,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6238,7 +6238,7 @@ Tablets</p>
 <p>S3 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6276,7 +6276,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6314,7 +6314,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6352,7 +6352,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6390,7 +6390,7 @@ Tablets</p>
 <p>S8 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6428,7 +6428,7 @@ Tablets</p>
 <p>S8 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6466,7 +6466,7 @@ Tablets</p>
 <p>S8 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6504,7 +6504,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6542,7 +6542,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6578,7 +6578,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6614,7 +6614,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6652,7 +6652,7 @@ Tablets</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6690,7 +6690,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6728,7 +6728,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6766,7 +6766,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6804,7 +6804,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6842,7 +6842,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6880,7 +6880,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6918,7 +6918,7 @@ Tablets</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6956,7 +6956,7 @@ Tablets</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -6992,7 +6992,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -7028,7 +7028,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -7066,7 +7066,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -7104,7 +7104,7 @@ Tablets</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -7142,7 +7142,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -7180,7 +7180,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -7218,7 +7218,7 @@ Tablets</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -7256,7 +7256,7 @@ Tablets</p>
 <p>S9 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>no</p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
