@@ -30,7 +30,7 @@ Are you up for this challenge? Do check out the links below for more information
 				LinkedIn</a>
 			</td>
 			<td style="width: 33.3%; background-color: #E60379; text-align: center;">
-				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-align: center; text-decoration: none;" href="https://www.jobstreet.com.sg/en/companies/1236450-alps-pte-ltd">
+				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold; text-align: center; text-decoration: none;" href="https://sg.jobstreet.com/companies/alps-healthcare-168534278081746">
 					<img style="margin-top: 0.5em; width:60px" src="/images/Careers/alps_icon_jobstreet_arrow.png">
 				JobStreet</a>
 			</td>

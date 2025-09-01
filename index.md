@@ -7,15 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero/2025_aug_01_national_day_sg60_cbd_overhead_sky_for_FB_IG_LinkedIn_1920x1080.png
+      background: /images/Hero/2025_jul_04_alps_annual_dinner_group_shot.jpg
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: HAPPY BIRTHDAY SINGAPORE!
+        - title: JOIN US!
           description: ""
-          url: ""
+          url: /careers/join-us/
   - infobar:
       title: <img src="images/Hero/nda2025alps.png">
       id: infobar
