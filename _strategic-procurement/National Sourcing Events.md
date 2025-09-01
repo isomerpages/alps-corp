@@ -10,37 +10,20 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">AUGUST 2025 SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">SEPTEMBER 2025 SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Blood Collection System |
-| 2 | Medical Supplies | Mucus Extractors |
-| 3 | Med Tech | Electrosurgical Units |
-| 4 | Med Tech | Warming Units, Blood / Intravenous Solution |
-| 5 | General Services | Provision of Medical and Dental Clinic Services |
-| 6 | General Services | Provision of Mobile Inpatient Care @ Home |
-| 7 | Non-Medical Supplies | Provision of Port Blockers |
+| 1 | General Services | Provision of Medical and Dental Clinic Services |
+| 2 | Non-Medical Supplies | Provision of Port Blockers |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">SEPTEMBER 2025 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | General Services | Provision of Topping Up Services for Pharmaceutical Products |
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">OCTOBER 2025 SOURCING EVENTS</h4>
 </div>
 
@@ -49,6 +32,19 @@ description: ""
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
 | 1 | Medical Supplies | Ready-To-Feed (RTF) Infant Milk |
+| 2 | Non-Medical Supplies | Provision of Handrubs and Hand scrubs |
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">NOVEMBER 2025 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| -- | -- | -- |
 
 
 
