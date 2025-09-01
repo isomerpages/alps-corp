@@ -114,11 +114,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>MR EDWIN CHEU</strong>
+<p><strong>MR ALEX QUEK</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Director, Estate &amp; Environmental Services</p>
+<p>Deputy Director, Medical Supplies</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +127,34 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Director, Transformation</p>
+<p>Deputy Director, General Services and Transformation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MS DELFINA TAO</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Director, Estate &amp; Environmental Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MR SEAN NG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Assistant Director, Medical Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MS LIM POH GEOK</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Assistant Director, Community Care</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +189,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead, Site Operations, SingHealth</p>
+<p>Director, SingHealth Cluster &amp; Sites Operations</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +198,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead, Site Operations, NHG</p>
+<p>Director, NHG Cluster &amp; Sites Operations</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +207,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead, Site Operations, NUHS</p>
+<p>Director, NUHS Cluster &amp; Sites Operations</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +225,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Supply Chain&nbsp;Services&nbsp;Office</p>
+<p>Director, Central Warehouse Operations</p>
 </td>
 </tr>
 <tr>
@@ -207,7 +234,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Service Operations</p>
+<p>Director, Central Service Operations</p>
 </td>
 </tr>
 </tbody>
