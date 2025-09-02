@@ -19,6 +19,7 @@ description: ""
 | -------- | -------- | -------- |
 | 1 | General Services | Provision of Medical and Dental Clinic Services |
 | 2 | Non-Medical Supplies | Provision of Port Blockers |
+| 3 | Medical Supplies | Mucus Extractor |
 
 
 
