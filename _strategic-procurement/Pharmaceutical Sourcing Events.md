@@ -9174,8 +9174,8 @@ Tablets</p>
 <br>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>23,956,194
-<br>55,591,128</p>
+<p>10,000,000 - 20,000,000
+<br>20,000,001 - 55,000,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -9212,8 +9212,8 @@ Tablets</p>
 <br>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13,672,180
-<br>30,912,469</p>
+<p>8,000,000 - 20,000,000
+<br>20,000,001 - 31,000,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -9250,8 +9250,8 @@ Tablets</p>
 <br>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10,000,000 - 20,000,000
-<br>20,000,001 - 55,000,000</p>
+<p>137,672
+<br>447,964</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -9288,8 +9288,8 @@ Tablets</p>
 <br>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8,000,000 - 20,000,000
-<br>20,000,001 - 31,000,000</p>
+<p>45,354
+<br>300,338</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
