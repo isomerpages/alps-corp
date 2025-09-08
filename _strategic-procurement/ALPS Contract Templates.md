@@ -16,5 +16,5 @@ with existing contractual and business arrangements with ALPS.</p>
 <p>Vendors are encouraged to refer to ALPS' contract template below to learn
 more.</p>
 <h3>FOR CONTRACT VALUES BELOW S$100K</h3>
-<p><strong><a href="/files/Contract%20Directory/ALPS%20TEMPLATES/2025_04_07_alps_standard_purchase_order_terms_and_conditions_for_supply_of_products_and_services.pdf" rel="noopener noreferrer nofollow" target="_blank">ALPS Standard Purchase Order Terms and Conditions for Supply of Products and Services</a></strong>
+<p><strong><a href="/files/Contract Directory/ALPS TEMPLATES/alps_standard_purchase_order_terms_and_conditions_for_supply_of_products_and_services.pdf" rel="noopener noreferrer nofollow" target="_blank">ALPS Standard Purchase Order Terms and Conditions for Supply of Products and Services</a></strong>
 </p>
