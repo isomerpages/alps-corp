@@ -39,40 +39,6 @@ In the long term, ALPS will strive to have one eProcurement platform. For now, s
 	</table>
 </section>
 
-<br>
 
-<section>
-	<table style="border-color: lightgray; border-width: 1px">
-		<thead style="background-color: lightgray">
-			<tr>
-				<th style="vertical-align: middle;">Sourcing Host</th>
-				<th style="text-align: center; vertical-align: middle;">SAP Business Network<br>(ALPS eProcurement System)</th>
-				<th style="text-align: center; vertical-align: middle;">Sesami eProcurement System</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>ALPS</td>
-				<td style="text-align: center; vertical-align: middle;">️✔</td>
-				<td style="text-align: center; vertical-align: middle;"></td>
-			</tr>
-			<tr>
-				<td> NHG Cluster / PHIs</td>
-				<td style="text-align: center; vertical-align: middle;">️✔</td>
-				<td style="text-align: center; vertical-align: middle;">️✔</td>
-			</tr>
-			<tr>
-				<td>NUHS Cluster / PHIs</td>
-				<td style="text-align: center; vertical-align: middle;">️✔</td>
-				<td style="text-align: center; vertical-align: middle;">️✔</td>
-			</tr>
-			<tr>
-				<td>SingHealth Cluster / PHIs</td>
-				<td style="text-align: center; vertical-align: middle;">️✔</td>
-				<td style="text-align: center; vertical-align: middle;"></td>
-			</tr>
-		</tbody>
-	</table>
-</section>
 
 If you are unfamiliar with **[SAP Business Network (ALPS eProcurement System)](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](https://for.sg/alps-eprocurement-supplier-user-guide)** and **[Contract eSignature Guide](/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf)**.
