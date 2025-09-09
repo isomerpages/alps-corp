@@ -95,8 +95,7 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">RFP No</a>
-</p>
+<p>RFP No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Description</p>
@@ -8358,13 +8357,13 @@ Tablets</p>
 <p>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1,143,372</p>
+<p>7,106,055</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S5 or Higher</p>
+<p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
@@ -8394,13 +8393,13 @@ Tablets</p>
 <p>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7,106,055</p>
+<p>1,143,372</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4 or Higher</p>
+<p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
@@ -9062,7 +9061,7 @@ Tablets</p>
 <p>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9,000,000 - 13000000</p>
+<p>9,000,000 - 13,000,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -10073,8 +10072,8 @@ Tablets</p>
 <br>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>314,580
-<br>153,220</p>
+<p>153,220
+<br>314,580</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -10111,8 +10110,8 @@ Tablets</p>
 <br>Aug 2026 - Jul 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>121,716
-<br>59,759</p>
+<p>59,759
+<br>121,716</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
