@@ -95,7 +95,8 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RFP No</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">RFP No</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Description</p>
@@ -130,6 +131,3080 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 12026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Calcitonin (Salmon) 50 IU/mL Injection, 1mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23431017" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23431017</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8,100</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Calcitonin (Salmon) 100 IU/mL Injection, 1mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23431017" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23431017</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15,785</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Calcitonin 200 IU per actuation Nasal Spray, 14 metered doses/bottle&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23431017" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23431017</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,754</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Alendronic Acid 70mg Effervescent Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432895" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432895</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>32,232
+<br>69,060</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Oxytocin 10 IU/mL Injection, 1mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432895" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432895</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40,100
+<br>81,360</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Desmopressin Acetate 0.1mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432942" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432942</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>316,720</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Desmopressin Acetate 4mcg/mL Injection, 1mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432942" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432942</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,380</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Dinoprostone 10mg Pessary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432942" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432942</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7,940</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Dydrogesterone 5mg and Estradiol (as Hemihydrate) 1mg Tablets,
+28's</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432966" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432966</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,010</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Dydrogesterone 10mg and Estradiol (as Hemihydrate) 1mg Tablets,
+28's</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432966" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432966</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,258</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Dydrogesterone 10mg and Estradiol (as Hemihydrate) 2mg Tablets,
+28's</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23432966" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23432966</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,505</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Estradiol (as Hemihydrate) 1mg Tablets, 28's</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433147" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433147</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,797</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Estradiol (as Hemihydrate) 2mg Tablets, 28's</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433147" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433147</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8,579</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Estradiol (as Hemihydrate) 1mg, Estradiol (as Hemihydrate) 2mg
+and Norethisterone Acetate 1mg Tablets, 28's</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433147" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433147</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,476</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Estradiol 10mcg Vaginal Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433147" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433147</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>371,848</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 5 - Glucagon (rDNA) 1mg/mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433147" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433147</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,512</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Carboprost Tromethamine 250mcg/1mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23448840" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23448840</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>960</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Estrogen Conjugated 625mcg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23448840" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23448840</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,000 - 4,000
+<br>4,001 - 10,000
+<br>10,001 - 15,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Estrogen Conjugated 0.625mg/1g Vaginal Cream, 14g tube</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23448840" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23448840</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>76,689</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Medroxyprogesterone Acetate 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23448840" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23448840</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>142,300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 5 - Medroxyprogesterone Acetate 10mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23448840" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23448840</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>222,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 6 - Medroxyprogesterone Acetate 150mg/3mL Injection, 3mL vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23448840" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23448840</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,143</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Fludrocortisone Acetate 0.1mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433223" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433223</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,224,368</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Nandrolone Decanoate 25mg/mL Injection, 1mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433223" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433223</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>410</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Estradiol Valerate 2mg Tablets, 28's</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433244" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433244</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25,221</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Thyrotropin Alfa 0.9mg Injection, 1.1mg vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433244" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433244</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>275</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Testosterone Undecanoate 1,000mg/4mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433244" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433244</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,355</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Hydrocortisone 100mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433287" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433287</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>294,726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Oestradiol 0.06% w/w Gel, 80g tube</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433644" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433644</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,000 - 12,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 12926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Testosterone 1% w/w Gel, 5g sachet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433644" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433644</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23,780</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Carbimazole 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23435859" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23435859</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,886,532
+<br>12,269,163</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Propylthiouracil 50mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23435859" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23435859</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>273,460
+<br>857,920</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Thiamazole 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23435859" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23435859</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>213,700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Thiamazole 10mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23435859" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23435859</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>176,680</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Cinacalcet 25mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23433801" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23433801</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>232,800
+<br>659,200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Danazol 200mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23436193" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23436193</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21,930
+<br>47,190</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Dienogest 2mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23436193" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23436193</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>905,088
+<br>1,670,232</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Tibolone 2.5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23436193" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23436193</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2027 /
+<br>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>43,600
+<br>94,720</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Dexamethasone 500mcg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23435981" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23435981</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>182,400
+<br>361,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Dexamethasone 4mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23435981" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23435981</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>355,800
+<br>884,600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Dexamethasone 4mg/1mL Preservative Free Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23435981" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23435981</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>384,260
+<br>773,470</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Hydrocortisone 10mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23436830" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23436830</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,827,692
+<br>4,261,884</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Levothyroxine Sodium 25mcg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439417" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439417</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,869,984
+<br>13,766,269</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Levothyroxine Sodium 50mcg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439417" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439417</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,577,175
+<br>15,742,650</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Levothyroxine Sodium 75mcg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439417" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439417</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,167,300
+<br>8,643,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Levothyroxine Sodium 100mcg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439417" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439417</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,720,240
+<br>11,464,879</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Methylprednisolone (as Sodium Succinate) 1,000mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439474" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439474</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,819
+<br>12,888</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Prednisolone 1mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23445386" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23445386</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,030,226
+<br>6,724,151</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Prednisolone 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23445386" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23445386</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,833,800
+<br>13,139,539</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Prednisolone 20mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23445386" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23445386</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>344,300
+<br>930,700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Prednisolone 5mg/5mL Syrup, 1L bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23445386" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23445386</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 1,000
+<br>1,001 - 3,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Alendronic Acid 70mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439513" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439513</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,578,942
+<br>3,446,159</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Risedronate Sodium 35mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439513" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439513</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>60,706
+<br>163,437</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 13926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Somatropin 6mg Injection, 1.03mL cartridge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439378" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439378</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14,700
+<br>34,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Somatropin 10mg/1.5mL Injection, 1.5mL pre-filled pen or cartridge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439391" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439391</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8,340
+<br>16,600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Finasteride 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439537" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439537</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,036,420
+<br>12,859,340</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Tolvaptan 15mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439537" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439537</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,870
+<br>5,730</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Triamcinolone Acetonide 40mg/mL Injection, 1mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439548" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439548</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8,150
+<br>19,900</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Triamcinolone Acetonide 50mg/5mL Injectable Suspension</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439548" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439548</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24,751
+<br>50,605</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Triptorelin (as Pamoate) 11.25mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23445276" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23445276</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>450
+<br>1,050</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Azelastine Hydrochloride 137mcg, Fluticasone Propionate 50mcg
+/ actuation Nasal Spray, 120 sprays/bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439608" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439608</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13,270
+<br>26,030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Benzydamine Hydrochloride 0.15% w/v Solution, 200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439622" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439622</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,933
+<br>25,060</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Benzydamine Hydrochloride 0.15% w/v, Chlorhexidine Gluconate
+0.12% w/v Solution, 200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439622" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439622</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>948
+<br>2,245</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Benzydamine Hydrochloride 3mg/mL Throat Spray, 15mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439622" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439622</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13,787
+<br>28,731</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Benzydamine Hydrochloride 3mg Lozenges</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439639" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439639</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,328,395
+<br>12,598,426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Chlorhexidine Gluconate 0.2% w/v Mouthwash, 200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439661" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439661</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>105,640
+<br>238,117</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Compound Thymol Glycerin Gargle, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439661" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439661</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>73,515
+<br>163,159</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Sodium Bicarbonate Powder for Nasal Wash, 100g jar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439661" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439661</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,531
+<br>26,493</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Choline Salicylate Oromucosal Gel, 10g or 15g tube</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439867" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439867</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50,198
+<br>102,207</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Triamcinolone Acetonide 0.1% w/w and Lidocaine Hydrochloride
+3% w/w Dental Paste, 5g tube</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439867" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439867</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40,851
+<br>80,853</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Ciprofloxacin 0.2% w/v and Hydrocortisone 1% w/v Ear Drops,
+10mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439873" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439873</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,188
+<br>11,543</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Mupirocin 2% w/w Nasal Ointment, 3g tube</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439873" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439873</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14,760
+<br>30,554</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 14926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Polymixin B Sulfate 10,000 IU/mL, Neomycin Sulfate 6,500 IU/mL
+and Dexamethasone 1mg/mL Ear Drops 10.5mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439873" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439873</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,871
+<br>12,593</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Dequalinium Chloride 0.25mg Lozenges</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439948" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439948</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,876,360
+<br>9,362,120</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Tyrothricin 0.5mg, Benzalkonium Chloride 1mg and Benzocaine
+1.5mg Lozenges</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23439948" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23439948</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>368,800
+<br>783,160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Fluticasone Furoate (Micronised) 27.5mcg/actuation Nasal Spray,120
+sprays/bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23440011" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23440011</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>109,972
+<br>261,092</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Mometasone Furoate 50mcg Aqueous Nasal Spray, 140 sprays / bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23440110" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23440110</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>293,480
+<br>630,475</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Octenidine Hydrochloride Nasal Gel, 6mL tube</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23440330" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23440330</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,694
+<br>22,934</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Oxymetazoline Hydrochloride 0.01% w/v Nasal Solution, 5mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23440344" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23440344</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22,074
+<br>45,391</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Oxymetazoline Hydrochloride 0.025% w/v Nasal Solution, 10mL
+or 15mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23440344" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23440344</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30,464
+<br>62,483</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Oxymetazoline Hydrochloride 0.05% w/v Nasal Solution or Spray,
+10mL or 15mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23440344" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23440344</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,000 - 10,000
+<br>10,001 - 30,000
+<br>30,001 - 120,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 15526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Teriparatide 600mcg/2.4mL Injection, 2.4mL pre-filled pen or
+cartridge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23440386" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23440386</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9/26/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10/17/25 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 3,000
+<br>3,001 - 6,000
+<br>6,001 - 8,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 08426</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +3215,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -176,7 +3251,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -212,7 +3287,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -249,7 +3324,7 @@ w/v Eye Drops, 15mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -286,7 +3361,7 @@ or 15mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -322,7 +3397,7 @@ or 15mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -358,7 +3433,7 @@ or 15mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -395,7 +3470,7 @@ container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -432,7 +3507,7 @@ container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -469,7 +3544,7 @@ container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -506,7 +3581,7 @@ container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -543,7 +3618,7 @@ vial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -579,7 +3654,7 @@ vial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -615,7 +3690,7 @@ vial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -651,7 +3726,7 @@ vial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -687,7 +3762,7 @@ vial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -724,7 +3799,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -761,7 +3836,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -797,7 +3872,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -833,7 +3908,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -869,7 +3944,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -905,7 +3980,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -942,7 +4017,7 @@ and Dexamethasone 1mg/mL Eye Drops, 5mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -978,7 +4053,7 @@ and Dexamethasone 1mg/mL Eye Drops, 5mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1014,7 +4089,7 @@ and Dexamethasone 1mg/mL Eye Drops, 5mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1051,7 +4126,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1088,7 +4163,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1124,7 +4199,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1160,7 +4235,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1196,7 +4271,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1232,7 +4307,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1268,7 +4343,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1304,7 +4379,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1341,7 +4416,7 @@ tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1379,7 +4454,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1418,7 +4493,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1455,7 +4530,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1493,7 +4568,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1529,7 +4604,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1565,7 +4640,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1601,7 +4676,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1637,7 +4712,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1673,7 +4748,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1709,7 +4784,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1747,7 +4822,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1784,7 +4859,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1822,7 +4897,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1858,7 +4933,7 @@ unit-dose container</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1895,7 +4970,7 @@ Oil 30mg/g Eye Ointment, 3.5g tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1931,7 +5006,7 @@ Oil 30mg/g Eye Ointment, 3.5g tube</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -1968,7 +5043,7 @@ Eye Drops, 15mL bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2005,7 +5080,7 @@ Eye Drops, 0.8mL vial&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2041,7 +5116,7 @@ Eye Drops, 0.8mL vial&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2080,7 +5155,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2118,7 +5193,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2156,7 +5231,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2194,7 +5269,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2230,7 +5305,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2266,7 +5341,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2302,7 +5377,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2338,7 +5413,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2374,7 +5449,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2410,7 +5485,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2448,7 +5523,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2484,7 +5559,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2521,7 +5596,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2557,7 +5632,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2594,7 +5669,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2630,7 +5705,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2666,7 +5741,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2702,7 +5777,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2738,7 +5813,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2774,7 +5849,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2810,7 +5885,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2846,7 +5921,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2882,7 +5957,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2918,7 +5993,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2954,7 +6029,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -2990,7 +6065,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3026,7 +6101,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3062,7 +6137,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3098,7 +6173,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3134,7 +6209,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3170,7 +6245,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3206,7 +6281,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3242,7 +6317,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3278,7 +6353,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3314,7 +6389,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3351,7 +6426,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3387,7 +6462,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3423,7 +6498,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3460,7 +6535,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
@@ -3496,7 +6571,7 @@ bottle</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5/9/2025</p>
+<p>9/5/2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26/9/25 12.00pm</p>
