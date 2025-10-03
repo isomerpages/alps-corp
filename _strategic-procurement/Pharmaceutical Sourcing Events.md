@@ -162,7 +162,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -200,7 +200,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -239,7 +239,7 @@ bottle</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -279,7 +279,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -317,7 +317,7 @@ bottle</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -355,7 +355,7 @@ bottle</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -394,7 +394,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S8 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -432,7 +432,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -471,7 +471,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -510,7 +510,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -551,7 +551,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -590,7 +590,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -628,7 +628,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -666,7 +666,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -704,7 +704,7 @@ Sodium Chloride 0.701g/100mL, 500mL infusion bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -743,7 +743,7 @@ bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -782,7 +782,7 @@ bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -821,7 +821,7 @@ bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -859,7 +859,7 @@ bag</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -897,7 +897,7 @@ bag</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -937,7 +937,7 @@ bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -976,7 +976,7 @@ equivalent), 10mL vial</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1014,7 +1014,7 @@ equivalent), 10mL vial</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1052,7 +1052,7 @@ equivalent), 10mL vial</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1090,7 +1090,7 @@ equivalent), 10mL vial</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1128,7 +1128,7 @@ equivalent), 10mL vial</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1166,7 +1166,7 @@ equivalent), 10mL vial</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1204,7 +1204,7 @@ equivalent), 10mL vial</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1242,7 +1242,7 @@ equivalent), 10mL vial</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1281,7 +1281,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1320,7 +1320,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1359,7 +1359,7 @@ bag</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1398,7 +1398,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1436,7 +1436,7 @@ bottle</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1474,7 +1474,7 @@ bottle</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1512,7 +1512,7 @@ bottle</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1550,7 +1550,7 @@ bottle</p>
 <p>S5 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1588,7 +1588,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1626,7 +1626,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1664,7 +1664,7 @@ bottle</p>
 <p>S8 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1702,7 +1702,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1740,7 +1740,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1778,7 +1778,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1816,7 +1816,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1854,7 +1854,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1892,7 +1892,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1930,7 +1930,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1968,7 +1968,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2006,7 +2006,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2044,7 +2044,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2082,7 +2082,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2120,7 +2120,7 @@ bottle</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2158,7 +2158,7 @@ bottle</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2196,7 +2196,7 @@ bottle</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2234,7 +2234,7 @@ bottle</p>
 <p>S4 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2272,7 +2272,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2310,7 +2310,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2348,7 +2348,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2386,7 +2386,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2424,7 +2424,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2462,7 +2462,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2501,7 +2501,7 @@ Dextrose 5% w/v Infusion, 500mL bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2540,7 +2540,7 @@ for Injection, 100mL bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2579,7 +2579,7 @@ for Injection, 100mL bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2617,7 +2617,7 @@ for Injection, 100mL bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2655,7 +2655,7 @@ for Injection, 100mL bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2693,7 +2693,7 @@ for Injection, 100mL bag</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2732,7 +2732,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2770,7 +2770,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2808,7 +2808,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2846,7 +2846,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2884,7 +2884,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2922,7 +2922,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2961,7 +2961,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2999,7 +2999,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3037,7 +3037,7 @@ bottle</p>
 <p>S7 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3075,7 +3075,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3113,7 +3113,7 @@ bottle</p>
 <p>S6 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -3150,7 +3150,7 @@ bottle</p>
 <p>S2 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
