@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Vision, Mission, Value.md
+      - Vision, Mission, Core Values.md
       - Our Motivations.md
       - Our Objectives.md
       - Leadership.md
