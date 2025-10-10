@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero/2025_jul_04_alps_annual_dinner_group_shot.jpg
+      background: /images/Hero/2025_oct_nov_people_of_alps_healthcare_website_cover_photo_01.png
       variant: center
       size: md
       alignment: left
