@@ -1,10 +1,11 @@
 ---
-title: Vision, Mission, Value
-permalink: /about-us/vision-mission-value/
+title: Vision, Mission, Core Values
+permalink: /about-us/vision-mission-core-values/
 description: ""
 variant: markdown
 ---
-<div class="row">
+<div hidden="">
+	<div class="row">
 	<div style="width: 60px" class="column">
 		<img style="width:50px" alt="" src="/images/About%20Us/alps_healthcare_icon_vision_640x640.png">
 	</div>
@@ -12,6 +13,12 @@ variant: markdown
 		<h3 style="color: #6C53A3">VISION</h3>
 	</div>
 </div>
+	</div>
+
+
+
+<h3 style="color: #6C53A3">
+	<img style="float:left; padding: 0 5px 0 0; width:55px" alt="" src="/images/About%20Us/alps_healthcare_icon_vision_640x640.png">VISION</h3>
 
 
 
@@ -24,7 +31,8 @@ To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in tran
 •	**TRUSTED** : Our relationship with our vendors cannot thrive without mutual trust and the shared understanding that the needs of our patients come first.
 
 
-<br>
+
+<div hidden="">
 <div class="row">
 	<div style="width: 60px" class="column">
 		<img style="width:50px" alt="" src="/images/About%20Us/alps_healthcare_icon_mission_640x640.png">
@@ -33,8 +41,14 @@ To be a **LEADING**, **INNOVATIVE** and **TRUSTED** supply chain partner in tran
 		<h3 style="color: #DC1931">MISSION</h3>
 	</div>
 </div>
+	</div>
 
-	
+
+
+<h3 style="color: #DC1931">
+	<img style="float:left; padding: 0 5px 0 0; width:55px" alt="" src="/images/About%20Us/alps_healthcare_icon_mission_640x640.png">MISSION</h3>
+
+
 	
 To deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PARTNERSHIPS**.
 
@@ -45,7 +59,8 @@ To deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PART
 •	**PARTNERSHIP** : We value our partners and collaborate with them on supply chain solutions to benefit the patients and caregivers.
 
 
-<br>
+
+<div hidden="">
 <div class="row">
 	<div style="width: 60px" class="column">
 		<img style="width:50px" alt="" src="/images/About%20Us/alps_healthcare_icon_values_640x640.png">
@@ -54,6 +69,12 @@ To deliver **DYNAMIC** and **VALUE-BASED** supply chain solutions through **PART
 		<h3 style="color: #82C341">CORE VALUES</h3>
 	</div>
 </div>
+	</div>
+
+
+
+<h3 style="color: #82C341">
+	<img style="float:left; padding: 0 5px 0 0; width:55px" alt="" src="/images/About%20Us/alps_healthcare_icon_values_640x640.png">CORE VALUES</h3>
 
 
 
