@@ -19,7 +19,7 @@ sections:
   - infobar:
       title: <img src="images/2025_oct_22_alps_new_ceo.png">
       id: infobar
-      url: /resources/news/20250809-happy-national-day/
+      url: /resources/news/20251022-key-leadership-appointment-at-alps/
       button: FIND OUT MORE
   - infopic:
       title: Overview
