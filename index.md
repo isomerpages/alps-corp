@@ -17,7 +17,7 @@ sections:
           description: ""
           url: /careers/join-us/
   - infobar:
-      title: <img src="images/Hero/nda2025alps.png">
+      title: <img src="images/2025_oct_22_alps_new_ceo.png">
       id: infobar
       url: /resources/news/20250809-happy-national-day/
       button: FIND OUT MORE
