@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2025_jun_04_alps_c_suites_5_members_4x3_numbered_FINAL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2025_oct_22_alps_new_ceo_coo_cfo_chro_cio_w_numbers.png">
 </div>
 <h3>Leadership</h3>
 <table style="minWidth: 75px">
@@ -31,16 +31,28 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MR MOSES WONG</strong>
+<p><strong>MS YONG HWEE YEE</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Chief Executive Officer / Chief Financial Officer</p>
+<p>Chief Executive Officer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MR MOSES WONG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Financial Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS WONG LAI YIN</strong>
@@ -52,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS GOH LEE CHOO</strong>
@@ -64,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS MAY CHEW</strong>
@@ -72,18 +84,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Chief Information Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MR SYAMSUDHEER GUMPALI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Information Security Officer</p>
 </td>
 </tr>
 </tbody>
