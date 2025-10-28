@@ -30,6 +30,6 @@ for the sourcing event that you may wish to participate in.</p>
 	
 <br>
 	
-<p><strong>Moses Wong</strong>
-<br>Acting Chief Executive Officer, ALPS</p>
+<p><strong>Yong Hwee Yee</strong>
+<br>Chief Executive Officer, ALPS</p>
 </div>
