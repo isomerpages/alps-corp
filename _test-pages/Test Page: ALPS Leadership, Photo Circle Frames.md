@@ -120,4 +120,4 @@ description: ""
 | MS TAN SOH HIN | Director, NUHS Cluster &amp; Sites Operations |
 | MR LIM HOON MIN | Director, Supply Chain Management Office |
 | MR KEITH LIM | Director, Central Warehouse Operations |
-| MR ANDY GAN | Director, Central Service Operations | 
+| MR ANDY GAN | Director, Central Service Operations |
