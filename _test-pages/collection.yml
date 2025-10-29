@@ -2,6 +2,7 @@ collections:
   test-pages:
     output: true
     order:
+      - "Test Page: ALPS Leadership, Photo Circle Frames.md"
       - "Outdated: Process Guidelines.md"
       - "Test Page: NUHS Contract Templates.md"
       - "Test Page: NHG Contract Templates.md"
