@@ -94,7 +94,21 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3>Strategic Procurement</h3>
+
+
+### Strategic Procurement
+
+| Name | Title |
+| -------- | -------- |
+| MS MABEL PHNG | Director, Pharmaceuticals |
+| MR ALEX QUEK | Deputy Director, Medical Supplies | 
+| MR LIONEL LIM | Deputy Director, General Services and Transformation |
+| MS DELFINA TAO | Deputy Director, Estate &amp; Environmental Services |
+| MR SEAN NG | Senior Assistant Director, Medical Technology |
+| MS LIM POH GEOK | Senior Assistant Director, Community Care |
+| MS MARILYN CHIA | Deputy Director, Legal &amp; Contracts Management |
+
+
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -174,6 +188,8 @@ description: ""
 </tr>
 </tbody>
 </table>
+
+
 <h3>Supply Chain Operations</h3>
 <table style="minWidth: 50px">
 <colgroup>
