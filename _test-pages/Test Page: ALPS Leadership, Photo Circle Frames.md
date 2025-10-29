@@ -31,7 +31,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2025_nov_01_alps_ceo_head_shot_in_circle.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>MS YONG HWEE YEE</strong>
