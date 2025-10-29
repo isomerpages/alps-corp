@@ -96,169 +96,28 @@ description: ""
 </table>
 
 
-### Strategic Procurement
+## Strategic Procurement
+
 
 | Name | Title |
 | -------- | -------- |
-| MS MABEL PHNG | Director, Pharmaceuticals |
-| MR ALEX QUEK | Deputy Director, Medical Supplies | 
-| MR LIONEL LIM | Deputy Director, General Services and Transformation |
-| MS DELFINA TAO | Deputy Director, Estate &amp; Environmental Services |
-| MR SEAN NG | Senior Assistant Director, Medical Technology |
-| MS LIM POH GEOK | Senior Assistant Director, Community Care |
-| MS MARILYN CHIA | Deputy Director, Legal &amp; Contracts Management |
+| **MS MABEL PHNG** | Director, Pharmaceuticals |
+| **MR ALEX QUEK** | Deputy Director, Medical Supplies | 
+| **MR LIONEL LIM** | Deputy Director, General Services and Transformation |
+| **MS DELFINA TAO** | Deputy Director, Estate &amp; Environmental Services |
+| **MR SEAN NG** | Senior Assistant Director, Medical Technology |
+| **MS LIM POH GEOK** | Senior Assistant Director, Community Care |
+| **MS MARILYN CHIA** | Deputy Director, Legal &amp; Contracts Management |
 
 
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Title</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS MABEL PHNG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Pharmaceuticals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR ALEX QUEK</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Medical Supplies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR LIONEL LIM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, General Services and Transformation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS DELFINA TAO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Estate &amp; Environmental Services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR SEAN NG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Assistant Director, Medical Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS LIM POH GEOK</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Assistant Director, Community Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS MARILYN CHIA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Legal &amp; Contracts&nbsp;Management</p>
-</td>
-</tr>
-</tbody>
-</table>
+## Supply Chain Operations
 
 
-<h3>Supply Chain Operations</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Title</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS LER SOCK HOON</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, SingHealth Cluster &amp; Sites Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS AGNES TIONG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, NHG Cluster &amp; Sites Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS TAN SOH HIN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, NUHS Cluster &amp; Sites Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR LIM HOON MIN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Supply Chain Management Office</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR KEITH LIM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Central Warehouse Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR ANDY GAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Central Service Operations</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+| Name | Title |
+| -------- | -------- |
+| MS LER SOCK HOON | Director, SingHealth Cluster &amp; Sites Operations |
+| MS AGNES TIONG | Director, NHG Cluster &amp; Sites Operations |
+| MS TAN SOH HIN | Director, NUHS Cluster &amp; Sites Operations |
+| MR LIM HOON MIN | Director, Supply Chain Management Office |
+| MR KEITH LIM | Director, Central Warehouse Operations |
+| MR ANDY GAN | Director, Central Service Operations | 
