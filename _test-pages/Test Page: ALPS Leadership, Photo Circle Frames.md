@@ -115,9 +115,9 @@ description: ""
 
 | Name | Title |
 | -------- | -------- |
-| MS LER SOCK HOON | Director, SingHealth Cluster &amp; Sites Operations |
-| MS AGNES TIONG | Director, NHG Cluster &amp; Sites Operations |
-| MS TAN SOH HIN | Director, NUHS Cluster &amp; Sites Operations |
-| MR LIM HOON MIN | Director, Supply Chain Management Office |
-| MR KEITH LIM | Director, Central Warehouse Operations |
-| MR ANDY GAN | Director, Central Service Operations |
+| **MS LER SOCK HOON** | Director, SingHealth Cluster &amp; Sites Operations |
+| **MS AGNES TIONG** | Director, NHG Cluster &amp; Sites Operations |
+| **MS TAN SOH HIN** | Director, NUHS Cluster &amp; Sites Operations |
+| **MR LIM HOON MIN** | Director, Supply Chain Management Office |
+| **MR KEITH LIM** | Director, Central Warehouse Operations |
+| **MR ANDY GAN** | Director, Central Service Operations |
