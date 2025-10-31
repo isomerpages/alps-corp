@@ -4,239 +4,62 @@ permalink: /about-us/leadership/
 description: ""
 variant: markdown
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2025_oct_22_alps_new_ceo_coo_cfo_chro_cio_w_numbers.png">
-</div>
-<h3>Leadership</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>No.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Title</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MS YONG HWEE YEE</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Executive Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MR MOSES WONG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Financial Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MS WONG LAI YIN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Operating Officer / Chief Procurement Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MS GOH LEE CHOO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Human Resource Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MS MAY CHEW</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chief Information Officer</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Strategic Procurement</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Title</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS MABEL PHNG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Pharmaceuticals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR ALEX QUEK</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Medical Supplies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR LIONEL LIM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, General Services and Transformation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS DELFINA TAO</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Estate &amp; Environmental Services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR SEAN NG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Assistant Director, Medical Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS LIM POH GEOK</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Assistant Director, Community Care</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS MARILYN CHIA</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Director, Legal &amp; Contracts&nbsp;Management</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Supply Chain Operations</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Title</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS LER SOCK HOON</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, SingHealth Cluster &amp; Sites Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS AGNES TIONG</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, NHG Cluster &amp; Sites Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MS TAN SOH HIN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, NUHS Cluster &amp; Sites Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR LIM HOON MIN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Supply Chain Management Office</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR KEITH LIM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Central Warehouse Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>MR ANDY GAN</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Central Service Operations</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<table>
+  <tbody><tr>
+    <th></th>
+    <th>Name</th>
+  	<th>Title</th>
+  </tr>
+  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/2025_nov_01_alps_ceo_head_shot_in_circle.png"></td>
+    <td><br><b>MS YONG HWEE YEE</b></td>
+    <td><br>Chief Executive Officer</td>
+  </tr>
+  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/2025_nov_01_alps_coo_head_shot_in_circle.png"></td>
+    <td><br><b>MS WONG LAI YIN</b></td>
+    <td><br>Chief Operating Officer / <br>Chief Procurement Officer</td>
+  </tr>
+  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/2025_nov_01_alps_cfo_head_shot_in_circle.png"></td>
+    <td><br><b>MR MOSES WONG</b></td>
+    <td><br>Chief Financial Officer</td>
+  </tr>
+  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/2025_nov_01_alps_chro_head_shot_in_circle.png"></td>
+    <td><br><b>MR SHAWN PHUA</b></td>
+    <td><br>Chief Human Resource Officer</td>
+  </tr>
+  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/2025_nov_01_alps_cio_head_shot_in_circle.png"></td>
+    <td><br><b>MS MAY CHEW</b></td>
+    <td><br>Chief Information Officer</td>
+  </tr>
+</tbody></table>
+
+
+## Strategic Procurement
+
+
+| Name | Title |
+| -------- | -------- |
+| **MS MABEL PHNG** | Director, Pharmaceuticals |
+| **MR ALEX QUEK** | Deputy Director, Medical Supplies | 
+| **MR LIONEL LIM** | Deputy Director, General Services and Transformation |
+| **MS DELFINA TAO** | Deputy Director, Estate &amp; Environmental Services |
+| **MR SEAN NG** | Senior Assistant Director, Medical Technology |
+| **MS LIM POH GEOK** | Senior Assistant Director, Community Care |
+| **MS MARILYN CHIA** | Deputy Director, Legal &amp; Contracts Management |
+
+
+## Supply Chain Operations
+
+
+| Name | Title |
+| -------- | -------- |
+| **MS LER SOCK HOON** | Director, SingHealth Cluster &amp; Sites Operations |
+| **MS AGNES TIONG** | Director, NHG Cluster &amp; Sites Operations |
+| **MS TAN SOH HIN** | Director, NUHS Cluster &amp; Sites Operations |
+| **MR LIM HOON MIN** | Director, Supply Chain Management Office |
+| **MR KEITH LIM** | Director, Central Warehouse Operations |
+| **MR ANDY GAN** | Director, Central Service Operations |
