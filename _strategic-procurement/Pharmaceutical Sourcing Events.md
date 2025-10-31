@@ -131,6 +131,42 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 20426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Pemetrexed 500mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23531794" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23531794</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31/10/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21/11/2025 12:00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feb 2026 - Nov 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,640</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 19026</p>
 </td>
 <td rowspan="1" colspan="1">
