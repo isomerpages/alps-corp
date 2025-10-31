@@ -1566,42 +1566,6 @@ pen</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GPOR 18926</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Item# 1 - Calcium Carbonate 450mg and Colecalciferol 5mcg Tablets</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23507861" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23507861</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>17/10/2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>31/10/2025 12:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Variable duration between November 2025 and June 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10,000,000 - 50,000,000</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S5 or Higher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
