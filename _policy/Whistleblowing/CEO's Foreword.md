@@ -11,8 +11,7 @@ variant: markdown
 	
   <p>Dear colleagues,</p>
 
-	<p>As members of the public healthcare, ALPS will continuously strive to bring value-based supply chain solutions through partnering with stakeholders, customers, and suppliers. To do so, we are committed to conducting business
-with the highest standards of governance, ethics, and accountability to all individuals that we will encounter during our daily work.</p>
+	<p>As members of the public healthcare, ALPS will continuously strive to bring value-based supply chain solutions through partnering with stakeholders, customers, and suppliers. To do so, we are committed to conducting business with the highest standards of governance, ethics, and accountability to all individuals that we will encounter during our daily work.</p>
 
   <p>Underpinning such standards would be our core values, I2SET where the first value. "Integrity", sets the expectation for all of us in doing the right thing even when no one is watching, being honest and truthful in our actions, and being fair, open, and transparent in our business dealings at all times.</p>
 
