@@ -10,38 +10,23 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">OCTOBER 2025 SOURCING  EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">NOVEMBER 2025  SOURCING  EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Ready-To-Feed (RTF) Infant Milk |
-| 2 | Medical Supplies | Needles and Syringes |
-| 3 | Non-Medical Supplies | Provision of Handrubs and Hand scrubs |
-| 4 | General Services | Provision of Medical and Dental Clinic Services |
-| 5 | Non-Medical Supplies | Provision of Port Blockers |
+| 1 | Medical Supplies | Receptacle / Suction Liners with Free-On-Loan Hardware |
+| 2 | Medical Supplies | CSII Pump, Consumable &amp; CGM System |
+| 3 | Medical Supplies | Interventional Cardiology Products (Consignment) |
+| 4 | Medical Supplies | Coronary Imaging &amp; Physiology products and Calcium modifying devices |
+| 5 | Medical Supplies | Needles and Syringes |
 
 
 
 <br>
 <div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">NOVEMBER 2025 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Receptacle / Suction Liners with Free-On-Loan Hardware |
-| 2 | Medical Supplies | CSII Pump, Consumable &amp; CGM System |
-| 3 | Medical Supplies | Interventional Cardiology Products (Consignment) |
-| 4 | Medical Supplies | Coronary Imaging &amp; Physiology products and Calcium modifying devices |
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
 			<h4 style="color: white; font-weight: bold; text-align: left;">DECEMBER 2025 SOURCING EVENTS</h4>
 </div>
 
@@ -50,6 +35,19 @@ description: ""
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
 | 1 | Medical Supplies | Disposable Caps &amp; Shoe Covers |
+
+
+<br>
+<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2026 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE |
+| -------- | -------- | -------- |
+| 1 | Medical Supplies | Glaucoma Implants |
+| 2 | Medical Supplies | Catheters - Central Venous, Arterial &amp; Peritoneal |
 
 
 
