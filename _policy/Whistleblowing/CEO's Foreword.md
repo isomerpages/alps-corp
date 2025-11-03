@@ -6,9 +6,9 @@ third_nav_title: Whistleblowing
 variant: markdown
 ---
 <div style="border: 1px solid black; padding: 10px; width: 100%;">
-  
+		
   <img style="width: 100%; height: auto;" alt="" src="/images/Whistleblowing/alps_whistleblowing_banner_1280x427.png">
-  
+	
   <p>Dear colleagues,</p>
 
 	<p>As members of the public healthcare, ALPS will continuously strive to bring value-based supply chain solutions through partnering with stakeholders, customers, and suppliers. To do so, we are committed to conducting business
