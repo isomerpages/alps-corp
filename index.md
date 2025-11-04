@@ -17,6 +17,14 @@ sections:
           description: ""
           url: /careers/join-us/
   - infobar:
+      title: SCAM ALERT
+      id: infobar
+      description: ALPS Pte Ltd will NEVER ask you to transfer money over a call. If
+        in doubt, call the 24/7 ScamShield helpline at 1799, or visit the
+        ScamShield website.
+      button: www.scamshield.gov.sg
+      url: https://www.scamshield.gov.sg
+  - infobar:
       title: <img src="images/2025_oct_22_alps_new_ceo.png">
       id: infobar
       url: /resources/news/20251022-key-leadership-appointment-at-alps/
