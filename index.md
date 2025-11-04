@@ -25,7 +25,7 @@ sections:
         in doubt, call the 24/7 ScamShield helpline at 1799, or visit the
         ScamShield website.
       button: www.scamshield.gov.sg
-      url: www.scamshield.gov.sg
+      url: https://www.scamshield.gov.sg
   - infobar:
       title: <img src="images/2025_oct_22_alps_new_ceo.png">
       id: infobar
