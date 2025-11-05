@@ -19,7 +19,7 @@ Are you up for this challenge? Do check out the links below for more information
 <table style="width:100%">
 	<tbody>
 		<tr style="margin-top: 1em">
-			<td style="width: 33.3%; background-color: #0076CA; text-align: center;">
+			<td style="width: 33.3%; background-color: #0076CA; text-align: center;" hidden="">
 				<a target="_blank" style="color: white; font-size: 1.5em; font-weight: bold;text-align: center; text-decoration: none;" href="https://careers.singhealth.com.sg/ALPS/go/ALPS-All-Opportunities/650244/">
 					<img style="margin-top: 0.5em; width:60px" src="/images/Careers/alps_icon_success_factors_heart.png">
 				SuccessFactors</a>
