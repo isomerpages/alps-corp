@@ -22,7 +22,7 @@ sections:
       description: "ALPS and the Public Healthcare Institutions will NEVER ask you to
         transfer money over a call. If in doubt, call the 24/7 ScamShield
         helpline at 1799, or visit:"
-      button: ScamShield Website
+      button: www.ScamShield.gov.sg
       url: https://www.scamshield.gov.sg
   - infobar:
       title: <img src="images/2025_oct_22_alps_new_ceo.png">
