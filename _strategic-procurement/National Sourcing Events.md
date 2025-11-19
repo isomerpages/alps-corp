@@ -22,6 +22,8 @@ description: ""
 | 3 | Medical Supplies | Interventional Cardiology Products (Consignment) |
 | 4 | Medical Supplies | Coronary Imaging &amp; Physiology products and Calcium modifying devices |
 | 5 | Medical Supplies | Needles and Syringes |
+| 6 | Medical Supplies | Disposable Caps &amp; Shoe Covers |
+| 7 | Med Tech | Supply, Delivery, Installation, Testing and Commissioning of Infusion Pump |
 
 
 
@@ -34,7 +36,7 @@ description: ""
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Medical Supplies | Disposable Caps &amp; Shoe Covers |
+NIL
 
 
 <br>
