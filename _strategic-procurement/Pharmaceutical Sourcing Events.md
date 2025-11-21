@@ -58,7 +58,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 <p><strong><a href="/files/Pharma%20Sourcing%20Events/estimated_annual_quantities_of_pharma_products_updated_april_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Estimated Annual Quantities</a></strong>
 </p>
-<p><strong><a href="/files/Pharma Sourcing Events/2025_nov_13_alps_pharma_rfp_results.pdf" rel="noopener noreferrer nofollow" target="_blank">Drugs &amp; Pharma Products RFP Results (Updated on 13 Nov 2025)</a></strong>
+<p><strong><a href="/files/Pharma Sourcing Events/2025_nov_20_alps_pharma_rfp_results.pdf" rel="noopener noreferrer nofollow" target="_blank">Drugs &amp; Pharma Products RFP Results (Updated on 20 Nov 2025)</a></strong>
 </p>
 <hr>
 <h4>CONTACT PERSONS</h4>
