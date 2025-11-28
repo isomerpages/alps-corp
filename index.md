@@ -4,26 +4,20 @@ title: ALPS Healthcare
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: ALPS and the Public Healthcare Institutions will NEVER ask you to
+  transfer money over a call. If in doubt, call the 24/7 ScamShield helpline at
+  1799, or visit the ScamShield website at www.scamshield.gov.sg.
 sections:
   - hero:
-      background: /images/Hero/2025_oct_nov_people_of_alps_healthcare_website_cover_photo_07.png
+      background: /images/Hero/2025_oct_nov_people_of_alps_healthcare_website_cover_photo_08.png
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: JOIN US!
+        - title: People of ALPS Healthcare
           description: ""
           url: /careers/join-us/
-  - infobar:
-      title: SCAM ALERT
-      id: infobar
-      description: "ALPS and the Public Healthcare Institutions will NEVER ask you to
-        transfer money over a call. If in doubt, call the 24/7 ScamShield
-        helpline at 1799, or visit:"
-      button: www.ScamShield.gov.sg
-      url: https://www.scamshield.gov.sg
   - infobar:
       title: <img src="images/2025_oct_22_alps_new_ceo.png">
       id: infobar
