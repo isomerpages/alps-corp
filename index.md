@@ -29,10 +29,10 @@ sections:
       linktext: Learn more
       url: /about-us/vision-mission-core-values/
       infoboxes:
-        - title: <img src="images/alps_icon_vision.png">
+        - title: <img src="images/alps_title_vision.png">
           description: To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in
             transforming healthcare.
-        - title: <img src="images/alps_icon_mission.png">
+        - title: <img src="images/alps_title_mission.png">
           description: To deliver DYNAMIC and VALUE-BASED supply chain solutions through
             PARTNERSHIPS.
         - title: <img src="images/alps_title_values.png">
