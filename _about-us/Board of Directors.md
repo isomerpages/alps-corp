@@ -97,26 +97,35 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_08_lim_chin_hu_FINAL.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MR LIM CHIN HU</strong>
+<br>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_09_lim_yeow_beng_FINAL.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MR LIM YEOW BENG</strong>
+<br>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_10_billy_wong_FINAL.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MR BILLY WONG</strong>
+<br>Member</p>
 </td>
 </tr>
 </tbody>
