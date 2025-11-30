@@ -4,7 +4,7 @@ permalink: /about-us/leadership/
 description: ""
 variant: markdown
 ---
-## C-Suite
+## ALPS Leadership
 <table>
   <tbody>
 		<tr>
