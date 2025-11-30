@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Board of Directors.md
       - Overview.md
       - Vision, Mission, Core Values.md
       - Our Motivations.md
       - Our Objectives.md
+      - Board of Directors.md
       - Leadership.md
       - Our Corporate Identity.md
       - Corporate Chronicle 2024.md
