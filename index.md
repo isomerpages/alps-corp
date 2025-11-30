@@ -73,7 +73,7 @@ sections:
         - title: <img src="images/alps_icon_mission.png">
           description: To deliver DYNAMIC and VALUE-BASED supply chain solutions through
             PARTNERSHIPS.
-        - title: <img src="images/alps_icon_values.png">
+        - title: <img src="images/alps_title_values.png">
           description: We uphold the principles of INTEGRITY, INNOVATION, SYNERGY,
             EMPATHY, and TRUST and RESPECT.
 ---
