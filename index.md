@@ -61,4 +61,19 @@ sections:
         and vendors.
   - resources:
       title: Media
+  - infocols:
+      title: About ALPS Pte Ltd
+      id: infocols
+      linktext: Learn more
+      url: /about-us/vision-mission-core-values/
+      infoboxes:
+        - title: <img src="images/alps_icon_vision.png">
+          description: To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in
+            transforming healthcare.
+        - title: <img src="images/alps_icon_mission.png">
+          description: To deliver DYNAMIC and VALUE-BASED supply chain solutions through
+            PARTNERSHIPS.
+        - title: <img src="images/alps_icon_values.png">
+          description: We uphold the principles of INTEGRITY, INNOVATION, SYNERGY,
+            EMPATHY, and TRUST and RESPECT.
 ---
