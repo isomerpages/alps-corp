@@ -18,11 +18,6 @@ sections:
         - title: People of ALPS Healthcare
           description: ""
           url: /careers/join-us/
-  - infobar:
-      title: <img src="images/2025_oct_22_alps_new_ceo.png">
-      id: infobar
-      url: /resources/news/20251022-key-leadership-appointment-at-alps/
-      button: FIND OUT MORE
   - infocols:
       title: About ALPS Pte Ltd
       id: infocols
