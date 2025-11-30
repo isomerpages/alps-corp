@@ -23,6 +23,21 @@ sections:
       id: infobar
       url: /resources/news/20251022-key-leadership-appointment-at-alps/
       button: FIND OUT MORE
+  - infocols:
+      title: About ALPS Pte Ltd
+      id: infocols
+      linktext: Learn more
+      url: /about-us/vision-mission-core-values/
+      infoboxes:
+        - title: <img src="images/alps_icon_vision.png">
+          description: To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in
+            transforming healthcare.
+        - title: <img src="images/alps_icon_mission.png">
+          description: To deliver DYNAMIC and VALUE-BASED supply chain solutions through
+            PARTNERSHIPS.
+        - title: <img src="images/alps_title_values.png">
+          description: We uphold the principles of INTEGRITY, INNOVATION, SYNERGY,
+            EMPATHY, and TRUST and RESPECT.
   - infopic:
       title: Overview
       description: We are supply chain specialists & professionals, tasked with
@@ -61,19 +76,4 @@ sections:
         and vendors.
   - resources:
       title: Media
-  - infocols:
-      title: About ALPS Pte Ltd
-      id: infocols
-      linktext: Learn more
-      url: /about-us/vision-mission-core-values/
-      infoboxes:
-        - title: <img src="images/alps_icon_vision.png">
-          description: To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in
-            transforming healthcare.
-        - title: <img src="images/alps_icon_mission.png">
-          description: To deliver DYNAMIC and VALUE-BASED supply chain solutions through
-            PARTNERSHIPS.
-        - title: <img src="images/alps_title_values.png">
-          description: We uphold the principles of INTEGRITY, INNOVATION, SYNERGY,
-            EMPATHY, and TRUST and RESPECT.
 ---
