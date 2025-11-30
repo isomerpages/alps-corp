@@ -42,42 +42,57 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_03_chu_swee_yeok_FINAL.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MS CHU SWEE YEOK</strong>
+<br>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_04_danny_goh_FINAL.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>MR DANNY GOH</strong>
+<br>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_05_ho_kai_wei_FINAL.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>DR HO KAIWEI</strong>
+<br>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_06_ho_wah_lee_FINAL.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MR HO WAH LEE</strong>
+<br>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/About Us/alps_bod_07_ho_yeng_tat_FINAL.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MR HO YENG TAT</strong>
+<br>Member</p>
 </td>
 </tr>
 <tr>
