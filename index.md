@@ -34,15 +34,6 @@ sections:
           description: We uphold the principles of INTEGRITY, INNOVATION, SYNERGY,
             EMPATHY, and TRUST and RESPECT.
   - infopic:
-      title: Overview
-      description: We are supply chain specialists & professionals, tasked with
-        transforming Singapore’s healthcare supply chain to better meet the
-        needs of the public healthcare.
-      button: Find out more
-      alt: Image alt text
-      url: /about-us/overview/
-      image: /images/About Us/alps_healthcare_about_us_overview_1920x640.jpg
-  - infopic:
       title: National-level
       subtitle: Sourcing Events For Vendors
       description: 3-month schedules of RFP information available here and on SAP
