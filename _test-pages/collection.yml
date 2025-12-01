@@ -2,7 +2,7 @@ collections:
   test-pages:
     output: true
     order:
-      - Corporate Chronicle 2024.md
+      - "Test Page: ALPS Corporate Chronicle 2024.md"
       - "Test Page: ALPS Leadership, Photo Circle Frames.md"
       - "Outdated: Process Guidelines.md"
       - "Test Page: NUHS Contract Templates.md"
