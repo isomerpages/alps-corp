@@ -1,6 +1,6 @@
 ---
-title: Corporate Chronicle 2024
-permalink: /about-us/corporate-chronicle-2024/
+title: "Test Page: ALPS Corporate Chronicle 2024"
+permalink: /test-pages/test-page-alps-corporate-chronicle-2024/
 variant: markdown
 description: ""
 ---

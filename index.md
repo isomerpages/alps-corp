@@ -18,20 +18,21 @@ sections:
         - title: People of ALPS Healthcare
           description: ""
           url: /careers/join-us/
-  - infobar:
-      title: <img src="images/2025_oct_22_alps_new_ceo.png">
-      id: infobar
-      url: /resources/news/20251022-key-leadership-appointment-at-alps/
-      button: FIND OUT MORE
-  - infopic:
-      title: Overview
-      description: We are supply chain specialists & professionals, tasked with
-        transforming Singapore’s healthcare supply chain to better meet the
-        needs of the public healthcare.
-      button: Find out more
-      alt: Image alt text
-      url: /about-us/overview/
-      image: /images/About Us/alps_healthcare_about_us_overview_1920x640.jpg
+  - infocols:
+      title: About ALPS Pte Ltd
+      id: infocols
+      linktext: Learn more
+      url: /about-us/vision-mission-core-values/
+      infoboxes:
+        - title: <img src="images/alps_title_vision.png">
+          description: To be a LEADING, INNOVATIVE and TRUSTED supply chain partner in
+            transforming healthcare.
+        - title: <img src="images/alps_title_mission.png">
+          description: To deliver DYNAMIC and VALUE-BASED supply chain solutions through
+            PARTNERSHIPS.
+        - title: <img src="images/alps_title_values.png">
+          description: We uphold the principles of INTEGRITY, INNOVATION, SYNERGY,
+            EMPATHY, and TRUST and RESPECT.
   - infopic:
       title: National-level
       subtitle: Sourcing Events For Vendors
