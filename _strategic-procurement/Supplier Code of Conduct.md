@@ -53,4 +53,5 @@ prohibited and would result in immediate termination and legal actions.</p>
 </li>
 </ul>
 <h4>DOWNLOAD &amp; READ:</h4>
-<p>ALPS Supplier Code of Conduct</p>
+<p><a href="/files/Sourcing Events/ALPS_Supplier_Code_of_Conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">ALPS Supplier Code of Conduct</a>
+</p>
