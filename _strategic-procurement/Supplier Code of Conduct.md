@@ -1,6 +1,6 @@
 ---
-title: Our Code of Conduct
-permalink: /strategic-procurement/our-code-of-conduct/
+title: Supplier Code of Conduct
+permalink: /strategic-procurement/supplier-code-of-conduct/
 description: ""
 variant: tiptap
 ---
@@ -52,4 +52,6 @@ integrity.</p>
 prohibited and would result in immediate termination and legal actions.</p>
 </li>
 </ul>
-<p></p>
+<h4>DOWNLOAD &amp; READ:</h4>
+<p><a href="/files/Sourcing Events/ALPS_Supplier_Code_of_Conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">ALPS Supplier Code of Conduct</a>
+</p>
