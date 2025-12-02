@@ -52,4 +52,5 @@ integrity.</p>
 prohibited and would result in immediate termination and legal actions.</p>
 </li>
 </ul>
-<p></p>
+<h4>DOWNLOAD &amp; READ:</h4>
+<p>ALPS Supplier Code of Conduct</p>
