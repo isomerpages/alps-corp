@@ -131,6 +131,117 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 21126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Oestradiol 0.06% w/w Gel, 80g tube</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23604797" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23604797</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/12/2025 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,000 - 12,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 21126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Testosterone 1% w/w Gel, 5g sachet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23604797" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23604797</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/12/2025 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - July 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23,780</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 21126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Tyrothricin 0.5mg, Benzalkonium Chloride 1mg and Benzocaine
+1.5mg Lozenges</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://discovery.ariba.com/rfx/23604797" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23604797</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5/12/2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/12/2025 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2027 /
+<br>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>368,800
+<br>783,160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 20526</p>
 </td>
 <td rowspan="1" colspan="1">
