@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Weekends and Public Holidays
-    maps_link: https://www.onemap.gov.sg/?maplink=1.2826155,103.8185524
+    maps_link: ""
     title: ALPS Corporate Office
   - address:
       - 168 Jalan Bukit Merah
@@ -22,7 +22,7 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Weekends and Public Holidays
-    maps_link: https://www.onemap.gov.sg/?maplink=1.2829319,103.8188003
+    maps_link: ""
     title: ALPS Procurement Office
 contacts:
   - content:
