@@ -7,6 +7,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p></p>
-<p></p>
-<p></p>
+<a href="https://www.facebook.com/share/v/1C2HdvZDMo/">
+<img alt="" style="width: 500px; height: auto;" src="/images/Facebook/20251219_its_beginning_to_look_a_lot_like_christmas.png">
+</a>
