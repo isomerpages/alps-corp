@@ -4,6 +4,10 @@ permalink: /test-page-green-procurement/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_sourcing_events_green_procurement_1920x640_clear.png">
+</div>
 <p>The ALPS Green Procurement Guidelines align with SG2030 Green Procurement
 Requirements under the GreenGovSG framework, which includes, but is not
 limited to, Air-Conditioners, Refrigerators, Televisions, Lamps, Water
