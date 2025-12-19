@@ -2,6 +2,7 @@ collections:
   test-pages:
     output: true
     order:
+      - Example Title.md
       - "Test Page: Green Procurement.md"
       - "Test Page: ALPS Corporate Chronicle 2024.md"
       - "Test Page: ALPS Leadership, Photo Circle Frames.md"
