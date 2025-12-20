@@ -2,6 +2,7 @@ collections:
   test-pages:
     output: true
     order:
+      - "Test Page: Accordian Format.md"
       - "Test Page: Card Formats.md"
       - "Test Page: Green Procurement.md"
       - "Test Page: ALPS Corporate Chronicle 2024.md"
