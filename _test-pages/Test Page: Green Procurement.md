@@ -26,11 +26,11 @@ that will be used in our sourcing events.</p>
 and make more sustainable procurement decisions.</p>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/alps_data_protection_policy_1920x640.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">More details on the Sustainability Questionnaire:</div><div class="isomer-card-link">LEARN MORE</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Procurement/alps_sourcing_events_guidelines_1280x720.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">More details on the Sustainability Questionnaire:</div><div class="isomer-card-link">LEARN MORE</div></div></a>
 <a rel="noopener noreferrer nofollow" href="alps.green.workgroup@alpshealthcare.com.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/alps_data_protection_policy_1920x640.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Procurement/alps_sourcing_events_email_us_1280x720.png">
 </div>
 </div>
 <div class="isomer-card-body">
