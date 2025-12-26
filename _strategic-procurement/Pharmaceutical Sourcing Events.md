@@ -52,7 +52,7 @@ the closing date and time stated in the RFP notice below.</p>
 <h4>DOCUMENT LINKS</h4>
 <p><strong><a href="/files/Pharma Sourcing Events/alps_pharma_purchasing_programme_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Purchasing Programme 2026</a></strong>
 </p>
-<p><strong><a href="/files/Pharma%20Sourcing%20Events/alps_evaluation_criteria_for_pharmaceutical_products_january_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Evaluation Criteria - Pharmaceutical Products</a></strong>
+<p><strong><a href="/files/Evaluation_Criteria_for_Pharmaceutical_Products_For_Public_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Evaluation Criteria - Pharmaceutical Products</a></strong>
 </p>
 <p><strong><a href="/files/Pharma%20Sourcing%20Events/alps_evaluation_criteria_for_unregistered_pharmaceutical_products_january_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Evaluation Criteria - Unregistered Pharmaceutical Products</a></strong>
 </p>
