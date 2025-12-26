@@ -1,6 +1,6 @@
 ---
 title: Fight Workplace Misconduct
-permalink: /fightworkplacemisconduct/
+permalink: /policy/whistleblowing/fight-workplace-misconduct/
 description: ""
 third_nav_title: Whistleblowing
 variant: markdown

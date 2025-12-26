@@ -2,6 +2,7 @@
 title: Personal Data Protection
 permalink: /policy/pdpa/
 description: ""
+variant: markdown
 ---
 ![](/images/alps_data_protection_policy_1920x640.jpg)
 

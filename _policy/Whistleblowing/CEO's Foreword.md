@@ -1,6 +1,6 @@
 ---
 title: CEO's Foreword
-permalink: /ceosforeword/
+permalink: /policy/whistleblowing/ceos-foreword/
 description: ""
 third_nav_title: Whistleblowing
 variant: markdown
