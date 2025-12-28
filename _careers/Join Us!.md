@@ -5,7 +5,7 @@ description: ""
 image: /images/coming soon.png
 variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdJUYaeXpI2dkQwb3PZiYw7mMyAOb4cdAHWLgZGVE1sdLdPFOv43iLY_xmCVa_gAQiAjHHkNNyctvc/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="640" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSg4aH271DqD9bhccxPLHj1Y4A2vZssvlz2NlZOm3vNTkS4t5qvEkt_ZlkDLgqGWXZ53GnWrG1jZKvW/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 Since our inauguration on 01 July 2018, ALPS has made great strides in our efforts to transform Singapore’s healthcare landscape. We are only just getting started, and we are looking for committed, dedicated individuals like yourself to help usher in a new age of public healthcare.
 
