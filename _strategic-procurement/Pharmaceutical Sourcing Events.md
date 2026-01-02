@@ -3718,42 +3718,6 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GPOR 21226</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Item# 1 - Liraglutide 18mg/3mL Injection, 3mL pre-filled pen&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://discovery.ariba.com/rfx/23615854" rel="noopener noreferrer nofollow" target="_blank">https://discovery.ariba.com/rfx/23615854</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12/12/2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2/1/2026 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Aug 2026 - July 2028</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4295</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S7 or higher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
