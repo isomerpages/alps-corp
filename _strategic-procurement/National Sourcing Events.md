@@ -10,21 +10,7 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">DECEMBER 2025  SOURCING  EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE	|
-| -------- | -------- | -------- |
-| 1 | General Services | Provision of Medical and Dental Clinic Services |
-| 2 | MedTech | Supply of Magnetic Resonance Imaging, 1.5 Tesla |
-
-
-
-<br>
-<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2026 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2026  SOURCING  EVENTS</h4>
 </div>
 
 
@@ -32,24 +18,39 @@ description: ""
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
 | 1 | Medical Supplies | Glaucoma Implants |
-| 2 | Medical Supplies | Catheters - Central Venous, Arterial &amp; Peritoneal |
-| 3 | Non-Medical Supplies | Provision of Handrubs and Hand scrubs |
-| 4 | MedTech | Supply of Scanning Systems, Dual Head Digital Spec/CT Scanner |
+| 2 | Medical Supplies	| Catheters - Central Venous, Arterial &amp; Peritoneal |
+| 3 | Non-Medical Supplies	| Provision of Handrubs and Hand scrubs |
+| 4 | MedTech | Supply of Scanning Systems, Dual Head Digital Spec / CT Scanner |
+
+
+
+<br>
+<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2026 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE	|
+| -------- | -------- | -------- |
+| 1 | Medical Supplies | Supply of Lab and General Containers |
+| 2 | MedTech | Supply of Hemodialysis Therapy System |
+| 3 | MedTech | Supply of Dual Head SPECT Gamma Camera |
 
 
 
 <br>
 <div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2026 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">MARCH 2026 SOURCING EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | MedTech | Supply of Hemodialysis Therapy System |
-| 2 | Medical Supplies | Supply of Lab and General Containers |
-| 3 | MedTech | Supply of Dual Head SPECT Gamma Camera |
+| 1 | Estate &amp; Env Services | Provision of Medical Waste |
+| 2 | Estate &amp; Env Services | Provision of General Waste |
+| 3 | General Services | Provision of Topping Up Services for Pharmaceutical Products |
 
 
 
