@@ -1377,7 +1377,7 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27026</p>
+<p>GPOR 27026 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Amphotericin B&nbsp;50mg Injection 50mg</p>
@@ -1413,7 +1413,7 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27026</p>
+<p>GPOR 27026 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Atovaquone 750mg/5ml Oral Suspension, 210mL bottle</p>
@@ -1449,7 +1449,7 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27026</p>
+<p>GPOR 27026 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Azathioprine 25mg Tablets</p>
@@ -1485,7 +1485,7 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27126</p>
+<p>GPOR 27126 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Bacillus Calmette-Guerin 80mg Powder for Solution for Intravesical
@@ -1522,7 +1522,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27126</p>
+<p>GPOR 27126 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Benzathine Benzylpenicillin 2.4 MU Injection</p>
@@ -1558,7 +1558,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27126</p>
+<p>GPOR 27126 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Cefoxitin Sodium 1g Injection</p>
@@ -1594,7 +1594,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27226</p>
+<p>GPOR 27226 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Clofazimine 50mg Capsules</p>
@@ -1630,7 +1630,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27226</p>
+<p>GPOR 27226 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Dapsone 100mg Tablets</p>
@@ -1666,7 +1666,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27226</p>
+<p>GPOR 27226 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Defibrotide 200mg/2.5ml Injection</p>
@@ -1702,7 +1702,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27326</p>
+<p>GPOR 27326 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Diphenhydramine Hydrochloride 50mg/mL Injection 1mL</p>
@@ -1738,7 +1738,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27326</p>
+<p>GPOR 27326 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Dornase Alfa 2,500 U/2.5mL Nebuliser Solution 2.5mL</p>
@@ -1774,7 +1774,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27326</p>
+<p>GPOR 27326 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Erythromycin Lactobionate 500mg Injection</p>
@@ -1810,7 +1810,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27426</p>
+<p>GPOR 27426 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Etoposide 50mg Capsules</p>
@@ -1846,7 +1846,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27426</p>
+<p>GPOR 27426 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Haloperidol 0.5mg Tablets</p>
@@ -1882,7 +1882,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27426</p>
+<p>GPOR 27426 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Haloperidol 2mg/mL Oral Solution 30mL</p>
@@ -1918,7 +1918,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27526</p>
+<p>GPOR 27526 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Hydroxyzine 10mg/5mL Syrup, 60mL/150mL/200mL bottle</p>
@@ -1954,7 +1954,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27526</p>
+<p>GPOR 27526 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Ivermectin 3mg Tablets</p>
@@ -1990,7 +1990,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27526</p>
+<p>GPOR 27526 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Ketamine Hydrochloride 100mg/2mL Injection 2mL</p>
@@ -2026,7 +2026,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27626</p>
+<p>GPOR 27626 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Lidocaine Topical 4% w/v Solution 50mL</p>
@@ -2062,7 +2062,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27626</p>
+<p>GPOR 27626 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Lidocaine Viscous 2% w/v Solution 100mL</p>
@@ -2098,7 +2098,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27626</p>
+<p>GPOR 27626 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Lomustine 40mg Capsules</p>
@@ -2134,7 +2134,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27726</p>
+<p>GPOR 27726 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Mefloquine 250mg Tablets</p>
@@ -2170,7 +2170,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27726</p>
+<p>GPOR 27726 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Methadone Hydrochloride 5mg Tablets</p>
@@ -2206,7 +2206,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27726</p>
+<p>GPOR 27726 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Mitomycin C 10mg Injection</p>
@@ -2242,7 +2242,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27826</p>
+<p>GPOR 27826 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Neomycin 500mg Tablets</p>
@@ -2278,7 +2278,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27826</p>
+<p>GPOR 27826 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Benzylpenicillin 1,000,000 IU Injection</p>
@@ -2314,7 +2314,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27826</p>
+<p>GPOR 27826 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Permethrin 5% w/v Lotion 30mL</p>
@@ -2350,7 +2350,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27926</p>
+<p>GPOR 27926 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Poractant Alfa Intratracheal 120mg/1.5mL Suspension 1.5mL</p>
@@ -2386,7 +2386,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27926</p>
+<p>GPOR 27926 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Primaquine 15mg Tablets</p>
@@ -2422,7 +2422,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 27926</p>
+<p>GPOR 27926 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Procarbazine Hydrochloride 50mg Capsules</p>
@@ -2458,7 +2458,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28026</p>
+<p>GPOR 28026 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Pyrimethamine 25mg Tablets</p>
@@ -2494,7 +2494,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28026</p>
+<p>GPOR 28026 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Ribavirin 200mg Capsules or Tablets</p>
@@ -2530,7 +2530,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28026</p>
+<p>GPOR 28026 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Rifampicin 100mg/5mL Suspension, 120mL bottle</p>
@@ -2566,7 +2566,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28126</p>
+<p>GPOR 28126 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Tetracosactide Acetate 0.25mg/mL Injection 1mL</p>
@@ -2602,7 +2602,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28126</p>
+<p>GPOR 28126 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Thiopental Sodium 0.5g Injection</p>
@@ -2638,7 +2638,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28126</p>
+<p>GPOR 28126 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Tioguanine 40mg Tablets</p>
@@ -2674,7 +2674,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28226</p>
+<p>GPOR 28226 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#1 - Alteplase 2mg Injection</p>
@@ -2710,7 +2710,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28226</p>
+<p>GPOR 28226 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#2 - Trimethoprim 50mg/5mL Suspension, 100mL bottle</p>
@@ -2746,7 +2746,7 @@ Instillation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GPOR 28226</p>
+<p>GPOR 28226 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Item#3 - Zuclopenthixol Acetate 50mg/mL Injection 1mL</p>
