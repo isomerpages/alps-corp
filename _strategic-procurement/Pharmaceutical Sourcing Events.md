@@ -131,6 +131,2846 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 25126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Basiliximab 20mg Injection, 20mg vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001612?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001612?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>180
+<br>360</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Fingolimod 0.5mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001612?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001612?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,240
+<br>4,480</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Bevacizumab 100mg/4mL Injection, 4mL vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001617?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001617?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>200 - 20,000
+<br>20,001 - 60,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,093</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Bevacizumab 400mg/16mL Injection, 16mL vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001617?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001617?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>200 - 9,000
+<br>9,001 - 25,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,574</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Emicizumab 60mg/0.4ml Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001624?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001624?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>240
+<br>450</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Erenumab 70mg/mL Injection, 1mL pre-filled pen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001628?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001628?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 - 250</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Erenumab 140mg/mL Injection, 1mL pre-filled pen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001628?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001628?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 - 500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Etanercept 25mg for Injection, 25mg vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001630?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001630?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>64
+<br>128</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Etanercept 50mg Injection, 50mg pre-filled syringe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001630?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001630?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>144
+<br>400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Crizotinib 250mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001630?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001630?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,000 - 8000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Infliximab 100mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001633?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001633?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>400 - 12,000
+<br>12,001 - 35,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,453</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Rituximab 100mg/10mL Injection&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001634?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001634?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,000 - 5,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>457</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Rituximab 500mg/50mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001634?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001634?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 - 9,000
+<br>9,001 - 26,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,723</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Siltuximab 100mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001637?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001637?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>956
+<br>1,762</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Tocilizumab 80mg/4mL Injection, 4mL vial&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001636?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001636?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,569
+<br>3,047</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Tocilizumab 200mg/10mL Injection, 10mL vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001636?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001636?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>150
+<br>350</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 25926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 -Tocilizumab 400mg/20mL Injection, 20mL vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001636?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001636?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>781
+<br>1,522</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Trastuzumab 420mg - 440mg for Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001603?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001603?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>200 - 3,500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>421</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Trastuzumab 600mg/5mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001574?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001574?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,874
+<br>3,938</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Dasatinib 20mg Tablets&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001586?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001586?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8,760
+<br>17,040</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Dasatinib 50mg Tablets&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001586?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001586?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>55,920
+<br>110,160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Dasatinib 70mg Tablets&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001586?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001586?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,000
+<br>15,780</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Entrectinib 200mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001589?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001589?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11,880
+<br>21,960</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Ibrutinib 140mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001590?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001590?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9,000
+<br>18,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Imatinib 100mg Capsules or Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001594?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001594?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,000 - 160,000
+<br>160,001 - 480,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Imatinib 400mg Capsules or Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001594?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001594?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 30,000
+<br>30,001 - 90,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Nintedanib 100mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001597?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001597?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,220
+<br>10,440</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Nintedanib 150mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001597?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001597?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>36,550
+<br>68,040</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Pazopanib 200mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001599?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001599?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,000 - 10,000
+<br>10,001 - 30,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Pazopanib 400mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001599?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001599?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,000 - 16,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Sorafenib 200mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001601?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001601?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15,060
+<br>30,960</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Sunitinib 12.5mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001601?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001601?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12,544
+<br>24,444</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 26926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Bimatoprost 0.03% w/v Eye Drops, 0.4mL unit-dose vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001591?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001591?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aug 2026 - Jul 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>356,246</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Amphotericin B&nbsp;50mg Injection 50mg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001187?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001187?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>370</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Atovaquone 750mg/5ml Oral Suspension, 210mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001187?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001187?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,050</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Azathioprine 25mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001187?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001187?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>170,968</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Bacillus Calmette-Guerin 80mg Powder for Solution for Intravesical
+Instillation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001243?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001243?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,367</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Benzathine Benzylpenicillin 2.4 MU Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001243?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001243?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>875</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Cefoxitin Sodium 1g Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001243?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001243?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9,362</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Clofazimine 50mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001244?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001244?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29,860</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Dapsone 100mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001244?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001244?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16,302</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Defibrotide 200mg/2.5ml Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001244?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001244?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>430</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Diphenhydramine Hydrochloride 50mg/mL Injection 1mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001247?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001247?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75,878</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Dornase Alfa 2,500 U/2.5mL Nebuliser Solution 2.5mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001247?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001247?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,234</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Erythromycin Lactobionate 500mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001247?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001247?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,061</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Etoposide 50mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001262?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001262?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Haloperidol 0.5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001262?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001262?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Haloperidol 2mg/mL Oral Solution 30mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001262?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001262?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,899</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Hydroxyzine 10mg/5mL Syrup, 60mL/150mL/200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001263?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001263?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,330</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Ivermectin 3mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001263?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001263?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,308</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Ketamine Hydrochloride 100mg/2mL Injection 2mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001263?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001263?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19,800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Lidocaine Topical 4% w/v Solution 50mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001389?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001389?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>320</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Lidocaine Viscous 2% w/v Solution 100mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001389?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001389?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,895</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Lomustine 40mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001389?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001389?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>592</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Mefloquine 250mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001390?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001390?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>664</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Methadone Hydrochloride 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001390?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001390?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31,900</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Mitomycin C 10mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001390?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001390?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,713</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Neomycin 500mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001393?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001393?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Benzylpenicillin 1,000,000 IU Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001393?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001393?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47,250</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Permethrin 5% w/v Lotion 30mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001393?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001393?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,977</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Poractant Alfa Intratracheal 120mg/1.5mL Suspension 1.5mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001395?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001395?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>560</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Primaquine 15mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001395?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001395?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 27926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Procarbazine Hydrochloride 50mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001395?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001395?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,550</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Pyrimethamine 25mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001117?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001117?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Ribavirin 200mg Capsules or Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001117?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001117?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23,808</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Rifampicin 100mg/5mL Suspension, 120mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001117?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001117?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,656</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Tetracosactide Acetate 0.25mg/mL Injection 1mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001324?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001324?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,364</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Thiopental Sodium 0.5g Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001324?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001324?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,850</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Tioguanine 40mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001324?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001324?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>320</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#1 - Alteplase 2mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001325?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001325?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,170</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#2 - Trimethoprim 50mg/5mL Suspension, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001325?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001325?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>270</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item#3 - Zuclopenthixol Acetate 50mg/mL Injection 1mL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001325?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001325?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>370</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Adalimumab 20mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001605?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001605?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>300 - 1,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Adalimumab 40mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001605?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001605?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30,000 - 60,000
+<br>60,001 - 170,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17337</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Palbociclib 75mg Capsules or Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001688?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001688?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 - 28,000
+<br>28,001 - 70,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7116</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Palbociclib 100mg Capsules or Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001688?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001688?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 - 22,000
+<br>22,001 - 50,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5610</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 28426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Palbociclib 125mg Capsules or Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001688?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110001688?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09/01/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30/01/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 - 12,000
+<br>12,001 - 38,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3759</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S8 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 21326</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +2981,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -178,7 +3018,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -215,7 +3055,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -252,7 +3092,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -289,7 +3129,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -326,7 +3166,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -363,7 +3203,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -400,7 +3240,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -437,7 +3277,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -474,7 +3314,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -511,7 +3351,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -548,7 +3388,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -585,7 +3425,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -622,7 +3462,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -659,7 +3499,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -696,7 +3536,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -733,7 +3573,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -770,7 +3610,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -807,7 +3647,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -844,7 +3684,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -881,7 +3721,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -918,7 +3758,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -955,7 +3795,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -992,7 +3832,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1029,7 +3869,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1066,7 +3906,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1103,7 +3943,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1140,7 +3980,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1177,7 +4017,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1214,7 +4054,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1251,7 +4091,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1288,7 +4128,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1325,7 +4165,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1362,7 +4202,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1399,7 +4239,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1437,7 +4277,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1475,7 +4315,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1512,7 +4352,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1549,7 +4389,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1586,7 +4426,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1624,7 +4464,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1662,7 +4502,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1700,7 +4540,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1738,7 +4578,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1776,7 +4616,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1814,7 +4654,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1852,7 +4692,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1890,7 +4730,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1928,7 +4768,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -1966,7 +4806,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2004,7 +4844,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2042,7 +4882,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2080,7 +4920,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2118,7 +4958,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2156,7 +4996,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2194,7 +5034,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2232,7 +5072,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2270,7 +5110,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2308,7 +5148,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2346,7 +5186,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2384,7 +5224,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2422,7 +5262,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2460,7 +5300,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2498,7 +5338,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2536,7 +5376,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2574,7 +5414,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2612,7 +5452,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2650,7 +5490,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2688,7 +5528,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2726,7 +5566,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2764,7 +5604,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2802,7 +5642,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2840,7 +5680,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2878,7 +5718,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2916,7 +5756,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2952,7 +5792,7 @@ Capsules</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -2989,7 +5829,7 @@ syringe</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3027,7 +5867,7 @@ Disease (single dose vial)&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3065,7 +5905,7 @@ of 100U for Injection, 5000 IU/50mL vial</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3102,7 +5942,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3138,7 +5978,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3175,7 +6015,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3212,7 +6052,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3249,7 +6089,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3286,7 +6126,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3323,7 +6163,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3360,7 +6200,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3397,7 +6237,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3434,7 +6274,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3471,7 +6311,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3508,7 +6348,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3545,7 +6385,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3582,7 +6422,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3619,7 +6459,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3656,7 +6496,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
@@ -3693,7 +6533,7 @@ IX , X, Protein C and Protein S (single dose vial)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2/1/2026</p>
+<p>02/01/2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>23/01/2026 12.00pm</p>
