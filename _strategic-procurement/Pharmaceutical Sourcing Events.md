@@ -95,8 +95,7 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">RFP No</a>
-</p>
+<p>RFP No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Description</p>
@@ -1210,8 +1209,8 @@ the closing date and time stated in the RFP notice below.</p>
 <br>Dec 2026 - Nov 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2,000 - 10,000
-<br>10,001 - 30,000</p>
+<p>2,000 - 25,000
+<br>25,001 - 50,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
