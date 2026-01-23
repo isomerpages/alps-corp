@@ -9,7 +9,7 @@ notification: ALPS and the Public Healthcare Institutions will NEVER ask you to
   1799, or visit the ScamShield website at www.scamshield.gov.sg.
 sections:
   - hero:
-      background: /images/Hero/2025_nov_26_alps_townhall_group_shot_FB_website_cover_photo.png
+      background: /images/Hero/2025_nov_26_alps_townhall_group_shot_with_awards_badges.png
       variant: center
       size: md
       alignment: left
