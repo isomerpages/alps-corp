@@ -95,7 +95,8 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RFP No</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">RFP No</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Description</p>
@@ -4106,19 +4107,19 @@ syringe</p>
 <p>Dec 2026 - Nov 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2,253,000</p>
+<p>1,103,000</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S5 or higher</p>
+<p>S3 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Quantities and Prevailing Price Document for Item 1 has been amended.</p>
 </td>
 </tr>
 <tr>
@@ -4148,7 +4149,7 @@ syringe</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S5 or higher</p>
+<p>S3 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No</p>
