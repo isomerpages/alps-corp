@@ -10,23 +10,7 @@ description: ""
 
 <br>
 <div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">JANUARY 2026  SOURCING  EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE	|
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Glaucoma Implants |
-| 2 | Medical Supplies	| Catheters - Central Venous, Arterial &amp; Peritoneal |
-| 3 | Non-Medical Supplies	| Provision of Handrubs and Hand scrubs |
-| 4 | MedTech | Supply of Scanning Systems, Dual Head Digital Spec / CT Scanner |
-
-
-
-<br>
-<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2026 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2026  SOURCING  EVENTS</h4>
 </div>
 
 
@@ -34,23 +18,43 @@ description: ""
 | S/N | CATEGORY | RFP TITLE	|
 | -------- | -------- | -------- |
 | 1 | Medical Supplies | Supply of Lab and General Containers |
-| 2 | MedTech | Supply of Hemodialysis Therapy System |
-| 3 | MedTech | Supply of Dual Head SPECT Gamma Camera |
+| 2 | Medical Supplies | Dental Consumables |
+| 3 | Medical Supplies | Aortic Implants – Stents, Grafts, Stent Grafts, Valve Grafts and Hybrid Implants |
+| 4 | MedTech | Supply of Hemodialysis Therapy System |
+
+
+
+<br>
+<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
+			<h4 style="color: white; font-weight: bold; text-align: left;">MARCH 2026 SOURCING EVENTS</h4>
+</div>
+
+
+
+| S/N | CATEGORY | RFP TITLE	|
+| -------- | -------- | -------- |
+| 1 | Medical Supplies | Dental Burrs, Drills, Instruments, and Instrument Tapes |
+| 2 | Medical Supplies | Supply of Electrodes for ECG, EMG and Defibrillator |
+| 3 | Medical Supplies | Supply of Gel for Ultrasound |
+| 4 | Medical Supplies | Supply of Surgical Patties |
+| 5 | Estate &amp; Env Services | Provision of Medical Waste |
+| 6 | Estate &amp; Env Services | Provision of General Waste |
+| 7 | Estate &amp; Env Services | Provision of Landscaping Maintenance Services |
+| 8 | General Services | Provision of Topping Up Services for Pharmaceutical Products |
 
 
 
 <br>
 <div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">MARCH 2026 SOURCING EVENTS</h4>
+			<h4 style="color: white; font-weight: bold; text-align: left;">APRIL 2026 SOURCING EVENTS</h4>
 </div>
 
 
 
 | S/N | CATEGORY | RFP TITLE |
 | -------- | -------- | -------- |
-| 1 | Estate &amp; Env Services | Provision of Medical Waste |
-| 2 | Estate &amp; Env Services | Provision of General Waste |
-| 3 | General Services | Provision of Topping Up Services for Pharmaceutical Products |
+| 1 | Medical Supplies | Gastroenterology Stents and Implants (MOH-ACE) |
+| 2 | Medical Supplies | Special Stain Slide Stainer |
 
 
 
