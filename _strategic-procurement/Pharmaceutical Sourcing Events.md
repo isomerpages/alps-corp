@@ -68,7 +68,7 @@ the closing date and time stated in the RFP notice below.</p>
 </p>
 </li>
 <li>
-<p><strong>Nur NadiNur ah: 6377-8734</strong>
+<p><strong>Nur Nadiah: 6377-8734</strong>
 </p>
 </li>
 <li>
