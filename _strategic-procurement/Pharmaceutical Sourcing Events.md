@@ -95,7 +95,8 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RFP No</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">RFP No</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Description</p>
@@ -270,10 +271,10 @@ dose vial)</p>
 <p>S9 or Higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Quantities and Prevailing Price Document for Item 2 has been amended.</p>
 </td>
 </tr>
 <tr>
