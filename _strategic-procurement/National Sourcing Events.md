@@ -1,74 +1,225 @@
 ---
 title: National Sourcing Events
 permalink: /strategic-procurement/national-sourcing-events/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-![](/images/Procurement/alps_sourcing_events_national_1920x640_clear.png)
-
-
-
-<br>
-<div style="background-color: #DC1931; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">FEBRUARY 2026  SOURCING  EVENTS</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_sourcing_events_national_1920x640_clear.png">
 </div>
-
-
-
-| S/N | CATEGORY | RFP TITLE	|
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Supply of Lab and General Containers |
-| 2 | Medical Supplies | Dental Consumables |
-| 3 | Medical Supplies | Aortic Implants – Stents, Grafts, Stent Grafts, Valve Grafts and Hybrid Implants |
-| 4 | MedTech | Supply of Hemodialysis Therapy System |
-
-
-
-<br>
-<div style="background-color: #836DB1; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">MARCH 2026 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE	|
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Dental Burrs, Drills, Instruments, and Instrument Tapes |
-| 2 | Medical Supplies | Supply of Electrodes for ECG, EMG and Defibrillator |
-| 3 | Medical Supplies | Supply of Gel for Ultrasound |
-| 4 | Medical Supplies | Supply of Surgical Patties |
-| 5 | Estate &amp; Env Services | Provision of Medical Waste |
-| 6 | Estate &amp; Env Services | Provision of General Waste |
-| 7 | Estate &amp; Env Services | Provision of Landscaping Maintenance Services |
-| 8 | General Services | Provision of Topping Up Services for Pharmaceutical Products |
-
-
-
-<br>
-<div style="background-color: #82C341; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">APRIL 2026 SOURCING EVENTS</h4>
-</div>
-
-
-
-| S/N | CATEGORY | RFP TITLE |
-| -------- | -------- | -------- |
-| 1 | Medical Supplies | Gastroenterology Stents and Implants (MOH-ACE) |
-| 2 | Medical Supplies | Special Stain Slide Stainer |
-
-
-
-<br>
-<div style="background-color: grey; padding-left: 1rem; width: 100%" class="section">
-			<h4 style="color: white; font-weight: bold; text-align: left;">INSTRUCTIONS FOR VENDORS</h4>
-</div>
-
-
-
-Interested vendors and suppliers are to register with **[SAP Business Network](https://supplier.ariba.com/)** to access the National and Institution Sourcing Events and RFP information on eProcurement system.  
-
-Please note that the schedules listed on ALPS website are for reference only and may be subject to changes. Vendors and suppliers are advised to access **[SAP Business Network](https://supplier.ariba.com/)** for final updates.
-
-If you are unfamiliar with **[SAP Business Network](https://supplier.ariba.com/)** , you may want to download and view our **[eProcurement Supplier User Guide](https://for.sg/alps-eprocurement-supplier-user-guide)** and **[Contract eSignature Guide](/files/Sourcing%20Events/contract_esignature_guide.pdf)**.
-
-Please **[email us](mailto:alps_operations@alpshealthcare.com.sg)** for more details.
+<h4><strong>MARCH 2026 SOURCING EVENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CATEGORY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>RFP TITLE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dental Burrs, Drills, Instruments, and Instrument Tapes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Electrodes for ECG, EMG and Defibrillator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Supply of Gel for Ultrasound</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Estate &amp; Env Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Medical Waste</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Estate &amp; Env Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of General Waste</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Estate &amp; Env Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Landscaping Maintenance Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Topping Up Services for Pharmaceutical Products</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>APRIL 2026 SOURCING EVENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CATEGORY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>RFP TITLE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gastroenterology Stents and Implants (MOH-ACE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Stain Slide Stainer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Surgical Patties&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>MAY 2026 SOURCING EVENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CATEGORY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>RFP TITLE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dental Consumables and Accessories</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Urogenital Systems, Stents and Implants</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>INSTRUCTIONS FOR VENDORS</strong></h4>
+<p>Interested vendors and suppliers are to register with <strong><a href="https://supplier.ariba.com/" rel="noopener noreferrer nofollow" target="_blank">SAP Business Network</a></strong> to
+access the National and Institution Sourcing Events and RFP information
+on eProcurement system.</p>
+<p>Please note that the schedules listed on ALPS website are for reference
+only and may be subject to changes. Vendors and suppliers are advised to
+access <strong><a href="https://supplier.ariba.com/" rel="noopener noreferrer nofollow" target="_blank">SAP Business Network</a></strong> for
+final updates.</p>
+<p>If you are unfamiliar with <strong><a href="https://supplier.ariba.com/" rel="noopener noreferrer nofollow" target="_blank">SAP Business Network</a></strong> ,
+you may want to download and view our <strong><a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener noreferrer nofollow" target="_blank">eProcurement Supplier User Guide</a></strong> and <strong><a href="/files/Sourcing%20Events/contract_esignature_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Contract eSignature Guide</a></strong>.</p>
+<p>Please <strong><a href="mailto:alps_operations@alpshealthcare.com.sg" rel="noopener noreferrer nofollow" target="_blank">email us</a></strong> for
+more details.</p>
