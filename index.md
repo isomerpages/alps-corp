@@ -9,15 +9,15 @@ notification: ALPS and the Public Healthcare Institutions will NEVER ask you to
   1799, or visit the ScamShield website at www.scamshield.gov.sg.
 sections:
   - hero:
-      background: /images/Hero/2026_feb_ALPS_red_packet_design_RED_chun_GOLD.png
+      background: /images/Hero/2026_mar_02_alps_logs_banner_fb_website.png
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: HAPPY LUNAR NEW YEAR!
+        - title: We are ALPS Healthcare
           description: ""
-          url: https://www.facebook.com/share/v/1838Y4vPb4/
+          url: /careers/join-us/
   - infocols:
       title: About ALPS Pte Ltd
       id: infocols
