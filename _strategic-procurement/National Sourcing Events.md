@@ -70,7 +70,7 @@ description: ""
 <p>Estate &amp; Env Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provision of Medical Waste</p>
+<p>Provision of Medical Waste Disposal Services</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ description: ""
 <p>Estate &amp; Env Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Provision of General Waste</p>
+<p>Provision of General &amp; Recycle Waste Disposal Services</p>
 </td>
 </tr>
 <tr>
