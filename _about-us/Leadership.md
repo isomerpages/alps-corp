@@ -31,6 +31,10 @@ variant: markdown
     <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/2025_nov_01_alps_cio_head_shot_in_circle.png"></td>
     <td><b>MS MAY CHEW</b><br>Chief Information Officer</td>
   </tr>
+	  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/2025_nov_01_alps_ciso_head_shot_in_circle.png"></td>
+    <td><b>MR SYAMSUDHEER GUMPALLI</b><br>Chief Information Security Officer</td>
+  </tr>	
 </tbody></table>
 
 
