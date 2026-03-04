@@ -57,7 +57,7 @@ description: ""
   </tr>
   <tr>
     <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_09_lim_yeow_beng_FINAL.png"></td>
-    <td><b>MR LIM YEOW BENG</b><br>President, AJJ Healthcare Management</td>
+    <td><b>MR LIM YEOW BENG</b><br>Board Member<br>Advanced Holdings, Manor Group, Vibrant Group</td>
   </tr>
   <tr>
     <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_10_billy_wong_FINAL.png"></td>
