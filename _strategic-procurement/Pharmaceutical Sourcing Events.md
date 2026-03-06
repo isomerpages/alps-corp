@@ -95,8 +95,7 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">RFP No</a>
-</p>
+<p>RFP No</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Description</p>
