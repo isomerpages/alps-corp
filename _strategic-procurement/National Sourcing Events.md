@@ -108,6 +108,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>APRIL 2026 SOURCING EVENTS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -165,6 +166,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>MAY 2026 SOURCING EVENTS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -211,6 +213,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><strong>INSTRUCTIONS FOR VENDORS</strong></h4>
 <p>Interested vendors and suppliers are to register with <strong><a href="https://supplier.ariba.com/" rel="noopener noreferrer nofollow" target="_blank">SAP Business Network</a></strong> to
 access the National and Institution Sourcing Events and RFP information
