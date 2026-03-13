@@ -130,6 +130,804 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 46026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Chlorhexidine 0.05% w/v Irrigation Solution, 25mL sachet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006099?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006099?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,981,220</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Cetrimide 0.15% w/v and Chlorhexidine 0.015% w/v Irrigation
+Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>227,139</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Chlorhexidine 0.05% w/v Irrigation Solution, 500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13,292</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Chlorhexidine 0.1% w/v Irrigation Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29,550</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Chlorhexidine Gluconate 4% w/v Cleansing Solution, 125ml bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006101?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19,780</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Chlorhexidine Gluconate 0.5% w/v in Denatured Alcohol 70% v/v,
+500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006094?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006094?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30,560</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Chlorhexidine Gluconate 2% w/v in Denatured Alcohol 70% v/v,
+100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006094?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006094?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,960</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Chlorhexidine Gluconate 2% w/v in Isopropyl Alcohol 70% v/v,
+500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006094?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006094?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>148,935</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Alcoholic Iodine Solution (Iodine Tincture), 50mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,840</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Cetrimide 1% w/v Solution, 500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17,750</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Isopropyl Alcohol 70% v/v Solution, 500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>47,420</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Potassium Permanganate 0.1% w/v Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006941?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>40,095</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Povidone-Iodine 7.5% w/v Cleansing Solution, 500mL bottle with
+dispensing pump</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9,055</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Povidone-Iodine 10% w/v in Alcohol Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>72,130</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Povidone-Iodine 10% w/v Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>157,480</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Povidone-Iodine 10% w/v Solution, 500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006947?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Povidone-Iodine 10% w/v Solution, 22.5mL/30mL container</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006683?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006683?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,000 - 50,000 /
+<br>50,001 - 90,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Proflavine Hemisulphate 0.1% w/v Lotion, 50mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006684?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006684?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>715</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Proflavine Hemisulphate 0.1% w/v Topical Emulsion, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006684?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006684?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,166</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Denatured Alcohol 70% v/v Liquid, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006687?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006687?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,071</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Denatured Alcohol 70% v/v Liquid, 500mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006687?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006687?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16,320</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 46726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Hydrogen Peroxide 3% Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006687?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110006687?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13/03/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>06/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>48,850</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 37026</p>
 </td>
 <td rowspan="1" colspan="1">
