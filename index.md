@@ -9,15 +9,15 @@ notification: ALPS and the Public Healthcare Institutions will NEVER ask you to
   1799, or visit the ScamShield website at www.scamshield.gov.sg.
 sections:
   - hero:
-      background: /images/Hero/2026_mar_02_alps_logs_banner_fb_website.png
+      background: /images/Hero/2026_mar_20_alps_hari_raya_banner_FB_website_1920x1080.jpg
       variant: center
       size: md
       alignment: left
       backgroundColor: gray
       key_highlights:
-        - title: We are ALPS Healthcare
+        - title: Selamat Hari Raya Aidilfitri !
           description: ""
-          url: /careers/join-us/
+          url: /resources/festive-greetings/2026032-alps-selamat-hari-raya-aidilfitri/
   - infocols:
       title: About ALPS Pte Ltd
       id: infocols
