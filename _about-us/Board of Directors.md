@@ -63,4 +63,8 @@ description: ""
     <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_10_billy_wong_FINAL.png"></td>
     <td><b>MR BILLY WONG</b><br>Asia Advisory Board Director, Global Infrastructure Solutions Inc</td>
   </tr>
+  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_11_wong_heang_fine_FINAL.png"></td>
+    <td><b>MR WONG HEANG FINE</b><br>Board Member<br>Building and Construction Authority, World Green Building Council</td>
+  </tr>		
 </tbody></table>
