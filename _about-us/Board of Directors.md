@@ -27,11 +27,7 @@ description: ""
 			<th></th>
 			<th></th>
 		</tr>
-		<tr>
-    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_02_vincent_chin_FINAL.png"></td>
-    <td><b>MR VINCENT CHIN</b><br>Global Vice Chair – Public Sector Practice, Boston Consulting Group</td>
-  </tr>
-  <tr>
+		  <tr>
     <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_03_chu_swee_yeok_FINAL.png"></td>
     <td><b>MS CHU SWEE YEOK</b><br>Chair &amp; Founding Partner, August Global Partners</td>
   </tr>
@@ -63,4 +59,8 @@ description: ""
     <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_10_billy_wong_FINAL.png"></td>
     <td><b>MR BILLY WONG</b><br>Asia Advisory Board Director, Global Infrastructure Solutions Inc</td>
   </tr>
+  <tr>
+    <td><img style="width: 80px; height: auto;" alt="" src="/images/About Us/alps_bod_11_wong_heang_fine_FINAL.png"></td>
+    <td><b>MR WONG HEANG FINE</b><br>Board Member<br>Building and Construction Authority, World Green Building Council</td>
+  </tr>		
 </tbody></table>

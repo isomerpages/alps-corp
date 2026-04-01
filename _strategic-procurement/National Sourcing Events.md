@@ -7,108 +7,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_sourcing_events_national_1920x640_clear.png">
 </div>
-<h4><strong>MARCH 2026 SOURCING EVENTS</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dental Burrs, Drills, Instruments, and Instrument Tapes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Supply of Electrodes for ECG, EMG and Defibrillator</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Supply of Gel for Ultrasound</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Estate &amp; Env Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Medical Waste Disposal Services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Estate &amp; Env Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of General &amp; Recycle Waste Disposal Services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Estate &amp; Env Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Landscaping Maintenance Services</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Topping Up Services for Pharmaceutical Products</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4><strong>APRIL 2026 SOURCING EVENTS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -158,10 +56,32 @@ description: ""
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Medical Supplies</p>
+<p>General Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supply of Surgical Patties&nbsp;</p>
+<p>Provision of Topping Up Services for Pharmaceutical Products</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Handrubs&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Handscrubs</p>
 </td>
 </tr>
 </tbody>
@@ -209,6 +129,75 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Supply of Urogenital Systems, Stents and Implants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Surgical Patties&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MedTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Continuous Positive Airway Pressure (CPAP)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>JUNE 2026 SOURCING EVENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CATEGORY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>RFP TITLE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pressure Relief Mattress (Rental)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Protective Items</p>
 </td>
 </tr>
 </tbody>
