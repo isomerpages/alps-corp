@@ -130,6 +130,79 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 47626 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Prussian Blue (Ferric Hexacyanoferrate II) 500mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110009204?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110009204?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/04/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jun 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>183,636</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 47626 (Unregistered Drug)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Zn-DTPA (Trisodium Zinc Diethylenetriaminepentaacetate) 200mg/mL
+or 211mg/mL Injection, 5mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110009204?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110009204?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/04/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24/04/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jun 2026 - Mar 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,095</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 46826</p>
 </td>
 <td rowspan="1" colspan="1">
