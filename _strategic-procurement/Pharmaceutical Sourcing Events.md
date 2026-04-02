@@ -95,7 +95,8 @@ the closing date and time stated in the RFP notice below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>RFP No.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">RFP No</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Event Description</p>
@@ -1343,7 +1344,7 @@ Solution, 100mL bottle</p>
 <p>Dec 2026 - Nov 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>17,750</p>
+<p>40,095</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1379,7 +1380,7 @@ Solution, 100mL bottle</p>
 <p>Dec 2026 - Nov 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>47,420</p>
+<p>17,750</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1415,7 +1416,7 @@ Solution, 100mL bottle</p>
 <p>Dec 2026 - Nov 2028</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>40,095</p>
+<p>47,420</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
