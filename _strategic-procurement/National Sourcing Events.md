@@ -84,6 +84,17 @@ description: ""
 <p>Provision of Handscrubs</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Estate &amp; Env Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Landscaping Maintenance Services</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
