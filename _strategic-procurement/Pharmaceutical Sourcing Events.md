@@ -1008,7 +1008,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>GPOR 48826</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item# 1 - Esomeprazole 20mg Capsules or Tablets</p>
+<p>Item# 1 - Esomeprazole 20mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110010558?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110010558?anId=ANONYMOUS</a>
@@ -1046,7 +1046,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>GPOR 48826</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Item# 2 - Esomeprazole 40mg Capsules or Tablets</p>
+<p>Item# 2 - Esomeprazole 40mg Tablets</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110010558?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110010558?anId=ANONYMOUS</a>
