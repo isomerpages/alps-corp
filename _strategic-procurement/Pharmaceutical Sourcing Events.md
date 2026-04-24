@@ -1721,7 +1721,7 @@ Trisilicate 250mg and Simeticone 30mg)</p>
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1759,7 +1759,7 @@ Trisilicate 250mg and Simeticone 30mg)</p>
 <p>S5 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2961,7 +2961,7 @@ Trisilicate 250mg and Simeticone 30mg)</p>
 <p>S6 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2999,7 +2999,7 @@ Trisilicate 250mg and Simeticone 30mg)</p>
 <p>S6 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NO</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
