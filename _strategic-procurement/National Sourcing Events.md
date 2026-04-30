@@ -7,97 +7,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Procurement/alps_sourcing_events_national_1920x640_clear.png">
 </div>
-<h4><strong>APRIL 2026 SOURCING EVENTS</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gastroenterology Stents and Implants (MOH-ACE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Stain Slide Stainer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Topping Up Services for Pharmaceutical Products</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Non-Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Handrubs&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Non-Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Handscrubs</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Estate &amp; Env Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Landscaping Maintenance Services</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4><strong>MAY 2026 SOURCING EVENTS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -108,16 +17,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
+<p>S/N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
+<p>CATEGORY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
+<p>RFP TITLE</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +56,7 @@ description: ""
 <p>&nbsp;Medical Supplies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supply of Surgical Patties&nbsp;</p>
+<p>Gastroenterology Stents and Implants</p>
 </td>
 </tr>
 <tr>
@@ -162,6 +68,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Supply of Continuous Positive Airway Pressure (CPAP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General Services</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provision of Topping Up Services for Pharmaceutical Products</p>
 </td>
 </tr>
 </tbody>
@@ -177,16 +94,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
+<p>S/N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
+<p>CATEGORY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
+<p>RFP TITLE</p>
 </td>
 </tr>
 <tr>
@@ -209,6 +123,128 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Protective Items</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dental Consumables and Accessories</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gastroenterology Stents and Implants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disposable Kitchen Items</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disposable Non Medical Bags</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>JULY 2026 SOURCING EVENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CATEGORY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RFP TITLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Surgical Patties</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vascular Stent &amp; Stent-Graft (Non-Aortic &amp; Non-Neuro), Vascular
+Graft and Vena Cava Filter</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interventional Radiology Products (Indent)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Interventional Radiology Products (consignment)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reusable Resuscitators and Accessories</p>
 </td>
 </tr>
 </tbody>
