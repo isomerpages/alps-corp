@@ -17,13 +17,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S/N</p>
+<p><strong>S/N</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CATEGORY</p>
+<p><strong>CATEGORY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RFP TITLE</p>
+<p><strong>RFP TITLE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,13 +97,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S/N</p>
+<p><strong>S/N</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CATEGORY</p>
+<p><strong>CATEGORY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RFP TITLE</p>
+<p><strong>RFP TITLE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,13 +188,16 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S/N</p>
+<p><strong>S/N</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CATEGORY</p>
+<p><strong>CATEGORY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RFP TITLE</p>
+<p><strong>RFP TITLE</strong>
+</p>
 </td>
 </tr>
 <tr>
