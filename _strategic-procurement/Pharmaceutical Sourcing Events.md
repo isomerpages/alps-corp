@@ -2469,10 +2469,10 @@ the closing date and time stated in the RFP notice below.</p>
 <p>S8 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Replacemement of Quantity and Prevailing Price excel file</p>
 </td>
 </tr>
 <tr>
@@ -2506,10 +2506,10 @@ the closing date and time stated in the RFP notice below.</p>
 <p>S8 or higher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No</p>
+<p>Yes</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Replacemement of Quantity and Prevailing Price excel file</p>
 </td>
 </tr>
 <tr>
