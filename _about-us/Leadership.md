@@ -58,6 +58,7 @@ variant: markdown
 | Name | Title |
 | -------- | -------- |
 | **MS LER SOCK HOON** | Director, SingHealth Cluster &amp; Sites Operations |
+| **MS BERLINDA TANG** | Director, NHG Cluster &amp; Sites Operations |
 | **MS TAN SOH HIN** | Director, NUHS Cluster &amp; Sites Operations |
 | **MR LIM HOON MIN** | Director, Supply Chain Management Office |
 | **MR KEITH LIM** | Director, Central Warehouse Operations |
