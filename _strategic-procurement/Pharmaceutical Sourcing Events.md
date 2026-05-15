@@ -130,6 +130,44 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 60926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Enzalutamide 40mg Capsules or Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110012828?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110012828?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15/05/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jan 2027 - Nov 2027 / Jan 2027 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,000 -150,000
+<br>150,001 - 400,000
+<br>400,001 - 1,300,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>127,103</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S9 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 57526 (Unregistered Drug)</p>
 </td>
 <td rowspan="1" colspan="1">
