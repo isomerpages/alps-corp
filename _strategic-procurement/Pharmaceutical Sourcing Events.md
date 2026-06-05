@@ -130,6 +130,2491 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 65626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Foscarnet Sodium 24mg/mL Infusion, 250mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014812?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014812?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 - 900</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 65626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Metronidazole 500mg and Nystatin 100,000 IU Pessaries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014812?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014812?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>202,112</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 65726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Tolterodine Tartrate 1mg Tablets&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014765?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014765?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,000 - 25,000
+<br>25,001 - 100,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 65726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Tolterodine Tartrate 2mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014765?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014765?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>200,000 - 400,000
+<br>400,001 - 2,000,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>120,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 65726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Tolterodine L-Tartrate 4mg Extended Release Capsules&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014765?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014765?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>75,000 - 125,000
+<br>125,001 - 750,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>45,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 65826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Iron (as Hydroxide - Polymaltose) 50mg/mL Oral Drops, 30mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014766?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014766?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,000 - 20,000
+<br>20,001 - 200,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 65926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Zoledronic Acid (Anhydrous) 5mg/100mL Infusion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014815?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014815?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,000 - 5,000
+<br>5,001 - 10,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Deferasirox 90mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014817?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014817?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15,000 - 30,000
+<br>30,001 - 115,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Deferasirox 360mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014817?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014817?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25,000 - 50,000
+<br>50,001 - 150,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Nicotine 2mg Gum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014829?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014829?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>150,000 - 250,000
+<br>250,001-1,000,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>95,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Nicotine 4mg Gum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014829?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014829?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25,000 - 50,000
+<br>50,001 - 150,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Cabergoline 0.5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014831?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014831?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15,000 - 30,000
+<br>30,001 - 115,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Fluticasone Propionate 125mcg and Salmeterol Xinafoate 25mcg
+Pressurised Inhalation, 120 doses/inhaler&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014838?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014838?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20,000 - 45,000
+<br>45,001 - 135,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S9 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Fluticasone Propionate 250mcg and Salmeterol Xinafoate 25mcg
+Pressurised Inhalation, 120 doses/inhaler</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014838?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014838?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15,000 - 30,000
+<br>30,001 - 90,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S9 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Alfuzosin Hydrochloride 10mg Prolonged-release Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014767?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014767?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,003,900
+<br>20,821,170</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Dutasteride 0.5mg Capsules&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014767?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014767?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,230,310
+<br>7,862,340</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Dutasteride 0.5mg and Tamsulosin Hydrochloride 0.4mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014786?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014786?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,088,420
+<br>3,461,870</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Tamsulosin Hydrochloride 400mcg Prolonged-release Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014786?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014786?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,202,440
+<br>23,891,780</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Flavoxate 200mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014789?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014789?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>17,100
+<br>102,200</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Solifenacin Succinate 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014789?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014789?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,129,640
+<br>3,595,140</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Mirabegron 25mg Prolonged-release Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014791?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014791?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100,000 - 200,000
+<br>200,001 - 850,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Mirabegron 50mg Prolonged-release Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014791?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014791?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100,000 - 200,000
+<br>200,001 - 850,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Dapoxetine 30mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014794?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014794?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 1000
+<br>1001 - 4000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Oxybutynin Chloride 5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014794?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014794?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50,000 - 100,000
+<br>100,001 - 850,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Potassium Citrate 1,080mg Extended-release Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014794?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014794?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>50,000 - 100,000
+<br>100,000 - 450,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Dextromethorphan Hydrobromide 15mg/5mL Oral Solution, 100mL
+bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014806?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014806?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>663,650
+<br>2,688,952</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 66926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Dextromethorphan Hydrobromide 15mg/5mL Oral Solution, 200mL
+bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014806?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014806?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100,404
+<br>438,212</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Diphenhydramine Hydrochloride 5mg/5mL Oral Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,300
+<br>26,800</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Diphenhydramine Hydrochloride 10mg to 14mg/5mL Oral Solution,
+100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>87,360
+<br>91,835</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Diphenhydramine Hydrochloride 10mg to 14mg/5mL Oral Solution,
+200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10,161
+<br>56,543</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Guaifenesin 100mg/5mL Oral Solution, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014807?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>175,299
+<br>562,833</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Aromatic Magnesium Carbonate Mixture, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>550
+<br>37,920</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Aromatic Magnesium Carbonate Mixture, 200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,604
+<br>18,392</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Magnesium Trisilicate Mixture, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113,450
+<br>376,310</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Magnesium Trisilicate Mixture, 200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014811?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100,966
+<br>382,979</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Kaolin Mixture, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6,418
+<br>18,364</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Liquid Paraffin Oral Emulsion, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13,689
+<br>78,020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Potassium Citrate 30% w/v and Citric Acid Monohydrate 5% w/v
+Mixture, 200mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,249
+<br>16,176</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Simethicone 100mg/mL Emulsion, 30mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014824?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>18,249
+<br>74,070</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Promethazine Hydrochloride 3.6mg/5mL and Codeine Phosphate 9.0mg/5mL
+Linctus, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014826?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014826?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>53,186
+<br>243,513</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Promethazine Hydrochloride 5mg/5mL Oral Solution, 60mL / 100mL
+bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014826?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014826?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,000 - 200,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Carbocisteine 100mg/5mL and Promethazine Hydrochloride 2.5mg/5mL
+Solution, 125mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014830?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014830?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 1,000
+<br>1,001 - 6,500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Magnesium Sulfate 35.4% w/v and Glycerin 1.1% v/v Syrup, 100mL
+bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014830?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014830?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 1,000
+<br>1,001 - 4,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Paediatric Paracetamol 120mg/5mL Oral Liquid, 100mL bottle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014830?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014830?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>70,822
+<br>970,892</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Water for Injection, 20mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014843?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014843?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Jul 2027 /
+<br>Apr 2027 - Jul 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>343,120
+<br>5,424,990</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Anti-Thymocyte Immunoglobulin (Rabbit) 25mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014845?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014845?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 1,000
+<br>1,001 - 2,500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Anti-Thymocyte Immunoglobulin (Horse) (Horse Gamma Globulin)
+250mg/5mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014845?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014845?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 - 75
+<br>76 - 225</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Acetylcysteine 5g/25mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014939?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014939?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,000 - 10,000
+<br>10,001 - 35,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Acetylcysteine Oral Granules, 100mg sachet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014972?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014972?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>257,070</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Acetylcysteine 600mg Effervescent Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014972?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014972?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14,325,410</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Arsenic Trioxide 10mg/10mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014972?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014972?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>650
+<br>1,500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S7 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Allopurinol 100mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014976?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014976?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20,663,300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 67926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Allopurinol 300mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014976?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014976?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,823,160</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Bromocriptine Mesilate 2.5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>775,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Colchicine 500mcg Tablets&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,465,400</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Deferiprone 500mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>285,500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 4 - Penicillamine 250mg Capsules</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014978?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>84,700</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Leflunomide 20mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014980?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014980?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>653,560</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Methylthioninium 50mg/10mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014980?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014980?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5,955</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Rasburicase 1.5mg/mL Infusion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014980?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014980?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3,594</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Alprostadil 20mcg/mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014984?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014984?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>500 - 1,000
+<br>1,001 - 2,750</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Desferrioxamine Mesilate 500mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014984?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014984?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,500&nbsp; -5000
+<br>5,001 - 12,500</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 3 - Zoledronic Acid (Anhydrous) 4mg/5mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014984?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014984?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8,110</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Chewable Calcium Carbonate 1.25g Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014993?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014993?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Jul 2027 /
+<br>Apr 2027 - Jul 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,000,000 - 22,000,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Ampicillin 1000mg and Sulbactam 500mg Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014994?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014994?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4,000 - 14,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68426</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Clotrimazole 100mg Pessaries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014994?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110014994?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>05/06/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26/06/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>91,380</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 61026
 <br>(Unregistered)</p>
 </td>
@@ -150,10 +2635,10 @@ the closing date and time stated in the RFP notice below.</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -162,7 +2647,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +2674,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>1,853,120</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -198,7 +2683,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +2710,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>1,180,520</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -234,7 +2719,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +2746,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>84,535</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -270,7 +2755,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +2782,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>14,450</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -306,7 +2791,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -333,7 +2818,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>165,375</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -342,7 +2827,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -369,7 +2854,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>11,600</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -378,7 +2863,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +2890,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>10,581</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or higher</p>
@@ -414,7 +2899,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -441,7 +2926,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>34,061</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or higher</p>
@@ -450,7 +2935,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -477,7 +2962,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>303,200</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -486,7 +2971,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -513,7 +2998,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>117,300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -522,7 +3007,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -549,7 +3034,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>12,676</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -558,7 +3043,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -585,7 +3070,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>7,913</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -594,7 +3079,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -622,7 +3107,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>3,150</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -631,7 +3116,7 @@ the closing date and time stated in the RFP notice below.</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -659,7 +3144,7 @@ device</p>
 <p>45,620</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -668,7 +3153,7 @@ device</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -692,7 +3177,7 @@ device</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>900</p>
@@ -704,7 +3189,7 @@ device</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -728,7 +3213,7 @@ device</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3,475</p>
@@ -740,7 +3225,7 @@ device</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -765,7 +3250,7 @@ bottle</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>615</p>
@@ -777,7 +3262,7 @@ bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -802,7 +3287,7 @@ bottle</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>230</p>
@@ -814,7 +3299,7 @@ bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -841,7 +3326,7 @@ bottle</p>
 <p>1,710</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -850,7 +3335,7 @@ bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -877,7 +3362,7 @@ bottle</p>
 <p>12,186</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -886,7 +3371,7 @@ bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -914,7 +3399,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>900</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -923,7 +3408,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -950,7 +3435,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>114,909</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -959,7 +3444,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -986,7 +3471,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>1,844,581</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -995,7 +3480,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1019,7 +3504,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>260</p>
@@ -1031,7 +3516,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1055,7 +3540,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>505</p>
@@ -1067,7 +3552,7 @@ Acid 10% w/w Solution, 13mL bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1092,7 +3577,7 @@ w/w Cream, 10g tube</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>570</p>
@@ -1104,7 +3589,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1128,7 +3613,7 @@ w/w Cream, 10g tube</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2,105</p>
@@ -1140,7 +3625,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1164,7 +3649,7 @@ w/w Cream, 10g tube</p>
 <p>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>740</p>
@@ -1176,7 +3661,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1203,7 +3688,7 @@ w/w Cream, 10g tube</p>
 <p>12,394</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -1212,7 +3697,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1239,7 +3724,7 @@ w/w Cream, 10g tube</p>
 <p>9,320</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -1248,7 +3733,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1275,7 +3760,7 @@ w/w Cream, 10g tube</p>
 <p>2,820</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -1284,7 +3769,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1311,7 +3796,7 @@ w/w Cream, 10g tube</p>
 <p>722,204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -1320,7 +3805,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1347,7 +3832,7 @@ w/w Cream, 10g tube</p>
 <p>125,141</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -1356,7 +3841,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1383,7 +3868,7 @@ w/w Cream, 10g tube</p>
 <p>217,370</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or higher</p>
@@ -1392,7 +3877,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1421,7 +3906,7 @@ w/w Cream, 10g tube</p>
 <br>29,390</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1430,7 +3915,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1459,7 +3944,7 @@ w/w Cream, 10g tube</p>
 <br>440</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -1468,7 +3953,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1496,7 +3981,7 @@ w/w Cream, 10g tube</p>
 <p>430,985</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1533,7 +4018,7 @@ w/w Cream, 10g tube</p>
 <p>40,022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1570,7 +4055,7 @@ w/w Cream, 10g tube</p>
 <p>32,904</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1607,7 +4092,7 @@ w/w Cream, 10g tube</p>
 <p>222,203</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1644,7 +4129,7 @@ w/w Cream, 10g tube</p>
 <p>7,155</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1681,7 +4166,7 @@ w/w Cream, 10g tube</p>
 <p>19,801</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1718,7 +4203,7 @@ w/w Cream, 10g tube</p>
 <p>228,595</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1727,7 +4212,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1755,7 +4240,7 @@ w/w Cream, 10g tube</p>
 <p>72,877</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1764,7 +4249,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1792,7 +4277,7 @@ w/w Cream, 10g tube</p>
 <p>60,642</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1801,7 +4286,7 @@ w/w Cream, 10g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1830,7 +4315,7 @@ bottle</p>
 <p>157,095</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -1839,7 +4324,7 @@ bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1867,7 +4352,7 @@ bottle</p>
 <p>116,093</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -1876,7 +4361,7 @@ bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1904,7 +4389,7 @@ bottle</p>
 <p>9,832</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -1913,7 +4398,7 @@ bottle</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1942,7 +4427,7 @@ tube&nbsp;</p>
 <p>24,329</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -1951,7 +4436,7 @@ tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -1979,7 +4464,7 @@ tube&nbsp;</p>
 <p>245</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -1988,7 +4473,7 @@ tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2016,7 +4501,7 @@ tube&nbsp;</p>
 <p>50,132</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2025,7 +4510,7 @@ tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2053,7 +4538,7 @@ tube&nbsp;</p>
 <p>1,570</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2062,7 +4547,7 @@ tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2090,7 +4575,7 @@ tube&nbsp;</p>
 <p>48,477</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2099,7 +4584,7 @@ tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2127,7 +4612,7 @@ tube&nbsp;</p>
 <p>56,435</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2136,7 +4621,7 @@ tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2164,7 +4649,7 @@ tube&nbsp;</p>
 <p>3,615</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -2173,7 +4658,7 @@ tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2202,7 +4687,7 @@ w/w Cream, 50g tube</p>
 <p>6,051</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -2211,7 +4696,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2239,7 +4724,7 @@ w/w Cream, 50g tube</p>
 <p>43,729</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -2248,7 +4733,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2276,7 +4761,7 @@ w/w Cream, 50g tube</p>
 <p>4,562</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -2285,7 +4770,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2313,7 +4798,7 @@ w/w Cream, 50g tube</p>
 <p>2,850</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -2322,7 +4807,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2350,7 +4835,7 @@ w/w Cream, 50g tube</p>
 <p>65,089</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or Higher</p>
@@ -2387,7 +4872,7 @@ w/w Cream, 50g tube</p>
 <p>25,189</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S2 or Higher</p>
@@ -2425,7 +4910,7 @@ w/w Cream, 50g tube</p>
 <p>159,115</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2434,7 +4919,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2462,7 +4947,7 @@ w/w Cream, 50g tube</p>
 <p>10,380</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2471,7 +4956,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2499,7 +4984,7 @@ w/w Cream, 50g tube</p>
 <p>43,580</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2508,7 +4993,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2536,7 +5021,7 @@ w/w Cream, 50g tube</p>
 <p>118,512</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2545,7 +5030,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2573,7 +5058,7 @@ w/w Cream, 50g tube</p>
 <p>138,810</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2582,7 +5067,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2610,7 +5095,7 @@ w/w Cream, 50g tube</p>
 <p>369,833</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2619,7 +5104,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2646,7 +5131,7 @@ w/w Cream, 50g tube</p>
 <p>1,745</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2655,7 +5140,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2682,7 +5167,7 @@ w/w Cream, 50g tube</p>
 <p>5,950</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2691,7 +5176,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2718,7 +5203,7 @@ w/w Cream, 50g tube</p>
 <p>1,276</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2727,7 +5212,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2754,7 +5239,7 @@ w/w Cream, 50g tube</p>
 <p>440</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2763,7 +5248,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2790,7 +5275,7 @@ w/w Cream, 50g tube</p>
 <p>1,659</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2799,7 +5284,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2826,7 +5311,7 @@ w/w Cream, 50g tube</p>
 <p>52,050</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2835,7 +5320,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2862,7 +5347,7 @@ w/w Cream, 50g tube</p>
 <p>143,282</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2871,7 +5356,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2898,7 +5383,7 @@ w/w Cream, 50g tube</p>
 <p>6,264</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -2907,7 +5392,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2934,7 +5419,7 @@ w/w Cream, 50g tube</p>
 <p>12,400</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2943,7 +5428,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -2970,7 +5455,7 @@ w/w Cream, 50g tube</p>
 <p>29,817</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -2979,7 +5464,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3007,7 +5492,7 @@ w/w Cream, 50g tube</p>
 <p>963</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3016,7 +5501,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3043,7 +5528,7 @@ w/w Cream, 50g tube</p>
 <p>11,994</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -3052,7 +5537,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3079,7 +5564,7 @@ w/w Cream, 50g tube</p>
 <p>24,943</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -3088,7 +5573,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3115,7 +5600,7 @@ w/w Cream, 50g tube</p>
 <p>292,358</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3124,7 +5609,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3151,7 +5636,7 @@ w/w Cream, 50g tube</p>
 <p>6,992</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3160,7 +5645,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3187,7 +5672,7 @@ w/w Cream, 50g tube</p>
 <p>61,952</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3196,7 +5681,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3223,7 +5708,7 @@ w/w Cream, 50g tube</p>
 <p>32,800</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -3232,7 +5717,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3259,7 +5744,7 @@ w/w Cream, 50g tube</p>
 <p>6,793</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or Higher</p>
@@ -3268,7 +5753,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3295,7 +5780,7 @@ w/w Cream, 50g tube</p>
 <p>1,250</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3304,7 +5789,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3331,7 +5816,7 @@ w/w Cream, 50g tube</p>
 <p>59,889</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3340,7 +5825,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3367,7 +5852,7 @@ w/w Cream, 50g tube</p>
 <p>7,550</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3376,7 +5861,7 @@ w/w Cream, 50g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3406,7 +5891,7 @@ jar</p>
 <br>212,032</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3415,7 +5900,7 @@ jar</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3443,7 +5928,7 @@ Cream, 15g tube&nbsp;</p>
 <p>45,204</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3452,7 +5937,7 @@ Cream, 15g tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3480,7 +5965,7 @@ Ointment, 15g tube</p>
 <p>25,151</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3489,7 +5974,7 @@ Ointment, 15g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3517,7 +6002,7 @@ Cream, 15g tube&nbsp;</p>
 <p>59,160</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3526,7 +6011,7 @@ Cream, 15g tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3553,7 +6038,7 @@ Cream, 15g tube&nbsp;</p>
 <p>64,744</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3562,7 +6047,7 @@ Cream, 15g tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3589,7 +6074,7 @@ Cream, 15g tube&nbsp;</p>
 <p>2,700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3598,7 +6083,7 @@ Cream, 15g tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3625,7 +6110,7 @@ Cream, 15g tube&nbsp;</p>
 <p>266,827</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3634,7 +6119,7 @@ Cream, 15g tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3661,7 +6146,7 @@ Cream, 15g tube&nbsp;</p>
 <p>7,320</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3670,7 +6155,7 @@ Cream, 15g tube&nbsp;</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3698,7 +6183,7 @@ with applicator</p>
 <p>27,067</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S6 or Higher</p>
@@ -3707,7 +6192,7 @@ with applicator</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3734,7 +6219,7 @@ with applicator</p>
 <p>221,690</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -3743,7 +6228,7 @@ with applicator</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3770,7 +6255,7 @@ with applicator</p>
 <p>4,321</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -3779,7 +6264,7 @@ with applicator</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3806,7 +6291,7 @@ with applicator</p>
 <p>1,184</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -3815,7 +6300,7 @@ with applicator</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3843,7 +6328,7 @@ tube</p>
 <p>13,381</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -3852,7 +6337,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3880,7 +6365,7 @@ tube</p>
 <p>95,294</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -3889,7 +6374,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3916,7 +6401,7 @@ tube</p>
 <p>6,213</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -3925,7 +6410,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3952,7 +6437,7 @@ tube</p>
 <p>38,040</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -3961,7 +6446,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -3988,7 +6473,7 @@ tube</p>
 <p>4,163,740</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -3997,7 +6482,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4024,7 +6509,7 @@ tube</p>
 <p>110,785</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -4033,7 +6518,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4060,7 +6545,7 @@ tube</p>
 <p>279,882</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S8 or Higher</p>
@@ -4069,7 +6554,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4105,7 +6590,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4141,7 +6626,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4177,7 +6662,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4204,7 +6689,7 @@ tube</p>
 <p>8,412</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -4213,7 +6698,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4240,7 +6725,7 @@ tube</p>
 <p>150,226</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or higher</p>
@@ -4249,7 +6734,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4276,7 +6761,7 @@ tube</p>
 <p>92,044</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
@@ -4285,7 +6770,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4312,7 +6797,7 @@ tube</p>
 <p>33,210</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S3 or higher</p>
@@ -4321,7 +6806,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4350,7 +6835,7 @@ tube</p>
 <br>3,878,040</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -4359,7 +6844,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4386,7 +6871,7 @@ tube</p>
 <p>1,436,410</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or higher</p>
@@ -4395,7 +6880,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4420,7 +6905,7 @@ tube</p>
 <br>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2,400</p>
@@ -4432,7 +6917,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4457,7 +6942,7 @@ tube</p>
 <br>Apr 2027 - Mar 2029</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1,255</p>
@@ -4469,7 +6954,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4497,7 +6982,7 @@ tube</p>
 <p>11,420</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -4506,7 +6991,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4534,7 +7019,7 @@ tube</p>
 <p>1,612</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -4543,7 +7028,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4571,7 +7056,7 @@ tube</p>
 <p>31,033</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -4580,7 +7065,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4608,7 +7093,7 @@ tube</p>
 <p>267,454</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S5 or Higher</p>
@@ -4617,7 +7102,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4646,7 +7131,7 @@ tube</p>
 <br>14,322</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S4 or Higher</p>
@@ -4655,7 +7140,7 @@ tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4684,7 +7169,7 @@ w/v Cream, 15g tube</p>
 <p>210</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S7 or Higher</p>
@@ -4693,7 +7178,7 @@ w/v Cream, 15g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4722,7 +7207,7 @@ w/v Cream, 15g tube</p>
 <p>18,092</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S7 or Higher</p>
@@ -4731,7 +7216,7 @@ w/v Cream, 15g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -4769,7 +7254,7 @@ w/v Cream, 15g tube</p>
 <p>No</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
