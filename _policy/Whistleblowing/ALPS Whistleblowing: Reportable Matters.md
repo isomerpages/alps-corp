@@ -44,7 +44,7 @@ Fraud related activities</p>
 </li>
 </ol>
 <hr>
-<p><a href="https://singapore.deloitte-halo.com/MOHHWhistleblowing/?Pg=makereport" rel="noopener nofollow" target="_blank">Make a report by clicking here</a>
+<p><strong><a href="https://singapore.deloitte-halo.com/MOHHWhistleblowing/?Pg=makereport" rel="noopener nofollow" target="_blank">Make a report by clicking here</a></strong>
 </p>
 <p>Or scan the QR code below</p>
 <div class="isomer-image-wrapper">
