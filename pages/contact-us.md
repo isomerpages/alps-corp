@@ -35,5 +35,10 @@ contacts:
       - email: enquiries.hsg.cso@alpshealthcare.com.sg
       - other: ""
     title: Healthier SG Enquiries
+  - content:
+      - phone: ""
+      - email: alps_operations@alpshealthcare.com.sg
+      - other: Please also view the writeup on our National Sourcing Events page
+    title: National Sourcing Events
 feedback: ""
 ---
