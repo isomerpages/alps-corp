@@ -4,86 +4,6 @@ permalink: /strategic-procurement/national-sourcing-events/
 variant: tiptap
 description: ""
 ---
-<h4><strong>JUNE</strong> <strong>2026 SOURCING EVENTS</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pressure Relief Mattress (Rental)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Protective Items</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dental Consumables and Accessories</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gastroenterology Stents and Implants</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Estate &amp; Env Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Landscaping Maintenance Services</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4><strong>JULY 2026 SOURCING EVENTS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -94,32 +14,18 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
+<p>S/N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
+<p>CATEGORY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
+<p>RFP TITLE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Supply of Surgical Patties</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical Supplies&nbsp;</p>
@@ -131,7 +37,7 @@ Graft and Vena Cava Filter</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical Supplies&nbsp;</p>
@@ -142,7 +48,7 @@ Graft and Vena Cava Filter</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical Supplies&nbsp;</p>
@@ -153,7 +59,7 @@ Graft and Vena Cava Filter</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5</p>
+<p>4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical Supplies&nbsp;</p>
@@ -164,7 +70,7 @@ Graft and Vena Cava Filter</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6</p>
+<p>5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Services</p>
@@ -186,27 +92,125 @@ Graft and Vena Cava Filter</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
+<p>S/N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
+<p>CATEGORY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
+<p>RFP TITLE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Medical Supplies&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vascular Embolisation and Occlusion Implants – Coil, Plug, Liquid, and
+Particulate Embolic Agents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vascular and Blood Closure Products, Vascular Long-Term Access Products
+– CVC – Tunneled, PICC, Venous catheter ports</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neurovascular Stents</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>SEPTEMBER 2026 SOURCING EVENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S/N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CATEGORY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RFP TITLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wipes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alcohol Swabs</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Protective Items</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Spine Implants</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Spine Endoscopy</p>
 </td>
 </tr>
 </tbody>
