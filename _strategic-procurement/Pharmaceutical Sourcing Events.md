@@ -78,4 +78,168 @@ the closing date and time stated in the RFP notice below.</p>
 </ul>
 <p></p>
 <h4>RFP/Invitation Notices</h4>
+<table style="minWidth: 275px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RFP No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Event Description</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Respond to posting&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Published Date</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Closing Date/ Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contract Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contract Quantity&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buffer Quantity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Financial Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corrigendum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remarks</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Botulinum Toxin 50 U Injection, 1 dose/vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110017437?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110017437?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>03/07/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24/07/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>200 - 7,500
+<br>7,501 - 20,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68526</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Botulinum Toxin 100 U Injection, 1 dose/vial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110017437?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110017437?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>03/07/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24/07/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>100 - 500
+<br>501 - 1,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 68626</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Epinephrine 1mg/mL Injection (1:1000)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110017438?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110017438?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>03/07/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24/07/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>463,211</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S9 or higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
