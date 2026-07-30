@@ -12,8 +12,8 @@ and equipment, and services for Singapore’s three Public Healthcare Clusters
 (“Clusters”) and their Public Healthcare Institutions (“PHIs”).</p>
 <p>ALPS enables group contracts at the national level whilst continuing to
 facilitate Cluster or PHI-based contracts where required. Suppliers are
-encouraged to refer to the <strong><u>events calendar</u></strong> for upcoming
-sourcing launches on ALPS eProcurement platform.</p>
+encouraged to refer to the <strong><a href="/strategic-procurement/national-sourcing-events/" rel="noopener nofollow" target="_blank">events calendar</a></strong> for
+upcoming sourcing launches on ALPS eProcurement platform.</p>
 <h3>What’s New</h3>
 <p>As we move towards standardising electronic invoicing to improve transparency
 and payment timeliness, all awarded suppliers are required to be registered
