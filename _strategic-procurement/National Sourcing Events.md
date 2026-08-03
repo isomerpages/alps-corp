@@ -4,84 +4,6 @@ permalink: /strategic-procurement/national-sourcing-events/
 variant: tiptap
 description: ""
 ---
-<h4><strong>JULY 2026 SOURCING EVENTS</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S/N</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CATEGORY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>RFP TITLE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vascular Stent &amp; Stent-Graft (Non-Aortic &amp; Non-Neuro), Vascular
-Graft and Vena Cava Filter</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Interventional Radiology Products (Indent)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Interventional Radiology Products (consignment)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Reusable Resuscitators and Accessories</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General Services</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Provision of Topping Up Services for Pharmaceutical Products</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4><strong>AUGUST 2026 SOURCING EVENTS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -92,13 +14,16 @@ Graft and Vena Cava Filter</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S/N</p>
+<p><strong>S/N</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CATEGORY</p>
+<p><strong>CATEGORY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RFP TITLE</p>
+<p><strong>RFP TITLE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -136,6 +61,17 @@ Particulate Embolic Agents</p>
 <p>Neurovascular Stents</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disposable Non Medical Bags</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
@@ -149,13 +85,16 @@ Particulate Embolic Agents</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S/N</p>
+<p><strong>S/N</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CATEGORY</p>
+<p><strong>CATEGORY</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RFP TITLE</p>
+<p><strong>RFP TITLE</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -213,8 +152,33 @@ Particulate Embolic Agents</p>
 <p>Spine Endoscopy</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply and Delivery of Copier Paper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Disposable Kitchen Items</p>
+</td>
+</tr>
 </tbody>
 </table>
+<hr>
+<h4><strong>OCTOBER 2026 SOURCING EVENTS</strong></h4>
+<p></p>
 <hr>
 <h4><strong>INSTRUCTIONS FOR VENDORS</strong></h4>
 <p>Interested vendors and suppliers are to register with <strong><a href="https://supplier.ariba.com/" rel="noopener noreferrer nofollow" target="_blank">SAP Business Network</a></strong> to
@@ -228,3 +192,4 @@ final updates.</p>
 you may want to download and view our <strong><a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener noreferrer nofollow" target="_blank">eProcurement Supplier User Guide</a></strong> and <strong><a href="/files/Sourcing%20Events/contract_esignature_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Contract eSignature Guide</a></strong>.</p>
 <p>Please <strong><a href="mailto:alps_operations@alpshealthcare.com.sg" rel="noopener noreferrer nofollow" target="_blank">email us</a></strong> for
 more details.</p>
+<p></p>
