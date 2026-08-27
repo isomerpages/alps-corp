@@ -74,9 +74,9 @@ channels after the dates listed below will no longer be accepted for payment.</p
 issued by SAP Business Network upon PHI’s Purchase Order creation by clicking
 the link in the email notification (e.g. from <strong><a href="mailto:noreply@us.bn.cloud.ariba.com" rel="noopener noreferrer nofollow" target="_blank">noreply@us.bn.cloud.ariba.com</a></strong> or <strong><a href="mailto:ordersender-prod@ansmtp.ariba.com" rel="noopener noreferrer nofollow" target="_blank">ordersender-prod@ansmtp.ariba.com</a></strong>).</p>
 <p>Acceptance of the TRR is mandatory for establishing the supplier-customer
-relationship with ALP on SAP Business Network and is a prerequisite for
+relationship with ALPS on SAP Business Network and is a prerequisite for
 transacting electronically and submitting invoices.</p>
 <p>If you have not completed your onboarding, please do so immediately via <strong><a href="https://supplier.ariba.com" rel="noopener noreferrer nofollow" target="_blank">https://supplier.ariba.com</a></strong>.</p>
-<p>If you are unfamiliar with <strong><a href="https://supplier.ariba.com/" rel="noopener noreferrer nofollow" target="_blank">SAP Business Network (ALPS eProcurement System)</a></strong> ,
+<p>If you are unfamiliar with <strong><a href="https://supplier.ariba.com/" rel="noopener noreferrer nofollow" target="_blank">SAP Business Network (ALPS eProcurement System)</a></strong>,
 you may want to download and view our <strong><a href="https://for.sg/alps-eprocurement-supplier-user-guide" rel="noopener noreferrer nofollow" target="_blank">eProcurement Supplier User Guide</a></strong> and <strong><a href="/files/Sourcing%20Events/contract_esignature_guide_v1_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Contract eSignature Guide</a></strong>.</p>
 <p>For onboarding assistance, please contact <strong><a href="mailto:1fss_ariba_suppliers@1fss.com.sg" rel="noopener noreferrer nofollow" target="_blank">1fss_ariba_suppliers@1fss.com.sg</a></strong>.</p>
