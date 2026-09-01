@@ -4,77 +4,6 @@ permalink: /strategic-procurement/national-sourcing-events/
 variant: tiptap
 description: ""
 ---
-<h4><strong>AUGUST 2026 SOURCING EVENTS</strong></h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CATEGORY</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>RFP TITLE</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vascular Embolisation and Occlusion Implants – Coil, Plug, Liquid, and
-Particulate Embolic Agents</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vascular and Blood Closure Products, Vascular Long-Term Access Products
-– CVC – Tunneled, PICC, Venous catheter ports</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neurovascular Stents</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Non-Medical Supplies</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Disposable Non Medical Bags</p>
-</td>
-</tr>
-</tbody>
-</table>
-<hr>
 <h4><strong>SEPTEMBER 2026 SOURCING EVENTS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -105,7 +34,7 @@ Particulate Embolic Agents</p>
 <p>Medical Supplies&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wipes</p>
+<p>Spine Implants</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +45,7 @@ Particulate Embolic Agents</p>
 <p>Medical Supplies&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alcohol Swabs</p>
+<p>Spine Endoscopy</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +56,7 @@ Particulate Embolic Agents</p>
 <p>Medical Supplies&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Protective Items</p>
+<p>Transcatheter Valve Repair Implant (Consignment)</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +67,7 @@ Particulate Embolic Agents</p>
 <p>Medical Supplies&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Spine Implants</p>
+<p>Microbiology Culture Media</p>
 </td>
 </tr>
 <tr>
@@ -146,10 +75,10 @@ Particulate Embolic Agents</p>
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Medical Supplies&nbsp;</p>
+<p>MedTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Spine Endoscopy</p>
+<p>Supply of Electrosurgical Units&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -157,10 +86,10 @@ Particulate Embolic Agents</p>
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Non-Medical Supplies</p>
+<p>MedTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Supply and Delivery of Copier Paper</p>
+<p>Supply of CO2 Laser Surgical System</p>
 </td>
 </tr>
 <tr>
@@ -171,13 +100,104 @@ Particulate Embolic Agents</p>
 <p>Non-Medical Supplies</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Supply and Delivery of Copier Paper</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Disposable Kitchen Items</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Disposable Non-Medical Bags</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h4><strong>OCTOBER 2026 SOURCING EVENTS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>CATEGORY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>RFP TITLE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical Supplies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contrast Media</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MedTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Radiographic, Fluoroscopic Units, Mobile (O-Arm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MedTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Radiographic, Fluoroscopic Unit, Digital, Mobile (C-arm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MedTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Supply of Radiographic, Fluroscopic Unit, Mobile (Mini C-Arm)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h4><strong>NOVEMBER 2026 SOURCING EVENTS</strong></h4>
 <p></p>
 <hr>
 <h4><strong>INSTRUCTIONS FOR VENDORS</strong></h4>
