@@ -130,6 +130,308 @@ the closing date and time stated in the RFP notice below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>GPOR 69726</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Potassium Citrate 1,080mg Extended-release Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024019?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024019?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028
+<br>Apr 2027 - Mar 2030</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>138,000
+<br>426,600</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 69826</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Metronidazole 500mg and Nystatin 100,000 IU Pessaries</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024034?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024034?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>202,112</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 69926</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Diazepam 10mg/2mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024040?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024040?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7,676
+<br>15,196</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S5 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 70026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Benzatropine Mesilate 2mg/2mL Injection</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024035?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024035?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>185
+<br>698</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 70026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 2 - Trazodone 50mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024035?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024035?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1,321,860
+<br>2,815,310</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 70126</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Clonazepam 0.5mg Tablets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024043?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024043?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apr 2027 - Mar 2028 /
+<br>Apr 2027 - Mar 2029</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2,078,600
+<br>4,709,300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S6 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 70226</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Lidocaine Hydrochloride 1% w/v Injection, 20mL or 30mL ampoule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024321?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024321?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5000 - 15,000
+<br>15,501 - 30,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GPOR 70326</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Item# 1 - Mepivacaine Hydrochloride 2% w/v and Epinephrine 1:100,000 Injection,
+2.2mL dental cartridge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024339?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110024339?anId=ANONYMOUS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11/09/2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>02/10/2026 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dec 2026 - Nov 2027 /
+<br>Dec 2026 - Nov 2028</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>44,265
+<br>99,080</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3 or Higher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>GPOR 69626</p>
 </td>
 <td rowspan="1" colspan="1">
