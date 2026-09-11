@@ -430,43 +430,6 @@ the closing date and time stated in the RFP notice below.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>GPOR 69626</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Item# 1 - Morphine Sulfate 10mg/mL Injection</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110022971?anId=ANONYMOUS" rel="noopener noreferrer nofollow" target="_blank">https://portal.us.bn.cloud.ariba.com/dashboard/public/appext/comsapsbncdiscoveryui#/RfxEvent/preview/1110022971?anId=ANONYMOUS</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28/08/2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11/09/2026 12.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dec 2026 - Mar 2027</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5,000 – 40,000
-<br>40,001 – 80,000</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S2 or Higher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
